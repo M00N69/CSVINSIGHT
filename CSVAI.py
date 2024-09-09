@@ -71,7 +71,7 @@ def extraire_dataframes(fichier):
         dfs[nom_df] = pd.read_csv(fichier)
     elif extension in ['xls', 'xlsx']:
         xls = pd.ExcelFile(fichier)
-        for feuille en xls.sheet_names:
+        for feuille in xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
 
