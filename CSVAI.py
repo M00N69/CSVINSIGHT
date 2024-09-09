@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 from pandasai import SmartDataframe
 from pandasai.llm import GoogleGemini
+from pandasai import Agent
 from pandasai.responses.response_parser import ResponseParser
 
 # Dictionnaire pour stocker les dataframes extraits
@@ -34,8 +35,9 @@ def main():
             if question:
                 llm = obtenir_llm()  # Fonction pour obtenir l'accès à Google GenAI
                 if llm:
-                    sdf = SmartDataframe(df, llm=llm)
-                    reponse = analyser_donnees(sdf, question)
+                    agent = Agent(llm=llm)
+                    sdf = SmartDataframe(df)
+                    reponse = analyser_donnees(agent, sdf, question)
                     if reponse:
                         st.write(reponse)
 
@@ -65,10 +67,10 @@ def obtenir_llm():
         st.error("Clé API manquante dans les secrets de Streamlit.")
         return None
 
-# Fonction pour analyser les données avec SmartDataframe
-def analyser_donnees(sdf, question):
+# Fonction pour analyser les données avec SmartDataframe et Agent
+def analyser_donnees(agent, sdf, question):
     try:
-        response = sdf.chat(question, response_parser=ResponseParser())
+        response = agent.chat(question, sdf)
         return response
     except Exception as e:
         st.error(f"Erreur lors de l'analyse des données : {e}")
