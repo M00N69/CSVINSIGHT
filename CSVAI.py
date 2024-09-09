@@ -27,6 +27,9 @@ def main():
             df = data[df_name]
             st.dataframe(df)
 
+            # Vérifier l'intégrité des données
+            verifier_integrite_donnees(df)
+
             # Affichage d'un graphique avec Plotly
             colonne = st.selectbox("Sélectionnez une colonne pour visualiser les données", df.columns)
             fig = px.histogram(df, x=colonne, title=f"Distribution de {colonne}")
@@ -74,6 +77,24 @@ def extraire_dataframes(fichier):
         for feuille in xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
+
+# Fonction pour vérifier l'intégrité des données avant l'analyse
+def verifier_integrite_donnees(df):
+    """Vérifie les types de colonnes et prépare les données avant de les analyser."""
+    for col in df.columns:
+        if pd.api.types.is_numeric_dtype(df[col]):
+            # Si la colonne est numérique, vérifier s'il y a des valeurs manquantes
+            if df[col].isnull().sum() > 0:
+                st.warning(f"La colonne '{col}' contient des valeurs manquantes. Elles seront ignorées dans l'analyse.")
+        elif pd.api.types.is_datetime64_any_dtype(df[col]):
+            st.info(f"La colonne '{col}' est de type date.")
+        elif pd.api.types.is_bool_dtype(df[col]):
+            st.info(f"La colonne '{col}' est booléenne (True/False).")
+        elif pd.api.types.is_object_dtype(df[col]):
+            st.info(f"La colonne '{col}' est de type 'object'. Elle sera convertie en 'category' pour optimiser l'analyse.")
+            df[col] = df[col].astype('category')
+        else:
+            st.warning(f"Le type de données de la colonne '{col}' est inconnu ou non pris en charge.")
 
 if __name__ == "__main__":
     main()
