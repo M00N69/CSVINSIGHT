@@ -32,36 +32,31 @@ def main():
             fig = px.histogram(df, x=colonne, title=f"Distribution de {colonne}")
             st.plotly_chart(fig)
 
-            # Préparer le prompt enrichi
-            df_info = df.describe(include='all').to_string()
-            enriched_prompt = f"Voici un résumé des données :\n{df_info}\n\n{prompt}"
-
             # Intégration de l'IA pour analyser les données
             prompt = st.text_input("Posez une question à propos de vos données")
-            if st.button("Analyser"):
-                if prompt.strip():
-                    try:
-                        # Utilisation de Google Gemini via PandasAI pour analyser les données
-                        llm = GoogleGemini(api_key=GOOGLE_API_KEY)
-                        connector = PandasConnector({"original_df": df})
-                        sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
-                        
-                        # Ajouter un contexte enrichi pour la question
-                        prompt_with_context = f"Voici un résumé des colonnes du DataFrame :\n{df_info}\n\n{prompt}"
-                        
-                        # Analyser les données avec la question donnée
-                        response = sdf.chat(prompt_with_context)
-                        st.write("Réponse :")
-                        st.write(response)
+            
+            if st.button("Analyser") and prompt.strip():
+                try:
+                    # Préparer le contexte avec des informations sur les données
+                    df_info = df.describe(include='all').to_string()
+                    prompt_with_context = f"Voici un résumé des colonnes du DataFrame :\n{df_info}\n\n{prompt}"
+                    
+                    # Utilisation de Google Gemini via PandasAI pour analyser les données
+                    llm = GoogleGemini(api_key=GOOGLE_API_KEY)
+                    connector = PandasConnector({"original_df": df})
+                    sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
+                    
+                    # Analyser les données avec la question donnée
+                    response = sdf.chat(prompt_with_context)
+                    st.write("Réponse :")
+                    st.write(response)
 
-                        # Afficher le code exécuté
-                        st.markdown("### Code exécuté par PandasAI :")
-                        st.code(sdf.last_code_executed)
+                    # Afficher le code exécuté
+                    st.markdown("### Code exécuté par PandasAI :")
+                    st.code(sdf.last_code_executed)
 
-                    except Exception as e:
-                        st.error(f"Erreur lors de l'analyse : {e}")
-                else:
-                    st.warning("Veuillez entrer une question valide.")
+                except Exception as e:
+                    st.error(f"Erreur lors de l'analyse : {e}")
 
         except Exception as e:
             st.error(f"Erreur lors du chargement du fichier : {e}")
@@ -76,10 +71,9 @@ def extraire_dataframes(fichier):
         dfs[nom_df] = pd.read_csv(fichier)
     elif extension in ['xls', 'xlsx']:
         xls = pd.ExcelFile(fichier)
-        for feuille in xls.sheet_names:
+        for feuille en xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
 
 if __name__ == "__main__":
     main()
-
