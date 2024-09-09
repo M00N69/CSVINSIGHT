@@ -3,8 +3,11 @@ import pandas as pd
 import plotly.express as px
 from pandasai import SmartDataframe
 from pandasai.llm import GoogleGemini
-from pandasai import Agent
-from pandasai.responses.response_parser import ResponseParser
+from pandasai.connectors import PandasConnector
+from pandasai.responses.response_parser import OutputParser
+
+# Clé API (Assurez-vous de la stocker dans les secrets de Streamlit Cloud)
+GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", None)
 
 # Dictionnaire pour stocker les dataframes extraits
 data = {}
@@ -31,15 +34,28 @@ def main():
             st.plotly_chart(fig)
 
             # Intégration de l'IA pour analyser les données
-            question = st.text_input("Posez une question à propos de vos données")
-            if question:
-                llm = obtenir_llm()  # Fonction pour obtenir l'accès à Google GenAI
-                if llm:
-                    agent = Agent(llm=llm)
-                    sdf = SmartDataframe(df)
-                    reponse = analyser_donnees(agent, sdf, question)
-                    if reponse:
-                        st.write(reponse)
+            prompt = st.text_input("Posez une question à propos de vos données")
+            if st.button("Analyser"):
+                if prompt.strip():
+                    try:
+                        # Utilisation de Google Gemini via PandasAI pour analyser les données
+                        llm = GoogleGemini(api_key=GOOGLE_API_KEY)
+                        connector = PandasConnector({"original_df": df})
+                        sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm, "response_parser": OutputParser})
+                        
+                        # Analyser les données avec la question donnée
+                        response = sdf.chat(prompt)
+                        st.write("Réponse :")
+                        st.write(response)
+
+                        # Afficher le code exécuté
+                        st.markdown("### Code exécuté par PandasAI :")
+                        st.code(sdf.last_code_executed)
+
+                    except Exception as e:
+                        st.error(f"Erreur lors de l'analyse : {e}")
+                else:
+                    st.warning("Veuillez entrer une question valide.")
 
         except Exception as e:
             st.error(f"Erreur lors du chargement du fichier : {e}")
@@ -57,24 +73,6 @@ def extraire_dataframes(fichier):
         for feuille in xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
-
-# Fonction pour configurer Google GenAI avec les secrets de Streamlit
-def obtenir_llm():
-    try:
-        api_key = st.secrets["GOOGLE_API_KEY"]
-        return GoogleGemini(api_key=api_key)
-    except KeyError:
-        st.error("Clé API manquante dans les secrets de Streamlit.")
-        return None
-
-# Fonction pour analyser les données avec SmartDataframe et Agent
-def analyser_donnees(agent, sdf, question):
-    try:
-        response = agent.chat(question, sdf)
-        return response
-    except Exception as e:
-        st.error(f"Erreur lors de l'analyse des données : {e}")
-        return None
 
 if __name__ == "__main__":
     main()
