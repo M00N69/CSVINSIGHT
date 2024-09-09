@@ -4,7 +4,6 @@ import plotly.express as px
 from pandasai import SmartDataframe
 from pandasai.llm import GoogleGemini
 from pandasai.connectors import PandasConnector
-from pandasai.responses.response_parser import OutputParser
 
 # Clé API (Assurez-vous de la stocker dans les secrets de Streamlit Cloud)
 GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", None)
@@ -41,7 +40,7 @@ def main():
                         # Utilisation de Google Gemini via PandasAI pour analyser les données
                         llm = GoogleGemini(api_key=GOOGLE_API_KEY)
                         connector = PandasConnector({"original_df": df})
-                        sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm, "response_parser": OutputParser})
+                        sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
                         
                         # Analyser les données avec la question donnée
                         response = sdf.chat(prompt)
