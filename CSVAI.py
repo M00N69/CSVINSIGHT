@@ -32,6 +32,10 @@ def main():
             fig = px.histogram(df, x=colonne, title=f"Distribution de {colonne}")
             st.plotly_chart(fig)
 
+            # Préparer le prompt enrichi
+            df_info = df.describe(include='all').to_string()
+            enriched_prompt = f"Voici un résumé des données :\n{df_info}\n\n{prompt}"
+
             # Intégration de l'IA pour analyser les données
             prompt = st.text_input("Posez une question à propos de vos données")
             if st.button("Analyser"):
@@ -42,8 +46,11 @@ def main():
                         connector = PandasConnector({"original_df": df})
                         sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
                         
+                        # Ajouter un contexte enrichi pour la question
+                        prompt_with_context = f"Voici un résumé des colonnes du DataFrame :\n{df_info}\n\n{prompt}"
+                        
                         # Analyser les données avec la question donnée
-                        response = sdf.chat(prompt)
+                        response = sdf.chat(prompt_with_context)
                         st.write("Réponse :")
                         st.write(response)
 
@@ -75,3 +82,4 @@ def extraire_dataframes(fichier):
 
 if __name__ == "__main__":
     main()
+
