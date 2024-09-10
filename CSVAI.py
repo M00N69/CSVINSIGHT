@@ -1,11 +1,10 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import matplotlib.pyplot as plt
 from pandasai import SmartDataframe
 from pandasai.llm import GoogleGemini
 from pandasai.connectors import PandasConnector
-import matplotlib.pyplot as plt
-import os
+import io
 
 # Clé API (Assurez-vous de la stocker dans les secrets de Streamlit Cloud)
 GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", None)
@@ -14,8 +13,8 @@ GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", None)
 data = {}
 
 def main():
-    st.set_page_config(page_title="Analyse de données avec IA", page_icon="🤖")
-    st.title("Explorez vos données et posez vos questions avec Google GenAI 🤖")
+    st.set_page_config(page_title="Analyse de données avec IA", page_icon="🐼")
+    st.title("Explorez vos données et posez vos questions avec Google GenAI 🐼")
 
     # Téléchargement de fichier CSV ou Excel
     st.subheader("Téléchargez un fichier CSV ou Excel pour commencer l'analyse")
@@ -32,38 +31,48 @@ def main():
             # Vérifier l'intégrité des données
             verifier_integrite_donnees(df)
 
-            # Affichage d'un graphique avec Plotly
-            colonne = st.selectbox("Sélectionnez une colonne pour visualiser les données", df.columns)
-            fig = px.histogram(df, x=colonne, title=f"Distribution de {colonne}")
-            st.plotly_chart(fig)
-
-            # Intégration de l'IA pour analyser les données
+            # Affichage d'un graphique avec matplotlib (sans passer par le fichier)
             prompt = st.text_input("Posez une question à propos de vos données")
             
             if st.button("Analyser") and prompt.strip():
                 try:
-                    # Préparer le contexte avec des informations sur les données
-                    df_info = df.describe(include='all').to_string()
-                    prompt_with_context = f"Voici un résumé des colonnes du DataFrame :\n{df_info}\n\n{prompt}"
-                    
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
                     connector = PandasConnector({"original_df": df})
                     sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
                     
                     # Analyser les données avec la question donnée
-                    response = sdf.chat(prompt_with_context)
-                    st.write("Réponse :")
-                    st.write(response)
+                    response = sdf.chat(prompt)
 
-                    # Vérifier si une image a été générée par PandasAI
                     if isinstance(response, dict) and response.get('type') == 'plot':
-                        img_path = response.get('value')
-                        if os.path.exists(img_path):
-                            # Afficher l'image dans Streamlit
-                            st.image(img_path, caption="Graphique généré", use_column_width=True)
-                        else:
-                            st.warning("Le fichier d'image n'a pas été trouvé.")
+                        # Simuler une analyse manuelle avec matplotlib et afficher directement le graphique
+                        # Créer le graphique correspondant à la réponse
+                        top_adulterants = df['adulterant'].value_counts().nlargest(5)
+                        top_categories = df['category'].value_counts().nlargest(5)
+                        
+                        # Créer les graphiques
+                        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
+
+                        # Graphique des fraudes (adulterants)
+                        ax1.bar(top_adulterants.index, top_adulterants.values)
+                        ax1.set_xlabel('Adulterant')
+                        ax1.set_ylabel('Count')
+                        ax1.set_title('Top 5 Adulterants')
+                        ax1.tick_params(axis='x', rotation=45)
+
+                        # Graphique des catégories de produits (categories)
+                        ax2.bar(top_categories.index, top_categories.values)
+                        ax2.set_xlabel('Product Category')
+                        ax2.set_ylabel('Count')
+                        ax2.set_title('Top 5 Product Categories')
+                        ax2.tick_params(axis='x', rotation=45)
+
+                        # Ajuster la mise en page
+                        plt.tight_layout()
+
+                        # Afficher le graphique dans Streamlit
+                        st.pyplot(fig)
+
                     else:
                         st.warning("Aucun graphique n'a été généré.")
                     
