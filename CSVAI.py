@@ -32,52 +32,54 @@ def main():
 
             # Intégration de l'IA pour analyser les données
             prompt = st.text_input("Posez une question à propos de vos données")
-            
+
             if st.button("Analyser") and prompt.strip():
                 try:
+                    # Fournir un contexte complet et détaillé à PandasAI
+                    contexte = generer_contexte(df)
+                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications et un graphique si possible."
+
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
                     connector = PandasConnector({"original_df": df})
                     sdf = SmartDataframe(connector, {"enable_cache": False}, config={"llm": llm})
-                    
-                    # Analyser les données avec la question donnée
-                    response = sdf.chat(prompt)
 
-                    if "sources de fraudes" in prompt and "categories de produits" in prompt:
-                        # Si l'utilisateur demande des graphiques sur les adulterants et catégories
-                        st.write("Voici le graphique des fraudes et catégories touchées:")
+                    # Analyser les données avec le contexte et la question donnée
+                    response = sdf.chat(prompt_with_context)
 
-                        # Créer les graphiques des adulterants et catégories directement avec matplotlib
+                    st.write("Réponse de l'IA :")
+                    st.write(response)
+
+                    # Si un graphique est mentionné dans la réponse, forcer la génération du graphique
+                    if "fraudes" in prompt and "catégories" in prompt:
+                        st.write("Voici le graphique des causes de fraudes et des catégories de produits touchées:")
+
+                        # Générer les graphiques avec matplotlib
                         top_adulterants = df['adulterant'].value_counts().nlargest(5)
                         top_categories = df['category'].value_counts().nlargest(5)
-                        
-                        # Création du graphique des adulterants
-                        fig, ax1 = plt.subplots(figsize=(10, 5))
+
+                        # Créer les graphiques
+                        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
+
+                        # Graphique des adulterants (causes de fraudes)
                         ax1.bar(top_adulterants.index, top_adulterants.values)
                         ax1.set_xlabel('Adulterant')
                         ax1.set_ylabel('Count')
                         ax1.set_title('Top 5 Adulterants')
-                        plt.xticks(rotation=45)
-                        plt.tight_layout()
+                        ax1.tick_params(axis='x', rotation=45)
 
-                        # Afficher le premier graphique
-                        st.pyplot(fig)
-
-                        # Création du graphique des catégories
-                        fig, ax2 = plt.subplots(figsize=(10, 5))
+                        # Graphique des catégories (produits touchés)
                         ax2.bar(top_categories.index, top_categories.values)
-                        ax2.set_xlabel('Category')
+                        ax2.set_xlabel('Product Category')
                         ax2.set_ylabel('Count')
                         ax2.set_title('Top 5 Product Categories')
-                        plt.xticks(rotation=45)
+                        ax2.tick_params(axis='x', rotation=45)
+
+                        # Ajuster la mise en page
                         plt.tight_layout()
 
-                        # Afficher le deuxième graphique
+                        # Afficher les graphiques dans Streamlit
                         st.pyplot(fig)
-
-                    else:
-                        st.write("Réponse de l'IA :")
-                        st.write(response)
 
                     # Afficher le code exécuté par PandasAI
                     st.markdown("### Code exécuté par PandasAI :")
@@ -88,6 +90,18 @@ def main():
 
         except Exception as e:
             st.error(f"Erreur lors du chargement du fichier : {e}")
+
+# Fonction pour générer un contexte complet et détaillé pour PandasAI
+def generer_contexte(df):
+    """Génère une description complète du DataFrame, incluant types de colonnes, valeurs uniques, et statistiques."""
+    description = df.describe(include='all').to_string()
+    colonnes_info = []
+    for col in df.columns:
+        info = f"Colonne '{col}' - Type : {df[col].dtype}, Valeurs uniques : {df[col].nunique()}"
+        colonnes_info.append(info)
+    colonnes_info_str = "\n".join(colonnes_info)
+    contexte = f"Voici une description des données disponibles :\n{colonnes_info_str}\n\nStatistiques :\n{description}"
+    return contexte
 
 # Fonction pour extraire les dataframes du fichier téléchargé
 def extraire_dataframes(fichier):
