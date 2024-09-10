@@ -37,7 +37,7 @@ def main():
                 try:
                     # Fournir un contexte explicite à PandasAI
                     contexte = generer_contexte(df)
-                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications textuelles et éviter de générer des graphiques enregistrés dans des fichiers."
+                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications textuelles uniquement. Ne générez pas de graphiques ou de fichiers."
 
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
