@@ -35,9 +35,9 @@ def main():
 
             if st.button("Analyser") and prompt.strip():
                 try:
-                    # Fournir un contexte explicite à PandasAI
+                    # Fournir un contexte explicite à PandasAI sans tenter de générer de graphique
                     contexte = generer_contexte(df)
-                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications textuelles uniquement. Ne générez pas de graphiques ou de fichiers."
+                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse textuelle détaillée et d'éviter toute tentative de génération de graphique."
 
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
@@ -50,8 +50,8 @@ def main():
                     st.write("Réponse de l'IA :")
                     st.write(response)
 
-                    # Gestion manuelle des graphiques si la question concerne les causes de fraudes et les catégories
-                    if "fraudes" in prompt and "catégories" in prompt:
+                    # Gestion manuelle des graphiques
+                    if "fraudes" in prompt and "produits" in prompt:
                         st.write("Voici le graphique des causes de fraudes et des catégories de produits touchées:")
 
                         # Extraire les données pour les adulterants et les catégories
@@ -113,7 +113,7 @@ def extraire_dataframes(fichier):
         dfs[nom_df] = pd.read_csv(fichier)
     elif extension in ['xls', 'xlsx']:
         xls = pd.ExcelFile(fichier)
-        for feuille in xls.sheet_names:
+        for feuille en xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
 
@@ -123,15 +123,4 @@ def verifier_integrite_donnees(df):
     for col in df.columns:
         if pd.api.types.is_numeric_dtype(df[col]):
             if df[col].isnull().sum() > 0:
-                st.warning(f"La colonne '{col}' contient des valeurs manquantes. Elles seront ignorées dans l'analyse.")
-        elif pd.api.types.is_datetime64_any_dtype(df[col]):
-            st.info(f"La colonne '{col}' est de type date.")
-        elif pd.api.types.is_bool_dtype(df[col]):
-            st.info(f"La colonne '{col}' est booléenne (True/False).")
-        elif pd.api.types.is_object_dtype(df[col]):
-            st.info(f"La colonne '{col}' est de type 'object'. Elle ne sera pas convertie.")
-        else:
-            st.warning(f"Le type de données de la colonne '{col}' est inconnu ou non pris en charge.")
-
-if __name__ == "__main__":
-    main()
+                st.warning(f"La colonne '{col}' contient des valeurs manquantes. Elles seront ignor
