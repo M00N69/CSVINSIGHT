@@ -4,6 +4,8 @@ import plotly.express as px
 from pandasai import SmartDataframe
 from pandasai.llm import GoogleGemini
 from pandasai.connectors import PandasConnector
+import matplotlib.pyplot as plt
+import os
 
 # Clé API (Assurez-vous de la stocker dans les secrets de Streamlit Cloud)
 GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", None)
@@ -54,6 +56,17 @@ def main():
                     st.write("Réponse :")
                     st.write(response)
 
+                    # Vérifier si une image a été générée par PandasAI
+                    if isinstance(response, dict) and response.get('type') == 'plot':
+                        img_path = response.get('value')
+                        if os.path.exists(img_path):
+                            # Afficher l'image dans Streamlit
+                            st.image(img_path, caption="Graphique généré", use_column_width=True)
+                        else:
+                            st.warning("Le fichier d'image n'a pas été trouvé.")
+                    else:
+                        st.warning("Aucun graphique n'a été généré.")
+                    
                     # Afficher le code exécuté
                     st.markdown("### Code exécuté par PandasAI :")
                     st.code(sdf.last_code_executed)
