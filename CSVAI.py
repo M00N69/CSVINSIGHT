@@ -30,14 +30,22 @@ def main():
             # Vérifier l'intégrité des données sans convertir les types
             verifier_integrite_donnees(df)
 
-            # Intégration de l'IA pour analyser les données
-            prompt = st.text_input("Posez une question à propos de vos données")
+            # Générer un contexte pour orienter l'utilisateur
+            contexte, suggestions = generer_contexte_et_suggestions(df)
+
+            st.markdown("### Contexte des données :")
+            st.write(contexte)
+
+            st.markdown("### Suggestions de questions :")
+            st.write(suggestions)
+
+            # Input utilisateur : la question à poser à l'IA
+            prompt = st.text_input("Posez une question à propos de vos données ou sélectionnez une question suggérée", value=suggestions[0] if suggestions else '')
 
             if st.button("Analyser") and prompt.strip():
                 try:
-                    # Fournir un contexte explicite à PandasAI sans tenter de générer de graphique
-                    contexte = generer_contexte(df)
-                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse textuelle détaillée et d'éviter toute tentative de génération de graphique."
+                    # Fournir un contexte explicite à PandasAI
+                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse textuelle détaillée."
 
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
@@ -50,40 +58,17 @@ def main():
                     st.write("Réponse de l'IA :")
                     st.write(response)
 
-                    # Gestion manuelle des graphiques
-                    if "fraudes" in prompt and "produits" in prompt:
-                        st.write("Voici le graphique des causes de fraudes et des catégories de produits touchées:")
-
-                        # Extraire les données pour les adulterants et les catégories
-                        top_adulterants = df['adulterant'].value_counts().nlargest(5)
-                        top_categories = df['category'].value_counts().nlargest(5)
-
-                        # Créer les graphiques avec matplotlib
-                        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
-
-                        # Graphique des adulterants (causes de fraudes)
-                        ax1.bar(top_adulterants.index, top_adulterants.values)
-                        ax1.set_xlabel('Adulterant')
-                        ax1.set_ylabel('Count')
-                        ax1.set_title('Top 5 Adulterants')
-                        ax1.tick_params(axis='x', rotation=45)
-
-                        # Graphique des catégories (produits touchés)
-                        ax2.bar(top_categories.index, top_categories.values)
-                        ax2.set_xlabel('Product Category')
-                        ax2.set_ylabel('Count')
-                        ax2.set_title('Top 5 Product Categories')
-                        ax2.tick_params(axis='x', rotation=45)
-
-                        # Ajustement de la mise en page
-                        plt.tight_layout()
-
-                        # Afficher les graphiques dans Streamlit
-                        st.pyplot(fig)
-
                     # Afficher le code exécuté par PandasAI
                     st.markdown("### Code exécuté par PandasAI :")
                     st.code(sdf.last_code_executed)
+
+                    # Gestion manuelle des graphiques
+                    st.write("Voici une illustration graphique des données :")
+
+                    for col in df.select_dtypes(include=['number']).columns:
+                        fig, ax = plt.subplots()
+                        df[col].plot(kind='hist', ax=ax, title=f"Distribution de {col}")
+                        st.pyplot(fig)
 
                 except Exception as e:
                     st.error(f"Erreur lors de l'analyse : {e}")
@@ -91,17 +76,29 @@ def main():
         except Exception as e:
             st.error(f"Erreur lors du chargement du fichier : {e}")
 
-# Fonction pour générer un contexte complet et détaillé pour PandasAI
-def generer_contexte(df):
-    """Génère une description complète du DataFrame, incluant types de colonnes, valeurs uniques, et statistiques."""
+# Fonction pour générer un contexte complet et proposer des suggestions de questions basées sur les colonnes
+def generer_contexte_et_suggestions(df):
+    """Génère un résumé des colonnes et propose des suggestions de questions en fonction des données disponibles."""
     description = df.describe(include='all').to_string()
     colonnes_info = []
+    suggestions = []
+
     for col in df.columns:
         info = f"Colonne '{col}' - Type : {df[col].dtype}, Valeurs uniques : {df[col].nunique()}"
         colonnes_info.append(info)
+
+        # Proposer des questions en fonction du type de colonne
+        if pd.api.types.is_numeric_dtype(df[col]):
+            suggestions.append(f"Quelles sont les statistiques de base de la colonne '{col}' ?")
+            suggestions.append(f"Montre-moi un graphique de la distribution de '{col}' ?")
+        elif pd.api.types.is_categorical_dtype(df[col]) or pd.api.types.is_object_dtype(df[col]):
+            suggestions.append(f"Quelles sont les catégories principales de la colonne '{col}' ?")
+            suggestions.append(f"Comment la colonne '{col}' influence-t-elle les autres variables ?")
+
     colonnes_info_str = "\n".join(colonnes_info)
-    contexte = f"Voici une description des données disponibles :\n{colonnes_info_str}\n\nStatistiques :\n{description}"
-    return contexte
+    contexte = f"Voici un résumé des colonnes de vos données :\n{colonnes_info_str}\n\nStatistiques :\n{description}"
+
+    return contexte, suggestions
 
 # Fonction pour extraire les dataframes du fichier téléchargé
 def extraire_dataframes(fichier):
@@ -113,7 +110,7 @@ def extraire_dataframes(fichier):
         dfs[nom_df] = pd.read_csv(fichier)
     elif extension in ['xls', 'xlsx']:
         xls = pd.ExcelFile(fichier)
-        for feuille en xls.sheet_names:
+        for feuille in xls.sheet_names:
             dfs[feuille] = pd.read_excel(fichier, sheet_name=feuille)
     return dfs
 
@@ -123,4 +120,15 @@ def verifier_integrite_donnees(df):
     for col in df.columns:
         if pd.api.types.is_numeric_dtype(df[col]):
             if df[col].isnull().sum() > 0:
-                st.warning(f"La colonne '{col}' contient des valeurs manquantes. Elles seront ignor
+                st.warning(f"La colonne '{col}' contient des valeurs manquantes. Elles seront ignorées dans l'analyse.")
+        elif pd.api.types.is_datetime64_any_dtype(df[col]):
+            st.info(f"La colonne '{col}' est de type date.")
+        elif pd.api.types.is_bool_dtype(df[col]):
+            st.info(f"La colonne '{col}' est booléenne (True/False).")
+        elif pd.api.types.is_object_dtype(df[col]):
+            st.info(f"La colonne '{col}' est de type 'object'. Elle ne sera pas convertie.")
+        else:
+            st.warning(f"Le type de données de la colonne '{col}' est inconnu ou non pris en charge.")
+
+if __name__ == "__main__":
+    main()
