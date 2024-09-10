@@ -35,9 +35,9 @@ def main():
 
             if st.button("Analyser") and prompt.strip():
                 try:
-                    # Fournir un contexte complet et détaillé à PandasAI
+                    # Fournir un contexte explicite à PandasAI
                     contexte = generer_contexte(df)
-                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications et un graphique si possible."
+                    prompt_with_context = f"{contexte}\n\n{prompt}\nMerci de fournir une analyse détaillée, des explications textuelles et éviter de générer des graphiques enregistrés dans des fichiers."
 
                     # Utilisation de Google Gemini via PandasAI pour analyser les données
                     llm = GoogleGemini(api_key=GOOGLE_API_KEY)
@@ -50,15 +50,15 @@ def main():
                     st.write("Réponse de l'IA :")
                     st.write(response)
 
-                    # Si un graphique est mentionné dans la réponse, forcer la génération du graphique
+                    # Gestion manuelle des graphiques si la question concerne les causes de fraudes et les catégories
                     if "fraudes" in prompt and "catégories" in prompt:
                         st.write("Voici le graphique des causes de fraudes et des catégories de produits touchées:")
 
-                        # Générer les graphiques avec matplotlib
+                        # Extraire les données pour les adulterants et les catégories
                         top_adulterants = df['adulterant'].value_counts().nlargest(5)
                         top_categories = df['category'].value_counts().nlargest(5)
 
-                        # Créer les graphiques
+                        # Créer les graphiques avec matplotlib
                         fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
 
                         # Graphique des adulterants (causes de fraudes)
@@ -75,7 +75,7 @@ def main():
                         ax2.set_title('Top 5 Product Categories')
                         ax2.tick_params(axis='x', rotation=45)
 
-                        # Ajuster la mise en page
+                        # Ajustement de la mise en page
                         plt.tight_layout()
 
                         # Afficher les graphiques dans Streamlit
