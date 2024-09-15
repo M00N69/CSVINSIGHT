@@ -1,0 +1,41 @@
+ID,Catégorie,Question,Réponse 1,Score 1,Réponse 2,Score 2,Réponse 3,Score 3
+1,Responsabilité / Prise d’initiative,Pensez-vous que vos propres tâches contribuent au succès de notre entreprise ?,Oui,1.0,Non,0,Je ne sais pas,0.25
+2,Responsabilité / Prise d’initiative,Pensez-vous que vos propres tâches contribuent au succès de notre entreprise ?,Non,0.0,Je ne sais pas,0.25,,
+3,Responsabilité / Prise d’initiative,Pensez-vous que vos propres tâches contribuent au succès de notre entreprise ?,Je ne sais pas,0.25,,,,
+4,Responsabilité / Prise d’initiative,Pouvez-vous prendre l’initiative pour soulever des problèmes ou proposer des suggestions ?,Oui et l'action est prise,1.0,Oui mais rarement,0.5,Non,0
+5,Responsabilité / Prise d’initiative,Pouvez-vous prendre l’initiative pour soulever des problèmes ou proposer des suggestions ?,Oui mais rarement,0.5,Non,0,,
+6,Responsabilité / Prise d’initiative,Pouvez-vous prendre l’initiative pour soulever des problèmes ou proposer des suggestions ?,Non,0.0,,,,
+7,Formation / Connaissances des employés,Connaissez-vous une mesure de maîtrise de la sécurité des aliments mise en œuvre sur le site ?,Oui mais pas toutes,0.75,Non,0,Quelques unes,0.5
+8,Formation / Connaissances des employés,Connaissez-vous une mesure de maîtrise de la sécurité des aliments mise en œuvre sur le site ?,Non,0.0,,,,
+9,Formation / Connaissances des employés,Connaissez-vous une mesure de maîtrise de la sécurité des aliments mise en œuvre sur le site ?,Quelques unes,0.5,,,,
+10,Communication,La direction communique-t-elle des objectifs clairs et les attentes des employés ?,Oui,1.0,Non,0,,
+11,Communication,La direction communique-t-elle des objectifs clairs et les attentes des employés ?,Non,0.0,,,,
+12,Engagement / Prise d’initiative / Valeurs,"Assurer la sécurité, la qualité et la légalité des produits est-elle une priorité ?",Une priorité,1.0,Valorisé,0.5,Parfois valorisé,0.25
+13,Engagement / Prise d’initiative / Valeurs,Qui devrait être impliqué dans la gestion de la sécurité des aliments sur le site ?,Tout le monde,1.0,La direction et le service qualité,0.75,Le service qualité,0.5
+14,Conformité de l’environnement de travail,Pensez-vous que l’environnement de travail garantit la qualité et sécurité des aliments ?,Oui,0.75,Non,0,A améliorer,0.5
+15,Conformité de l’environnement de travail,Pensez-vous que l’environnement de travail garantit la qualité et sécurité des aliments ?,Non,0.0,,,,
+16,Conformité de l’environnement de travail,Pensez-vous que les règles d'hygiène sont claires et respectées ?,Oui strictement respectées,1.0,,,,
+17,Conformité de l’environnement de travail,Pensez-vous que les règles d'hygiène sont claires et respectées ?,Oui mais ne sont pas toujours respectées,0.5,,,,
+18,Système qualité,Pensez-vous que le bon fonctionnement du système actuel permet de satisfaire nos clients ?,Oui,0.75,Non,0,Aucune idée,0
+19,Système qualité,Pensez-vous que le bon fonctionnement du système actuel permet de satisfaire nos clients ?,Non,0.25,,,,
+20,Système qualité,Pensez-vous que les documents/outils mis à disposition sont faciles à utiliser pour documenter les problèmes ?,Oui très intuitif,1.0,,0,,
+21,Responsabilité / Prise d’initiative,Connaissez-vous vos tâches liées à la sécurité des aliments ?,Oui très claire,1.0,Non,0,Oui est communiqué,0.75
+22,Responsabilité / Prise d’initiative,Connaissez-vous la personne avec l'autorité d'arrêter une ligne de production ?,Oui,0.75,,0.5,,
+23,Formation / Connaissances des employés,Connaissez-vous le système pour signaler un incident lié à la sécurité des aliments sans représailles ?,Oui,1.0,Confus,0,,
+24,Communication,La direction communique-t-elle des objectifs clairs ?,Oui,1.0,Non,,,
+25,Communication,Existe-t-il une procédure de dénonciation claire ?,Non,0.0,,0.5,,
+26,Engagement / Prise d’initiative / Valeurs,Assurer la sécurité des aliments est-elle une valeur importante dans l'entreprise ?,Une priorité,1.0,Valorisé,,,
+27,Engagement / Prise d’initiative / Valeurs,L'engagement du personnel dans la sécurité des aliments est-il une priorité ?,Oui,1.0,,,,
+28,Conformité de l’environnement de travail,Pensez-vous que l’environnement de travail garantit la sécurité des aliments ?,Oui,0.75,,0.5,,
+29,Conformité de l’environnement de travail,Pensez-vous que les règles d’hygiène sont claires ?,Oui,1.0,Non,0,,
+30,Conformité de l’environnement de travail,Les investissements sont-ils rapidement mis en œuvre pour garantir la sécurité alimentaire ?,Oui,0.5,,,,
+31,Système qualité,Pensez-vous que le système de gestion permet de satisfaire les clients ?,Oui,0.75,,,,
+32,Système qualité,Les outils disponibles pour documenter les problèmes sont-ils efficaces ?,Oui,1.0,,0.5,,
+33,Responsabilité / Prise d’initiative,Vos tâches sont-elles clairement définies en lien avec la sécurité des aliments ?,Oui très claire,1.0,,0,,
+34,Responsabilité / Prise d’initiative,Connaissez-vous les personnes responsables de la sécurité alimentaire sur le site ?,Oui,0.5,,,,
+35,Formation / Connaissances des employés,Les mesures de sécurité alimentaire sont-elles bien comprises ?,Oui,0.75,Non,0.25,,
+36,Communication,Les objectifs de sécurité alimentaire sont-ils communiqués clairement ?,Oui,0.25,,,,
+37,Communication,Les règles de dénonciation sont-elles bien comprises ?,Oui,1.0,Non,0,,
+38,Engagement / Prise d’initiative / Valeurs,L’implication de la direction est-elle claire concernant la sécurité alimentaire ?,Oui,0.5,Non,,,
+39,Engagement / Prise d’initiative / Valeurs,Les collaborateurs participent-ils activement aux initiatives de sécurité alimentaire ?,Oui,0.75,,0,,
+40,Conformité de l’environnement de travail,Les audits d'hygiène sont-ils réalisés régulièrement ?,,1.0,,,,
