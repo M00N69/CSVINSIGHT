@@ -1,1 +1,52 @@
 
+ID,Catégorie,Question,Réponse 1,Score 1,Réponse 2,Score 2,Réponse 3,Score 3
+1,Leadership,Comment la direction soutient-elle la culture de la sécurité alimentaire ?,Par des initiatives régulières,5,Occasionnellement,3,Pas du tout,1
+2,Leadership,La direction organise-t-elle des réunions sur la sécurité alimentaire ?,"Oui, mensuellement",5,Annuellement,3,Jamais,1
+3,Leadership,Les objectifs de sécurité alimentaire sont-ils intégrés aux objectifs d'entreprise ?,"Oui, toujours",5,Partiellement,3,Non,1
+4,Leadership,Les dirigeants participent-ils activement aux audits de sécurité alimentaire ?,"Oui, toujours",5,Rarement,3,Jamais,1
+5,Leadership,La sécurité alimentaire est-elle un sujet central dans la communication interne ?,"Oui, toujours",5,Parfois,3,Rarement,1
+6,Leadership,La direction encourage-t-elle la formation continue en sécurité alimentaire ?,"Oui, fortement",5,Modérément,3,Non,1
+7,Leadership,Les leaders communiquent-ils les retours des inspections en interne ?,"Oui, systématiquement",5,Parfois,3,Non,1
+8,Leadership,Les investissements dans des équipements de sécurité alimentaire sont-ils priorisés ?,"Oui, toujours",5,Rarement,3,Jamais,1
+9,Leadership,La direction utilise-t-elle des indicateurs de performance pour suivre la sécurité alimentaire ?,"Oui, régulièrement",5,Parfois,3,Pas du tout,1
+10,Leadership,Comment la direction implique-t-elle les employés dans la définition des standards de sécurité alimentaire ?,Par des réunions collaboratives,5,Par des enquêtes ponctuelles,3,Pas du tout,1
+11,Hygiene,La propreté des équipements est-elle régulièrement vérifiée ?,"Oui, quotidiennement",5,De temps en temps,3,Non,1
+12,Hygiene,Disposez-vous de protocoles écrits pour le nettoyage des surfaces ?,"Oui, détaillés",5,Partiellement,3,Non,1
+13,Hygiene,Comment les employés s’assurent-ils que les aliments sont exempts de contaminants ?,Par des vérifications régulières,5,Par observation,3,Pas du tout,1
+14,Hygiene,La gestion des allergènes est-elle intégrée aux protocoles d'hygiène ?,"Oui, systématiquement",5,Occasionnellement,3,Non,1
+15,Hygiene,Les uniformes de travail sont-ils changés régulièrement ?,"Oui, quotidiennement",5,Parfois,3,Rarement,1
+16,Hygiene,Les zones de production respectent-elles des protocoles stricts de nettoyage ?,"Oui, toujours",5,Parfois,3,Non,1
+17,Hygiene,Les produits désinfectants utilisés sont-ils validés ?,"Oui, certifiés",5,Parfois,3,Non validés,1
+18,Hygiene,L’eau utilisée dans les processus est-elle testée régulièrement ?,"Oui, systématiquement",5,Rarement,3,Jamais,1
+19,Hygiene,Y a-t-il une séparation stricte entre les zones propres et sales ?,"Oui, bien définie",5,Partiellement,3,Non,1
+20,Hygiene,Comment est assuré le contrôle des nuisibles dans les zones de production ?,Par un plan rigoureux,5,Occasionnellement,3,Pas du tout,1
+21,Formation,Tous les employés suivent-ils une formation sur les allergènes ?,"Oui, obligatoire",5,Pour certains,3,Non,1
+22,Formation,La formation HACCP est-elle proposée régulièrement ?,"Oui, annuellement",5,Occasionnellement,3,Non,1
+23,Formation,Les nouveaux employés reçoivent-ils une formation initiale en sécurité alimentaire ?,"Oui, systématique",5,Rarement,3,Non,1
+24,Formation,Les mises à jour des pratiques de sécurité alimentaire sont-elles partagées ?,"Oui, régulièrement",5,Parfois,3,Non,1
+25,Formation,Les superviseurs reçoivent-ils une formation avancée en sécurité alimentaire ?,"Oui, régulièrement",5,Rarement,3,Non,1
+26,Formation,Existe-t-il des formations spécifiques pour la gestion des allergènes ?,"Oui, dédiées",5,Parfois,3,Non,1
+27,Formation,Les formations incluent-elles des exercices pratiques ?,"Oui, systématiquement",5,Parfois,3,Non,1
+28,Formation,Les besoins en formation sont-ils évalués régulièrement ?,"Oui, annuellement",5,Rarement,3,Jamais,1
+29,Formation,Les employés reçoivent-ils des formations sur les nouvelles réglementations ?,"Oui, à chaque mise à jour",5,Rarement,3,Non,1
+30,Formation,Les formations sur les bonnes pratiques d’hygiène sont-elles obligatoires ?,"Oui, pour tous",5,Pour certains,3,Non,1
+31,Engagement des employés,Les employés signalent-ils les risques pour la sécurité alimentaire ?,"Oui, activement",5,Parfois,3,Rarement,1
+32,Engagement des employés,Les employés participent-ils aux discussions sur la sécurité alimentaire ?,"Oui, régulièrement",5,Parfois,3,Jamais,1
+33,Engagement des employés,Les employés sont-ils motivés à suivre les bonnes pratiques d'hygiène ?,"Oui, fortement",5,Modérément,3,Non,1
+34,Engagement des employés,Les retours des employés sont-ils pris en compte pour améliorer les pratiques ?,"Oui, toujours",5,Parfois,3,Rarement,1
+35,Engagement des employés,Les employés ont-ils accès à des outils pour signaler les non-conformités ?,"Oui, plusieurs",5,Peu,3,Non,1
+36,Engagement des employés,Les employés reçoivent-ils des encouragements pour participer aux audits internes ?,"Oui, fréquemment",5,Rarement,3,Jamais,1
+37,Engagement des employés,Y a-t-il des incitations pour encourager l’engagement des employés en matière de sécurité alimentaire ?,"Oui, financières ou non financières",5,Occasionnelles,3,Non,1
+38,Engagement des employés,Les employés sont-ils formés pour répondre aux urgences alimentaires ?,"Oui, systématiquement",5,Rarement,3,Jamais,1
+39,Engagement des employés,Les employés partagent-ils des idées pour améliorer la sécurité alimentaire ?,"Oui, régulièrement",5,Rarement,3,Jamais,1
+40,Engagement des employés,Les responsabilités en matière de sécurité alimentaire sont-elles clairement attribuées aux employés ?,"Oui, à chacun selon son rôle",5,Pas toujours clair,3,Non,1
+41,Risques alimentaires,Les points critiques pour la maîtrise sont-ils identifiés et surveillés ?,"Oui, systématiquement",5,Partiellement,3,Non,1
+42,Risques alimentaires,Les matières premières sont-elles vérifiées pour garantir leur qualité ?,"Oui, toujours",5,Parfois,3,Non,1
+43,Risques alimentaires,Comment les rappels de produits sont-ils gérés ?,Avec un protocole clair,5,De manière ad hoc,3,Pas du tout,1
+44,Risques alimentaires,Les audits incluent-ils une évaluation des dangers microbiologiques ?,"Oui, régulièrement",5,Occasionnellement,3,Non,1
+45,Risques alimentaires,Les fournisseurs sont-ils évalués sur leurs pratiques de sécurité alimentaire ?,"Oui, régulièrement",5,Parfois,3,Rarement,1
+46,Risques alimentaires,Y a-t-il des mesures spécifiques pour prévenir les contaminations croisées ?,"Oui, toujours",5,Parfois,3,Non,1
+47,Risques alimentaires,La traçabilité des produits est-elle régulièrement testée ?,"Oui, fréquemment",5,Rarement,3,Jamais,1
+48,Risques alimentaires,Les zones de stockage respectent-elles les normes de sécurité alimentaire ?,"Oui, toujours",5,Parfois,3,Rarement,1
+49,Risques alimentaires,Des indicateurs microbiologiques sont-ils utilisés pour évaluer les risques ?,"Oui, systématiquement",5,Occasionnellement,3,Non,1
+50,Risques alimentaires,La gestion des risques alimentaires est-elle intégrée au plan HACCP ?,"Oui, complètement",5,Partiellement,3,Non,1
