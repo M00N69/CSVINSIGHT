@@ -1,0 +1,70 @@
+{
+  "productType": "Charcuterie artisanale",
+  "sector": "Traiteur / Charcutier",
+  "referenceGuide": "GBPH Charcuterie Artisanale - CNCT 2016",
+  "controlMeasures": [
+    {
+      "id": "CHA001",
+      "name": "Contrôle de température à la réception",
+      "category": "PRPo",
+      "description": "Vérification de la conformité des températures à réception des viandes et produits sensibles",
+      "expectedBenefits": [
+        "Réduction du risque de multiplication de Listeria monocytogenes",
+        "Conformité avec le règlement (CE) 2073/2005",
+        "Base des autocontrôles obligatoires en PMS"
+      ],
+      "potentialRisks": [
+        "Sonde non étalonnée",
+        "Manque de réactivité en cas de non-conformité",
+        "Pas d'enregistrement conservé"
+      ],
+      "references": [
+        "Règlement CE 2073/2005",
+        "GBPH P.139",
+        "IFS Food v8 – 4.14.2"
+      ]
+    },
+    {
+      "id": "CHA002",
+      "name": "Cuisson à cœur > 74 °C",
+      "category": "CCP",
+      "description": "Contrôle systématique de la température cœur en fin de cuisson (rillettes, pâtés, jambon cuit…)",
+      "expectedBenefits": [
+        "Destruction des germes pathogènes (Salmonella, Listeria)",
+        "Maîtrise sanitaire prouvée",
+        "Respect des limites critiques du PMS"
+      ],
+      "potentialRisks": [
+        "Sonde mal positionnée",
+        "Écart non enregistré ou mal corrigé",
+        "Absence de traçabilité par lot"
+      ],
+      "references": [
+        "GBPH P.167-172",
+        "Codex Alimentarius HACCP 2020",
+        "IFS v8 – 2.3.2.1 & 5.6.2"
+      ]
+    },
+    {
+      "id": "CHA003",
+      "name": "Fumage à froid (gestion des HAP)",
+      "category": "PRPo",
+      "description": "Contrôle du choix de la sciure, du type de bois et du temps de fumage pour limiter les HAP",
+      "expectedBenefits": [
+        "Réduction des hydrocarbures aromatiques polycycliques (HAP)",
+        "Amélioration de la qualité sensorielle",
+        "Respect du règlement (UE) n°835/2011"
+      ],
+      "potentialRisks": [
+        "Bois non adapté (résineux, bois traité)",
+        "Temps de fumage excessif",
+        "Absence de procédure formalisée"
+      ],
+      "references": [
+        "GBPH P.159",
+        "Règlement UE 835/2011",
+        "ANSES EAT2"
+      ]
+    }
+  ]
+}
