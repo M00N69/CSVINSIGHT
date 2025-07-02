@@ -1,0 +1,4669 @@
+{
+  "document_info": {
+    "paragraph_count": 1052,
+    "table_count": 39,
+    "paragraphs": [
+      "Audit Report Global Standard Food Safety Issue 9",
+      "Audit Summary",
+      "Company name",
+      "Click or tap here to enter text.",
+      "Site code",
+      "Click or tap here to enter text.",
+      "Site name",
+      "Scope of audit",
+      "Key process steps / elements of products (clear, succinct and unambiguous and not include brand names or provide a long list of products), primary packaging info; including any outsourced processes and traded goods [500 characters maximum].",
+      "Exclusions from scope",
+      "..."
+    ],
+    "tables": [
+      [
+        [
+          "Audit Summary"
+        ],
+        [
+          "Company name",
+          "Click or tap here to enter text.",
+          "Site code",
+          "Click or tap here to enter text."
+        ],
+        [
+          "Site name",
+          ""
+        ],
+        [
+          "Scope of audit",
+          "Key process steps / elements of products (clear, succinct and unambiguous and not include brand names or provide a long list of products), primary packaging info; including any outsourced processes and traded goods [500 characters maximum]."
+        ],
+        [
+          "Exclusions from scope",
+          "This must not be left blank. If there are no exclusions, record ‘None’."
+        ],
+        [
+          "Justification for exclusion",
+          "If no exclusions put ‘Non-applicable’"
+        ],
+        [
+          "Audit start date",
+          "Select a date",
+          "Audit finish date",
+          "Select a date"
+        ],
+        [
+          "Re-audit due date",
+          "Select a date",
+          "Head office",
+          "Choose an item"
+        ]
+      ],
+      [
+        [
+          "Additional modules included"
+        ],
+        [
+          "Modules",
+          "Result",
+          "Scope",
+          "Exclusions from Scope"
+        ],
+        [
+          "Choose a module",
+          "Choose an item",
+          "N/A",
+          ""
+        ],
+        [
+          "Choose a module",
+          "Choose an item",
+          "N/A",
+          ""
+        ]
+      ],
+      [
+        [
+          "Audit Results"
+        ],
+        [
+          "Audit result",
+          "Choose an item",
+          "Audit grade",
+          "Choose an item",
+          "Audit programme",
+          "Choose an item"
+        ],
+        [
+          "Previous audit grade",
+          "Choose an item",
+          "Previous audit date",
+          "Select a date"
+        ],
+        [
+          "Certificate issue date",
+          "Select a date",
+          "Certificate expiry date",
+          "Select a date"
+        ],
+        [
+          "Number of non-conformities",
+          "Fundamental",
+          "Click or tap here to enter text."
+        ],
+        [
+          "",
+          "Critical",
+          "Click or tap here to enter text."
+        ],
+        [
+          "",
+          "Major",
+          "Click or tap here to enter text."
+        ],
+        [
+          "",
+          "Minor",
+          "Click or tap here to enter text."
+        ]
+      ],
+      "..."
+    ],
+    "unique_styles": [
+      "Bullets",
+      "CCtabletitle",
+      "Heading2",
+      "para",
+      "NoSpacing",
+      "Default",
+      "ListParagraph",
+      "BodyText",
+      "Heading3"
+    ],
+    "headings": [
+      {
+        "style": "Heading2",
+        "text": "1. Senior management commitment"
+      },
+      {
+        "style": "Heading2",
+        "text": "2. The Food Safety Plan – HACCP"
+      },
+      {
+        "style": "Heading2",
+        "text": "3. Food safety and quality management system"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.1 Food safety and quality manual, 3.2 Document control, 3.3 Record completion and maintenance"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.4 Internal audits"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.5 Supplier and raw material approval and performance monitoring "
+      },
+      {
+        "style": "Heading3",
+        "text": "3.5.1 Management of suppliers of raw material and packaging"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.5.2 Raw material and packaging acceptance, monitoring and management procedures"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.5.3 Management of suppliers of services"
+      },
+      {
+        "style": "Heading3",
+        "text": "3.5.4 Management of Outsourced processing"
+      },
+      "..."
+    ]
+  },
+  "document_structure": null,
+  "tables": [
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Audit Summary",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Company name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Site code",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Site name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Scope of audit",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Key process steps / elements of products (clear, succinct and unambiguous and not include brand names or provide a long list of products), primary packaging info; including any outsourced processes and traded goods [500 characters maximum].",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Exclusions from scope",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "This must not be left blank. If there are no exclusions, record ‘None’.",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Justification for exclusion",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "If no exclusions put ‘Non-applicable’",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Audit start date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Audit finish date",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Re-audit due date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Head office",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 2",
+      "data": [
+        [
+          {
+            "text": "Additional modules included",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Modules",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Result",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Scope",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Exclusions from Scope",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Choose a module",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "N/A",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Choose a module",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "N/A",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Audit Results",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Audit result",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Audit grade",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Audit programme",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Previous audit grade",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Previous audit date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Certificate issue date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Certificate expiry date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Select a date",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Number of non-conformities",
+            "rowspan": 0,
+            "colspan": 3
+          },
+          {
+            "text": "Fundamental",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 0,
+            "colspan": 3
+          },
+          {
+            "text": "Critical",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 0,
+            "colspan": 3
+          },
+          {
+            "text": "Major",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 0,
+            "colspan": 3
+          },
+          {
+            "text": "Minor",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Company Details",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Site address",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Country",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Sitetelephone number",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Commercial representative name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Email",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Technical representative name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Email",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Company Profile",
+            "rowspan": 1,
+            "colspan": 8
+          }
+        ],
+        [
+          {
+            "text": "Plant size (metres square)",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "No. of employees",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "No. of HACCP plans",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Shift pattern",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Record usual shift pattern operated per day, hours of operation and number of operating days per week. For example, “Two shifts per day production plus one shift for cleaning, five days per week.”",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Seasonal site",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Seasonal opening times (Start / end date)",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Click or tap to enter a date.",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Click or tap to enter a date.",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Other certificates held",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Outsourced processes",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Outsourced process description",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Regions exported to",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Choose a region [Delete unused]Choose a regionChoose a regionChoose a regionChoose a regionChoose a region",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Company registration number ",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Major changes since last BRCGS audit",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Company Description",
+            "rowspan": 1,
+            "colspan": 8
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text, including brief company background, size of manufacturing and storage, staff number and shift pattern, production volumes and customer types. Record the typical dates of the season when the company is not operational all year round, if applicable (e.g. due to the availability of raw materials that depend on specific growing seasons).Also, justification for late audit if applicable. [1000 characters maximum including spaces].Notes on using pre-populated form   [highlighted text] is a prompt for evidence witnessed during the audit, add additional details as desired.XX or YY is prompt to choose between frequently used options.Red lists are suggested items that should be customised to reflect the site.Bold text indicates KPIs from BRCGS that may not be explicitly in the Standard.Some useful characters if needed:°C≤ ≥ ± µmNo need to remove the formatting and highlighting before submission.",
+            "rowspan": 1,
+            "colspan": 8
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Product Characteristics",
+            "rowspan": 1,
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "Product categories",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Category [Delete unused]CategoryCategoryCategoryCategoryCategoryCategoryCategory",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Finished product safety rationale",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Summary of the product characteristics (intrinsic or extrinsic) to ensure the product safety with designated shelf life e.g. aw, pH, heat treatments etc.",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "High care",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "High risk",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Ambient high care",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Justification for area",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "As per BRCGS Food Issue 9 Appendix 2 for XXX-risk area: Justification for risk-areas from Standard e.g. has received a full cook, is susceptible to pathogenic growth, is ready to eat etc.",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Allergens handled on site",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Choose an allergen [Delete unused]Choose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergenChoose an allergen",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Product claims made e.g. IP, organic",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Product recalls in last 12 months",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Products in production at the time of the audit",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Click or tap here to enter products and packaging formats observed during the audit. Consider including also any products or packaging not observed, with justification.",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Audit Duration Details",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Total audit duration",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text. hours",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Duration of production facility inspection",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text. hours",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Reasons for deviation from typical or expected audit duration",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Record time spent on BRCGS element of the audit only e.g. if combined audit: ‘No deviation from BRCGS calculated duration; additional time on site due to being a combined IFS audit’.",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Combined audits",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item.",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Next audit type selected",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Choose an item",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 8",
+      "data": [
+        [
+          {
+            "text": "Present at audit ",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Note: the most senior operations manager on site should be listed first and be present at both opening and closing meetings (ref: clause 1.1.11)",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "Name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Job title",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Opening meeting",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Site inspection",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Procedure review",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Closing meeting",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 9",
+      "data": [
+        [
+          {
+            "text": "GFSI Post Farm Gate Audit History",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Scheme/Standard",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Announced/Unannounced",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Pass/Fail",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "YYYY-MM-DD",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "BRCGS Food Issue 9",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit Report Global Standard Food Safety Issue 9",
+      "data": [
+        [
+          {
+            "text": "Document control",
+            "rowspan": 1,
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": "CB Report number",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Micron Convention: Initial + Serial Number (e.g. LH033 / Year)",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Template name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "F908 Food Safety Audit Report Template ",
+            "rowspan": 1,
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Standard issue",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "9",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "Template issue date",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "2022-12-16",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Directory allocation",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Food",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Version",
+            "rowspan": 1,
+            "colspan": 2
+          },
+          {
+            "text": "1.1",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 11",
+      "data": [
+        [
+          {
+            "text": "Critical or Major Non-Conformities Against Fundamental Requirements",
+            "rowspan": 1,
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Critical or Major",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Re-audit date",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 12",
+      "data": [
+        [
+          {
+            "text": "Critical",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Re-audit date",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 13",
+      "data": [
+        [
+          {
+            "text": "Major",
+            "rowspan": 1,
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Correction",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Proposed preventive action plan ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Root cause analysis",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Date reviewed",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Reviewed by",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 14",
+      "data": [
+        [
+          {
+            "text": "Minor",
+            "rowspan": 1,
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Correction",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Proposed preventive action plan ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Root cause analysis",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Date reviewed",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Reviewed by",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "YYYY-MM-DD",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Non-Conformity Summary Sheet",
+      "data": [
+        [
+          {
+            "text": "Comments on non-conformities",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 16",
+      "data": [
+        [
+          {
+            "text": "Critical",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Re-audit date",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 17",
+      "data": [
+        [
+          {
+            "text": "Major",
+            "rowspan": 1,
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Correction",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Proposed preventive action plan ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Root cause analysis",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Date reviewed",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Reviewed by",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 18",
+      "data": [
+        [
+          {
+            "text": "Minor ",
+            "rowspan": 1,
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "Clause",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Detail",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Correction",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Proposed preventive action plan ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Root cause analysis",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Date reviewed",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Reviewed by",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Audit team",
+      "data": [
+        [
+          {
+            "text": "Lead auditor",
+            "rowspan": 1,
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Auditor number",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "First name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Second name",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 20",
+      "data": [
+        [
+          {
+            "text": "Audit team",
+            "rowspan": 1,
+            "colspan": 4
+          },
+          {
+            "text": "Attendance (YYYY / MM / DD, 24hr: MM) ",
+            "rowspan": 1,
+            "colspan": 3
+          },
+          {
+            "text": "Presence",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "First name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Second name",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Auditor number",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Role",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Audit Date",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Start time",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "End time",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Remote or physical",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Professional recognition number",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "1. Senior management commitment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a food safety and quality policy, reference, yyyy-mm-dd (including the company’s responsibilities for safety, authenticity, legality, quality and the commitment to continuously improve food safety and quality culture) which is signed by ROLE who has overall responsibility for the site. The policy is communicated to all staff e.g. posted on staff noticeboards and included in the staff induction programme.There is also a defined plan for the development and continual improvement of the food safety and quality culture, reference, yyyy-mm-dd. The plan is based on the key pillars of: People, Process, Purpose and Proactivity and demonstrated the site’s shared attitudes, values, ethos and beliefs relating to the importance of product safety and quality, which was led be leadership behaviours and management practices (and complied with BRCGS Position Statement F837).The plan (as discussed with ROLE) included defined improvement activities for all site sections impacting food safety e.g. [customise as required, include timescales]communication strategies to all levelsuse of culture surveys to benchmark the level of the ‘culture’ at the site and staff valuesstaff rewards and recognition programmestaff feedback mechanismstraining reviews e.g. updating refresher training programmes, delivery of safety culture presentationseffectiveness review of FSC activities undertakendoes the plan cover all departments onsite?   The above action plan was maintained with an annual or other more frequent review, last on yyyy-mm-dd.Measurable objectives to maintain and improve food safety, legality, authenticity and quality were documented, monitored and regularly reviewed by senior management quarterly or other more frequent, last on yyyy-mm-dd and were included as part of the annual management review agenda. Objectives included e.g. [customise as required, include timescales]review effectiveness of food safety and quality culture planProduction staff interviewed during the audit were able to demonstrate awareness of these policies, targets and objectives.A management review meeting is held annually or other more frequent, most recently on yyyy-mm-dd and was attended by all available Senior Management (e.g. ROLES). All required agenda items as required by the Standard were discussed e.g. [customise as required]the improvement objectivesreviews of internal or supplier auditslevel of complaintssafety or quality incidents and investigationsresourcingWhenever an objective or action would not be met, an investigation would be undertaken, the reason determined, and a revised objective or target would be set. Outputs from the management review meeting included future planned improvements and targets, which are communicated by team briefings and/or assignment of actions to relevant personnel. Additional monthly or other more frequent senior management meetings are scheduled to enable recent food safety, authenticity, legality or quality issues to be addressed, most recently on yyyy-mm-dd.A confidential reporting system for staff has been established to enable reporting and recording of concerns relating to food safety, authenticity, legality and quality directly to senior management. The reporting mechanism consisted of [details] and was clearly communicated to staff [e.g. when / how].Based on the evidence reviewed during this audit, the company appeared to provide sufficient human and financial resources to produce safe, authentic, legal food products in compliance with the Standard.Site management are aware of relevant legislative changes, scientific developments, codes of practice and emerging authenticity risks via: [customise as required]industry specific memberships (Campden BRI)local EHO / TSOexternal consultantFSA (alerts)web searchestrade magazine subscriptionsraw material suppliers and customersThe site holds a genuine copy of BRCGS Food Standard Issue 9 as a hard or electronic copy and they are aware of recent changes published on the BRCGS website. This announced or unannounced audit complied with the audit window requirements for recertification (re-audit date was yyyy-mm-dd), and the auditor was in production within 30 minutes of arriving on site [required for unannounced audits]. The audit opening and closing meetings were supported by senior management e.g. [roles present, include deputies if needed]. The XX major and XX minor non-conformances raised at the previous BRCGS audit have been resolved satisfactorily with action plans implemented and the root causes addressed. The site uses or does not currently use the BRCGS Logo[; usage and certification status were according to the BRCGS protocol (Part III Section 6.7 of the Standard)]. The site is registered as a food business operator by relevant authorities, [if required by legislation], with the latest local EHO site inspection on yyyy-mm-dd.A current comprehensive organisational structure indicating job functions and lines of communication had been established and was demonstrated by an organogram (ref, yyyy-mm-dd). The management team includes [customise roles e.g. CEO, MD, Operations Manager / Director, Technical Director / Manager, QA Manager, Chief Engineering Manager, HR Manager, NPD Manager]. Responsibilities are defined in job descriptions, e.g. role profiles, yyyy-mm-dd. Deputies in the absence of the responsible person are documented e.g. Technical Manager by QA Supervisor.Documented work instructions are in place and are accessible to the relevant personnel e.g. [customise with evidence seen e.g. recipes and process specifications, references, yyyy-mm-dd]. Staff interviewed were able to demonstrate that work is carried out in accordance with instructions.Staff are aware of the need to report unsafe or out-of-specification product, equipment, packaging or raw material to a designated manager [; any recent reporting and how / when resolved].The company do or do not currently make use of a food safety consultant to assist with the requirements of the standard[; however, the responsibility for management of the food safety systems remains with the company management].",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 22",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "1.1.10",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Initial BRCGS audit",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "1.1.12",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Initial BRCGS audit / No NCs raised during previous BRCGS Food audit",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "1.1.13",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "BRCGS Logo not currently used",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "1.2.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No use of food safety consultant",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "2. The Food Safety Plan – HACCP",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The HACCP team comprised the [customise roles e.g. MD, Operations Manager, Technical Manager, QA Manager, GM, Factory Manager, Production Manager, Engineer, Supervisor, NPD Manager, External Technical Adviser / Consultant and Laboratory Manager]. The Team Leader was [the Technical / QA Manager] who was suitably qualified (training, yyyy-mm-dd) and demonstrated competence and experience. All other team members had received either external certificated HACCP Principles training (training, yyyy-mm-dd), or had been trained internally (by Role Holder, yyyy-mm-dd).The site had XX HACCP plans in place to cover the full scope of products [e.g. detail scope of each HACCP].A pre-requisite programme (PRP) is established, complete with documented control measures and monitoring procedures e.g. [customise list: cleaning programmes, pest management, equipment maintenance, training, transport, allergen management etc.] reviewed as effective (yyyy-mm-dd) and detailed in later sections of this report.All products in the scope of the HACCP studies included detailed product descriptions e.g. [customise as required – must include shelf life and intended use / vulnerable groups]composition (materials / ingredients / allergens)physical / chemical properties (aw, pH)cooking or cooling times and temperatures (xxmin, xx°C)packaging details (…)storage conditions (xx°C)maximum safe shelf life (xx months)intended use (suitability for vulnerable groups, expected alternative uses, target consumers)The HACCP study was based on comprehensive and current information sources e.g. historical hazards, industry codes of practice, relevant guidelines and legislation etc.Detailed flow diagrams (e.g. ref, yyyy-mm-dd) were in place for all products which identified zoning, sequencing, rework, raw material input/waste routes etc. Flow diagrams were verified annually by the HACCP Team, most recently on yyyy-mm-dd.The hazards analysed included consideration of:physical hazards (foreign bodies, glass, metal)allergens (gluten, soya, milk, egg, sulphites, crustaceans, molluscs, celery, tree nuts, peanuts, lupin, fish)microbiological (including e.g. Salmonella, Listeria, Staphylococcus aureus, Clostridium, E. coli, moulds, yeasts, Bacillus cereus, Campylobacter, Enteros / Coliforms, Pseudomonas)chemical (cleaning chemicals, engineering lubricants, mycotoxins, antibiotics)radiological contamination (none identified)fraud (separate VACCP study ref, yyyy-mm-dd)malicious contamination (separate TACCP study ref, yyyy-mm-dd)Hazards and risk ratings are determined on the basis of both likelihood (scored 1-5) and severity (scored 1-5) for all process steps (1-25), with risk ratings defined as high risk, medium risk, low risk or remote risk. Control measures were used to reduce risks; where these control measures are part of a prerequisite programme they have been validated.The CCP decision tree had been used and X CCPs were identified:CCP1: control measure; measurable critical limits; monitoring and recording frequency; and corrective action (based on SOP ref and recorded on ref).CCP2: control measure; measurable critical limits; monitoring and recording frequency; and corrective action.CCPx: Metal detection; detection limits 2.5mm Fe, 3.0mm non-Fe and 4.0mm SS; monitored at start and end of shift and hourly in between (record reference); non-compliant product quarantined and situation investigated.Critical limits for the CCPs have been validated by [temperature datalogger process profile and final product analyses].[If new HACCP – detail how HACCP has been validated].Verification of the HACCP system was provided by [customise list: internal audits e.g. monthly metal detection challenge of operators by QA Team (e.g. on yyyy-mm-dd), by verification of operator CCP monitoring records (by Technical Manager), review of customer complaints and absence of product withdrawals or product recalls].The HACCP plan and prerequisite programmes are reviewed by the HACCP Team annually or prior to any changes which may impact food safety, most recently on yyyy-mm-dd. Any changes from the annual review are reflected in the company’s product safety policy and food safety objectives. Observed documentation and record keeping associated with the HACCP plan was satisfactory as per the requirements of the Standard.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 24",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "2.8.1-2.11.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No CCPs identified",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "2.12.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No new HACCP plans",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "3. Food safety and quality management system",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The food safety and quality manual contained policies and procedures covering operations on the site, ref, yyyy-mm-dd. It was available and legible, in electronic or hardcopy format and was controlled by the ROLE.Documents are controlled, based on procedure ref, yyyy-mm-dd with a document register ref, yyyy-mm-dd and include identification and version numbers and a list of amendments (e.g. seen ref, yyyy-mm-dd amended for XXX). Electronic documents are stored securely [e.g. on-site OR off-site, password protected, authorised access, amendment control] and backed-up [e.g. means and frequency].Records observed included [customise list: CCP monitoring, production records, process control records, weight control, internal audits, recipes and traceability]. Alterations to records are justified and authorised. Electronic records are stored securely (as for documents, above). Records are retained for a minimum XX months, which exceeds all product shelf-lives by at least 12 months (maximum product shelf life is XX months), as demonstrated by a record retrieval exercise for ref, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.1 Food safety and quality manual, 3.2 Document control, 3.3 Record completion and maintenance",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.4 Internal audits",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "All systems critical to product safety, authenticity, legality and quality had been risk assessed (ref, yyyy-mm-dd) and were being actively audited, covering all activities throughout a twelve-month period, across at least 4 different audit dates spread throughout the year; areas for audit included the HACCP plan and pre-requisite programmes, food defence and fraud prevention and procedures (ref schedule, yyyy-mm-dd).The internal auditors were competent, trained and independent of the audit subject (did not audit their own work) e.g. Auditor Name, training evidence, yyyy-mm-dd.Internal audit reports identify conformity and non-conformity, including objective evidence. Audit results were reported to the persons responsible e.g. [ROLES]. Corrective and preventative actions and timescales were agreed with completed actions verified. Example reports were seen [need 2 minimum]:audit subject, yyyy-mm-dd; xx findings2, yyyy-mm-dd; X NCs3, yyyy-mm-dd; X NCs4, yyyy-mm-dd; X NCs5, yyyy-mm-dd; X NCsIn addition, regular hygiene and fabrication inspections are carried out monthly or more frequently; last on yyyy-mm-dd. Inspection findings were reported to the persons responsible for the area. Corrective actions and timescales were agreed with completed actions verified. A summary of inspection results was viewed in management review meetings.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5 Supplier and raw material approval and performance monitoring ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.1 Management of suppliers of raw material and packaging",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "A documented risk assessment covering each raw material and packaging is available (ref, yyyy-mm-dd). The risk assessments covered potential risks including allergen contamination, foreign body risks, microbiological contamination, chemical contamination, variety or species cross-contamination, legislative controls (e.g. banned substances), substitution or fraud or any other risks.Examples were seen for packaging and various ingredients including refs, yyyy-mm-dd and those raw materials associated with the BRCGS audit traceability exercise. There is provision for review of the risk assessment when there is a change of raw material or supplier, new risk, recall or withdrawal where a specific raw material has been implicated, or as a minimum every three years.All suppliers of raw materials and packaging are approved and monitored in accordance with procedure ref, yyyy-mm-dd. Supplier approval is based on GFSI-certification (BRCGS, IFS, FSSC 22000), supplier audits or other scheme (SALSA, Red Tractor) and supplier approval questionnaires (for low-risk suppliers only) e.g. suppliers of XX (BRCGS Food, site code, expires yyyy-mm-dd)XX (FSSC 22000; yyyy-mm-dd)XX (IFS; yyyy-mm-dd)XX (BRCGS Packaging and Packaging Materials, site code, yyyy-mm-dd)XX (approved by supplier audit questionnaire; yyyy-mm-dd)Supplier approval questionnaires have a scope that includes product safety, traceability, HACCP review and GMP. They are reviewed and verified by a demonstrably competent person (e.g. ROLE). There is a process for the re-issue of supplier approval questionnaires every three years and suppliers are aware that any significant changes must be notified to the site. Specifically, verification of non-GFSI or non-audited supplier’s traceability systems are carried out on first approval and then at least every three years.There is a documented process for on-going supplier performance review ref, yyyy-mm-dd, based on risk, undertaken by monitoring of supplier performance against specifications, complaint levels and KPIs.An up-to-date list (ref, yyyy-mm-dd) of approved suppliers is readily available to the relevant staff.No OR Some ingredients are purchased through Agents or Brokers. Where raw materials are purchased through Agents or Brokers, the Agent or Broker is certified to the BRCGS Agents and Brokers Standard OR the site confirms the identity of the last manufacturer or packer.There was a process for handling exceptions (ref, yyyy-mm-dd) OR They do not permit the purchase of products or services from non-approved suppliers.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.2 Raw material and packaging acceptance, monitoring and management procedures",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "All raw materials are assessed on receipt and checks are carried out against the agreed specifications as per procedure ref, yyyy-mm-dd. Raw material acceptance and its release for use are based on visual inspection on receipt, certificates of analysis specific to each consignment, certificates of conformity, raw material sampling and testing (e.g. microbial or other).Procedures (ref, yyyy-mm-dd) are also in place to ensure that approved changes to raw materials (including primary packaging, e.g. pre-printed labels, films or sleeves) are communicated to goods receipt personnel.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.3 Management of suppliers of services",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a documented, risk-based procedure (ref, yyyy-mm-dd) for the approval and monitoring of suppliers of services including product safety and quality, legal compliance, product security, food defence and vulnerability. Examples of contracts / agreements were seen for:pest control (ref, yyyy-mm-dd)waste management (ref, yyyy-mm-dd)laundry service (ref, yyyy-mm-dd)transport and distribution (ref, yyyy-mm-dd)staff agency (ref, yyyy-mm-dd)external laboratory (ref, yyyy-mm-dd)catering (ref, yyyy-mm-dd)off-site storage (ref, yyyy-mm-dd)cleaning (ref, yyyy-mm-dd)servicing and maintenance of equipment (e.g. refrigeration; ref, yyyy-mm-dd)off-site packing of products (ref, yyyy-mm-dd).There is a documented process for on-going service supplier performance review (ref, yyyy-mm-dd), based on risk, undertaken by monitoring of supplier performance against defined performance criteria.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.4 Management of Outsourced processing",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No outsourced processes (including packing).orPart of the process is outsourced, notably the XXX by XX. Risks to product safety, authenticity or legality of the outsourced process are considered in the site OR a specific HACCP plan. The customer has been informed by [e.g. agreed contract, detailed specification, inclusion in establishing the outsourced arrangements].The approval and monitoring procedure is risk-based (ref, yyyy-mm-dd) and includes approval by GFSI certification (e.g. BRCGS Packaging and Packaging Materials, site code, yyyy-mm-dd) or supplier site audit (ref, yyyy-mm-dd) with audit scope including traceability, food defence, GMP as part of the supplier ’s product safety management system.A contract and specification for outsourced processing activities was in place (ref, yyyy-mm-dd) with defined requirements for product handling, processing and traceability; traceability was assured by e.g. batch codes, manufacturing dates.Returning product was examined e.g. visually, by microbiological / chemical analyses; inspection and test procedures have defined frequencies and methods are based on risk assessment (ref, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.6 Specifications",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Specifications (including for customer-branded products) detailing relevant legislation and food safety aspects were in place for raw materials, packaging (including primary packaging), intermediate products, finished products and services, which included limits for relevant attributes (e.g. relevant chemical, microbiological, physical and allergens standards) e.g.raw materialsXX, ref, yyyy-mm-ddintermediate productsXX, ref, yyyy-mm-ddfinished productsXX, ref, yyyy-mm-ddpackagingXX, ref, yyyy-mm-ddservicesXX, ref, yyyy-mm-ddCustomer branded products have formal agreements in place, e.g. ref, yyyy-mm-dd.Specifications are signed, approved and reviewed annually OR minimum every three years and when there are any changes of product, supplier, regulation or other risk.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.7 Corrective and preventive actions ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The site has a procedure for the handling of corrective actions, including root cause analysis and preventive actions (ref, yyyy-mm-dd). Corrective and subsequent preventive actions are documented with timescales assigned to persons responsible. Root cause analysis (e.g. 5 Whys / Fishbone approach) is carried out where serious issues or significant adverse trends have developed to ensure that effective preventive actions are implemented, e.g. examples and details of RCAs, yyyy-mm-dd.The process includes verification that corrective and preventive actions have been implemented to prevent recurrence.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.8 Control of non-conforming product",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a procedure (ref, yyyy-mm-dd) to manage products that do not meet specification e.g. clearly identified, labelled, quarantined and not released, including any product returned to the site. Decisions regarding the disposition of affected products are authorised by the Technical / QA Manager and related records of decision making or destruction are kept e.g. any examples and details, yyyy-mm-dd.Non-conformances are logged and assessed for any significant trends. Examples of recently logged non-conformances include: types, numbers of events in last year.Staff interviewed clearly understood the non-conformance procedure and the reporting requirements.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.9 Traceability",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The traceability procedure is ref, yyyy-mm-dd. Traceability is ensured by the recording of ingredient supplier batch details, internal batch codes, GRNs, Julian codes, shelf-lives, delivery dates, barcoding, recipe sheets, process records, computerised stock management system, final product coding; [if applicable: legal requirements in country of sale or intended use are met]. The traceability system covers all raw materials, primary packaging, intermediate and finished products. [if needed – describe batch code system.]The system is tested quarterly or annually to ensure that traceability can be determined from raw materials to finished products and vice versa. Results of the latest tests examined (ref, yyyy-mm-dd), including quantity check / mass balance [include details including duration < 4hrs].A traceability test was also carried out during the BRCGS certification audit on PRODUCT produced on yyyy-mm-dd [note: must be 1-5 months prior to audit date and within shelf-life, else justify why not possible] including a mass balance on the XX ingredient and the results were satisfactory, achieved within four hours and included the traceability of XX, XX and XX [include details of traceability test as witnessed].No materials are reworked or The traceability of rework is maintained by recording the internal batch codes of the original rework generation and the production batch into which it was subsequently used.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.10 Complaint-handling ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a procedure for the recording, handling and investigation of complaints, ref, yyyy-mm-dd. Complaints are investigated by the ROLE or appropriately trained staff. Current levels of complaints are XXcpmu or per month; target complaints levels are XXcpmu or per month.Evidence of trend analysis was available by product type, customer, month and department; significant trends and RCA / corrective actions are highlighted to management team if necessary or communicated to relevant staff. Recent alleged complaints included foreign bodies (XX) and quality issues (XX) and the causes were investigated.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.11 Management of incidents, product withdrawal and product recall",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There are procedures for the management of incidents and potential emergencies, ref, yyyy-mm-dd, [details of incidents considered and when procedure last challenged].There is a procedure for product recall and withdrawal, ref, yyyy-mm-dd. The procedure includes guidance on the decision to recall or withdraw, details of the crisis management team, key contacts and external agencies, corrective and preventive actions and business recovery, product traceability and stock reconciliation, a plan to record timings of key activities and a plan to conduct root cause analysis. The procedure includes the arrangements for events occurring outside normal working hours.The most recent mock product recall test was carried out on PRODUCT (lot no. XX) on yyyy-mm-dd. Test results included all relevant despatch, storage, processing, preparation and intake records, as well as all customers supplied with associated product quantities and confirmation of their contact details.No product recalls had occurred since the previous BRCGS audit or details of any recall/withdrawals.The recall and crisis procedure requires the certification body to be informed within 3 working days in the event of significant food safety, authenticity or legality incident including product recalls, food safety-related withdrawals or regulatory food safety non-conformances. The procedure also required the site to provide sufficient information such as corrective actions, root cause analysis and preventive action plans to the certification body within 21 calendar days.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 26",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.1.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No raw materials purchased from Agents, Brokers or Wholesalers",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.1.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No exceptions permitted to supplier approval process",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.5.4.1-3.5.4.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No outsourced processes",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.6.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No customer-branded products",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "3.9.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No rework",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "4. Site standards",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.1 External standards",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The location was industrial or urban or rural etc. The building is purpose built or old or new or extended etc. and the external fabric is well-maintained and monitored by regular fabrication audits. Local activities and near-by facilities (e.g. train lines) did not have an adverse effect on contamination risks or finished product integrity. External areas were maintained in good order including grassed areas, vegetation and external traffic routes.The site security policy is ref, yyyy-mm-dd and staff have been trained on the site security policy (e.g. initials, yyyy-mm-dd). Site security was maintained by [delete as required: 24hr manned gatehouse security, 24hr manned site, security patrols, reporting to reception, staff vigilance, alarm system (linked to an external security company or senior management), gated premises (at night), external doors locked, keypad or fob door or gated access, perimeter fence, staff turnstiles, CCTV (internal and external]. Access control for employees, contractors and visitors is in place to ensure that unauthorised access is not permitted. A visitor recording system is in place. Contractors and visitors are the responsibility of a nominated person.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.2 Site security and food defence",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Personnel (ROLES) completing threat assessments and food defence plans have the appropriate knowledge and training (training details, yyyy-mm-dd). [If FSMA/USA: There is a legal requirement for food defence training which has been completed.]A risk assessment has been completed by the TACCP team covering both internal and external threats and has resulted in a food defence plan (ref, yyyy-mm-dd) which is reviewed at least annually and whenever a new risk emerges or relevant incident occurs. [If FSMA/USA: The food defence plan meets the legal requirements of the country of sales or intended use.]No raw materials or products have been identified at particular risk or The food defence plan identified the at-risk materials as XXXX and specific controls e.g. xxxx are maintained to mitigate the risks.External storage tanks or silos or intake pipes with an external opening were locked and covered by security systems etc.Staff have been trained in the food defence procedures (e.g. XX, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.3 Layout, product flow and segregation",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Production risk zones identified on the site were high-risk, high-care, ambient high-care, low-risk, enclosed product and non-product areas based on the definitions in Appendix 2 of the Standard. A comprehensive site plan had been developed (ref, yyyy-mm-dd) which showed all the production zones, the personnel routes, waste routes, access points and routes for movement of raw materials, changing rooms, toilets, canteens and smoking areas. Contractors, visitors and drivers are made aware of site requirements for the areas they are visiting according to the procedure (ref, yyyy-mm-dd).The factory flow of personnel, raw materials, packaging, rework and waste are suitable to minimise risk of contamination of products. The factory layout allows sufficient working space and storage capacity to enable safe operation. No temporary structures on site or Temporary structures are present and potential pest risk and product safety risk has been considered.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.4 Building fabric, raw material handling, preparation, processing, packing and storage areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Walls were mainly constructed of XXXX. Floors were impervious and mainly constructed of XXXX. Drainage was designed to minimise any product contamination. Ceilings and overhead structures were mainly constructed of XXXX.Suspended ceilings or unsealed roof voids were present and there was a record of [frequency] inspection e.g. (ROLE, yyyy-mm-dd).Elevated walkways or access stairs or mezzanine floors were adjacent to or passed over production lines and were designed to prevent product contamination, easily cleaned and maintained.Windows or roof glazing were adequately screened to prevent ingress of pests. Internal and external doors were well fitted and were suitably proofed against pest entry. Where external doors were opened, precautions were taken to prevent pest entry e.g. by plastic curtains; plastic strip curtains to were in good condition and well maintained.Lighting was suitable and sufficient to conduct safe operation, product inspection and cleaning. Adequate ventilation and extraction was provided to prevent condensation or dust contamination. ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.5 Utilities – water, ice, air and other gases",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Potable water is sourced from the local mains supply (e.g. SUPPLIER) or a well or borehole. Water is used as an ingredient, for cleaning, steam, cooling, ice, handwashing, product transfer (flume), processing aid, soaking, glazing, adhering toppings, washing raw materials. The water distribution system, including storage tanks, is defined on a plan (ref, yyyy-mm-dd). Water is treated on-site by [filtration with filter change frequency, chemical softening, chilling, deionisation, chlorination, UV, Reverse Osmosis, deoxygenation.]The microbiological and chemical quality of water is comprehensively monitored monthly or annually by analysis for TVC, Coliforms, E. coli (e.g. Lab, ref, yyyy-mm-dd). GAS NAME is used as an ingredient or is in contact with product and is monitored to prevent contamination. Compressed air or GAS NAME is filtered at the point of use.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.6 Equipment ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The main equipment comprised bowls, former, mixer, prover, pasteuriser, oven, cooking kettle, retort, blast chiller, spiral freezer, packing lines, metal detectors etc.Purchase specifications are in place for new equipment (ref, yyyy-mm-dd) and include legislation, requirements for food contact, intended use and the type of materials to be handled.Food contact process equipment used was impervious, used correct seals, had smooth welds and joints and was generally constructed of stainless steel; other non-stainless steel food contact surfaces had food-grade declarations e.g. conveyor belts, ingredient bins, in-line filters, cutting boards, prover pockets and flex-product pipework, which meets XXX specific legislation or certification.There is a risk-based commissioning procedure (ref, yyyy-mm-dd) for new equipment to ensure that food safety and integrity is maintained. The design and placement of equipment ensures that it can be effectively cleaned and maintained. The procedure identifies other documentation that may need to be updated. A procedure is in place (ref, yyyy-mm-dd) to manage the safe movement of static equipment.Storage of equipment that is not in use is observed to be in a clean condition and does not pose a risk to product safety. Mobile equipment used in open product areas is cleaned and disinfected prior to entry to production areas. Battery charging equipment is suitably located outside of open product areas and controlled to prevent risk to products.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.7 Maintenance",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The maintenance team comprises the Chief Engineer and a team of XX engineers, who are responsible for the management of the planned preventive maintenance system which covers all plant, processing equipment and mobile equipment and was in the form of a paper- or software-based schedule of inspections. There are scheduled tasks (weekly or monthly etc. based on risk e.g. ref, yyyy-mm-dd). Processes for managing maintenance jobs ensure completion within defined timeframes which are updated in the planned preventive maintenance schedule. Where required, equipment is also inspected at predetermined intervals.Temporary maintenance is controlled by ref, yyyy-mm-dd. Temporary repairs are made permanent within a defined timescale or No temporary repairs seen during the audit.The engineers assess breakdowns and interventions which are recorded (e.g. on work order or other). A post-maintenance hygiene clearance procedure (ref, yyyy-mm-dd) and start up checks are carried out, including cutting blades and in-line filters and inspected by authorised personnel (ROLE).Food-grade and allergen-free engineering materials and lubricants are used e.g. Rocol / NTL / Ambersil lubricant. Equipment parts with potential food contact are confirmed as food-grade.The engineering workshop was clean and organised and controls were in place (e.g. swarf mats, footwear changes) to prevent transfer of engineering debris into processing areas.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.8 Staff facilities",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Staff and visitor facilities were adequate and allowed direct access to production areas. Personal items and outdoor wear are stored segregated from clean and dirty production clothing in suitable dedicated lockers. Suitable handwashing facilities were provided, including advisory signs to prompt handwashing, sufficient water at a suitable temperature, water taps with hands-free operation, liquid soap and single-use paper or suitably designed and located air driers. Toilets are segregated from production and packing areas.The site is designated non-smoking or There is suitable designated smoking area which was maintained in a clean and tidy condition and did not pose a product contamination risk; electronic cigarettes were not permitted in production or storage areas.Eating and drinking was not permitted in storage or production areas. There is a staff restroom equipped with refrigerator or microwave or vending machines; catering facilities (including refrigerators and vending machines) are provided and managed by (ROLE) and audited during the site’s internal audit programme (e.g. yyyy-mm-dd) to keep food in hygienic condition and minimise allergenic contamination risk.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9 Chemical and physical product contamination control: raw material handling, preparation, processing, packing and storage areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.1 Chemical control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a chemical control procedure (ref, yyyy-mm-dd) which includes requirements for specifications and materials safety data sheets for non-food chemicals confirming suitability for food use, spillage management, disposal of chemical waste and containers. There is an approved list of non-food chemicals for use on the site. Chemicals are securely stored in designated locked storage room or cabinet or area with restricted access and separate from chemicals used as raw material. Access was restricted to authorised personnel only.Personnel are trained in the handling and use of non-food chemicals e.g. initials, yyyy-mm-dd.Procedures are in place to prevent the risk of taint contamination of products (ref, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.2 Metal control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a documented policy (ref, yyyy-mm-dd) for control of knives, blades, needles and wires, which includes an inventory and daily or weekly record of inspection for damage e.g. ref, yyyy-mm-dd; snap-off blade knives are not used.Appropriate precautions are in place to prevent product contamination from staples, paperclips or drawing pins (e.g. details).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.3 Glass, brittle plastic, ceramics and similar materials",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Where possible, glass and brittle materials are excluded or protected from breakage where open products are handled. There is a documented procedure for management of glass, brittle or hard plastics, ceramics or other similar materials (ref, yyyy-mm-dd) which included actions to be taken in case of breakages (e.g. details). An inspection register was in place (ref, yyyy-mm-dd) which covered all relevant glass and brittle material and is audited regularly (frequency) e.g. initials, yyyy-mm-dd.Windows and lighting, including EFKs, are adequately protected against breakages.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.4 Products packed into glass or other brittle containers",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No glass or brittle plastic final product containers used. orGlass or brittle final product containers are segregated from raw materials, products and other packaging. Appropriate procedures are in place to manage container breakages on the line before container closure, including disposal, cleaning requirements, dedicated cleaning equipment and authorisation for release back to production, ref, yyyy-mm-dd. Any breakages are recorded and managed in accordance with appropriate documented procedures e.g. ref, yyyy-mm-dd. Record of no breakage is also available and examined during the audit.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.5 Wood",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a wood policy (ref, yyyy-mm-dd); wood is not allowed in open product areas or and where wood is used in open products area, the condition is monitored to ensure it is fit for purpose (e.g. undamaged, taint-free, untreated) e.g. initials, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.6 Other physical contaminants",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Procedures are in place to prevent physical contamination of raw materials by raw material packaging, ref, yyyy-mm-dd. Portable handheld equipment e.g. pens, phones, tablets are controlled to minimise physical contamination by being [e.g. one-piece, tethered, metal-detectable, restricted, excluded from open product areas etc.]. Other foreign-body contamination risks have been considered and are controlled e.g. ref, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10 Foreign-body detection and removal equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.1 Selection and operation of foreign-body detection and removal equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Foreign body control measures included filters, sieves, metal detection, magnets, optical sorters, X-ray, physical separation equipment (gravity separation / fluid bed technology).The site holds a documented system for the type, validated location, frequency and sensitivity of the removal methods. Procedure (ref, yyyy-mm-dd) in place in the event of a failure of foreign-body detection and removal equipment, including corrective action (e.g. isolation / quarantine) and reporting.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.2 Filters and sieves",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No filters or sieves are used for foreign body control. orSieves or filters are used (e.g. XXµm / gauge / mm) and checked for integrity, captured materials and cleanliness every use or day or week based on risk assessment (ref, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.3 Metal detectors and X-ray equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No metal detection in place, based on documented defined justification (ref, yyyy-mm-dd).orThe company have metal detection in place and is identified as a CCP. Foreign body detection is located after packing / in-flight. The metal detectors and X-ray detectors were in-line detectors, with rejection system into locked cages or boxes, alarmed, with belt stop or in-flight with divert.Metal detectors are tested at start and end of shift and hourly during production. The test piece sizes were as documented in the HACCP. Testing procedure included effective operation of detection and rejection mechanisms, memory, reset function and failsafe systems. A successful test was carried out during the audit.X-ray equipment is tested at start and end of shift and hourly during production. The test piece sizes were as documented in the HACCP. Testing procedure included effective operation of detection and rejection mechanisms, memory, reset function and failsafe systems. A successful test was carried out during the audit.When routine testing of the foreign body detector shows a failure to detect or reject then product tested since the last acceptance test is isolated and re-tested. The procedure also includes action to be taken in the event of any failure between tests.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.4 Magnets",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There are no magnets used in the process.orThe type, location and strength of magnets is documented and procedures (ref, yyyy-mm-dd) are in place for inspection, cleaning, strength testing and integrity checks. Records of checks are maintained e.g. yyyy-mm-dd. ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.5 Optical sorting equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is no optical sorting equipment.or[Detail equipment]. Documented checks of optical sorting equipment are carried out at XX frequency, according to manufacturer instructions or procedure, ref, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.6 Container cleanliness – glass jars, cans and other rigid containers",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No final product rigid containers.orProcedures are in place, based on risk assessment, to minimise foreign body contamination from the packaging containers, ref, yyyy-mm-dd; glass jars or cans are inverted and purged with compressed air (e.g. XXbarg) / steam. The effectiveness of container cleaning is checked and recorded e.g. ref, yyyy-mm-dd. The automatic rejection system is regularly tested e.g. ref, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.7 Other foreign-body detection and removal equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No other foreign-body detection and removal equipment.orOther foreign-body detection and removal equipment (e.g. XX) is located in XX due to the presence of (contaminant) from previous processing step, according to the justification in the HACCP plan.Documented checks are completed in accordance with manufacturer instructions at XX frequency.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.11 Housekeeping and hygiene",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Cleaning is managed by the Hygiene Manager and a team of trained operators or cleaners or external contract cleaners. Generally, the equipment and premises were found to be in a clean and hygienic condition.Cleaning procedures (ref, yyyy-mm-dd) were in place detailing responsibility, item, frequency (based on risk), method, chemicals, contact time, materials and records for cleaning operations. Procedures identified limits for acceptable cleaning operations; when monitored results are outside of the acceptable limits, defined corrective actions are taken. Cleaning effectiveness is validated by visual audits and microbiological swabbing, ATP swabbing, allergen swabbing, contact plates, against a schedule (ref, yyyy-mm-dd) and results were seen, e.g. XXX, yyyy-mm-dd. Sufficient resources are provided for cleaning and hygiene operations and cleaning staff are adequately trained. Cleanliness checks are completed prior to release to production. The manufacturing area audit included opening of process equipment, observation of a clean down or changeover of product, a shift change and a line start-up, or There was no opportunity to observe meat species / allergen / recipe / a shift change or a line start-up.Conditions observed were hygienic and the cleaning methods met with requirements. Cleaning equipment is hygienically designed, fit-for-purpose and suitably identified for intended use being colour-coded, e.g. XX for food contact surfaces.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.11.7 Cleaning in place (CIP)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There are no cleaning-in-place (CIP) facilities.orThere is a schematic diagram of the layout of the CIP system (ref, yyyy-mm-dd). The design and operation of the CIP system has been validated (ref, yyyy-mm-dd). Alterations or additions to the CIP system are authorised by a suitably competent individual (e.g. ROLE).Validated limits of acceptable and unacceptable performance for key process parameters are defined, based on swabbing regime / rinse water analyses (for residual chemicals / pH).The CIP system is maintained and cleaned by suitably trained staff (e.g. ROLE, yyyy-mm-dd) to check filters, hoses, detergent concentrations. CIP facilities are routinely monitored (e.g. frequency) based on risk assessment. ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.11.8 Environmental monitoring",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is no requirement for an environmental monitoring programme based on BRCGS Position Statement or documented risk assessment (e.g. ref, yyyy-mm-dd).orThere is an environmental monitoring programme, based on risk (ref, yyyy-mm-dd), with sampling protocols i.e. locations, frequency, methods, target organisms e.g.Location, frequency, organisms and limitsFood contact surfaces swabbed monthly for TVC @22°C , limits XXcfu/cm2; result for yyyy-mm-dd, satisfactory.Appropriate control or action limits were defined. When monitored results are trending towards the limits or outside of the acceptable limits, defined corrective actions are taken, e.g. XXXX.The company reviews the environmental monitoring programme annually, or more frequently if there are any relevant changes or developments to their process; most recently updated on yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.12 Waste and waste disposal",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Waste streams comprise mainly cardboard, polythene, with some Cat 1 and 3 meat and other food waste.There are no categorised waste materials handled on site (all waste food is disposed of as general waste).All waste is well managed and collected by licensed operators (e.g. XX; CBDU, expires yyyy-mm-dd).All waste containers are well-managed, maintained in good condition and covered. When waste is removed from an open product area, the waste flow has been risk assessed and managed to minimise potential contamination.No disposal of trademarked waste materials or Trademarked waste materials would be separated into different product and packaging waste streams and sent to specialist disposal facility (e.g. XXX) with records maintained.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.13 Management of surplus food and products for animal feed",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No [customer-branded] surplus food products or products intended for animal feed.orAppropriate controls are in place for the disposal of surplus own-branded or customer-branded products with customer specific requirements e.g. XXX. With consent, products are sold or donated to staff or charities; they are fit for consumption and traceability is maintained.orBy-products and surplus products intended for animal feed are segregated from waste and protected from contamination during storage.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.14 Pest management",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a pest management programme to ensure pests do not pose a risk to products. The company use XX for pest control or have appropriately trained staff. The contract or plan defined eight routine, four field biologist and four EFK inspections per annum. There is a risk assessment to determine the pest inspection frequency and service levels provided (ref, yyyy-mm-dd) which would be reviewed following changes to the building, production processes or a significant pest issue.Additionally, the site conducts some of its own pest control (e.g. EFK management). Relevant staff are trained in pest control (e.g. initials, training, yyyy-mm-dd) which includes meeting current legal requirements for training. Site management keep up to date with pesticide legislation via the pest control contractor, the internet, expert biologists. Safe storage and handling of pesticides is maintained, being locked in a designated store.The following pests are covered: rodents, crawling and flying insects, SPI and birds.A site plan covering all areas on site is in place (ref, yyyy-mm-dd) which identifies all pest control devices and locations. Rodent control devices were appropriately located and maintained; if toxic baits used how controlled to avoid contamination. Insect monitoring devices or EFK lamps are appropriately sited to avoid contamination of product and were all operational (e.g. bulbs changed annually, most recently on yyyy-mm-dd).The site has adequate measures in place to prevent birds from entering buildings or roosting above loading or unloading bays by use of bird deterrent spikes, gels, netting, absence of external canopies above intake and despatch doors.Where pest activity is identified this is documented in the pest control records (e.g. external rodent activity, yyyy-mm-dd). In the event of any infestation, appropriate actions would be taken, subject to non-conforming product procedure. Reports were seen for routine inspections (e.g. yyyy-mm-dd). An annual (based on risk) in-depth field biologist report was seen (ref, yyyy-mm-dd) including review of existing pest management measures.Results of pest control inspections are assessed and analysed for trends following each site inspection or annually. There have been no major pest issues since the previous BRCGS audit; evidence of light external rodent activity had occurred. No pest activity was seen during the audit.Employees have been trained to identify signs of pest activity (e.g. XX on yyyy-mm-dd) and report incidents to a designated Manager (XX).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.15 Storage facilities",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Storage facilities consisted of X ambient, X chilled and X frozen stores. Storage procedures (ref, yyyy-mm-dd) were in place and included requirements for temperature control and preventing cross-contamination, damage or taint uptake. In all cases materials were stored appropriately i.e. away from the walls and off the floors.Packaging is stored separately from raw materials and finished products.Allergenic, IP, gluten-free raw materials have segregated, labelled storage areas and transfer processes.Temperature control in chilled or frozen storage areas is recorded and maintained by 4-hourly (24 x 7 x 365) manual temperature checks or dataloggers or an automated continuous temperature monitoring system. The automated temperature monitoring system will alarm (out-of-hours) to management phones in the event of raised chiller / freezer temperature or systems failure.Controlled atmosphere storage is specified in the procedures and is effectively controlled with records maintained.Outside storage of goods is protected from contamination and deterioration and checked prior to usage.Stock is effectively rotated using FIFO / FEFO rules and in respect of shelf lives.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.16 Despatch and transport",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Despatch and transport procedures were examined (ref, yyyy-mm-dd) which covered temperature controls of dock areas and vehicles, loading, unloading, handling and inspection.Checks to minimise cross-contamination from previous loads are performed on incoming and despatch vehicles, including bulk road tankers, with records maintained (e.g. yyyy-mm-dd).Temperatures within transport vehicles are controlled and monitored with data logs available.Maintenance systems and cleaning procedures are in place for all vehicles and equipment used for loading and unloading with records maintained (e.g. yyyy-mm-dd).Procedures are in place and communicated to hauliers for the safe transport of products including restrictions of mixed loads, security during transit, actions to take in case of breakdown or cooling failures.Finished products are distributed by the company or approved subcontracted hauliers (e.g. XX; BRCGS S&D expires yyyy-mm-dd or signed contracts) or are collected by customer-supplied vehicles.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 28",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.2.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No at-risk materials or products identified",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.3.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No building work or temporary structures",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.4.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No suspended ceilings or unsealed roof voids",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.4.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No elevated walkways, access steps or mezzanine floors above or adjacent to production lines",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.4.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No opening windows or roof glazing in product-risk areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.4.11",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No plastic strip curtains used",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.5.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No food contact steam, air or other gases",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.6.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No battery-charging equipment ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.7.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No temporary repairs ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.7.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No engineering workshop",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.8.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No smoking allowed anywhere on site",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.8.8",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No catering facilities or vending machines",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.1.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No strongly scented or taint-forming materials in use",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.2.1 ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No sharp metal implements",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.2.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No staples, paper clips or drawing pins associated with raw material packaging used in open product areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.3.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No glass windows in product-risk areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.4.1 – 4.9.4.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No glass or brittle final product containers",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.9.5.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No wood in use on site",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.2.1 – 4.10.2.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No filters or sieves used for foreign body control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.3.2 – 4.10.3.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No metal detection or X-ray",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.3.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No X-ray",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.4.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No magnets",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.5.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No optical sorting equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.6.1 – 4.10.6.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No final product glass jars, cans or similar rigid containers",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.6.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No final product rigid container cleaning equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.10.7.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No other foreign-body detection or removal equipment ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.11.7.1 – 4.11.7.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No CIP",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.11.8.1-4.11.8.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Products are inherently safe due to the intrinsic properties of the product which do not support the growth or survival of pathogens or spoilage organisms ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.12.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No categorised legally-licensed waste materials",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.12.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No unsafe products or substandard trademarked waste",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.13.1 – 4.13.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No surplus food passed on to staff or charities ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.13.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No products intended for animal feed",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.14.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Pest control activities not undertaken in-house",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.15.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No temperature-controlled storage",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.15.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No controlled atmosphere storage",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.15.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No external storage of raw, intermediate or final product food materials",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.16.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No site owned or managed temperature-controlled transport",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.16.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No site owned or managed despatch vehicles or associated equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "4.16.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No sub-contracted transport",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "5. Product control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.1 Product design / development",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Procedures are documented for new product development and/or any product, packaging or manufacturing changes to manage any new hazards (ref, yyyy-mm-dd).All new products and changes to product formulation, packaging or methods of processing, based on documented agreed specific customer requirements, are formally approved by the HACCP team (e.g. product, yyyy-mm-dd).As per the procedure, any new products would be trialled using production equipment to validate the processes and to ensure products meet safety and quality criteria.Shelf-life trials are part of the procedure and records maintained (e.g. ref, yyyy-mm-dd) including accelerated shelf-life determination trials (details) or shelf-life based on industry standard guidelines, historical experience or science-based justification (for long life products).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.2 Product labelling",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Product labelling meets legal requirements in the country of use. Procedure ref, yyyy-mm-dd ensures ingredient and allergen labelling is checked against product recipe and ingredient specifications and that all labelling artwork is approved and sign-off. Labels witnessed during the audit were satisfactory, e.g. XXX.There is a process (ref, yyyy-mm-dd) to ensure that labelling information is reviewed (e.g. by ROLE) when there are any changes to recipe, raw materials, suppliers, country of origin or legislation or no such changes since previous BRCGS audit.All or Some or No labelling is the responsibility of the customer and the site has a process to ensure that accurate information is provided to enable accurate label creation.The labelled cooking instructions provided are fully validated (based on each suggested cooking method), e.g. for product XX on yyyy-mm-dd. ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.3 Management of allergens",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The site has completed an assessment (ref, yyyy-mm-dd) to establish the presence and likelihood of allergenic cross-contamination, including review of all raw material specifications. There are no allergens handled on site.orThe allergens handled on site are gluten, egg, milk, soya, sesame seeds, sulphites, fish, crustaceans, molluscs, peanuts, other nuts, celery, mustard and lupin.A risk assessment (ref, yyyy-mm-dd) has been used to ensure cross-contamination is avoided by considering the physical state of allergens and process flows and identifying control measures. There is an allergen management procedure (ref, yyyy-mm-dd) which prevents cross-contamination by: physical or time segregation, use of dedicated allergen workwear, use of dedicated equipment and utensils, production scheduling, restrict movement of airborne dusts, waste controls, spillage controls, staff food restrictions, changeover clean downs between recipes (effective clean down observed on yyyy-mm-dd), segregated NPD materials, discard first few new recipe packs off of the packing line, dedicated labelled storage locations, awareness of worldwide customer allergen requirements (e.g. products exported to Canada / Japan).No rework or Rework material is controlled by reuse into like-for-like recipes only.No allergen warning labels are used or Allergen warning labels are used based on legislation, national guidelines, codes of practice. Any specific geographical legislative requirements for raw materials, the country of production and/or the destination country are managed.No suitability claims are made for allergens or food sensitivities or Allergen claims are made (e.g. gluten-free) which have been validated by product analysis (e.g. product XX on yyyy-mm-dd) and routinely verified.Fully validated cleaning procedures (e.g. ref, yyyy-mm-dd) are in place to minimise allergenic cross-contamination. Verification of cleaning effectiveness is by protein swabbing, analysis of final products for allergen presence. Cleaning equipment was seen to be satisfactory. Records of clean down practices and the controls (e.g. production scheduling) were seen (e.g. yyyy-mm-dd).It was (not) possible to witness the allergen management processes during a product changeover (e.g. XXX to XXX); all seen to be satisfactory.All employees have been trained in allergen awareness (e.g. initials on yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.4 Product authenticity, claims and chain of custody",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Personnel (ROLES) completing vulnerability assessment and VACCP plans have the appropriate knowledge or are suitably trained (e.g. Role, training, yyyy-mm-dd). Information on any historical or developing threats is accessed through trade associations, government sources and private resource centres e.g. FSA, foodfraud.org, RASFF. The vulnerability assessment (ref, yyyy-mm-dd) included:an assessment of any historical evidence of substitution or adulterationeconomic factors which may make adulteration or substitution more attractiveease of access to raw materials through the supply chainsophistication of routine testing to identify adulterantsthe nature of the raw material.The VACCP is routinely reviewed to reflect any changes that could lead to rising risks and as a minimum annually; last reviewed yyyy-mm-dd.No items were found to be at risk.orProducts identified as being at-risk (e.g. XXX) were subject to appropriate assurance (e.g. XXX) or testing (e.g. XX, yyyy-mm-dd).[Note: any claims made in Product Characteristics section must be covered here]No claims are made dependent on raw material status.orWhere product claims are made for provenance or origin / breed or variety / assured status / GMO status / identity preserved / trademarked ingredients, the status of every batch of raw material is verified by purchasing records (e.g. for raw material XX on yyyy-mm-dd), traceability of raw material usage, final product packing records and any legal and certification requirements.No claims about methods of production.orThe site holds certification for production of Halal (XXX certification, expires yyyy-mm-dd) / Kosher (XX certification expires yyyy-mm-dd) / Organic products (Soil Association, expires yyyy-mm-dd), Fairtrade (FLO ID XXX, expires yyyy-mm-dd).No nutritional or health claims made.orFor products designed to enable a nutritional or health claim (e.g. ‘suitable for vegetarians/vegans’, high in fibre etc.) to be made, the process has been fully validated to meet the stated claim, e.g. product, yyyy-mm-dd.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.5 Product packaging",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Primary packaging suitability for the intended use was confirmed by specifications, certificates of conformity and supplier declarations or data e.g. plastic trays, flow wrap film, lacquered aluminium cans, PET bottles.No product liners or bags used.orThe company uses product liners or bags (in direct contact with ingredients / work in progress) which are sufficiently tough and appropriately coloured to minimise contamination risks.There is a dedicated packaging storage area; packaging is segregated (e.g. in warehouse or mezzanine storage area), covered and traceability of part-used batches is maintained.There is a procedure (ref, yyyy-mm-dd) to manage obsolete packaging and labels.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.6 Product inspection, on-site product testing and laboratory analysis",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a scheduled programme of product testing in place (ref, yyyy-mm-dd), with defined methodologies, sampling process, frequency and test result limits. Products are tested for:Microbial (including for TVC, ACC, Coliforms, E. coli, Enteros, Salmonella, Listeria, Pseudomonas, yeasts, moulds, Staphylococcus aureus, Bacillus cereus, include test frequency and limits if appropriate)Chemical (pH, aw, salt, meat content, protein, moisture, fat, antibiotics, ABV%, colour, sg, Brix, pesticide residues, heavy metals)Physical (viscocity)Nutritional (based on McCanse and Widdowson / NutriCalc calculations)Organoleptic (appearance, taste, odour, texture)The significance of laboratory results had been understood and acted upon in accordance with established process (test results are reported, approved and actioned). Test results are reviewed regularly to identify trends. Measurement uncertainty is also considered.Out-of-specification test results have been reviewed (e.g. microbial for XXX on yyyy-mm-dd; re-sampled yyyy-mm-dd; satisfactory). The shelf-life validation and on-going verification testing regime includes microbial / chemical / sensory assessment at / through product life, e.g. product XX, on yyyy-mm-dd.All pathogen analyses are subcontracted to an external accredited laboratory (LAB, UKAS XXXX) or conducted internally. The on-site laboratory was appropriately segregated from production with controls in place to prevent any cross-contamination.orThere is no on-site laboratory.Procedures are in place to ensure the reliability of all laboratory results including recognised test methods, documented testing procedures (ref, yyyy-mm-dd), suitably qualified staff, verification of the accuracy of test results (ring / proficiency testing, e.g. yyyy-mm-dd), use of appropriated calibrated and maintained equipment.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.7 Product release",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There are (no) positive release procedures. Product is released based on microbial, chemical final product analysis results, satisfactory CCPs and QC on-line checks. Product release is authorised by the (ROLE).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.8 Pet food and animal feed",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No pet foods or animal feed manufactured.orPet food and animal feed is formulated and designed for the intended use. There are specific procedures for the management of any ingredients, raw materials, products or rework, which could be harmful to unintended or different animal species (ref, yyyy-mm-dd). Medicinal substances are controlled and monitored (ref, yyyy-mm-dd). In all cases, procedures meet the legal requirements in the country of sale or intended use.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.9 Animal primary conversion",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "No animal primary conversionorThere is a risk assessment for potential prohibited substances (ref, yyyy-mm-dd). During the receipt of live animals, the inspection is completed by a suitably qualified individual at lairage and post-mortem (e.g. initials, yyyy-mm-dd). Procedures are in place to maintain traceability for all edible parts of the carcass (ref, yyyy-mm-dd). The time and temperature requirements are established for all post-slaughter processes (e.g. post-slaughter cooling, processing, storage and distribution).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 30",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.1.3 – 5.1.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No product development since last audit",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.2.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No customer or third-party responsibility for label information",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.2.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No labelled cooking instructions",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.3.2 – 5.3.8 ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No allergens handled on site",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.3.5 ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No allergenic rework materials",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.3.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No allergen warning labels used",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.3.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No allergen suitability claims made",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.4.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No labelled claims based on raw material status",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.4.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No labelled claims made about methods of production",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.4.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No labelled product claims (nutritional or health, IP) made ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.5.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No product, ingredient or WIP contact liners used",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.6.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No pathogen testing",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.6.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No on-site laboratory",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.7.1",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No positive release requirements",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.8",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No pet food products or animal feed",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.8.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Single animal species pet foods manufactured only ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.8.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No medicinal substance in pet foods",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "5.9",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No animal primary conversion ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "6. Process control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1 Control of operations",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Process monitoring includes pH, Brix, temperatures of thermal treatment, cooling, blast chilling, process environment, chilled and frozen ingredient and final product storage facilities, time and pressure, metal detection (e.g. on yyyy-mm-dd); all recorded and monitored.There are procedures and work instructions in place for recipes, mixing, equipment settings, cooking and cooling times, labelling, CCP operations that ensure consistent product is produced and packed to finished product specification (e.g. ref, yyyy-mm-dd), which include corrective action procedures in case of equipment or process failure (e.g. quarantine affected products, laboratory analysis, rework into future recipe). No equipment settings critical to product safety or legality or Equipment settings critical to the product safety or legality are controlled and only amended by trained and authorised staff e.g. ROLES.No time, temperature, pressure, chemical process monitoring or Process monitoring (e.g. times, temperatures, pressures, chemical properties) were seen to be adequately controlled and monitored.No in line monitoring devices or Inline monitoring devices (e.g. temperature monitors) used to control process or product quality are linked to an alarm system (e.g. last tested yyyy-mm-dd).No variation in processing conditions within equipment critical to food safety or quality or Where conditions could vary within critical equipment (e.g. temperatures within ovens or freezers), the process characteristics have been validated and verified at FREQUENCY, based on risk (e.g. ref, yyyy-mm-dd).A documented check of the production line is carried out before commencing production and following changes of product.No materials that are outside the scope of the audit or Controls are in place to prevent risks to products within the audit scope from materials that are outside the scope of the audit (e.g. by-products from production processes) [Note: required if there are audit scope exclusions listed in Audit Summary section].",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.2 Labelling and pack control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "There is a process (ref, yyyy-mm-dd) to allocate correct packaging materials or codes to the packing lines. No off-line coding or printing of packaging materials or Offline coding or printing of packaging materials occurs: settings and amendments to the printer parameters (e.g. the input of, or changes to, date codes) are only completed by a trained and authorised member of staff (e.g. ROLES); controls ensure only correctly printed material available; and labelling use is reconciled against expected usage. No product changeover was observed during this audit or A product changeover (from XXX to XXX) was observed and labelling and packaging controls were seen to be applied satisfactorily, including removal of previous and allocation of fresh packaging materials.A documented check (e.g. yyyy-mm-dd) of the production line is carried out before commencing production and following changes of product to ensure the lines have been suitably cleared. Procedures are in place to ensure that products are packed into the correct packaging and correctly labelled (ref, yyyy-mm-dd), with checks hourly / at the start, during, end of production and at product changes. There is no on-line label verification equipment or Procedures are in place for the operation and testing of on-line label verification equipment (ref, yyyy-mm-dd). Testing is completed at FREQUENCY. Procedures include actions in the event of equipment failure.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.3 Quantity, weight, volume and number control",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Products were packed to average weight, minimum weight, catch weight, volume, count, no declared pack weight, in compliance with both customer and legal requirements. Quantities/volumes/weights are checked automatically by an on-line check weigher and manually off-line by taking XX samples every hour / 30 minutes.No bulk quantity products or Bulk quantities are supplied to the customer and the controls in place ensure customer requirements are met (ref, yyyy-mm-dd)A procedure is established for the operation and testing of on-line check weighers (ref, yyyy-mm-dd), including the handling of rejected packs.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.4 Calibration and control of measuring and monitoring devices",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The company have identified and control measuring equipment used to monitor CCPs, product safety, legality and quality. All equipment was calibrated to a method traceable to a national standard, with defined frequency based on risk assessment (ref, yyyy-mm-dd). Uncertainty of calibration is considered.Calibration records observed during the audit include:In-line checkweighers, location, S/N, frequency, calibration dateOff-line scales,Pallet scales,Weighbridge,Standard weights,Reference temperature probe,Hand-held temperature probes,Automated temperature monitoring system for chillers / freezers / pasteurisers / cooking kettles,Site-managed despatch vehicles,Temperature dataloggers,Temperature test caps,Laboratory equipment,Torque meter,Manometers,MAP oxygen analyser,Magnets,Metal detectors,Metal detector test-pieces,Cleaning chemical dosing meters,Flow meters,ATP monitoring devicesProcedure is in place (ref, yyyy-mm-dd) describing the corrective actions when a device is found operating outside specified limits.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 32",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No equipment settings critical to product safety or legality",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No time, temperature, pressure, chemical process monitoring",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No in-line process monitoring devices",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No variation in processing conditions within equipment critical to food safety or quality",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.1.7 ",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No materials that are outside the scope of the audit",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.2.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No on-line automated vision or bar code scanning equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.3.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No bulk quantity products",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.3.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No on-line check weighing equipment ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "6.4.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No reference measuring equipment",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "7. Personnel",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.1 Training: raw material handling, preparation, processing, packing and storage areas ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "The company have comprehensive training and supervision procedures (ref, yyyy-mm-dd) for all permanent and temporary staff and contractors, which includes induction, CCP training, work instructions, hygiene rules and refresher training. Training records were observed during the audit, including:CCP training (e.g. Name/initials on yyyy-mm-dd, duration, provider) labelling and packaging processes (e.g. Name/initials on yyyy-mm-dd)allergen awareness training (e.g. Name/initials on yyyy-mm-dd) any others [Note: CCP / labelling / allergen awareness must be reported]Training programmes have been developed based on required competencies and are delivered in the appropriate languages for trainees.On-going staff competency is assessed by appraisal, annual refresher training programme, competency review, in-process observations and internal audits. A satisfactory level of competence was demonstrated by site staff, evaluated through staff interviews during the audit. ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Comprehensive site hygiene rules are documented (ref, yyyy-mm-dd) which prohibited watches, jewellery, piercings, false fingernails, excessive aftershaves / perfumes in open product areas. Staff, agency staff, contractors and visitors are required to sign to confirm their understanding and good compliance by staff was noted during the audit. Compliance is checked daily by on-going supervision and during weekly or monthly hygiene audits (e.g. yyyy-mm-dd). Handwashing was mandated on entry to production areas and every XX hours.Blue-coloured metal-detectable plasters were available and their issue was logged (ref, yyyy-mm-dd); a sample from each batch of plasters was tested through the on-site metal-detector (yyyy-mm-dd).Personal medicines were stored and controlled appropriately (ref, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.3 Medical screening",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Procedures require staff to notify management of any contact with infectious disease or other relevant condition (ref, yyyy-mm-dd). Employees have been trained to be aware of symptoms of infection, disease or condition which would prevent working with open food, e.g. via the Induction Programme on yyyy-mm-dd. There is also a return-to-work questionnaire following absence due to illness, e.g. initials on yyyy-mm-dd.Visitors and contractors are made aware of symptoms of infection, disease or condition which would prevent those visiting areas with open food; the auditor was required to complete a health questionnaire before gaining access to the site.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.4 Protective clothing: employees or visitors to production areas",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Rules for protective clothing for all personnel, contractors and visitors are documented (ref, yyyy-mm-dd) and include removal of protective clothing away from production, processing and storage areas.Protective clothing is available in sufficient quantities and comprises hairnets, beard snoods, mob caps, blue-coloured disposable gloves (suitable for food-use), disposable arm sleeves, disposable colour-coded tunics or coats, shirts, T-shirts, boilersuits, trousers, Wellington boots, plastic aprons and safety shoes. A daily workwear change is provided with XX sets of workwear provided to each employee. Protective clothing for the high-risk / high-care area is changed as a minimum daily.Laundering is performed by internal or an approved external laundry (Company, Certification – expires yyyy-mm-dd; last audited by XXXX on yyyy-mm-dd). The effectiveness of laundering is monitored by visual inspection and workwear swabbing regime, e.g. for TVC and Staphylococcus aureus on yyyy-mm-dd.orHome laundering is permitted, since protective clothing is only worn in a low-risk area or enclosed product area and is worn to protect the employee from the products handled. Disposable, blue-coloured gloves are replaced regularly and are confirmed as food-grade (test report ref, yyyy-mm-dd).Reusable protective clothing unsuitable for laundering e.g. aprons, boots, chainmail, are cleaned and disinfected regularly (based on risk).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 34",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.2.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No metal detection",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.4.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Only single-use disposable protective clothing is worn",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.4.5",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No gloves used",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "7.4.6",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No re-usable protective clothing that cannot be laundered",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "8. Production risk zones – high risk, high care and ambient high care production risk zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.1 Layout product flow and segregation in high-risk, high-care and ambient high-care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorProduction zones identified on the site are high-risk, high-care, ambient high-care, low-risk, enclosed product and non-product zones. The site plan (ref, yyyy-mm-dd) identifies all the production zones and the location of pathogen control steps.There is appropriate physical segregation of the high-care or high-risk area, including a dedicated entry system, with appropriate procedures e.g. changeover from low-risk to high-care.An ambient high-care area has been identified by a documented risk assessment (ref, yyyy-mm-dd) and appropriate and effective procedures to prevent final product contamination are in place.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.2 Building fabric in high-risk and high-care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThere is a map of the drains for the high-care or high-risk areas (ref, yyyy-mm-dd) which shows the direction of flow and the location of any equipment fitted to prevent the back-up of wastewater.High-risk areas are supplied with sufficient changes of filtered air, based on risk assessment.Removable walls are used; control measures including xxx in place used to minimise the risk of contamination.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.3 Equipment and maintenance in high-risk and high-care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorAppropriate procedures are in place during maintenance activities in high-risk or high-care areas to ensure that segregation requirements are maintained. Tools and equipment are dedicated for use in the high-risk or high-care area and are retained in that area.Where equipment is removed from the high-risk or high-care area, there is a procedure (ref, yyyy-mm-dd) to ensure the cleanliness and removal of contamination hazards before being accepted back into that area.Portable equipment in high-risk or high-care area is visually distinctive and retained for use in that area only or fully cleaned after use to prevent contamination.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.4 Staff facilities for high-risk and high-care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorFor the high-risk or high-care area there is a designated changing facility with clear instructions for changing into and out of dedicated protective clothing, visually distinctive protective clothing which must not be worn outside the area, procedures for handwashing with disinfection, dedicated footwear / boot wash facilities. Environmental monitoring is in place to verify the effectiveness of footwear controls.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.5 Housekeeping and hygiene in the high-risk high-care zones ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorEnvironmental cleaning procedures in high-risk or high-care areas are comprehensive. Microbiological limits for acceptable and unacceptable cleaning performance are defined. Corrective actions are defined for when test results are outside of the acceptable limits.Cleaning equipment in the high-risk or high-care area is satisfactory, being fit for purpose, stored hygienically and visually distinctive (e.g. colour-coded red).Cleaning-in-place equipment is used with appropriate control measures in place (ref, yyyy-mm-dd) to minimise the risk of contamination.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.6 Waste / Waste disposal in high risk, high care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorRisk of cross-contamination of products by waste streams is minimised through appropriate controls, as identified by risk assessment (ref, yyyy-mm-dd) e.g. movement and flow of waste and waste containers between different risk zones.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.7 Protective clothing in the high-risk high-care zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/Aor Laundering is performed by internal or an approved external laundry (Company, Certification – expires yyyy-mm-dd). The effectiveness of laundering is monitored by visual inspection and workwear swabbing regime, e.g. for TVC and Staphylococcus aureus on yyyy-mm-dd. The approved contracted or internal laundry has been audited, last on yyyy-mm-dd, on a risk-based frequency e.g. annually.Protective clothing for the high-risk or high-care area is changed as a minimum daily. Adequate segregation of high-risk or high-care clothing from low-risk clothing is maintained.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Tableau 36",
+      "data": [
+        [
+          {
+            "text": "Details of non-applicable clauses with justification",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Clause/Section Ref",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Justification",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.1-8.7",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No high-risk, high-care or ambient high-care production zones on site",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.1.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No high-risk production zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.1.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No high-care production zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.1.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No ambient high-care production zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.2.2",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No high-risk production zones",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.2.3",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No removable wall ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "8.5.4",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "No CIP ",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "9. Requirements for traded products",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.1 The food safety plan - HACCP",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThe company has a HACCP or food safety plan for the traded products (separate plan from or combined with their existing HACCP plans developed in section 2). The scope for traded products accurately reflects all products and processes (e.g. goods receipt, storage, despatch).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.2 Approval and performance monitoring of manufacturers / packers of traded food products",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThere is a supplier approval procedure (ref, yyyy-mm-dd), including an initial and on-going approval for manufacturers of traded products. Records of the manufacturer approval and review processes were examined e.g. company, yyyy-mm-dd. Supplier approval questionnaires covered the full scope as required by the Standard and were reissued every 3 years.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.3 Specifications",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorSpecifications are available for all products e.g. product, yyyy-mm-dd. Records of formal agreement for specifications were in place, including meeting customer requirements. Specifications are signed and approved and reviewed every three years, or when there are any relevant changes to consider.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.4 Product inspection and laboratory testing",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThere is a risk-based product sampling and assurance programme (ref, yyyy-mm-dd) to verify that the traded products are in accordance with buying specifications and meet legal and safety requirements. Periodic independent product analyses are undertaken e.g. product, yyyy-mm-dd. All analyses are performed by an accredited laboratory i.e. subcontracted to an external accredited laboratory (LAB, UKAS XXXX) or conducted internally; all testing results are recorded for trending.No labelled claims are made on any traded products. or Where product claims are made for provenance or origin / breed or variety / assured status / GMO status / identity preserved / trademarked ingredients or of Organic, Kosher, Halal, Fairtrade or to enable a nutritional or health claim (e.g. ‘suitable for vegetarians/vegans’, high in fibre etc.) then suitable supporting information is provided by the traded goods supplier.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.5 Product legality",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThere are processes to verify the legality of traded products e.g. labelling ( ref, yyyy-mm-dd)composition  ref, yyyy-mm-dd)declared weight / volume (ref, yyyy-mm-dd)Where customers are responsible for these activities it is clearly reflected in the contract (e.g. XXX, yyyy-mm-dd).",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "9.6 Traceability",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "N/AorThe traceability procedure (ref, yyyy-mm-dd) covers the traceability of traded products for all batches of product and records the last manufacturer. A traceability system test is undertaken at least annually; last test being product on yyyy-mm-dd which was successfully concluded within 4 hours / 1 day.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "Module 11: Meat Supply Chain Assurance",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Scope",
+            "rowspan": 1,
+            "colspan": 1
+          },
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "11.1 Traceability",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "11.2 Approval of meat supply chain",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "11.3 Raw material receipt and inspection",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "11.4 Management of cross-contamination between species",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "11.5 Product testing",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "11.6 Training",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Audit Report",
+      "data": [
+        [
+          {
+            "text": "Module 13: Meeting FSMA Requirements for Food – July 2022",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Preventive Controls for Human Food: 21 CFR Part 117 (Clauses 13.1.1 – 13.1.33)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Preventive Controls for Animal Food: 21 CFR Part 507 (Clause 13.2.1)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Food Defence: 21 Part 121 (Clauses 13.3.1 – 13.3.11)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Sanitary Transportation: 21 CFR Part 1 Subpart 0 (Clauses 13.4.1 – 13.4.9)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Produce Safety: 21 Part 112 (Clauses 13.5.1 – 13.5.18)",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ],
+        [
+          {
+            "text": "Click or tap here to enter text.",
+            "rowspan": 1,
+            "colspan": 1
+          }
+        ]
+      ]
+    }
+  ]
+}
