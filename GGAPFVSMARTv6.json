@@ -1,0 +1,1356 @@
+{
+  "referentiel": {
+    "titre": "RÉFÉRENTIEL SYSTÈME RAISONNÉ DE CULTURE ET D'ÉLEVAGE SMART",
+    "sousTitre": "Principes et critères applicables aux fruits et légumes",
+    "organisation": "GLOBALG.A.P.",
+    "versionInfo": {
+      "version": "6.0_SEP22",
+      "langue": "Française",
+      "note": "En cas de doutes, la version anglaise est déterminante."
+    },
+    "datesEffectives": {
+      "enVigueurDepuis": "2022-10-01",
+      "obligatoireAPartirDu": "2024-01-01"
+    },
+    "sections": [
+      {
+        "id": "FV-SMART 1",
+        "titre": "DOCUMENTATION INTERNE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 01.01",
+            "principe": "Il existe une procédure pour gérer et contrôler les documents et enregistrements.",
+            "criteres": "Les documents et enregistrements portant sur la mise en œuvre des exigences doivent être gérés et contrôlés.\n\nUn système doit montrer :\n- La manière dont les documents et enregistrements sont créés, révisés, approuvés et actualisés\n- La manière dont les révisions sont effectuées et les changements ou modifications apportées\n- La manière dont les mises à jour de version sont réalisées\n- La manière dont la documentation nécessaire est mise à disposition du personnel concerné\n\nLa documentation doit être :\n- Identifiée par un numéro et/ou une date de publication, avec une pagination adaptée\n- Suffisamment détaillée\n- Révisée périodiquement afin de garantir la conformité continue aux exigences applicables\n- Fournie au personnel concerné\n- Révisée afin d'intégrer les modifications nécessaires des documents normatifs ou de référentiel dans les délais prévus par GLOBALG.A.P.\n- Approuvée par le personnel habilité avant d'être distribuée\n- Annulée de manière effective une fois obsolète",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 01.02",
+            "principe": "Les enregistrements à des fins d'audit sont à jour. Sauf mention particulière, les enregistrements sont conservés pour une durée de deux ans.",
+            "criteres": "Tous les enregistrements créés ou conservés par le producteur à des fins d'audit doivent :\n- Être conservés de manière sécurisée, immédiatement accessibles et tenus à jour\n- Être conservés pendant au moins deux ans, voire plus si des clients l'exigent\n- Être exploitables et bénéficier d'une sauvegarde s'ils sont utilisés sous forme électronique\n- Couvrir au moins les trois derniers mois avant la date du premier audit par l'organisme de certification (OC), ou commencer à la date d'inscription si cette période couverte est plus longue\n- Mentionner en détails chaque domaine et toutes les activités couvertes par l'inscription\nSi un enregistrement particulier devait manquer, le principe correspondant à cet enregistrement est considéré comme non conforme. Ainsi, si la date d'application manque sur un seul enregistrement de pulvérisation, le principe en question doit être déclaré non conforme (non-conformité globale ou non selon le cas).",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 01.03",
+            "principe": "Le producteur remplit au minimum une auto-évaluation/un audit interne par an sur la base du référentiel.",
+            "criteres": "Cette auto-évaluation/cet audit interne doit évaluer la conformité, examiner la mise en œuvre et favoriser le recensement des possibilités d'amélioration.\n\nUne auto-évaluation documentée pour les producteurs individuels, ou un audit d'exploitation interne et du système de gestion de la qualité (SGQ) interne pour les producteurs multisites avec SGQ et les groupements de producteurs doit :\n- Avoir lieu au moins une fois par an et avant l'audit par l'organisme de certification (OC)\n- Être réalisé par le producteur, un travailleur désigné responsable, un consultant, et/ou dans le cadre d'un SGQ\n- Inclure tous les thèmes applicables couverts par le référentiel/champ d'application, y compris ceux pris en charge par des sous-traitants (par ex., la récolte et les traitements/manipulations post-récolte)\n- Évaluer tous les sites et produits concernés\nLes auto-évaluations doivent inclure des remarques sur les preuves relevées pour tous les principes et critères non applicables et non conformes de niveau « Exigence Majeure » et « Exigence Mineure ». Dans le cas des audits d'exploitation internes, ces remarques doivent suivre les « Modalités générales GLOBALG.A.P. - Règles applicables aux groupements de producteurs et producteurs multisite avec SGQ ».",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 01.04",
+            "principe": "Des mesures correctives efficaces sont prises pour remédier aux non-conformités globales relevées pendant les auto-évaluations/audits internes.",
+            "criteres": "Ces mesures correctives doivent être documentées. Tout changement nécessaire doit être mis en œuvre. La conformité à toutes les Exigences Majeures applicables et à au moins 95 % des Exigence Mineures applicables est indispensable.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 2",
+        "titre": "PLAN D'AMÉLIORATION CONTINUE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 02.01",
+            "principe": "Il existe un plan d'amélioration continue documenté.",
+            "criteres": "Le producteur doit évaluer l'activité agricole et répertorier les améliorations à effectuer en fonction du référentiel. Ces améliorations doivent s'inscrire dans un plan couvrant une période pouvant aller jusqu'à trois ans.\n\nLe plan d'amélioration continue doit comprendre les objectifs définis par le producteur lui-même et décrire les modalités de suivi de l'avancement vers chaque objectif. Ce plan peut inclure :\n- Une description de l'objectif d'amélioration\n- L'état actuel, avec la date d'adoption de l'objectif initial\n- L'activité prévue\n- Le résultat visé avec une estimation de la date de réalisation de l'objectif",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 02.02",
+            "principe": "Il existe des preuves de l'application d'un plan d'amélioration continue.",
+            "criteres": "La mise en œuvre des points mis en évidence dans le plan d'amélioration continue doit s'accompagner d'éléments justificatifs. Ces éléments justificatifs peuvent prendre la forme de nouvelles règles ou procédures, d'un partage de données (afin de quantifier les changements), de formations, etc.\nLe plan d'amélioration continue doit s'accompagner d'éléments justificatifs documentés. Les éléments justificatifs conservés peuvent notamment inclure :\n- Le résultat effectif des actions entreprises, avec leur date d'évaluation\n- Des commentaires sur les raisons de la réussite ou de l'échec de la mesure\n- Si l'un des objectifs n'a pas été atteint, une explication et la description des suites données\n- Le partage des données pertinentes avec le secrétariat GLOBALG.A.P.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 3",
+        "titre": "GESTION DES RESSOURCES ET FORMATION",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 03.01",
+            "principe": "Les rôles et responsabilités des travailleurs dont les activités ont un impact sur la mise en œuvre du référentiel sont définis.",
+            "criteres": "Les travailleurs dont les fonctions ont un rapport avec la mise en œuvre des activités couvertes par le référentiel doivent être signalés, en précisant notamment :\n- Leur titre et leur fonction\n- Leurs coordonnées\n- Leurs remplaçants en cas d'absence\nUn travailleur doit être clairement désigné comme responsable de la santé, de la sécurité et du bien-être des travailleurs.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 03.02",
+            "principe": "Les personnes responsables des décisions techniques au sujet des intrants peuvent prouver leur compétence en la matière.",
+            "criteres": "Les personnes responsables des décisions techniques relatives aux traitements (quantité et type d'engrais, applications de produits phytopharmaceutiques (PPP) pré- et post-récolte, aussi bien organiques qu'inorganiques, etc.) doivent prouver leur compétence en la matière.\nSi la personne en charge des décisions techniques est le producteur lui-même, un travailleur délégué ou un expert technique, leur expérience doit être complétée par des connaissances techniques à jour (accès à la littérature technique, participation à des formations techniques ciblées, permis d'application de PPP en cours de validité, etc.).\nSi la personne en charge des décisions techniques est un conseiller externe qualifié, sa compétence technique doit être attestée par des qualifications officielles ou des certificats de présence à des formations spécifiques.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 03.03",
+            "principe": "La formation des travailleurs porte sur les aptitudes et compétences nécessaires et donne lieu à des enregistrements.",
+            "criteres": "Les travailleurs doivent être en mesure d'apporter la preuve de leur compétence dans les tâches qui leur sont confiées.\nParmi les tâches qui doivent exiger une formation particulière, on peut citer la manipulation et/ou l'administration des agents agrochimiques, désinfectants, produits phytopharmaceutiques (PPP), biocides et/ou autres substances dangereuses, ainsi que l'utilisation du matériel.\nLes registres et certificats de présence ou autres qualifications pertinentes sont considérés comme des justificatifs recevables.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 03.04",
+            "principe": "Les enregistrements de toutes les activités de formation sont conservés.",
+            "criteres": "Les sous-traitants doivent être formés par le producteur ou apporter la preuve de leur compétence par une certification ou la participation à une formation antérieure.\nLes formations d'initiation ou de rappel doivent faire l'objet d'enregistrements.\nLes enregistrements concernant des formations portant sur la mise en œuvre du référentiel et des bonnes pratiques agricoles doivent préciser :\n- La date de la formation et sa durée\n- Les sujets abordés\n- Le nom du ou des formateurs ou du prestataire de formation\n- Le nom des participants (la liste de présence, par ex.)\n- Une preuve de présence (signature du participant, par ex.)",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 4",
+        "titre": "ACTIVITÉS SOUS-TRAITÉES (SOUS-TRAITANTS)",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 04.01",
+            "principe": "Le producteur veille à la conformité des activités sous-traitées aux principes et critères de ce référentiel qui sont applicables aux services fournis.",
+            "criteres": "Les processus sous-traités et/ou le recours à des sous-traitants sont répertoriés et contrôlés.\nLe producteur doit superviser les activités menées par les sous-traitants afin de garantir le respect des principes et critères du référentiel. Cette règle vaut pour chaque activité et saison dans laquelle intervient au moins un sous-traitant.\nLes preuves de conformité aux principes et critères applicables doivent être collectées par l'intermédiaire d'une évaluation et mises à disposition dans le cadre de l'audit par l'organisme de certification (OC).\nSi cette évaluation est menée par un producteur, les preuves de conformité aux principes et critères applicables doivent être disponibles. Le sous-traitant doit donner son consentement à une évaluation menée par un producteur lorsque le référentiel l'impose.\nUn OC agréé GLOBALG.A.P. peut être amené à évaluer le sous-traitant et à émettre un lettre de conformité globale contenant les informations suivantes :\n- La date de l'évaluation\n- Le nom de l'OC\n- Le nom de l'auditeur de l'OC\n- Les coordonnées du sous-traitant\n- La liste des principes et critères faisant l'objet de l'évaluation\nLes certificats remis à des sous-traitants pour des référentiels qui ne sont pas approuvés officiellement par le secrétariat GLOBALG.A.P. ne constituent pas une preuve recevable de la conformité au référentiel.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 5",
+        "titre": "SPÉCIFICATIONS, FOURNISSEURS ET GESTION DES STOCKS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 05.01",
+            "principe": "Des spécifications concernant les matériaux et services en lien avec la sécurité sanitaire des aliments sont mises à disposition.",
+            "criteres": "Les spécifications relatives à la mise en œuvre du référentiel et à la conformité des clients doivent être mises à disposition.\nCes spécifications doivent être révisées chaque année ou en cas de changement, si ces derniers interviennent avant.\nCes changements peuvent inclure, au besoin :\n- Les spécifications du fournisseur en matière d'emballage (le cas échéant)\n- Les agréments et qualifications autorisées et acceptables pour les prestataires de services (entreprises de lutte contre les nuisibles, laboratoires, etc.)\n- La description des exigences du client\n- Des spécifications particulières pour certaines matières premières\nLa description des modalités d'évaluation de nouveaux fournisseurs en cas d'urgence ou d'interruption des chaînes d'approvisionnement doit également être prévue.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 05.02",
+            "principe": "Un inventaire a été mis en place pour la gestion des stocks sur le site.",
+            "criteres": "Un inventaire des stocks doit permettre d'éviter que les matériaux et produits ne posent un risque pour la sécurité sanitaire des aliments, et d'utiliser ces derniers en fonction des dates limites d'utilisation.\nLes inventaires doivent inclure les matériaux achetés (produits phytopharmaceutiques (PPP), engrais azotés, etc.) et concerner à la fois les activités pré- et post-récolte (par ex., pastilles de chlore). Les stocks peuvent inclure des articles tels que les produits de nettoyage, les engrais et les PPP.\nIl n'est pas nécessaire de procéder à une actualisation chaque mois, le calcul de l'inventaire doit être effectué dans un délai d'un mois suivant une utilisation ou un achat. En l'absence de mouvement de stock, il n'est pas nécessaire d'actualiser l'inventaire. Lorsque les produits sont distribués par une fonction centralisée, les enregistrements peuvent être regroupés dans le système de gestion de la qualité (SGQ).",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 6",
+        "titre": "TRAÇABILITÉ",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 06.01",
+            "principe": "La traçabilité de tous les produits inscrits depuis et vers l'exploitation où ils ont été produits et traités (le cas échéant) est assurée.",
+            "criteres": "Un système d'identification et de traçabilité documenté doit permettre la traçabilité des produits inscrits jusqu'à l'exploitation ou au fournisseur inscrit(e), ou bien jusqu'aux exploitations ou fournisseurs du groupement de producteurs sous l'Option 2 inscrits, et jusqu'au client immédiat (une étape en amont et une étape en aval).\nLes informations de récolte doivent rattacher un numéro de lot aux enregistrements de production ou aux exploitations de producteurs particuliers. Le traitement et la manipulation des produits doivent aussi être pris en compte, le cas échéant.\nLes enregistrements doivent être accessibles pour la vérification annuelle du système de traçabilité. Cette vérification peut se faire par l'intermédiaire d'une procédure de rappel et de retrait réelle, ou dans le cadre d'un exercice de rappel et de retrait.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 7",
+        "titre": "PROPRIÉTÉ PARALLÈLE, TRAÇABILITÉ ET SÉPARATION",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 07.01",
+            "principe": "Il existe un système effectif permettant d'identifier tous les produits issus de processus certifiés GLOBALG.A.P., et de les séparer des produits issus de processus non certifiés.",
+            "criteres": "Il doit être possible d'identifier tous les produits issus de processus de production certifiés GLOBALG.A.P. et de les séparer des produits issus de processus de production non certifiés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 07.02",
+            "principe": "Le Numéro GLOBALG.A.P. (GGN) est indiqué sur tous les produits finaux issus de processus de production certifiés en cas d'inscription en propriété parallèle.",
+            "criteres": "Lorsque le producteur est inscrit en propriété parallèle (c'est-à-dire lorsque les produits issus de processus de production certifiés et non certifiés appartiennent en parallèle à une seule et même entité juridique), tous les produits issus de processus de production certifiés et emballés dans leur emballage final (sur l'exploitation ou après traitement et manipulation des produits) doivent porter un GGN.\nIl peut s'agir du GGN du groupement de producteurs sous l'Option 2, du GGN du membre du groupement de producteurs, des deux GGN ou du GGN du producteur individuel sous l'Option 1. Le GGN ne doit pas apparaître sur des produits issus de processus de production non certifiés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 07.03",
+            "principe": "Une dernière étape de vérification est mise en place pour garantir la bonne orientation des produits issus de processus de production certifiés et non certifiés.",
+            "criteres": "Cette vérification doit être documentée afin de montrer que les produits sont distribués conformément au statut de certification.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 07.04",
+            "principe": "Les produits achetés auprès de sources différentes sont identifiés.",
+            "criteres": "Pour tous les produits enregistrés, des procédures (adaptées à la taille de l'exploitation) doivent être établies, documentées et mises à jour, pour identifier les quantités de produits issus de processus de production certifiés et, le cas échéant non certifiés, achetés auprès de sources différentes (c'est-à-dire auprès de plusieurs producteurs ou négociants).\nLes enregistrements doivent comprendre :\n- La description du produit\n- Le statut de certification GLOBALG.A.P.\n- Les quantités de produits achetés\n- Les coordonnées du fournisseur\n- Le cas échéant, une copie des certificats GLOBALG.A.P.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 8",
+        "titre": "BILAN MATIÈRE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 08.01",
+            "principe": "Des enregistrements de vente sont disponibles pour toutes les quantités vendues et tous les produits inscrits.",
+            "criteres": "Le détail des quantités vendues de produits issus de processus de production certifiés et, le cas échéant, non certifiés, doit être enregistré pour tous les produits inscrits, en étant particulièrement vigilant sur les quantités vendues et les descriptions fournies. Les documents doivent faire apparaître un équilibre cohérent entre les entrées et les sorties de produits issus de processus de production certifiés et non certifiés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 08.02",
+            "principe": "Les quantités (produites, en stock et/ou achetées) sont enregistrées et cumulées pour tous les produits.",
+            "criteres": "Les quantités (notamment les données de volumes et de poids) des produits entrants (notamment les achats de produits), sortants (notamment les rejets, les déchets, la pulpe, etc.) et des produits stockés (issus de processus de production certifiés et, le cas échéant, non certifiés) doivent être enregistrées. Une liste récapitulative de tous les produits inscrits doit être tenue à jour afin de faciliter la vérification du bilan matière, tout en tenant les comptes des profits et pertes acceptables pour le secteur.\nLa fréquence de contrôle du bilan matière doit être définie et adaptée à la taille de l'exploitation, mais il doit être contrôlé au moins une fois par an pour chaque produit. Les documents relatifs au bilan matière doivent être clairement identifiés. Si l'audit par l'organisme de certification (OC) a lieu en période de récolte, il est possible de prendre les données du bilan matière de la récolte précédente pour référence. Cette décision doit être prise avant l'audit par l'OC.\nLa mention « N/A » est possible lorsqu'un produit en vrac (par ex., des pommes de terre vendues à un acheteur directement sur pied) est fourni à l'acheteur directement sur le lieu de récolte et/ou lorsqu'un produit est récolté directement dans des conteneurs et expédié aux acheteurs. La décision de rendre le bilan matière sans objet doit être dûment motivée.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 9",
+        "titre": "RAPPEL ET RETRAIT",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 09.01",
+            "principe": "Des procédures documentées sont en place pour organiser le rappel et le retrait des produits du marché. Ces procédures sont testées tous les ans.",
+            "criteres": "Le producteur doit disposer d'une procédure documentée indiquant :\n- Les types d'événements susceptibles d'entraîner un rappel et un retrait\n- Les personnes chargées de la prise de décision pour d'éventuels rappels et retraits\n- Le mécanisme d'information de l'élément suivant de la chaîne d'approvisionnement\n- L'information des autorités compétentes le cas échéant\n- Les étapes à suivre pour contacter l'organisme de certification (OC), qui à son tour peut contacter le secrétariat GLOBALG.A.P.\n- Les méthodes de rapprochement des stocks\n\nL'efficacité de cette procédure doit être testée chaque année, et les résultats du rappel fictif doivent être enregistrés (par ex., choisir un lot et prouver qu'il est possible d'en assurer la traçabilité jusqu'au client).\nIl n'est pas nécessaire de communiquer dans les faits avec les clients à propos du rappel fictif. Une liste à jour des numéros de téléphone et adresses e-mail suffit.\nSi une procédure réelle de rappel et de retrait a eu lieu au cours de l'année écoulée, les documents la concernant peuvent être utilisés pour déterminer la conformité de la procédure.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 10",
+        "titre": "RÉCLAMATIONS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 10.01",
+            "principe": "Une procédure de réclamation applicable à la fois aux problèmes internes et externes couverts par le référentiel est disponible et effective.",
+            "criteres": "Une procédure de réclamation documentée doit exister pour aider à l'enregistrement et au suivi de toutes les réclamations reçues concernant des questions traitées par le référentiel et pour enregistrer les mesures prises dans le cadre de telles réclamations.\nSi le producteur est notifié par une autorité compétente et/ou locale d'une enquête à son encontre ou a été sanctionné dans le cadre de la certification, la procédure de réclamation doit prévoir l'information du secrétariat GLOBALG.A.P. par l'intermédiaire de l'organisme de certification (OC).\nEn cas de réclamations portant sur le référentiel (sécurité sanitaire des aliments, bien-être global des travailleurs, protection de l'environnement, etc.) susceptibles de nuire à la réputation et à la crédibilité de la marque GLOBALG.A.P., le détenteur du certificat doit en informer l'OC dans les plus brefs délais.\nDans le cas des groupements de producteurs, les membres du groupement de producteurs n'ont pas besoin de la procédure de réclamation complète, mais uniquement des parties qui les concernent.\nLes travailleurs doivent être autorisés à déposer des réclamations auprès de leur employeur sur des sujets couverts par le référentiel, et ces réclamations doivent être documentées et traitées par le détenteur du certificat.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 10.02",
+            "principe": "Les travailleurs sont informés de leurs droits au titre du référentiel. Un système permettant aux travailleurs de déposer des réclamations en toute confidentialité et sans crainte de représailles est disponible et effectif.",
+            "criteres": "Les travailleurs doivent être informés (dans la langue la plus utilisée par le personnel) des grands thèmes couverts par le référentiel, des droits conférés par la réglementation en vigueur, et de leur droit à déposer des réclamations auprès de leur employeur.\nLe producteur doit disposer d'un mécanisme de résolution des réclamations adapté à la taille de l'exploitation, au type de travailleur et aux conditions de travail.\nCe mécanisme doit respecter la confidentialité et être simple d'utilisation. Une description (c'est-à-dire où déposer sa réclamation, comment, quel délai espérer pour régler le problème) doit être accessible aux travailleurs lors de leur présence sur l'exploitation. (Cette description peut prendre la forme de pictogrammes ou d'affiches décrivant le mécanisme dans la langue la plus utilisée par le personnel)\nDes enregistrements des réclamations déposées doivent être conservés et contrôlés.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 11",
+        "titre": "PRODUITS NON CONFORMES",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 11.01",
+            "principe": "Des procédures pour gérer et traiter les produits non conformes existent.",
+            "criteres": "Des procédures documentées, notamment une procédure de retenue et de mise en circulation, doivent être en place pour éviter les utilisations involontaires ou la livraison de produits non conformes.\nCertains produits peuvent être jugés non conformes en raison de problèmes de sécurité sanitaire des aliments, de problèmes de qualité, de dépassement(s) de la limite maximale de résidus, de problèmes de contamination croisée, etc.\nLes produits non conformes doivent être identifiés pendant la production, le traitement et la manipulation. Les produits non conformes doivent être séparés, traités de manière appropriés, et éventuellement réaffectés (transformation, alimentation animale, etc.). S'ils ne sont pas réaffectés, les produits doivent être éliminés dans le respect de la réglementation.\nLes produits présentant un risque pour la sécurité sanitaire des aliments ne doivent pas être récoltés ou doivent être rejetés. Les produits rejetés et les déchets doivent être stockés dans des zones bien déterminées afin d'éviter toute contamination des produits. Une signalisation adéquate doit permettre d'identifier les déchets le cas échéant. Ces zones doivent être systématiquement nettoyées et/ou désinfectées conformément au planning de nettoyage.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 12",
+        "titre": "TESTS ET ANALYSES EN LABORATOIRE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 12.01",
+            "principe": "Les tests en laboratoire ont lieu dans le respect des exigences du secteur.",
+            "criteres": "Il doit exister des preuves documentées que les laboratoires chargés d'analyser les paramètres déterminants pour la sécurité sanitaire des aliments respectent les exigences de la norme ISO/IEC 17025. Dans les pays, régions ou situations où aucun laboratoire possédant une certification ISO/IEC en cours de validité n'est disponible, d'autres dispositifs nationaux/régionaux de vérification de laboratoires peuvent être acceptés. Dans les pays ou régions comportant des laboratoires conformes à la norme ISO/IEC 17025, il doit être fait appel à ces laboratoires pour procéder aux analyses exigées par le référentiel et les évaluations des risques associées.\nLes analyses doivent notamment porter sur la qualité de l'eau, les résidus de produits phytopharmaceutiques, les contaminants microbiens, chimiques et physiques, et doivent inclure des échantillons de surveillance de l'environnement ainsi que tous les autres tests indiqués. Les laboratoires doivent fournir la preuve de la participation à des tests de compétence ou des certifications requises (par ex., le fournisseur de programme d'essais interlaboratoires d'aptitude FAPAS®).",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 13",
+        "titre": "MATÉRIEL ET ÉQUIPEMENTS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 13.01",
+            "principe": "Le matériel, les outils et les équipements sont adaptés à l'utilisation prévue et bien entretenus.",
+            "criteres": "Le matériel, les outils et les équipements entrant en contact avec les produits doivent être constitués de matériaux sûrs pour le contact avec les produits, et conçus et fabriqués de façon à pouvoir être nettoyés, désinfectés et entretenus en vue d'éviter les contaminations.\nLe matériel, les outils et les équipements, même ceux qui n'entrent pas en contact avec les produits (balances, matériel d'application de produits phytopharmaceutiques (PPP) ou d'engrais, thermomètres, pH-mètres, etc.), doivent être entretenus, contrôlés régulièrement et, le cas échéant, étalonnés au moins une fois par an.\nL'entretien, l'étalonnage (le cas échéant) et les réparations doivent être documentés. Les activités d'entretien et de maintenance ne doivent présenter aucun risque pour la sécurité sanitaire des aliments, pour l'environnement ou pour les travailleurs.\nPulvérisateurs de PPP : L'étalonnage et le bon fonctionnement du matériel d'application des PPP (automatique et non automatique) doivent avoir été vérifiés au cours des 12 derniers mois. Cette vérification doit être attestée ou documentée, soit par la participation à un programme officiel (si un tel programme existe), soit par les compétences avérées de la personne qui a effectué le contrôle.\nÉquipements d'irrigation et de fertigation : Au minimum, des enregistrements de maintenance annuelle doivent être conservés pour toutes les méthodes d'irrigation/machines de fertigation/techniques utilisées.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 13.02",
+            "principe": "Les équipements sont entreposés de façon à éviter la contamination des produits.",
+            "criteres": "Les équipements (équipements d'application de produits phytopharmaceutiques (PPP) ou d'engrais, équipements de récolte, machines d'enrubannage, etc.) doivent être entreposés de façon à éviter les éventuelles contaminations des produits ou d'autres matériaux susceptibles d'entrer en contact avec la partie comestible des produits récoltés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 13.03",
+            "principe": "Les véhicules et équipements utilisés pour charger, transporter ou entreposer les produits récoltés sont nettoyés, bien entretenus et adaptés à l'utilisation prévue.",
+            "criteres": "Les véhicules et équipements utilisés pour charger, transporter ou entreposer les produits récoltés doivent être nettoyés, entretenus et entreposés de façon à éviter la contamination du produit (déjections animales, projections de carburant, etc.).\nLes véhicules et équipements doivent être adaptés à l'utilisation prévue.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 14",
+        "titre": "DÉCLARATION DE POLITIQUE DE SÉCURITÉ SANITAIRE DES ALIMENTS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 14.01",
+            "principe": "Le producteur a rempli et signé la déclaration de politique de sécurité sanitaire des aliments.",
+            "criteres": "La déclaration de politique de sécurité sanitaire des aliments du producteur doit :\n- Favoriser l'existence d'une culture de la sécurité sanitaire des aliments : communication, formation, retours de la part des travailleurs et objectifs quantifiables en matière de sécurité sanitaire des aliments\n- Être remplie et signée chaque année par le producteur/responsable de la sécurité sanitaire des aliments\n- Lister les personnes dont les activités touchent à la sécurité sanitaire des aliments\n- Faire office de preuve documentée d'engagement en matière d'amélioration continue, de culture de la sécurité sanitaire des aliments, de mise à disposition des ressources nécessaires et de respect de la réglementation en vigueur\n- Étayer la liste de contrôle d'auto-évaluation (pour les producteurs individuels sous l'Option 1)\n- Être remplie soit par la direction centrale, soit au niveau du système de gestion de la qualité (SGQ) au nom des membres du groupement de producteurs pour les groupements sous l'Option 2, et au nom des producteurs pour les producteurs multisites sous l'Option 1 dotés d'un SGQ",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 15",
+        "titre": "PROTECTION DES PRODUITS ALIMENTAIRES",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 15.01",
+            "principe": "Un système de protection des produits alimentaires consacré aux risques associés aux attaques ou contaminations malveillantes est en place.",
+            "criteres": "Ce système doit comprendre :\n- Une évaluation des risques relevant les risques potentiels pour la sécurité des produits, incluant les risques découlant de tentatives d'infliger volontairement des dommages ou des contaminations\n- Les procédures destinées à atténuer les menaces identifiées\n- La sensibilisation des travailleurs, des visiteurs et des sous-traitants à la nécessité d'appliquer les mesures de protection des produits alimentaires, grâce à de la formation, de l'affichage, des pictogrammes, etc.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 16",
+        "titre": "FRAUDES ALIMENTAIRES",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 16.01",
+            "principe": "Un système destiné à faire face aux risques associés aux fraudes alimentaires est en place.",
+            "criteres": "Le système doit inclure les points suivants :\n- Une évaluation des risques doit être en place pour répertorier les moyens par lesquels un producteur pourrait accidentellement acheter des matériaux et fournitures d'origine frauduleuse, ainsi que la manière dont les produits finis ou les emballages du producteur pourraient être utilisés de manière abusive.\n- Des procédures doivent être en place pour atténuer les vulnérabilités détectées. Le producteur doit prouver que le risque de fraude est limité par l'achat de produits phytopharmaceutiques, de plants et semences et d'emballages authentiques.\n- Le cas échéant, une description des modalités de contrôle de l'étiquetage et de l'emballage en vue de lutter contre le vol et les utilisations abusives doit être disponible. Les mesures d'atténuation prises pour réduire la probabilité d'incidents frauduleux et définir l'attitude à adopter lors de ces événements doivent être dûment documentées.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 17",
+        "titre": "UTILISATION DU LOGO",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 17.01",
+            "principe": "Le mot, la marque et le QR code ou logo GLOBALG.A.P., ainsi que le Numéro GLOBALG.A.P. (GGN) sont utilisés conformément aux « GLOBALG.A.P. trademarks use: Policy and guidelines » (Usage de la marque GLOBALG.A.P. : Politique et lignes directrices).",
+            "criteres": "Le producteur doit utiliser le mot, la marque et le QR code ou logo GLOBALG.A.P., ainsi que le GGN et le Global Location Number (GLN) ou GLN secondaire, conformément au document « Usage de la marque GLOBALG.A.P. : Politique et lignes directrices ». Le mot, la marque ou le logo GLOBALG.A.P. ne doivent jamais apparaître sur le produit fini, sur l'emballage du produit ou au point de vente. Toutefois, le détenteur du certificat peut les utiliser individuellement et/ou ensemble dans toute la correspondance commerciale.\nLe mot, la marque ou le logo GLOBALG.A.P. ne peuvent pas être utilisés au cours de l'audit initial (tout premier) par l'organisme de certification (OC), parce que le producteur n'est pas encore certifié et ne peut pas se prévaloir de son statut de certification GLOBALG.A.P. avant la première décision de certification positive.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 18",
+        "titre": "STATUT GLOBALG.A.P.",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 18.01",
+            "principe": "Les documents commerciaux mentionnent le statut GLOBALG.A.P. et le Numéro GLOBALG.A.P. (GGN).",
+            "criteres": "Les bons de livraison, les factures de vente et, le cas échéant, les autres documents relatifs à la vente de matériels/produits issus de processus de production certifiés doivent porter le GGN du détenteur du certificat et la mention du statut de certification GLOBALG.A.P. Ceci n'est pas obligatoire pour la documentation interne.\nLorsque le producteur possède un Global Location Number (GLN), ce GLN doit remplacer le GGN fourni par le secrétariat GLOBALG.A.P. pendant le processus d'inscription.\nLa mention explicite du statut de certification sur les documents commerciaux suffit (par ex. : « [nom du produit] certifié GLOBALG.A.P. »). Les produits issus de processus de production non certifiés n'ont pas besoin de mention « non certifié ».\nL'indication du statut de certification est obligatoire, que le produit issu d'un processus de production certifié ait été vendu comme tel ou non. Ce point ne peut pas être contrôlé au cours de l'audit initial (tout premier) par l'organisme de certification (OC), parce que le producteur n'est pas encore certifié et ne peut pas se prévaloir de son statut de certification GLOBALG.A.P. avant la première décision de certification positive.\nLa mention « N/A » est utilisée uniquement s'il existe un accord bilatéral documenté entre le détenteur du certificat et l'acheteur direct précisant que les expéditions contiennent exclusivement des produits issus de processus de production certifiés.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 19",
+        "titre": "HYGIÈNE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 19.01",
+            "principe": "L'exploitation dispose d'une évaluation des risques en matière d'hygiène dûment documentée.",
+            "criteres": "Une évaluation des risques d'hygiène documentée couvrant la production, la récolte et, le cas échéant, le traitement et la manipulation des produits, doit couvrir :\n- Les contaminants physiques, chimiques et microbiologiques, les écoulements de fluides corporels (vomissements, saignements, etc.) et les maladies transmissibles à l'homme associées aux produits et processus concernés\n- Les travailleurs, les effets personnels, les équipements, la tenue, les matériaux d'emballage, le transport, les véhicules et le stockage du produit (y compris le stockage à court terme sur l'exploitation)\n- L'environnement de production, notamment la conception et l'agencement en vue d'éviter les contaminations croisées et de favoriser la sécurité sanitaire des aliments",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.02",
+            "principe": "Des procédures d'hygiène documentées ont été mises en place afin de réduire les risques pour la sécurité sanitaire des aliments.",
+            "criteres": "Les procédures d'hygiène doivent correspondre à l'évaluation des risques et doivent inclure les éventuelles activités de récolte et post-récolte concernées. Des pictogrammes ou affiches dans la langue principale du personnel doivent décrire les mesures d'hygiène adéquates pour les travailleurs, les visiteurs et les sous-traitants. Lorsque le port de vêtements ou d'équipements de protection (blouses, tabliers, manchons, gants, chaussures de sécurité, etc.) est obligatoire, ces derniers doivent être fournis par l'employeur et nettoyés, entretenus et stockés de manière à réduire les risques pour la sécurité sanitaire des aliments.\nLe lavage des mains est obligatoire dès que les mains peuvent être une source de contamination, notamment avant de commencer le travail et au retour des toilettes.\nLes procédures d'hygiène doivent inclure la contamination du produit par les fluides corporels, les obligations de signalement des personnes malades (vomissements, jaunisse, diarrhée, etc.), l'interdiction pour les personnes malades d'entrer en contact avec les produits, ainsi que les modalités de reprise du travail. Les coupures doivent être couvertes, et le port de gants, si nécessaire, est obligatoire.\nDes preuves visibles doivent attester du respect des instructions et procédures d'hygiène.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.03",
+            "principe": "Toutes les personnes travaillant sur l'exploitation ont bénéficié d'une formation à l'hygiène.",
+            "criteres": "La formation de base à l'hygiène doit :\n- Être proposée chaque année à tous les travailleurs, y compris les propriétaires et les cadres travaillant sur l'exploitation\n- Être proposée à tous les nouveaux travailleurs\n- Couvrir toutes les instructions nécessaires\n- Être donnée dans un format, écrit ou oral, garantissant la bonne compréhension (éventuellement sous forme orale et visuelle, sans contenu écrit, si nécessaire)\n- Prévoir une formation spéciale aux procédures d'hygiène pour les activités de récolte et de traitement/manipulation des produits, le cas échéant",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.04",
+            "principe": "Fumer, manger, mastiquer et boire n'est possible que dans des zones réservées à cet effet.",
+            "criteres": "Afin d'éviter la contamination des produits, fumer, manger, mastiquer et boire doit être possible uniquement dans des zones réservées, et doit être interdit dans les zones de traitement et de manipulation des produits ou dans les zones de stockage, sauf décision contraire à l'issue de l'évaluation des risques d'hygiène. Le fait de boire de l'eau constitue une exception.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.05",
+            "principe": "Des toilettes propres sont mises à disposition des travailleurs, des visiteurs et des sous-traitants sur leur lieu de travail.",
+            "criteres": "Les toilettes (fixes ou mobiles) fournies pour les activités de production, de traitement et de manipulation doivent :\n- Être conçues et situées de façon à réduire au maximum le risque potentiel de contamination du produit\n- Être constituées de matériaux faciles à nettoyer et à entretenir (valable également pour les toilettes sèches)\n- Permettre un accès direct à la plomberie pour faciliter l'entretien\n- Être suffisamment proches du lieu de travail, c'est-à-dire accessibles à pied ou via un moyen de transport toujours disponible\nSi les activités de production et/ou de traitement et de manipulation des produits ont lieu dans un espace clos, les portes des toilettes ne doivent pas s'ouvrir directement sur la zone de production et/ou de traitement et de manipulation, à moins qu'elles ne soient équipées d'une fermeture automatique. Les toilettes doivent être nettoyées, entretenues et approvisionnées de manière appropriée. Ces installations doivent également être mises à disposition des visiteurs, le cas échéant.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.06",
+            "principe": "Des installations sanitaires sont mises à disposition de tous les travailleurs, visiteurs et sous-traitants entrant en contact direct avec les produits.",
+            "criteres": "Les installations sanitaires doivent être accessibles et tenues propres et dans de bonnes conditions d'hygiène, afin de permettre aux travailleurs de se laver les mains à chaque fois que leurs mains sont susceptibles de constituer une source de contamination.\nCes installations doivent être le plus près possible des toilettes sans risque de contamination croisée.\nToutes les installations sanitaires doivent être équipées de savon non parfumé et d'un moyen de se sécher les mains. Les serviettes à usage unique doivent être privilégiées. Les serviettes ne doivent présenter aucun risque de contamination croisée. Les sèche-mains électriques sont autorisés.\nL'eau utilisée pour le lavage des mains doit être analysée, et les risques associés à la qualité de cette eau doivent être évalués. L'eau utilisée doit toujours satisfaire aux normes microbiologiques pour l'eau potable. Si l'eau de lavage des mains ne satisfait pas aux normes microbiologiques pour l'eau potable, un désinfectant (par ex., gel hydro-alcoolique) doit être utilisé en complément du lavage des mains. L'utilisation de désinfectant pour les mains seul avant d'entrer en contact avec les produits n'est pas autorisée.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 19.07",
+            "principe": "Les activités animales susceptibles d'entraîner une contamination du produit sont encadrées.",
+            "criteres": "Des mesures adaptées doivent être adoptées pour réduire les éventuelles contaminations du produit par les animaux dans la zone de production. En cas de preuve d'activité animale susceptible d'entraîner une contamination du produit, des mesures adaptées doivent être prises. L'élimination de la faune sauvage ou le recours à des techniques destructrices pour débarrasser la zone de production de toute vie animale ne sont pas considérés comme des mesures adaptées.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 19.08",
+            "principe": "Les conteneurs employés pour la production et la récolte sont nettoyés, bien entretenus et adaptés à l'utilisation prévue.",
+            "criteres": "Les conteneurs de production et de récolte ne doivent pas contenir de matériaux présentant un risque pour la sécurité sanitaire des aliments. Ils doivent être conçus et fabriqués de manière à faciliter leur nettoyage et leur entretien.\nLes conteneurs réutilisables doivent être nettoyés avant utilisation. Un programme de nettoyage documenté précisant la fréquence de nettoyage et conforme à l'évaluation des risques d'hygiène doit avoir été mis en place. Si l'évaluation des risques le demande, une étape de désinfection doit être intégrée à la procédure de nettoyage.\nLes conteneurs de récolte doivent être réservés au produit (en excluant le stockage d'agents chimiques, de lubrifiants, de carburant, de déchets, d'outils, etc.).",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 20",
+        "titre": "SANTÉ, SÉCURITÉ ET BIEN-ÊTRE DES TRAVAILLEURS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 20.01.01",
+            "principe": "Il existe une évaluation des risques documentée consacrée à la santé et à la sécurité des travailleurs.",
+            "criteres": "L'évaluation des risques documentée doit être adaptée à la situation de l'exploitation, en incluant notamment les installations et l'hébergement sur l'exploitation destinés aux travailleurs. L'évaluation des risques doit être revue et mise à jour annuellement, et lors de changements pouvant avoir un impact sur la santé et la sécurité des travailleurs (par exemple : nouvel équipement, nouveaux produits phytopharmaceutiques (PPP), nouvelles pratiques culturales, nouveaux risques pour la santé, etc.). Les incidents et accidents doivent impérativement être enregistrés. Exemples de dangers possibles : pièces mobiles sur des machines, véhicules en circulation, substances inflammables, engrais, exposition à des agents chimiques, bruit excessif, poussière, vibrations, températures extrêmes, échelles, stockage de carburant, etc.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.01.02",
+            "principe": "L'exploitation dispose de procédures de santé et de sécurité.",
+            "criteres": "Le plan de santé et de sécurité doit aborder les points identifiés dans l'évaluation des risques et doit être adapté aux activités de l'exploitation. Ce plan doit être revu annuellement et mis à jour lorsque l'évaluation des risques évolue.\nL'infrastructure, les installations, l'hébergement sur l'exploitation destinés aux travailleurs et les équipements de l'exploitation doivent être conçus et entretenus, dans la mesure du possible, de sorte à minimiser les risques pour la santé et la sécurité des travailleurs.\nLes procédures en cas d'accident et d'urgence doivent couvrir les zones de travail, et les installations et hébergements sur l'exploitation destinés aux travailleurs. Elles prévoient notamment des plans d'intervention indiquant aux travailleurs comment s'extraire par leurs propres moyens de situations dangereuses. Si l'évaluation des risques le demande, des équipements d'urgence doivent être accessibles et bien entretenus. Les travailleurs les plus exposés aux risques doivent faire l'objet d'une attention particulière. En cas d'accident, la cause doit en être déterminée et les procédures de santé et de sécurité révisées pour y ajouter les mesures préventives adéquates.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.01.03",
+            "principe": "L'ensemble du personnel a suivi une formation à la santé et à la sécurité selon les directives de l'évaluation des risques.",
+            "criteres": "La formation de base des travailleurs à la santé et à la sécurité doit :\n- Être suivie tous les ans par le personnel, y compris les propriétaires et les cadres\n- Être suivie par les nouveaux membres du personnel et les membres du personnel affectés à de nouvelles tâches nécessitant un complément de connaissances\n- Couvrir toutes les instructions nécessaires\n- Être donnée dans un format, écrit ou oral, garantissant la bonne compréhension (éventuellement uniquement sous forme orale et visuelle, sans contenu écrit, si nécessaire)\n- Inclure les procédures de sécurité pour les équipements, les produits ou les activités nouvelles\n- Inclure des thèmes touchant aux mesures à prendre en cas d'accident et de catastrophe naturelle, à la santé des travailleurs, notamment en cas de maladie ou d'exposition à des agents chimiques, aux procédures d'intervention en cas d'urgence, à la sécurité incendie, et aux droits et responsabilités relatifs à la protection de la santé des travailleurs",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.02.01",
+            "principe": "Les procédures en cas d'accident et en cas d'urgence sont affichées et font l'objet d'une communication spécifique.",
+            "criteres": "Des instructions basées sur les procédures en cas d'accident et d'urgence doivent être clairement affichées dans un ou plusieurs endroits accessibles et visibles pour les travailleurs, visiteurs et sous-traitants. Ces instructions doivent être disponibles dans la ou les langues principales des travailleurs et/ou sous forme de pictogrammes.\nLes procédures doivent couvrir/répertorier les points suivants :\n- L'adresse de l'exploitation, un plan ou toute autre information de localisation (par ex., coordonnées GPS)\n- La ou les personnes à contacter\n- Une liste à jour des numéros de téléphone importants (police, ambulance, hôpital, pompiers, service d'aide médicale d'urgence sur site ou après un transport, fournisseurs d'électricité, d'eau et de gaz)\n- Des procédures d'évacuation en cas d'urgence, le cas échéant\nDes panneaux permanents et explicites doivent indiquer les dangers potentiels. Des panneaux signalant les issues de secours doivent indiquer que ces dernières doivent impérativement rester ouvertes, accessibles et libres de tout obstacle.\nOn entend par danger potentiel les fosses à déchets, les constructions inflammables (cuves de carburant, citernes de propane/gaz naturel, etc.), les cuves de produits phytopharmaceutiques (PPP), les cours d'eau, et tout autre danger physique identifié comme tel.\nDes panneaux d'avertissement doivent être présents et disponibles dans la ou les langues principales des travailleurs et/ou sous forme de pictogrammes.\nExemples d'autres informations pouvant être incluses :\n- Emplacement des moyens de communication les plus proches (téléphone, radio)\n- Comment et où contacter les services médicaux, hôpitaux et autres services d'urgence locaux\n- Emplacement des extincteurs et des points d'eau à proximité\n- Emplacement des stockages d'agents chimiques, de carburant et d'engrais de grande capacité\n- Emplacement des issues de secours et fonctionnement des escaliers de secours\n- Emplacement des dispositifs de coupure d'urgence pour l'électricité, le gaz et l'eau\n- Comment signaler les accidents et incidents dangereux (lieu, description de l'incident, nombre de personnes blessées, type de blessure)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.02.02",
+            "principe": "Des conseils en matière de sécurité sont disponibles et accessibles en ce qui concerne les substances dangereuses pour la santé des travailleurs.",
+            "criteres": "Des informations relatives à la manipulation en toute sécurité de chaque substance dangereuse doivent être accessibles (sites web, numéros de téléphone, fiches de données de sécurité (FDS), etc.).",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.02.03",
+            "principe": "Des kits de premiers secours sont accessibles sur tous les sites permanents et dans les champs à proximité des travailleurs.",
+            "criteres": "Des kits de premiers secours complets et entretenus (c'est-à-dire complets et entretenus selon la réglementation en vigueur et adaptés aux activités menées) doivent être disponibles et accessibles sur tous les sites permanents et présents dans certains véhicules (tracteur, voiture, etc.) lorsque l'évaluation des risques l'exige.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.02.04",
+            "principe": "Il y a toujours au moins une personne formée aux premiers secours présente sur l'exploitation lorsque des activités y ont lieu.",
+            "criteres": "Il doit toujours y avoir une personne formée aux premiers secours (dont la formation remonte à moins de cinq ans) présente lors des activités de production, de traitement et de manipulation, notamment celles mentionnées dans les principes et critères applicables du référentiel. En règle générale : une personne formée pour 50 travailleurs.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.03.01",
+            "principe": "Les travailleurs, les visiteurs et les sous-traitants sont dotés d'équipements de protection individuelle (EPI) adaptés.",
+            "criteres": "Les EPI doivent être conformes aux obligations légales et aux instructions d'application des produits concernés et/ou agréés par une autorité compétente. Les EPI doivent être disponibles, utilisés correctement et en bon état. Le respect des instructions d'application des produits concernés et des exigences de l'évaluation des risques pour les activités sur l'exploitation peut nécessiter le port des équipements suivants : chaussures de sécurité, tenue imperméable, combinaison de protection, gants de caoutchouc, masque de protection, masque respiratoire (avec cartouches de rechange), protections des yeux et des oreilles, etc.\nLorsque cela s'avère nécessaire, des EPI doivent être fournis aux travailleurs, aux sous-traitants (peuvent être fournis par l'entreprise de sous-traitance) et aux visiteurs.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.03.02",
+            "principe": "Les équipements de protection individuelle (EPI) sont tenus propres et sont entreposés de manière adaptée afin d'éviter tout risque de contamination des effets personnels.",
+            "criteres": "Les EPI doivent être tenus propres en fonction du type d'utilisation et du niveau de risque de contamination. Les vêtements de protection doivent être lavés à part des effets personnels. Les EPI sales et endommagés doivent être mis au rebut conformément à la réglementation. Les EPI doivent être entreposés de façon à éviter les contaminations croisées avec des agents chimiques.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.03.03",
+            "principe": "L'utilisation par les travailleurs des équipements de protection individuelle (EPI) fournis est attestée.",
+            "criteres": "L'utilisation effective des EPI fournis doit être attestée. En cas d'utilisation d'EPI à usage unique, les stocks à disposition doivent correspondre aux besoins des travailleurs, ou des enregistrements doivent prouver que de nouveaux EPI sont commandés et réceptionnés dès que nécessaire.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.03.04",
+            "principe": "Des vestiaires adaptés sont à disposition au besoin.",
+            "criteres": "Des installations adaptées aux conditions locales doivent être mises à la disposition des travailleurs pour qu'ils puissent changer de vêtements et, le cas échéant, mettre des vêtements de protection. Il n'est pas nécessaire de prévoir des vestiaires si les équipements de protection individuelle (EPI) sont portés par-dessus les vêtements.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.04.01",
+            "principe": "Les questions de santé, de sécurité et de bien-être font l'objet d'une communication permanente entre la direction et les travailleurs.",
+            "criteres": "La communication entre la direction et les travailleurs sur les questions de santé, de sécurité et de bien-être doit être totalement ouverte (c'est-à-dire sans craintes d'intimidation ou de représailles).\nCette communication peut prendre la forme de réunions planifiées, de lignes téléphoniques dédiées pour les travailleurs, de boîte à suggestions anonyme, de réunions quotidiennes avant le début du travail ou de réunions ponctuelles.\nDans le cas des très petites exploitations, la communication entre les membres d'une même famille ou avec un nombre réduit de travailleurs peut se faire de manière permanente.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 20.04.02",
+            "principe": "Les travailleurs ont accès à de l'eau potable et à des espaces pour stocker de la nourriture, pour manger et pour se reposer.",
+            "criteres": "Un lieu propre de stockage pour les aliments et un lieu propre pour se restaurer doivent être mis à disposition des travailleurs s'ils mangent sur l'exploitation. De l'eau potable doit toujours être fournie gratuitement aux travailleurs. L'accès des travailleurs à l'eau potable ne doit pas être limité. Des espaces réservés au repos et aux pauses doivent être mis en place.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.04.03",
+            "principe": "Les locaux d'habitation sur site sont conformes à la réglementation locale. Ils sont habitables et dotés des services et équipements de base.",
+            "criteres": "Les locaux d'habitation destinés aux travailleurs sur le site doivent être habitables. Le toit, les fenêtres et les portes doivent être en bon état. Les locaux doivent être équipés d'une cuisine propre et hygiénique et d'installations de base : alimentation en eau potable, toilettes et évacuation vers le réseau d'assainissement.\nEn l'absence de réseau d'assainissement, des fosses septiques sont tolérées, dans le respect de la réglementation en vigueur.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 20.04.04",
+            "principe": "Les moyens de transport fournis aux travailleurs sont sûrs.",
+            "criteres": "Les moyens de transport doivent être sûrs pour les travailleurs et doivent tenir compte des exigences de sécurité et de la réglementation en vigueur.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 21",
+        "titre": "GESTION DU SITE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 21.01",
+            "principe": "Une évaluation des risques documentée est rédigée pour tous les sites inscrits.",
+            "criteres": "Cette évaluation des risques doit être :\n- Disponible sur tous les sites de production, y compris les structures\n- Être révisée au moins une fois par an ou en cas de changement (apparition de risques nouveaux, nouveaux sites ou nouvelles productions)\n\nElle doit prendre en compte :\n- Les risques biologiques, physiques et chimiques (notamment les allergènes)\n- Le risque de contamination croisée par des microbes provenant de sites voisins ou proches\n- L'historique du site (en remontant au moins un an en arrière, cinq ans recommandés)\n- L'impact des activités proposées sur les cultures voisines",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 21.02",
+            "principe": "Un plan de gestion formulant des stratégies de réduction des risques identifiés dans l'évaluation des risques pour l'adaptation à l'utilisation prévue a été élaboré, appliqué et est actualisé régulièrement.",
+            "criteres": "Un plan de gestion doit :\n- Être révisé conjointement avec l'évaluation des risques (une fois par an ou en cas de changement) et aborder tous les risques répertoriés dans l'évaluation des risques\n- Décrire les mesures de lutte mises en œuvre pour les risques identifiés\n- Être adapté à l'activité de l'exploitation\n- Faciliter la conception des installations, les activités de nettoyage, la lutte contre les nuisibles et toutes les activités permettant de réduire les risques pour la sécurité sanitaire des aliments\n- Veiller à ce que la disposition et le déroulement des opérations soient adaptés au cahier des charges, prennent en compte les structures nécessaires et soient conçus de manière à réduire les risques pour la sécurité sanitaire des aliments\n- Être effectif, avec des signes visibles de mise en application",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 21.03",
+            "principe": "Le producteur dispose d'un système d'identification des sites et installations utilisés pour la production.",
+            "criteres": "Le producteur doit disposer d'un système permettant d'identifier :\n- Tous les champs, vergers, vignobles, serres et autres zones de production\n- Toutes les sources d'eau, les installations de stockage, de traitement/manipulation, les stockages d'agents agrochimiques, les cours, les bâtiments et tout autre élément susceptible de présenter un risque pour la santé et la sécurité des travailleurs, pour la sécurité sanitaire des aliments ou pour l'environnement\n\nL'identification peut se faire sur une carte ou au moyen de panneaux sur chaque site.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 21.04",
+            "principe": "Le site est propre et bien rangé.",
+            "criteres": "Le site doit être bien entretenu de façon à éviter la contamination des produits. Aucun détritus ou déchet ne doit se trouver à proximité immédiate des sites de production et des bâtiments de stockage hors d'un conteneur prévu à cet effet. La présence ponctuelle de détritus et de déchets en faible quantité dans les zones mentionnées est acceptable, tout comme la présence de déchets issus des travaux de la journée. Tous les autres détritus et déchets doivent être évacués, y compris les nappes de carburant.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 21.05",
+            "principe": "Le producteur considère l'exploitation comme un écosystème agricole en interaction avec les espaces voisins (bien que les considérations juridiques du producteur se limitent à l'exploitation proprement dite).",
+            "criteres": "Il devrait par exemple exister des preuves accessibles que :\n- Dans le cadre de la gestion de l'eau, le producteur connaît la provenance de l'eau pour l'exploitation et sait où va l'eau qui quitte l'exploitation.\n- Dans le cadre de la gestion de la biodiversité, le producteur sait comment l'exploitation peut contribuer à protéger et à renforcer la biodiversité à l'aide de corridors biologiques (par ex., des arbres) permettant de relier les habitats présents sur l'exploitation aux espaces en dehors de l'exploitation.\n- Le producteur se montre sensibilisé, participe à des projets, des actions communes ou collabore avec d'autres producteurs ou acteurs dans des initiatives concernant un secteur ou une culture en particulier, etc.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 21.06",
+            "principe": "Lorsque l'exploitation est amenée à manipuler ou à stocker des allergènes, elle doit disposer d'un plan de gestion des allergènes dûment documenté.",
+            "criteres": "Le programme de gestion des allergènes doit lister les allergènes utilisés, stockés ou manipulés par les travailleurs sur le site en fonction de la réglementation en vigueur. Le cas échéant, des procédures doivent permettre l'identification et l'isolement des allergènes lors du stockage, de la manipulation, du chargement et de l'expédition en fonction d'une évaluation des risques réalisée par l'exploitation. Tous les produits contenant volontairement ou potentiellement des matériaux allergènes doivent être étiquetés conformément à la réglementation en matière d'affichage des allergènes du pays de production et du pays de destination.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 22",
+        "titre": "BIODIVERSITÉ ET HABITATS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 22.01.01",
+            "principe": "La biodiversité fait l'objet d'une gestion particulière afin d'en assurer la protection et le renforcement.",
+            "criteres": "Un plan biodiversité dûment documenté doit être disponible au sujet de l'exploitation concernée. Il peut s'agir d'un modèle de plan adapté par la suite à l'exploitation concernée.\nLe plan biodiversité doit :\n- Tenir compte de la législation locale ; son contenu doit s'adapter à la situation de l'exploitation concernée (cultures de plein champ, serres, cultures verticales, etc.)\n- Au moins contenir les sections suivantes : Référence : état initial de la biodiversité; Mesures : comment agir pour la protection et le renforcement de la biodiversité à partir de la situation de référence; Suivi : synthèse des résultats de l'application des mesures; Ajustements : peaufiner les mesures en fonction des résultats de suivi.\n- Tout en reconnaissant que la responsabilité juridique du producteur se limite au territoire de l'exploitation, tenir compte des espaces au-delà de l'exploitation et encourager la mise en œuvre d'actions d'autres acteurs, par l'intermédiaire de collaborations informelles, de projets formalisés, d'initiatives sectorielles et de réseau, etc.\nLes lignes directrices fournissent des recommandations en matière de protection de la biodiversité.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 22.01.02",
+            "principe": "La biodiversité est protégée.",
+            "criteres": "Le plan biodiversité doit être appliqué afin de protéger la biodiversité, par exemple à l'aide de l'une ou plusieurs des pratiques suivantes, ou d'autres pratiques similaires :\n- Lutte intégrée\n- Mesures visant à atténuer l'impact potentiellement négatif de l'éclairage artificiel sur la biodiversité, en particulier la nuit (par ex., des rideaux ou de la peinture contribuent à réduire les éventuelles répercussions pour les oiseaux migrateurs ou la faune nocturne)\n- Jachère saisonnière\n- Mise en place de refuges pour les prédateurs utiles\n- Aménagement de zones d'habitat à proximité des champs ou des serres\n- Création de zones tampon le long des écosystèmes aquatiques et entre les zones de production ou mise en œuvre d'autres pratiques de gestion de l'eau\n- Contribution à la bonne santé des sols et à la biodiversité par la rotation des cultures, la réduction ou l'abandon du labour, la lutte contre l'érosion et/ou toute autre pratique de gestion des sols\n- Optimisation, et si possible réduction, du recours aux agents agrochimiques et aux engrais\n- Mise en œuvre de mesures de protection des espèces\nLes lignes directrices fournissent des recommandations en matière de protection de la biodiversité.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 22.01.03",
+            "principe": "La biodiversité est renforcée.",
+            "criteres": "Des preuves consultables telles que des cartes, des photos aériennes, des signes visuels sur l'exploitation, des documents publiés par les autorités locales ou nationales ou par des prestataires agréés, devraient attester l'application effective du plan biodiversité en vue de renforcer la biodiversité, à l'aide de l'une ou plusieurs des pratiques suivantes, par exemple :\n1) Restaurer, améliorer ou développer les parcelles de toute taille :\na) De forêts, zones humides, mangroves, prairies, tourbières, etc.\nb) De zones bénéficiant d'une protection juridique particulière ou d'une autre forme de protection (par ex., les zones classées selon les catégories de l'Union internationale pour la conservation de la nature (UICN))\nc) De zones reconnues comme « aires à haute valeur de conservation » (HVC)\n2) Éviter ou lutter contre les espèces exotiques envahissantes\n3) Autres actions menées par le producteur et ses partenaires\nLes lignes directrices fournissent des recommandations en matière de protection de la biodiversité.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 22.02.01",
+            "principe": "Les sites improductifs sont utilisés comme surfaces d'intérêt écologique pour protéger et renforcer la biodiversité.",
+            "criteres": "Il devrait exister des preuves indiquant que le plan biodiversité intègre les sites improductifs (basses terres humides, zones boisées, talus ou sols pauvres, etc.), et qu'ils sont utilisés pour protéger et renforcer la biodiversité.\nLes preuves utilisées pour les trois principes et critères précédents consacrés à la biodiversité peuvent également être acceptés ici si elles concernent des sites improductifs de l'exploitation.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 22.03.01",
+            "principe": "Sur l'exploitation (dans les limites territoriales de l'exploitation), aucune zone dont la valeur de conservation est juridiquement reconnue (ou protégée par d'autres moyens) n'a été convertie en surface agricole ou pour tout autre usage après le 1er janvier 2014.",
+            "criteres": "Des preuves consultables telles que des cartes, des photos aériennes, des signes visuels sur l'exploitation, des documents publiés par les autorités locales ou nationales ou par des prestataires agréés, doivent attester qu'aucune conversion en surface agricole ou en tout autre usage présentant la caractéristique suivante n'a eu lieu sur les terres de l'exploitation après le 1er janvier 2014 :\n- Les zones pour lesquelles une protection juridique empêche toute conversion de ce type (aires protégées reconnues par la législation nationale ou locale, zones relevant des catégories concernées de l'Union internationale pour la conservation de la nature (UICN), aires protégées en pratique par d'autres moyens, etc.)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 22.03.02",
+            "principe": "Sur l'exploitation (dans les limites territoriales de l'exploitation), les zones dont la valeur de conservation est juridiquement reconnue (ou protégée par d'autres moyens) ayant été converties en surface agricole ou pour tout autre usage entre le 1er janvier 2008 et le 1er janvier 2014 ont déjà été réhabilitées, sont en cours de réhabilitation ou en attente de réhabilitation.",
+            "criteres": "Des preuves consultables telles que des cartes, des photos aériennes, des signes visuels sur l'exploitation, des documents publiés par les autorités locales ou nationales ou par des prestataires agréés, doivent attester que la réhabilitation est terminée, en cours ou prévue, afin de restaurer l'intégralité des composantes de l'exploitation (dans les limites territoriales de l'exploitation) qui remplissent les conditions ci-dessous et qui ont été converties en surface agricole ou pour tout autre usage entre le 1er janvier 2008 et le 1er janvier 2014 :\n- Les zones pour lesquelles une protection juridique empêche toute conversion de ce type (aires protégées reconnues par la législation nationale ou locale, zones relevant des catégories concernées de l'Union internationale pour la conservation de la nature (UICN), aires protégées en pratique par d'autres moyens, etc.)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 22.03.03",
+            "principe": "La gestion de la biodiversité s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent au moins de calculer les éléments suivants :\n- La surface totale (en ha ou en m²) des écosystèmes et habitats naturels ou semi-naturels, des espaces protégés bénéficiant d'une reconnaissance juridique, ou des espaces protégés en pratique par d'autres moyens (au 1er janvier de l'année de l'audit par l'organisme de certification (OC))\n- La surface totale (en ha ou en m²) convertie pour un usage agricole ou tout autre usage entre le 1er janvier 2008 et le 1er janvier 2014 (au 1er janvier de l'année de l'audit par l'OC)\n- La surface totale (en ha ou en m²) déjà réhabilitée (au 1er janvier de l'année de l'audit par l'OC)\n- La surface totale (en ha ou en m²) en cours de réhabilitation (au 1er janvier de l'année de l'audit par l'OC)\n- La surface totale (en ha ou en m²) pour laquelle une réhabilitation est prévue (au 1er janvier de l'année de l'audit par l'OC)\nIl est possible de calculer d'autres paramètres de biodiversité au besoin.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables. Les données devraient être mises à disposition au niveau du groupement de producteurs et de l'exploitation afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 23",
+        "titre": "EFFICIENCE ÉNERGÉTIQUE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 23.01",
+            "principe": "La consommation d'énergie de l'exploitation est surveillée.",
+            "criteres": "La consommation d'énergie de l'exploitation doit donner lieu à des enregistrements (par ex., des factures avec le détail de la consommation). Le producteur (ou, le cas échéant, le responsable du système de gestion de la qualité (SGQ)) doit savoir où et comment l'exploitation et ses pratiques agricoles consomment de l'énergie. En l'absence de compteurs (par ex., dans le cas des petits producteurs), des estimations peuvent être acceptées.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs à l'échelon du SGQ sont considérés comme acceptables.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 23.02",
+            "principe": "Les résultats de la surveillance ont donné lieu à un plan d'amélioration de l'efficience énergétique de l'exploitation.",
+            "criteres": "Il doit exister un plan documenté identifiant les possibilités d'amélioration de l'efficience énergétique. Il peut s'agir d'un plan pluriannuel si la situation du producteur l'exige.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 23.03",
+            "principe": "Le plan d'amélioration de l'efficience énergétique vise à réduire la consommation d'énergies non renouvelables.",
+            "criteres": "Le producteur doit envisager de réduire la consommation d'énergies non renouvelables au strict minimum en les remplaçant par des énergies renouvelables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 23.04",
+            "principe": "La gestion de l'énergie s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent au moins de calculer les éléments suivants :\n- La consommation mensuelle totale de l'exploitation pour chaque source d'énergie\n- La part d'énergies renouvelables et non renouvelables dans les sources d'énergie\nD'autres calculs peuvent déterminer, par exemple :\n- La quantité d'énergie amenée sur l'exploitation (par ex., depuis le réseau)\n- La quantité d'énergie produite par le producteur (par ex., à l'aide de panneaux photovoltaïques, de combustibles)\n- La quantité d'énergie exportée (par ex., réinjectée dans le réseau)\nLes données devraient indiquer les sources d'énergie, les différents sites de production de l'exploitation, le nombre d'hectares en culture, les unités de temps (par ex., le cycle de croissance), les sources d'énergies renouvelables et non renouvelables, les quantités d'énergie par kg de produit et par ha de production, et/ou les quantités mentionnées ci-dessus par kg de produit.\nDans le cas des groupements de producteurs sous l'Option 2, des éléments justificatifs à l'échelon du système de gestion de la qualité (SGQ) sont acceptés. Les données devraient être mises à disposition au niveau du groupement de producteurs et de l'exploitation afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 24",
+        "titre": "GAZ À EFFET DE SERRE ET CHANGEMENT CLIMATIQUE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 24.01",
+            "principe": "L'exploitation contribue à la réduction des émissions de GES* et à les éliminer de l'atmosphère.\n*Les émissions de gaz à effet de serre (GES) désignent les émissions de dioxyde de carbone (CO2), de méthane (CH4), d'oxyde d'azote (N2O) et de gaz fluorés. En raison de contributions variables au réchauffement climatique, ils sont parfois présentés sous forme d'équivalents CO2 (CO₂e).",
+            "criteres": "Il devrait exister des preuves indiquant que le producteur a conscience et connaissance de la manière dont les pratiques agricoles sur l'exploitation peuvent contribuer à réduire les émissions de GES et à les éliminer de l'atmosphère, par l'intermédiaire des choix en matière notamment d'énergie, de santé des sols, d'engrais et de déchets alimentaires.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 24.02",
+            "principe": "L'exploitation permet la formation de carbone organique dans les sols et dans la biomasse.",
+            "criteres": "Il devrait exister des preuves indiquant que le producteur se prépare à adopter, ou applique déjà des pratiques agricoles permettant la formation de carbone organique dans les sols et dans la biomasse, par exemple :\n- La gestion des résidus de récolte (réintégration des résidus dans le sol, semis direct)\n- Le recours à des cultures de couverture dans la rotation des cultures, la diversification de la rotation des cultures, la culture sans ou avec peu de labour\n- La réduction de la libération des éléments nutritifs dans la gestion des engrais\n- La réhabilitation des écosystèmes\n- Agriculture bas carbone et pratiques permettant de capturer du carbone dans les sols et dans la biomasse",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 24.03",
+            "principe": "La contribution de l'exploitation à la réduction et à l'élimination des gaz à effet de serre (GES) de l'atmosphère s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent de calculer les éléments suivants :\nAu minimum, l'équivalent en GES de la quantité totale d'énergie consommée par l'exploitation (en CO2e/ha/mois et en CO2e/kg/mois).\nD'autres calculs peuvent déterminer, par exemple :\n- L'équivalent en GES d'autres quantités d'énergie calculées pour l'exploitation\n- L'équivalent en GES pour les sols et la biomasse, l'agriculture bas carbone ou l'empreinte écologique, par exemple\nLes données devraient indiquer les différents sites de production de l'exploitation, les unités de temps (par ex., les cycles de croissance) et les émissions de GES par kg de produit et par ha de production.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables. Les données du groupement et de l'exploitation devraient être mises à disposition afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 25",
+        "titre": "GESTION DES DÉCHETS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 25.01",
+            "principe": "Un système de gestion des déchets est mis en œuvre.",
+            "criteres": "Un système de gestion des déchets traitant des risques de contamination du produit ou de l'environnement (air, sols, substrat et eau) doit :\n- Être documenté et à jour\n- Traiter de la collecte, du stockage et de l'élimination des déchets, dont les produits phytopharmaceutiques, les engrais, les eaux usées, l'assainissement, les matériaux d'emballage, le cas échéant",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 25.02",
+            "principe": "Les types de déchets et sources de pollution ont été identifiés dans l'ensemble des zones de l'exploitation.",
+            "criteres": "Les déchets (papier, carton, plastique, hydrocarbures, etc.) et les sources de pollution (excédent d'engrais, gaz d'échappement, huile, carburant, bruit, effluents, agents chimiques, etc.) associés aux processus agricoles doivent être répertoriés.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 25.03",
+            "principe": "Les chariots élévateurs et autres chariots de transport motorisés sont tous propres, bien entretenus et adaptés afin d'éviter toute pollution due aux émissions.",
+            "criteres": "Les moyens de transport internes devraient être entretenus de manière à éviter toute contamination des produits, avec une attention particulière pour les gaz d'échappement. Les chariots élévateurs et autres chariots de transport motorisés devraient fonctionner à l'électricité ou au gaz.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 25.04",
+            "principe": "Les zones de rétention des cuves à gazole (diesel) ou d'autres carburants sont sans danger pour l'environnement.",
+            "criteres": "Les zones de rétention doivent être entretenues de manière à réduire les risques pour l'environnement. L'exigence minimale pour une zone de rétention est un espace imperméabilisé d'une capacité correspondant à au moins 110% du volume de la plus grande cuve qu'elle contient. S'il s'agit d'une zone à environnement sensible, la capacité doit être portée à 165 % du volume de la plus grande cuve.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 25.05",
+            "principe": "Les déchets organiques sont gérés de manière appropriée, de façon à réduire le risque de contamination de l'environnement.",
+            "criteres": "Les déchets organiques devraient être compostés et utilisés comme amendements du sol. La méthode de compostage choisie devrait réduire le risque de nuisibles, de maladies ou de transfert de graines.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 25.06",
+            "principe": "L'eau utilisée pour le lavage et le nettoyage est éliminée de sorte à minimiser les risques pour la santé et la sécurité et l'environnement.",
+            "criteres": "Les eaux usées résultant du lavage de machines contaminées (équipements de pulvérisation, équipements de protection individuelle (EPI), groupes d'eau glacée, etc.) doivent être éliminées sans risque pour l'environnement ou la santé humaine. L'assainissement ne doit présenter aucun risque pour les sources d'eau ou les systèmes d'adduction.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 25.07",
+            "principe": "Les fragments ou petits morceaux de matériaux d'emballage et les déchets autres que le produit sont retirés des champs.",
+            "criteres": "Les fragments et petits morceaux de matériaux d'emballage et les déchets autres que le produit doivent être retirés du site de production une fois le processus de plein champ terminé.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 25.08",
+            "principe": "Les plastiques sont gérés de manière responsable.",
+            "criteres": "Il doit exister des preuves tangibles que, dans le cas des produits plastiques durables et des produits plastiques à usage unique utilisés pour la production agricole :\n- Les opérateurs ont été formés aux pratiques et procédures d'exploitation permettant de réduire les rejets de plastique dans l'environnement.\n- Les spécifications du fabricant sont respectées en vue de conserver l'intégrité du plastique pendant toute la durée de son utilisation et de sa collecte. Cela désigne, par exemple, le contrôle, l'entretien et le remplacement des produits plastiques.\n- Le plastique usagé collecté est entreposé de façon sécurisée et éliminé dans le respect de l'environnement.\n- Dans la mesure du possible, les plastiques sont recyclés ou réutilisés après usage.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 25.09",
+            "principe": "Les déchets alimentaires* sont évités et font l'objet d'une gestion particulière. *Déchets alimentaires : denrées alimentaires qui ne sont pas utilisées pour l'alimentation humaine, l'alimentation animale ou les agro-matériaux.",
+            "criteres": "Des preuves disponibles montrent que : La production excédentaire** devrait être réaffectée à l'un des usages suivants, par ordre de préférence :\n- Alimentation humaine (transformation, aide alimentaire, etc.)\n- Alimentation animale\n- Agro-matériaux\nLes déchets alimentaires devraient être réaffectés de l'une des manières suivantes :\n- Recyclage, compostage et/ou épandage\n- Valorisation (par ex., incinération des déchets avec récupération d'énergie)\n- Autres formes d'élimination\nIl convient d'étayer les preuves de gestion des excédents et déchets alimentaires à l'aide d'enregistrements quantitatifs (les estimations sont acceptées).\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.\n**Production excédentaire : production de l'exploitation qui est cultivée et récoltée (ou non récoltée et laissée en terre), mais pas distribuée aux clients.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 26",
+        "titre": "PLANTS ET SEMENCES",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 26.01",
+            "principe": "Les plants et semences sont obtenus dans le respect de la législation sur l'enregistrement des variétés, le cas échéant.",
+            "criteres": "Des documents (par ex., l'emballage vide des semences, un passeport végétal, une liste de colisage ou une facture) indiquant au minimum le nom de la variété, le numéro de lot, le vendeur des plants et semences et, le cas échéant, des informations complémentaires sur la qualité des semences (germination, pureté génétique, pureté physique, santé des semences, etc.) doivent être disponibles. Les produits provenant de pépinières certifiées GLOBALG.A.P. pour les plants et semences sont considérés comme conformes.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 26.02",
+            "principe": "Les plants et semences sont obtenus dans le respect de la législation relative à la propriété intellectuelle.",
+            "criteres": "Quand le producteur utilise des variétés ou des porte-greffes enregistrés, il doit être en mesure de présenter sur demande des documents attestant que les plants et semences ont été achetés ou obtenus dans le respect de la réglementation en vigueur en matière de droits de propriété intellectuelle. Ces documents peuvent être un contrat de licence (pour les plants initiaux qui ne proviennent pas de semences, mais de végétaux), un document ou un emballage de semences vide indiquant le nom de la variété, le numéro du lot, le vendeur des plants et semences et la liste de colisage/le bon de livraison ou la facture pour prouver la quantité obtenue et l'identité de tous les plants et semences utilisés au cours des 24 derniers mois.\nNote : La base de données PLUTO de l'UPOV (http://www.upov.int/pluto/en) et l'outil Variety Finder sur le site web de la CPVO (https://cpvoextranet.cpvo.europa.eu/) répertorient toutes les variétés dans le monde, en indiquant des détails concernant leur enregistrement ainsi que les données de propriété intellectuelle par variété et par pays.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 26.03",
+            "principe": "Des systèmes de contrôle qualitatif et sanitaire sont en place pour les plants et semences autoproduits.",
+            "criteres": "Un système de contrôle qualité comprenant un système de surveillance des signes apparents de maladie ou de parasitisme doit être en place. Les dossiers existants du système de surveillance doivent être disponibles. Le terme « pépinière » désigne tout lieu de production de plants et de semences, y compris l'auto-production de greffes. Le système de contrôle doit inclure l'enregistrement et l'identification de la plante-mère ou, le cas échéant, du champ d'origine. L'enregistrement doit se faire à intervalles réguliers bien définis. Si les arbres ou plantes cultivés sont destinés à un usage personnel uniquement (c'est-à-dire non commercialisés), des enregistrements des activités d'autoproduction et de surveillance réalisés en interne sont suffisants. Lorsque des porte-greffes sont utilisés, une attention particulière doit être accordée à l'origine des porte-greffes en se basant sur la documentation.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 26.04",
+            "principe": "Il existe des enregistrements à jour de tous les traitements chimiques appliqués sur les plants et semences autoproduits.",
+            "criteres": "Des enregistrements de tous les traitements à base de produits phytopharmaceutiques appliqués pendant la période d'autoproduction de plants et de semence doivent être disponibles et doivent préciser :\n- Le lieu\n- La date\n- La dénomination commerciale, la substance active et l'intervalle pré-récolte pour chaque produit\n- Le nom de la personne chargée de l'application\n- Le motif de l'application\n- La quantité\n- Les machines employées\nCe principe et les critères respectifs s'appliquent principalement aux cultures à cycle court, lorsque le traitement des plants et semences a une incidence sur la sécurité sanitaire des aliments. Il ne s'applique pas à la plupart des arbres fruitiers pour lesquels la période de production de plants et de semences et la période de production active sont très éloignées dans le temps.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 26.05",
+            "principe": "Des informations relatives aux traitements chimiques sont disponibles pour les plants et semences achetés.",
+            "criteres": "Des enregistrements indiquant le nom du ou des agents chimiques appliqués par le fournisseur sur les plants et semences doivent être disponibles sur demande. Il peut s'agir :\n- D'enregistrements d'application tenus à jour par le fournisseur\n- D'informations fournies sur les emballages de semences\n- De listes des produits phytopharmaceutiques appliqués\nLes producteurs se fournissant auprès de fournisseurs disposant d'une certification GLOBALG.A.P. pour les plants et semences, ou d'une certification équivalente reconnue par GLOBALG.A.P., sont considérés comme conformes.\n« N/A » pour les plantes vivaces.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 27",
+        "titre": "ORGANISMES GÉNÉTIQUEMENT MODIFIÉS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 27.01",
+            "principe": "Il existe une procédure pour l'utilisation et la manipulation des plants génétiquement modifiés.",
+            "criteres": "Une procédure dûment documentée expliquant comment les plants génétiquement modifiés (cultures et essais de culture) sont cultivés et manipulés doit être en place.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 27.02",
+            "principe": "La culture de végétaux génétiquement modifiés à des fins de culture et/ou d'essai est soumise à la législation en vigueur dans le pays de production.",
+            "criteres": "Le producteur doit disposer d'une copie de la réglementation en vigueur dans le pays de production et s'y conformer. Des enregistrements des modifications spécifiques et/ou du numéro d'identification unique doivent être conservés. Des conseils spécifiques sur les pratiques culturales et d'élevage, ainsi que sur la gestion doivent également être obtenus.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 27.03",
+            "principe": "Les clients directs du producteur ont été informés de l'état d'organisme génétiquement modifié du produit.",
+            "criteres": "Des preuves documentées de la correspondance doivent être conservées et doivent permettre de vérifier que tous les produits fournis aux clients directs sont conformes aux spécifications convenues.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 27.04",
+            "principe": "Les mélanges accidentels de cultures génétiquement modifiées et de cultures conventionnelles sont évités.",
+            "criteres": "Un examen visuel de l'identification des cultures génétiquement modifiées et de l'intégrité de leur stockage doit être effectué.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 28",
+        "titre": "GESTION DU SOL ET DES SUBSTRATS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 28.01.01",
+            "principe": "Pour améliorer et optimiser la santé des sols, le producteur dispose d'un plan de gestion des sols.",
+            "criteres": "Le producteur doit prouver qu'il a tenu compte des besoins nutritionnels de la culture et de la fertilité du sol. Des résultats d'analyse des sols et des informations propres à la culture concernée doivent être disponibles pour servir de preuve.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 28.01.02",
+            "principe": "Les sols de l'exploitation ont été cartographiés.",
+            "criteres": "Pour chaque site, les types de sol devraient être identifiés sur la base d'un profil ou d'une analyse du sol ou d'une carte pédologique locale ou régionale.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 28.01.03",
+            "principe": "Une rotation des cultures est pratiquée pour les cultures annuelles lorsque c'est possible.",
+            "criteres": "Lorsque des rotations des cultures annuelles sont pratiquées pour améliorer la structure du sol et lutter contre les parasites et maladies se propageant par le sol, cela doit pouvoir être vérifié à l'aide des dates de plantation ou des enregistrements relatifs à la culture ou au champ concerné. Les enregistrements doivent être disponibles pour la rotation bisannuelle précédente.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.01.04",
+            "principe": "Des techniques culturales visant à améliorer ou entretenir la structure du sol et éviter le tassement du sol ont été utilisées.",
+            "criteres": "Des preuves doivent être disponibles pour la mise en œuvre des techniques culturales employées (par exemple l'utilisation de cultures vertes/fourragères à racines profondes, le drainage, la scarification, l'utilisation de pneus basse pression, des traces de roues, le marquage de rangs permanents, etc.), qui sont adaptées à la structure du sol et minimisent, isolent, ou éliminent le cas échéant le tassement du sol.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.01.05",
+            "principe": "Le producteur emploie des techniques visant à réduire le risque d'érosion du sol.",
+            "criteres": "Le recours à certaines pratiques de contrôle et mesures correctives (paillage, travail du sol réalisé perpendiculairement à la pente, fossés de drainage, ensemencement d'herbe ou d'engrais verts, plantation d'arbres et de buissons sur les bords des champs, etc.) afin de lutter contre l'érosion du sol (due à l'eau, au vent, etc.) doit être prouvé.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.02.01",
+            "principe": "Il existe des documents justifiant l'utilisation de fumigants chimiques des sols.",
+            "criteres": "Il doit exister des documents justifiant l'utilisation de fumigants des sols, comprenant les informations suivantes : problème ciblé, lieu, date, substance active, doses, méthode d'application et opérateur. Le bromométhane, ou bromure de méthyle, ne doit jamais être utilisé pour la fumigation des sols.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.02.02",
+            "principe": "Le délai de présemis est respecté.",
+            "criteres": "Le délai de présemis doit être consigné.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.03.01",
+            "principe": "Le producteur participe au recyclage des substrats.",
+            "criteres": "Le producteur devrait conserver des justificatifs indiquant les dates et quantités de substrats recyclés. Les factures/bons de chargement sont également valables. Si le producteur ne participe pas à un programme de recyclage existant, il devrait être en mesure de le justifier. La participation à un programme de recyclage en dehors de l'exploitation est acceptée.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 28.03.02",
+            "principe": "Tous les agents chimiques utilisés pour stériliser les substrats avant réutilisation sont enregistrés et ces enregistrements sont conservés.",
+            "criteres": "Si les substrats sont stérilisés sur l'exploitation, la désignation ou l'identification du champ, du verger ou de la serre doit être enregistrée.\nSi les substrats sont stérilisés en dehors de l'exploitation, le nom et la localisation de la société effectuant l'opération de stérilisation du substrat doivent être enregistrés.\nDans tous les cas, les éléments suivants doivent être dûment consignés :\n- Les dates de stérilisation (jour/mois/année)\n- Le nom et la substance active du produit employé\n- Les machines employées (par ex., cuve de 1 000 l)\n- La méthode employée (trempage, nébulisation, etc.)\n- Le nom de l'opérateur (la personne ayant procédé à l'application des agents chimiques et à la stérilisation)\n- Le délai de présemis\nLorsque c'est possible, la stérilisation à la vapeur ou d'autres alternatives non chimiques doivent être privilégiées pour les substrats qui seront réutilisés.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 28.03.03",
+            "principe": "Les substrats d'origine naturelle ne proviennent pas de zones protégées.",
+            "criteres": "La source du substrat d'origine naturelle utilisé doit être attestée par des enregistrements. Ces enregistrements doivent confirmer que le substrat ne provient pas de zones protégées.\nLes possibilités de réduire le recours à la tourbe doivent être envisagées.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 29",
+        "titre": "ENGRAIS ET BIOSTIMULANTS",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 29.01.01",
+            "principe": "Des enregistrements à jour sont conservés pour toutes les applications d'engrais et de biostimulants.",
+            "criteres": "Des enregistrements doivent être conservés pour chaque application d'engrais (organique et inorganique) et de biostimulants, y compris les systèmes hydroponiques et de fertigation.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 29.01.02",
+            "principe": "Les enregistrements des applications d'engrais doivent toujours indiquer :",
+            "criteres": "La zone géographique et le nom ou la référence du champ, du verger ou de la serre",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.01.03",
+            "principe": "Les enregistrements des applications d'engrais doivent toujours indiquer :",
+            "criteres": "La ou les dates",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.01.04",
+            "principe": "Les enregistrements des applications d'engrais doivent toujours indiquer :",
+            "criteres": "Le nom et le type",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.01.05",
+            "principe": "Les enregistrements des applications d'engrais doivent toujours indiquer :",
+            "criteres": "La quantité (teneur ou concentration)",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.01.06",
+            "principe": "Les enregistrements des applications d'engrais doivent toujours indiquer :",
+            "criteres": "Le nom de la personne chargée de l'application, afin d'identifier clairement la personne ou l'équipe de travailleurs procédant à l'application d'engrais",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.01.07",
+            "principe": "La gestion des engrais s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent de calculer les éléments suivants :\nLes quantités totales de potassium, d'azote et de phosphore appliquées sur l'exploitation (en kg/culture, kg/mois et kg/ha/mois).\nCes données devraient mentionner les engrais organiques et inorganiques, les unités de temps (par ex., cycle de croissance), et les quantités d'engrais par kg de produit et par ha de production.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables. Les données devraient être mises à disposition au niveau du groupement de producteurs et de l'exploitation afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 29.02.01",
+            "principe": "Les engrais et biostimulants sont stockés de manière à ne pas nuire à la sécurité sanitaire des aliments.",
+            "criteres": "Les engrais et biostimulants doivent être entreposés dans une zone réservée à cet effet, à l'écart des produits phytopharmaceutiques (PPP) et des produits récoltés ou emballés.\nLa contamination croisée entre les engrais (organiques et inorganiques), les biostimulants et les PPP doit être évitée. Des séparations physiques (murs, bâches, etc.) peuvent être utilisées en fonction du risque défini.\nLes engrais et biostimulants appliqués simultanément avec des PPP (micronutriments, engrais foliaires, etc.) peuvent être entreposés avec les PPP s'ils sont tous conservés dans des conteneurs fermés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 29.02.02",
+            "principe": "Les engrais et biostimulants sont stockés de manière à réduire le risque de contamination de l'environnement.",
+            "criteres": "Les engrais (organiques et inorganiques) et les biostimulants doivent être entreposés dans une zone réservée à cet effet. Des mesures adaptées doivent être prises pour empêcher la pollution des sources d'eau (fondations et murs en béton, conteneurs étanches, etc.), ou les engrais doivent être stockés à au moins 25 mètres des sources d'eau.\nSi nécessaire, les engrais inorganiques (poudres, granulés, liquides, etc.) doivent être protégés contre les éléments (lumière du soleil, gel et pluie, fortes chaleurs, etc.). En se basant sur une évaluation des risques (type d'engrais, conditions atmosphériques, durée et lieu de stockage), un bâchage en plastique peut être accepté. Entreposer de l'engrais calcique et du gypse sur le champ est une pratique admise. Des engrais liquides peuvent être stockés à l'extérieur dans des containers dans la mesure où les exigences en matière de stockage définies dans la fiche de données de sécurité (FDS) sont respectées. La zone de stockage doit être bien ventilée, protégée contre l'eau de pluie et contre une forte condensation.\nLes engrais minéraux doivent être entreposés dans un espace dépourvu de déchets qui ne soit pas susceptible de servir de zone de reproduction à des rongeurs. Toute trace de liquide ou de fuite doit pouvoir être éliminée.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.03.01",
+            "principe": "Une évaluation des risques pour les engrais organiques est menée en fonction de l'utilisation prévue.",
+            "criteres": "Une évaluation des risques pour les engrais organiques doit être documentée et réalisée avant d'utiliser les engrais organiques en question. Elle doit prendre en compte les éléments suivants :\n- Le type d'engrais organique\n- La méthode de traitement\n- La contamination microbienne\n- La teneur en mauvaises herbes/semences\n- La teneur en métaux lourds\n- Le moment de l'application\n- Le positionnement de l'application (par ex., en contact avec la partie comestible de la plante)\nLes procédures doivent tenir compte des recommandations de l'OMS (Organisation mondiale de la santé). Ceci s'applique également aux substrats provenant des usines de biogaz. Dans le cas des engrais organiques disponibles dans le commerce, les documents, certificats de qualité et détails de la composition peuvent remplacer une évaluation des risques.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 29.03.02",
+            "principe": "Le délai entre l'application d'un engrais organique et la récolte du produit ne doit pas nuire à la sécurité sanitaire des aliments.",
+            "criteres": "Les enregistrements doivent démontrer que l'intervalle entre l'utilisation d'engrais organiques compostés et la récolte ne compromet pas la sécurité sanitaire des aliments.\nEn cas d'utilisation de fumier animal brut, celui-ci doit être incorporé au sol. Les risques associés au type de fumier employé et à son utilisation prévue doivent être évalués au moment de déterminer l'intervalle pré-récolte, tout en respectant au moins les exigences suivantes :\n- Pour les cultures arboricoles (c'est-à-dire les arbres dont les fruits les plus bas sont éloignés du sol et ne risquent pas d'entrer en contact avec le sol, ce qui exclut les arbustes du sous-étage) : Le fumier doit être appliqué avant le débourrement, ou à un intervalle plus court en fonction des résultats de l'évaluation des risques, mais jamais à moins de 60 jours de la récolte.\n- Cultures à feuilles : Le fumier ne doit jamais être appliqué après la plantation, quel que soit l'intervalle de récolte.\n- Autres cultures : Le fumier doit être appliqué au moins 60 jours avant la récolte.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 29.03.03",
+            "principe": "Il est interdit d'utiliser des boues d'épuration d'origine humaine sur l'exploitation.",
+            "criteres": "Les boues d'épuration d'origine humaine ne doivent jamais être utilisées pour la production de cultures inscrites. L'utilisation de boues d'épuration d'origine humaine, qu'elles aient été compostées ou incorporées à un produit du commerce, n'est pas autorisée, même si la réglementation en vigueur le permet.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 29.04.01",
+            "principe": "La teneur en azote, phosphore et potassium des engrais appliqués est connue.",
+            "criteres": "Des preuves écrites/étiquettes spécifiant la teneur en nutriments majeurs (ou des valeurs standards reconnues) doivent être disponibles pour tous les engrais (organiques et inorganiques) utilisés sur les cultures enregistrées au cours des 24 derniers mois.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 29.04.02",
+            "principe": "Les engrais inorganiques sont accompagnés de documents précisant leur composition chimique, notamment leur teneur en métaux lourds.",
+            "criteres": "Des preuves écrites détaillant la composition chimique, notamment la teneur en métaux lourds, devraient être disponibles pour tous les engrais inorganiques employés sur les cultures inscrites au cours des 12 derniers mois.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 30",
+        "titre": "GESTION DE L'EAU",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 30.01.01",
+            "principe": "Une évaluation des risques évalue les risques pour la sécurité sanitaire des aliments associés à l'eau utilisée avant et après la récolte.",
+            "criteres": "Il doit exister une évaluation des risques portant sur l'eau utilisée pour la production en intérieur et en extérieur et pour les activités post-récolte. A minima, l'évaluation doit couvrir :\n- L'identification des sources d'eau au moyen de cartes, de photos, de schémas (les schémas à la main sont acceptés), ou autre description permettant d'identifier le lieu de la ou des sources d'eau, les installations permanentes et l'aménagement du réseau hydraulique (notamment les systèmes de retenue, les réservoirs, ou toute eau captée pour être réutilisée). La description doit être associée à des cartes du site et à un système de référence propre à l'exploitation\n- L'historique des résultats d'analyse, le cas échéant\n- Le moment où l'eau est consommée (période de croissance de la plante ou après la récolte)\n- Le risque de contamination physique, chimique et microbienne\n- Les méthodes de lutte contre les risques associés aux mécanismes de distribution de l'eau, la réduction du risque de contamination croisée\n- Le contact de l'eau avec les plantes cultivées\n- Les caractéristiques de la culture et de la période de croissance ou de traitement et de manipulation\n- La qualité de l'eau employée pour les engrais, les produits phytopharmaceutiques ou les applications post-récolte\n- Les mesures prises pour réduire le risque de contamination, le cas échéant (par ex., empêcher l'intrusion de personnes ou d'animaux par la pose de clôtures)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.01.02",
+            "principe": "Une évaluation des risques a été mené en vue d'évaluer les répercussions sur l'environnement de la gestion de l'eau sur l'exploitation (avant et après récolte).",
+            "criteres": "Il doit exister une évaluation des risques portant sur l'eau utilisée pour la production en intérieur et en extérieur et pour les activités post-récolte. A minima, l'évaluation doit répertorier les répercussions environnementales pour et causées par :\n- Les sources d'eau\n- Les systèmes de distribution\n- Les méthodes d'irrigation\n- Les gros volumes d'eau consommés pour d'autres activités sur l'exploitation\n- L'impact des activités agricoles de l'exploitation sur l'environnement extérieur à l'exploitation\nL'évaluation des risques doit être révisée chaque année ou en cas d'évolution des risques.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.01.03",
+            "principe": "Un plan de gestion de l'eau existe.",
+            "criteres": "Un plan de gestion de l'eau dûment documenté doit :\n- Être révisé au moins une fois par an, en s'appuyant sur la révision des évaluations des risques\n- Évaluer les besoins en matière d'entretien des équipements d'irrigation et d'adduction d'eau\n- Déterminer les besoins en formation des travailleurs pour faciliter l'entretien et les réparations\n- Se présenter comme un plan individuel ou régional en cas de participation documentée à un système d'irrigation collectif\n- Citer des analyses d'eau\n- Décrire les mesures correctives prises concernant la qualité de l'eau",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.01.04",
+            "principe": "Des mesures sont prises pour compléter la gestion de l'eau sur l'exploitation par des activités hors exploitation (tout en reconnaissant que le domaine de compétence du producteur se limite à l'exploitation proprement dite).",
+            "criteres": "Dans l'idéal, il devrait exister des preuves attestant la sensibilisation du producteur (ou sa participation) à des projets, actions communes ou collaborations dans le domaine de la gestion de l'eau avec les acteurs concernés de la zone de captage voisine, du bassin versant ou au-delà, par exemple avec d'autres producteurs, des initiatives sectorielles ou spécifiques à une culture donnée, des organisations non gouvernementales, etc.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 30.02.01",
+            "principe": "La consommation d'eau sur l'exploitation bénéficie d'un permis/d'une licence lorsque la législation l'exige.",
+            "criteres": "Tous les éléments suivants doivent bénéficier d'un permis/d'une licence valide de la part de l'autorité compétente :\n- L'extraction d'eau sur l'exploitation\n- Les infrastructures de stockage d'eau\n- La consommation d'eau sur l'exploitation pour l'irrigation, le lavage du produit ou les processus de convoyage, entre autres\n- Les rejets d'eau dans des cours d'eau ou toute autre zone vulnérable, lorsque la législation l'exige\nCes permis/licences doivent être mis à disposition lors de l'audit par l'organisme de certification (OC) et doivent être en cours de validité. En l'absence de ces permis/licences, le producteur doit être en mesure de prouver qu'il a entamé les démarches pour les obtenir, que le traitement de sa demande est en cours et que l'utilisation des sources d'eau concernées ne fait l'objet d'aucune interdiction officielle.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.02.02",
+            "principe": "Les restrictions formulées dans les permis/licences concernant l'eau sont respectées.",
+            "criteres": "Il n'est pas rare que ces autorisations/licences définissent des conditions spécifiques telles que des volumes de prélèvement ou taux de consommation horaires, journaliers, hebdomadaires, mensuels, ou annuels. L'emplacement des équipements utilisés pour la surveillance des volumes prélevés doit être adapté afin de fournir des données exactes. Des enregistrements doivent être à jour et disponibles pour démontrer que ces conditions sont remplies.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.03.01",
+            "principe": "Lorsque c'est possible, des mesures ont été prises pour collecter l'eau et, le cas échéant, la recycler.",
+            "criteres": "La collecte et/ou le recyclage de l'eau doivent être mis en œuvre lorsque les conditions économiques et pratiques le permettent (sur les toits des bâtiments et des serres, etc.).\nLa collecte ou le recyclage de l'eau ne concerne pas uniquement l'eau de pluie. La collecte dans les cours d'eau n'est pas encouragée.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 30.04.01",
+            "principe": "Des installations de stockage d'eau sont présentes et bien entretenues afin de profiter des périodes de disponibilité maximale de l'eau.",
+            "criteres": "Lorsque l'exploitation est située dans une zone où l'eau n'est pas disponible toute l'année, elle devrait disposer d'installations de stockage d'eau permettant de bénéficier d'un accès à l'eau pendant les périodes sèches. Ces installations devraient être maintenues en bon état et clôturées/sécurisées pour éviter les accidents.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 30.04.02",
+            "principe": "Le stockage de l'eau ne cause aucun risque pour la sécurité sanitaire des aliments.",
+            "criteres": "Si des cuves, citernes ou autres conteneurs sont utilisés pour stocker de l'eau, les risques pour l'eau stockée et pour les produits doivent être répertoriés. Si les conteneurs de stockage sont ouverts, il doit être tenu compte du risque de contamination. Le conteneur ne doit pas représenter une source de contamination pour l'eau, et la qualité de l'eau qu'il contient doit être adaptée à l'utilisation prévue.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.01",
+            "principe": "L'eau est analysée à des fins de sécurité sanitaire des aliments, en conformité avec l'évaluation des risques.",
+            "criteres": "L'eau doit être analysée à une fréquence conforme à l'évaluation des risques, aux normes sectorielles actuelles ou à la réglementation en vigueur. L'analyse de l'eau doit s'inscrire dans le plan de gestion de l'eau et doit être réalisée au moins une fois par an, voire plus si l'évaluation des risques l'exige (par ex., pour l'agriculture en environnement contrôlé (AEC)).\nAu moins une analyse par saison ou par cycle de certification doit être exigée pour l'eau qui entre en contact avec les produits au cours du traitement post-récolte. Les échantillons doivent être prélevés le plus près possible du point d'application. Au moins une analyse doit être exigée même en cas de recours au réseau d'adduction local.\nLes analyses de l'eau doivent refléter la nature et l'étendue du réseau d'eau, le champ de production (type de produit, applications, récolte, traitement et manipulation, sources d'eau, etc.). Lorsque différentes sources d'eau sont utilisées, des échantillons doivent être prélevés dans chacune d'entre elles. Les échantillons doivent être prélevés à des endroits représentatifs de la source d'eau, généralement au plus près du point d'application.\nLes analyses doivent être réalisées au moment où l'eau est utilisée sur les produits et à la période où le risque est le plus élevé.\nUne procédure d'analyse de l'eau dûment documentée doit être en place. Elle doit notamment prévoir :\n- La fréquence de prélèvement\n- La personne en charge des prélèvements\n- La méthode de prélèvement des échantillons\n- Le laboratoire chargé d'analyser les échantillons\n- Le lieu de prélèvement\nDes enregistrements de toutes les analyses doivent être tenus à jour.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.02",
+            "principe": "L'évaluation des risques et les résultats de l'analyse de l'eau donnent lieu à des mesures correctives.",
+            "criteres": "Les mesures correctives répertoriées et prévues par l'évaluation des risques pour l'eau, les normes sectorielles actuelles ou la réglementation en vigueur doivent être dûment documentées. Des mesures doivent être prises en fonction du niveau de risque.\nParmi les stratégies possibles pour diminuer le risque de contamination de produit suite à l'utilisation d'eau figurent (liste non limitative) :\n- Traiter l'eau avant son utilisation\n- Empêcher l'eau d'entrer en contact avec la partie récoltable de la culture\n- Réduire la vulnérabilité de l'approvisionnement en eau\n- Laisser un délai suffisant entre l'application et la récolte afin de garantir la baisse des populations de pathogènes\nLes producteurs qui mettent en œuvre ces stratégies doivent s'assurer que le risque de contamination du produit est bien pris en compte.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.03",
+            "principe": "Le recours à des eaux usées traitées ne doit pas présenter de risque pour la sécurité sanitaire des aliments.",
+            "criteres": "Les eaux usées traitées doivent être employées uniquement lorsque les risques ont été identifiés et atténués de manière efficace. Il doit être tenu compte du type de culture, du développement de la plante et du contact avec les parties comestibles de la plante. Les analyses de l'eau doivent être réalisées à une fréquence permettant de vérifier que l'efficacité du traitement est constante.\nLorsque des eaux usées traitées ou des eaux recyclées sont utilisées, la qualité de l'eau doit être conforme à la réglementation en vigueur ou, à défaut, aux Lignes directrices publiées en 2006 par l'OMS « Utilisation sans risque des eaux usées, des excreta et des eaux ménagères ».\nLes directives pour la surveillance et la validation des objectifs de performance microbienne pour le traitement de l'eau sont présentées au tableau 4.5 (Volume 2, 2006) et au tableau 2.9 (Volume 1, 2006) des lignes directrices « Utilisation sans risque des eaux usées, des excreta et des eaux ménagères » de l'OMS. La qualité de l'eau doit être évaluée en mesurant les quantités d'organismes indicateurs. Pour cela, Escherichia coli (E. coli) est recommandé, mais d'autres réglementations et normes sectorielles peuvent préférer d'autres types de numération de coliformes fécaux. En l'absence d'une réglementation plus stricte, le niveau de vérification établi par l'OMS à ≤ 1 000 E. coli pour 100 ml d'eaux usées traitées doit être le niveau de référence pour la surveillance.\nDe nombreuses réglementations présentent des exigences de qualité plus strictes pour les eaux de loisirs, recyclées et d'irrigation. Les objectifs de seuil de qualité de l'eau doivent donc être formulés dans les évaluations des risques et les documents qui les accompagnent.\nSi l'eau peut être amenée à être contaminée (par ex., présence d'une source de contamination en amont), le producteur doit prouver la conformité de l'eau à la réglementation en vigueur ou, à défaut, aux lignes directrices de l'OMS, par des analyses.\nLes eaux usées non traitées ne doivent jamais être utilisées sur les cultures.\n« N/A » s'il n'est pas fait usage d'eaux usées traitées.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.04",
+            "principe": "L'eau qui entre en contact avec les produits pendant la récolte et les activités post-récolte répondent aux normes microbiologiques de l'eau potable.",
+            "criteres": "L'eau (y compris sous forme de glace) utilisée pendant la récolte et les activités post-récolte (refroidissement, transport, lavage, etc.) doit respecter les normes microbiologiques de l'eau potable et doit être gérée de manière à éviter la contamination du produit.\nLa seule exception est la récolte de la canneberge par immersion des champs. Dans ce cas, les analyses doivent confirmer que l'eau n'est pas une source de contamination microbienne pour le produit.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.05",
+            "principe": "L'eau de recirculation utilisée dans les activités de production, de récolte et post-récolte est renouvelée ou réapprovisionnée à une fréquence adaptée.",
+            "criteres": "Si l'eau utilisée dans les activités de production, de récolte et post-récolte fait l'objet d'une recirculation, une fréquence de renouvellement de l'eau adaptée en fonction des paramètres adéquats (pH, efficacité des additifs antimicrobiens, turbidité, examen visuel, etc.) doit avoir été déterminée.\n« N/A » s'il n'est pas fait usage d'eau de recirculation.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.05.06",
+            "principe": "Les eaux traitées employées pour les activités de récolte ou post-récolte font l'objet d'une surveillance adéquate.",
+            "criteres": "Les eaux traitées (additifs antimicrobiens, ozone, etc.) employées pour les activités de récolte et post-récolte (par ex., pour le refroidissement) doivent suivre un système de surveillance documenté pour le traitement de l'eau et la vérification de routine des paramètres acceptables. La fréquence de surveillance doit être fixée sur la base d'une évaluation des risques. Les valeurs mesurées dans le cadre de la surveillance doivent être comparées aux paramètres de référence. Des mesures correctives doivent être prises lorsque les résultats d'analyse dépassent les seuils autorisés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.06.01",
+            "principe": "Des outils permettant de calculer et d'optimiser l'irrigation des cultures sont employés de manière systématique.",
+            "criteres": "Le producteur doit être en mesure de démontrer que les besoins en irrigation des cultures sont calculés sur la base de données (par exemple les données de l'institut agricole local, les relevés pluviométriques de l'exploitation, les caractéristiques drainantes des substrats, les mesures de l'évaporation et de la tension hydrique pour déterminer le pourcentage d'humidité dans le sol, etc.).\nLorsque des outils sont disponibles sur l'exploitation, ils doivent être entretenus pour en assurer l'efficacité et les maintenir en bon état.\n« N/A » uniquement pour les cultures pluviales.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 30.06.02",
+            "principe": "Des mesures sont effectuées pour comprendre les quantités d'eau utilisées et déterminer les moyens de rationaliser l'utilisation de l'eau.",
+            "criteres": "Les enregistrements de l'utilisation de l'eau d'irrigation/fertigation des cultures doivent être conservés afin de fournir une estimation des quantités d'eau nécessaires à leur production. Lorsque c'est possible, les moyens de rationaliser l'utilisation de l'eau doivent être déterminés.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 30.06.03",
+            "principe": "La gestion de l'eau s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent de calculer les éléments suivants :\nA minima, la quantité mensuelle d'eau consommée par l'exploitation pour la production agricole (en m³/site/mois). Il convient également de faire la liste des quantités d'eau extraites de chaque source.\nIl est possible de fournir des données supplémentaires, comme :\n- La quantité d'eau mensuelle consommée par l'irrigation/ha.\nLes indicateurs devraient se référer à des sources d'eau (en excluant l'eau de pluie), des unités de temps (par ex., cycle de croissance), et des quantités d'eau consommées par kg de produit et par ha de production.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables. Les données devraient être mises à disposition au niveau du groupement de producteurs et de l'exploitation afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 31",
+        "titre": "LUTTE INTÉGRÉE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 31.01",
+            "principe": "Des formations ou des missions de conseil accompagnent la mise en œuvre de la lutte intégrée.",
+            "criteres": "Si le responsable technique est le producteur, son expérience doit être complétée par des connaissances techniques (accès à une documentation technique sur la lutte intégrée, participation à des formations spécifiques, etc.) ou par l'utilisation d'outils (logiciels, méthodes de détection sur l'exploitation, etc.).\nSi l'assistance est apportée par un conseiller extérieur, sa formation et ses compétences techniques doivent être prouvées par des qualifications officielles, par la participation à des formations spécifiques, etc., sauf si cette personne est employée à cette fonction par une organisation reconnue compétente.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 31.02",
+            "principe": "Le producteur connaît les nuisibles, maladies et adventices dont ses cultures inscrites sont la cible.",
+            "criteres": "Le producteur doit démontrer oralement sa capacité à identifier la présence et les dommages potentiels des nuisibles, maladies et adventices dont ses cultures inscrites sont la cible. Cette démonstration peut avoir lieu dans un champ, ou le producteur peut expliquer comment il forme les travailleurs concernés au sujet des nuisibles, maladies et adventices qui touchent la ou les principales cultures inscrites.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 31.03",
+            "principe": "Un plan de lutte intégrée existe et décrit les mesures appliquées à l'échelle de l'exploitation pour gérer les nuisibles, maladies et adventices dont les cultures inscrites sont la cible.",
+            "criteres": "Le plan de lutte intégrée doit décrire les mesures appliquées ou envisagées par le producteur pour gérer les nuisibles, maladies et adventices dont les cultures inscrites sont la cible. Ce plan doit comprendre :\n- Une approche en plusieurs étapes basée sur des méthodes préventives, non chimiques et chimiques, à appliquer en fonction des cultures et des spécificités de la situation, en faisant appel au jugement du producteur ou du conseiller\n- La surveillance des nuisibles, maladies et adventices pour déterminer le type d'intervention nécessaire, avec des seuils d'action définis par le producteur\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 31.04",
+            "principe": "Le producteur met en œuvre des mesures de prévention.",
+            "criteres": "Le producteur doit pouvoir fournir la preuve de la réalisation d'au moins deux activités concernant les cultures inscrites (individuellement ou par groupe de cultures), comprenant l'adoption de pratiques culturales susceptibles de maintenir la vitalité des cultures et de réduire la fréquence et l'intensité des attaques de nuisibles, réduisant ainsi le besoin d'intervention.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 31.05",
+            "principe": "Le producteur pratique la surveillance de ses cultures inscrites pour organiser la gestion des nuisibles et des maladies.",
+            "criteres": "Le producteur doit pouvoir établir la preuve de la réalisation d'au moins deux activités pour les cultures inscrites qui détermineront quand, et dans quelle mesure, des nuisibles et leurs prédateurs naturels sont présents, et de l'utilisation de cette information pour le choix des techniques de gestion des nuisibles à employer.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 31.06",
+            "principe": "Le producteur procède à des interventions de lutte contre les nuisibles.",
+            "criteres": "Le producteur doit fournir la preuve de situations ayant donné lieu à des interventions spécifiques contre des nuisibles qui ont un effet négatif sur la valeur économique d'une culture. Le producteur peut faire le choix de ne pas intervenir et de subir une perte économique. Lorsque cela est possible, des interventions non chimiques doivent être privilégiées.\n« N/A » en l'absence d'intervention du producteur.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 31.07",
+            "principe": "Les recommandations anti-résistance sont suivies afin de maintenir l'efficacité des produits phytopharmaceutiques (PPP) existants.",
+            "criteres": "Si le niveau d'invasion de nuisibles ou d'adventices ainsi que le niveau de contamination par des maladies nécessitent des interventions répétées dans les cultures, il doit exister des preuves que les recommandations anti-résistance de l'étiquette du produit employé ou d'autres sources (quand elles sont disponibles) sont suivies. Si un seul mode d'action chimique ou une seule classe de PPP est autorisé(e) dans le pays de production ou le pays d'exportation, la rotation des types de produit peut s'avérer impossible en raison du manque d'alternatives adaptées.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 31.08",
+            "principe": "Le producteur exploite les résultats de la lutte intégrée pour en tirer des leçons et améliorer son plan en la matière.",
+            "criteres": "La stratégie de gestion des résistances doit être documentée et doit prendre en compte les points suivants :\n- Toujours suivre les recommandations présentes sur l'étiquette du produit.\n- Éviter de réduire les doses pour garantir une qualité d'application optimale.\n- Suivre des programmes de rotation et recourir à des mélanges de PPP avec différents modes d'action qui sont efficaces contre la cible, quand c'est possible.\nDes preuves doivent attester que le producteur évalue chaque année le plan de lutte intégrée et procède aux améliorations jugées nécessaires.\nPour les groupements de producteurs sous l'Option 2, des éléments justificatifs au niveau du système de gestion de la qualité (SGQ) sont considérés comme acceptables.",
+            "niveau": "Exigence Mineure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 32",
+        "titre": "LES PRODUITS PHYTOPHARMACEUTIQUES",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 32.01.01",
+            "principe": "Seuls des traitements avec des produits phytopharmaceutiques (PPP) autorisés dans le pays de production sont utilisés.",
+            "criteres": "Un système doit être en place pour garantir que les PPP sont utilisés conformément aux autorisations existant dans le pays de production.\nLes listes de référence (version en ligne acceptée), les étiquettes des produits ou les descriptions de la réglementation en vigueur sont toutes considérées comme des preuves acceptables. S'il n'existe aucun dispositif de déclaration officielle dans le pays de production, le producteur doit se baser sur le « Code international de conduite pour la distribution et l'utilisation des pesticides » de l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO).\nL'application extrapolée de PPP est autorisée en fonction des dispositifs de déclaration locaux (voir lignes directrices).\nUne liste des produits du commerce (indiquant les substances actives qu'ils contiennent) doit être tenue à jour, en tenant compte de l'évolution de la législation locale et nationale en matière de biocides, cires et PPP post-récolte.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.01.02",
+            "principe": "Les produits phytopharmaceutiques (PPP) et autres traitements sont appliqués dans le respect de la réglementation et des instructions de l'étiquette du produit.",
+            "criteres": "Un système doit être en place pour faire en sorte que les PPP, dont les agents de lutte biologique, sont utilisés conformément aux autorisations pour une culture donnée et à l'utilisation prévue (c'est-à-dire pour la lutte contre le nuisible, la maladie, l'adventice ou la cible de l'intervention), et conformément aux instructions de l'étiquette ou aux recommandations de l'organisme officiel d'enregistrement.\nSi le producteur utilise des PPP en dehors des instructions de l'étiquette, il doit être en mesure de fournir une preuve que ce type d'utilisation est officiellement autorisé pour ce PPP sur ce type de culture dans ce pays. Tous les PPP doivent être étiquetés correctement.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.01.03",
+            "principe": "Le producteur prend des mesures actives pour éviter la dérive des produits phytopharmaceutiques (PPP) vers les parcelles voisines.",
+            "criteres": "Le producteur doit prendre des mesures actives pour éviter le risque de dérive des PPP de ses propres parcelles vers les zones de production voisines. Ces mesures peuvent inclure, entre autres, la connaissance des cultures des voisins, la plantation de clôtures vivantes, le bon entretien des équipements de pulvérisation, etc.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.01.04",
+            "principe": "Le producteur prend des mesures actives pour éviter la dérive des produits phytopharmaceutiques (PPP) depuis les parcelles voisines.",
+            "criteres": "Le producteur devrait prendre des mesures actives pour éviter les risques de dérive des PPP depuis les parcelles voisines, par ex., en concluant des accords ou en organisant la communication avec les producteurs des parcelles voisines afin d'éliminer les risques de dérive non souhaitée de PPP, en plantant des zones tampon végétales sur les bords des champs cultivés et en augmentant le prélèvement d'échantillons pour analyse des résidus de PPP sur ces champs.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 32.02.01",
+            "principe": "Des enregistrements des applications de produits phytopharmaceutiques (PPP) sont conservés.",
+            "criteres": "Des enregistrements doivent être conservés pour toutes les applications de PPP, d'agents de lutte biologique et de traitements post-récolte. Ces enregistrements doivent indiquer :\n- La culture et/ou la variété traitée\n- Le lieu d'application (la zone géographique, le nom ou la référence de l'exploitation agricole, le champ, le verger ou la serre où se situe la culture)\n- Les dates exactes (jour/mois/année) de début et de fin (le producteur n'a pas besoin d'indiquer les heures de fin, mais il doit toujours indiquer les dates de fin. Dans ce cas, les délais de retour après traitement doivent être calculés à partir du début du jour calendaire suivant)\n- Les noms commerciaux enregistrés et la substance active ou l'organisme utile, avec son nom scientifique\n- Le délai pré-récolte indiqué sur l'étiquette du produit ou, à défaut, communiqué par une source officielle\n- La quantité de produit appliquée (poids ou volume) et la concentration ou la teneur\n- Le type de machine ou d'équipement d'application utilisé (pulvérisateur à dos, application aérienne, chimigation, etc.)\n- Le motif d'application (nuisible, maladie, adventice ou état de la culture concernée)\n- Le nom complet de la personne ayant procédé à l'application\n- Le nom complet de la personne techniquement responsable de la prise de décision et ayant donné l'autorisation d'appliquer le traitement (si une seule et même personne donne son autorisation pour toutes les applications, un seul enregistrement suffit)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.02.02",
+            "principe": "Les conditions météorologiques au moment de l'application sont enregistrées.",
+            "criteres": "Les conditions météorologiques locales (vent, soleil/nuages, humidité, etc.) influençant l'efficacité du traitement ou la dérive sur des cultures voisines doivent être enregistrées pour toutes les applications de produits phytopharmaceutiques (PPP). Cela peut prendre la forme de pictogrammes avec des cases à cocher, de textes d'information ou d'autres méthodes adaptées dans les enregistrements.\n« N/A » pour les cultures couvertes.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.02.03",
+            "principe": "La gestion des produits phytopharmaceutiques (PPP) s'appuie sur des données.",
+            "criteres": "Les données jugées acceptables permettent de calculer les éléments suivants :\n- La liste des substances actives employées\n- La quantité totale de substances actives appliquées (en kg/culture, kg/mois et kg/ha/mois)\nLes données devraient indiquer les différents sites de production de l'exploitation, les unités de temps (par ex., les cycles de croissance) et les quantités de substance active par kg de produit et par ha de production.\nDans le cas des groupements de producteurs sous l'Option 2, des éléments justificatifs à l'échelon du système de gestion de la qualité (SGQ) sont acceptés. Les données du groupement et de l'exploitation devraient être mises à disposition afin d'en attester la conformité.",
+            "niveau": "Recommandation"
+          },
+          {
+            "reference": "FV-Smart 32.03.01",
+            "principe": "Des preuves du respect des délais pré-récolte déclarés existent.",
+            "criteres": "Le producteur doit pouvoir prouver en ayant recours à des enregistrements comme les enregistrements d'application des produits phytopharmaceutiques (PPP) et les dates de récolte, que les délais pré-récolte ont été respectés pour les PPP appliqués sur les cultures concernées. Dans les situations de récolte permanente en particulier, des systèmes doivent être mis en place dans le champ, la parcelle ou la serre (panneaux d'avertissement, heure d'application, etc.), afin de garantir le respect de tous les délais pré-récolte.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.04.01",
+            "principe": "Les conteneurs vides de produits phytopharmaceutiques (PPP) sont nettoyés trois fois à l'eau avant stockage et élimination, et l'eau de nettoyage est éliminée de façon à réduire les risques pour l'environnement.",
+            "criteres": "Des appareils de nettoyage haute pression destinés aux conteneurs de PPP sont installés sur les équipements d'application des PPP. Si ce n'est pas le cas, il doit exister des instructions dûment documentées stipulant que chaque conteneur doit être nettoyé à l'eau au moins trois fois avant son élimination.\nQue ce soit en utilisant un dispositif de manutention des conteneurs ou en suivant la procédure écrite à l'intention des opérateurs du matériel d'application, les eaux de nettoyage des conteneurs de PPP vides doivent toujours être reversées dans le réservoir du matériel d'application lors du mélange, ou éliminées de sorte à ne pas nuire à la sécurité sanitaire des aliments ou à l'environnement.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.04.02",
+            "principe": "La réutilisation des conteneurs de produits phytopharmaceutiques (PPP) vides à des fins autres que le rangement et le transport du produit concerné est évitée.",
+            "criteres": "Il doit être vérifiable qu'aucun conteneur de PPP vide n'a été ou n'est réutilisé à une fin autre que le rangement et le transport du produit concerné, conformément aux indications de l'étiquette d'origine. Dans les régions où il est possible que les conteneurs soient réutilisés pour transporter de l'eau potable, les conteneurs doivent être percés avant leur élimination.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.04.03",
+            "principe": "Les emballages vides sont conservés en sécurité jusqu'à ce que leur élimination soit possible.",
+            "criteres": "Un endroit sûr doit être prévu pour stocker tous les emballages vides des produits phytopharmaceutiques (PPP) avant de les éliminer ; cet endroit est isolé de la récolte et des matériaux d'emballage et signalisé comme tel de manière permanente ; l'accès physique des personnes et des animaux à cet endroit doit être limité.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.04.04",
+            "principe": "Les conteneurs de produits phytopharmaceutiques (PPP) vides sont éliminés de manière à réduire les risques pour les personnes et pour l'environnement.",
+            "criteres": "Les producteurs doivent mettre au rebut les conteneurs de PPP vides à l'aide d'un dispositif de manutention sûr avant leur élimination et employer une méthode d'élimination évitant d'exposer les personnes au contenu du conteneur et de contaminer l'environnement (cours d'eau, flore et faune).",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.04.05",
+            "principe": "Lorsqu'ils sont disponibles, des systèmes officiels de collecte et d'élimination sont utilisés. Dans ce cas, les conteneurs vides sont correctement stockés, étiquetés et manipulés selon les règles du système de collecte.",
+            "criteres": "Quand il existe des systèmes officiels de collecte et d'élimination des conteneurs vides, des enregistrements doivent attester de la participation du producteur à ces systèmes. Une fois vidés, tous les conteneurs de produits phytopharmaceutiques (PPP) doivent être stockés, étiquetés, manipulés et éliminés en conformité avec les exigences de la procédure officielle de collecte et d'élimination, si une telle procédure existe.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.04.06",
+            "principe": "Toutes les réglementations locales relatives à l'élimination ou à la destruction des conteneurs de produits phytopharmaceutiques (PPP) sont respectées.",
+            "criteres": "Toutes les réglementations et législations nationales, régionales et locales, si de telles réglementations existent, en matière d'élimination des conteneurs vides de PPP, doivent être respectées.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.05.01",
+            "principe": "Les produits phytopharmaceutiques (PPP) périmés sont conservés, identifiés et éliminés d'une manière appropriée, par un circuit agréé ou approuvé.",
+            "criteres": "Il doit exister des enregistrements montrant que les PPP périmés ont été éliminés par des moyens officiellement autorisés. Si cela n'est pas possible, les PPP périmés doivent être conservés en lieu sûr et être identifiables.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.06.01",
+            "principe": "Le surplus de mélange pour application et les eaux de nettoyage des cuves doivent être éliminés de manière responsable.",
+            "criteres": "L'application sur les parcelles des fonds de cuve et des eaux de nettoyage du pulvérisateur doit être privilégiée, à condition que la dose autorisée ne soit pas dépassée. Le fond de cuve ou les eaux de nettoyage doivent être éliminés sans risque pour l'environnement.\nLes eaux usées agrochimiques ne doivent jamais être rejetées dans l'environnement.\nDes enregistrements doivent être conservés à ce sujet.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.07.01",
+            "principe": "Des informations concernant les limites maximales de résidus (LMR) sont à disposition pour les marchés où les produits seront commercialisés.",
+            "criteres": "Le producteur, ou son client, doit disposer d'une liste des LMR actuellement en vigueur pour tous les marchés où les produits doivent être commercialisés (marché intérieur et/ou international). Les LMR doivent être identifiées par l'intermédiaire d'une correspondance avec les clients confirmant les marchés prévus ou en sélectionnant le ou les pays dans lesquels la commercialisation des produits est prévue.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.07.02",
+            "principe": "Une évaluation des risques a été réalisée pour tous les produits inscrits, et les exigences en matière de limite maximale de résidus (LMR) pour les marchés concernés sont respectées.",
+            "criteres": "L'évaluation des risques doit porter sur toutes les cultures inscrites et évaluer le risque potentiel de dépassement des LMR en fonction de la consommation de produits phytopharmaceutiques (PPP). L'évaluation des risques peut aboutir à la conclusion que les analyses ne sont pas nécessaires lorsque toutes les conditions suivantes sont remplies :\n- Aucun PPP n'a été utilisé pendant la saison de production et pour les traitements et manipulations post-récolte\n- Le client (transformateur ou autre) a procédé à des tests de résidus et peut en fournir la preuve\n- Une évaluation des risques validée par un tiers indépendant (par ex., auditeur de l'organisme de certification (OC)) ou par le client\nLorsque l'évaluation des risques aboutit à la conclusion qu'une analyse est nécessaire, le nombre, le type, le lieu et la fréquence des prélèvements doivent être enregistrés.\nLe respect des seuils de LMR dans le pays de production est indispensable, que le produit soit par la suite exporté ou non. Si les LMR du marché d'exportation visé sont plus strictes que celles du pays de production, des documents doivent prouver que ces LMR sont respectées. Les décisions d'exportation prises sur la base de la consommation de PPP et des résultats d'analyse de LMR doivent être dûment documentées pour attester la conformité à la réglementation du pays de destination.\nLorsque des négociants se chargent de toutes les expéditions et que le pays de destination ne dépend pas de la volonté du producteur, la conformité aux LMR du pays de production doit être vérifiée.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.07.03",
+            "principe": "Les procédures de prélèvement et de test concernant les limites maximales de résidus (LMR) sont bien suivies.",
+            "criteres": "Il doit exister des documents qui prouvent la conformité aux procédures de prélèvement applicables. Le producteur peut déléguer l'évaluation des risques et les prélèvements à un tiers dans le cadre d'un système de surveillance des résidus (SSR) de PPP évalué par un OC agréé GLOBALG.A.P.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.07.04",
+            "principe": "Il existe un plan d'action dûment documenté décrivant les étapes à suivre en cas de détection d'un produit phytopharmaceutique (PPP) non autorisé dans les échantillons de test de limite maximale de résidus (LMR).",
+            "criteres": "Un plan d'action dûment documenté décrivant les étapes à suivre si l'analyse des LMR détecte la présence d'un PPP dont l'application n'est pas autorisée sur le produit concerné (non homologué dans le pays de production, usage non prévu sur l'étiquette du produit, etc.), doit être disponible.\nLe plan doit décrire en détails les étapes à suivre pour rechercher la cause, réduire tous les risques pour la sécurité sanitaire des aliments et assurer l'élimination du produit, si nécessaire.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.07.05",
+            "principe": "Un plan d'action dûment documenté décrit les étapes à suivre en cas de dépassement d'une limite maximale de résidus (LMR).",
+            "criteres": "Un plan d'action dûment documenté, décrivant les étapes à suivre et les mesures à prendre si une analyse de résidus de produits phytopharmaceutiques (PPP) indique qu'une LMR a été dépassée (LMR pour le produit de production et pour les pays de destination, si elles sont différentes), doit être disponible. Ce plan d'action doit prévoir la communication avec les clients et peut s'inscrire dans une procédure de rappel et de retrait.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.08.01",
+            "principe": "Des enregistrements d'application à jour sont conservés pour toutes les substances qui ne sont pas couvertes par les autres sections.",
+            "criteres": "Des enregistrements des autres substances appliquées dans l'eau, les sols et les systèmes hydroponiques/de fertigation (activateurs de croissance, amendements, correcteurs de pH, remèdes maison ou du commerce, etc.) doivent être conservés. Ces enregistrements doivent indiquer le nom de la substance, la culture, le champ, la date et la quantité appliquée. Si ces produits sont achetés dans le commerce, le nom de vente ou commercial éventuel, ainsi que la substance active ou l'ingrédient actif, ou la source principale (plantes, algues, minéraux, etc.) doivent être enregistrés. Si un système d'homologation pour cette ou ces substances existe dans le pays de production, cette ou ces substances doivent impérativement être homologuées.\nLorsque les substances ne requièrent pas d'homologation pour pouvoir être utilisées dans le pays de production, le producteur doit s'assurer que leur utilisation ne compromet pas la sécurité sanitaire des aliments.\nLes enregistrements doivent indiquer la liste des ingrédients, quand c'est possible.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.09.01",
+            "principe": "Les produits phytopharmaceutiques (PPP), les agents de lutte biologique et tout autre produit de traitement sont stockés de façon à pouvoir gérer les risques associés.",
+            "criteres": "L'entrepôt de PPP doit :\n- Être conforme à toutes les législations et réglementations nationales, régionales et locales en vigueur\n- Être situé à l'écart des zones de production, des zones de stockage des emballages, des zones de vie et des produits récoltés afin d'éviter toute contamination croisée\n- Être tenu sous clé, de manière sécurisée, en dehors des périodes d'utilisation\n- Être accessible uniquement aux personnes ayant bénéficié d'une formation officielle à la manipulation des PPP\n- Être correctement ventilé\n- Disposer de matériel de mesure pour garantir la précision des mélanges, notamment des conteneurs gradués et des balances étalonnées\n- Être équipé d'équipements (seaux, point d'eau, etc.) qui doivent être bien propres pour une manipulation sûre et efficace de tous les PPP à appliquer (cela vaut également pour la zone de remplissage/mélange s'il s'agit de zones différentes)\n- Garantir que tous les PPP employés sur des cultures inscrites sont stockés séparément des PPP destinés aux cultures non inscrites (par ex., engrais de jardin)\n- Contenir les PPP dans leur conteneur et emballage d'origine (s'ils sont détériorés, le nouvel emballage doit indiquer toutes les informations de l'étiquette d'origine)",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.09.02",
+            "principe": "La structure des installations de stockage des produits phytopharmaceutiques (PPP) est en bon état/sûre et solide.",
+            "criteres": "La capacité de stockage doit être suffisante pour contenir tous les PPP pendant le pic d'activité d'application. L'espace de stockage doit être suffisamment solide.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.09.03",
+            "principe": "L'entrepôt de produits phytopharmaceutiques (PPP) ne présente aucun risque pour les travailleurs et évite les possibilités de contamination croisée.",
+            "criteres": "L'entrepôt de PPP et de produits de traitement post-récolte doit être sans risque pour la santé et la sécurité des travailleurs, et sans risque de contamination croisée.\nLes produits sous forme liquide ne doivent jamais être stockés au-dessus de produits en poudre ou en granulés.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.09.04",
+            "principe": "Les produits phytopharmaceutiques (PPP) sont stockés à des températures appropriées.",
+            "criteres": "Les températures de stockage doivent être conformes aux instructions de l'étiquette du produit.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.09.05",
+            "principe": "L'entrepôt des produits phytopharmaceutiques (PPP) est éclairé.",
+            "criteres": "L'entrepôt doit bénéficier de suffisamment de lumière naturelle ou artificielle pour pouvoir lire facilement les étiquettes de tous les produits.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.09.06",
+            "principe": "L'entrepôt des produits phytopharmaceutiques (PPP) permet de retenir et de gérer les écoulements de produits.",
+            "criteres": "Les rayonnages ne doivent pas être absorbants en cas d'écoulement (métal, plastique rigide ou recouvert d'un revêtement imperméable, etc.).\nLes installations de stockage des PPP doit disposer de réservoirs ou de cuvettes de rétention, d'une capacité correspondant à 110 % du volume du plus grand conteneur de liquide stocké, de façon à éviter toute fuite susceptible de contaminer l'extérieur de l'entrepôt. Des matériaux et outils tels que du sable, un balai brosse et une pelle à poussière, et des sacs poubelle en plastique doivent être à disposition dans un lieu prédéfini, à utiliser exclusivement en cas de déversement de PPP.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.10.01",
+            "principe": "Les travailleurs exposés aux produits phytopharmaceutiques (PPP) applicables ont accès à des examens médicaux en fonction de l'évaluation des risques ou du niveau d'exposition et de toxicité des produits.",
+            "criteres": "Le producteur doit fournir aux travailleurs en contact avec les PPP la possibilité de passer une visite médicale tous les ans ou selon une périodicité définie par l'évaluation des risques pour la santé et la sécurité des travailleurs. Ces visites médicales doivent préserver la confidentialité des informations à caractère personnel. L'évaluation des risques doit répertorier l'exposition chimique spécifique justifiant la visite médicale. Lorsque des visites médicales sont déjà prévues par l'intermédiaire de programmes publics destinés aux travailleurs agricoles ou d'autres dispositifs, l'évaluation des risques peut considérer que la prise en charge médicale des travailleurs très exposés est déjà en place. Les travailleurs doivent être informés des modalités d'accès à ces services médicaux.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.10.02",
+            "principe": "Les produits phytopharmaceutiques (PPP) sont mélangés et manipulés en suivant les instructions de l'étiquette du produit.",
+            "criteres": "Le matériel de mesure à disposition doit être adapté au mélange de PPP, et les procédures de manipulation et de remplissage doivent être appliquées correctement.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.10.03",
+            "principe": "Une procédure en cas d'accident est prévue à proximité de l'entrepôt de produits phytopharmaceutiques (PPP)/d'agents chimiques.",
+            "criteres": "Une procédure en cas d'accident précisant toutes les informations nécessaires et les numéros de téléphone d'urgence doit être affichée. Elle doit indiquer les grandes étapes des premiers secours. Cette procédure doit être accessible à toutes les personnes travaillant à proximité des entrepôts de PPP/d'agents chimiques et des zones réservées au mélange.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.10.04",
+            "principe": "Les installations nécessaires au traitement de la contamination d'un opérateur sont en place.",
+            "criteres": "Tous les entrepôts de produits phytopharmaceutiques (PPP)/d'agents chimiques et toutes les zones de remplissage/mélange présentes sur l'exploitation doivent être équipées de rince-œils, d'une source d'eau propre à proximité de la zone de travail et d'un kit de premiers secours contenant le matériel de premiers secours adapté.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.10.05",
+            "principe": "Les produits phytopharmaceutiques (PPP) sont transportés d'un site de production à un autre de manière sûre et sécurisée.",
+            "criteres": "Le producteur doit faire en sorte que les PPP soient transportés de manière à limiter les risques pour l'environnement ou la santé des travailleurs, en appliquant les bonnes pratiques du secteur.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 32.10.06",
+            "principe": "L'exploitation possède des procédures dûment documentées précisant les délais de retour après application d'un produit phytopharmaceutique (PPP).",
+            "criteres": "Des procédures claires, dûment documentées, doivent s'appuyer sur les instructions des étiquettes des PPP pour définir les délais de retour après application des PPP sur les cultures (procédure opérationnelle standard indiquant le début et la fin des délais (jours/heures), panneaux sur place, modalités de retour, motifs de dérogation, équipements et temps nécessaires sur place, etc.). Une attention particulière doit être accordée aux travailleurs les plus vulnérables.\nQuand aucun délai de retour n'est indiqué, le retour ne doit pas avoir lieu avant que les substances chimiques aient séché sur les cultures.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 32.11.01",
+            "principe": "Les factures et/ou documents d'achat concernant tous les produits phytopharmaceutiques (PPP) et tous les traitements post-récolte sont conservés.",
+            "criteres": "Des efforts doivent être faits pour éviter les PPP illégaux ou de contrefaçon.\nLes factures, documents d'achat ou bons d'expédition de tous les PPP utilisés et/ou stockés doivent être conservés.",
+            "niveau": "Exigence Majeure"
+          }
+        ]
+      },
+      {
+        "id": "FV-SMART 33",
+        "titre": "TRAITEMENT ET MANIPULATION POST-RÉCOLTE",
+        "pointsDeControle": [
+          {
+            "reference": "FV-Smart 33.01.01",
+            "principe": "Les produits récoltés et conditionnés sont entreposés de manière à limiter les risques pour la sécurité sanitaire des aliments.",
+            "criteres": "Tous les produits récoltés (produits emballés ou en vrac) sont entreposés de manière adaptée, à l'abri des contaminations, conformément à l'évaluation des risques d'hygiène.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.01.02",
+            "principe": "Tous les lieux de collecte, de stockage et de distribution des produits emballés sont nettoyés et bien entretenus.",
+            "criteres": "Tous les équipements et installations de traitement, de manipulation et de stockage du produit (murs, sols, convoyeurs, machines, etc.) doivent être nettoyés et bien entretenus, à une fréquence fixée selon un calendrier de nettoyage et d'entretien dûment documenté. Les activités d'entretien ne doivent pas générer de risque pour la sécurité sanitaire des aliments. Les enregistrements relatifs au nettoyage et à l'entretien doivent être conservés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.01.03",
+            "principe": "Les matériaux d'emballage sont adaptés à l'utilisation prévue et stockés dans des conditions permettant d'éviter leur contamination.",
+            "criteres": "Les matériaux d'emballage (notamment les caisses réutilisables) doivent être adaptés à l'utilisation prévue et stockés dans des conditions permettant d'éviter leur contamination et leur détérioration. Les matériaux d'emballage peuvent être stockés à l'extérieur, à condition de tenir compte des risques de contamination (par ex., en les conservant sous film plastique).",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 33.01.04",
+            "principe": "Les équipements et produits de nettoyage, les lubrifiants, etc. sont stockés et utilisés de manière à éviter la contamination chimique des produits, et ils sont homologués pour l'industrie agroalimentaire.",
+            "criteres": "Pour éviter toute contamination chimique des produits, les équipements et produits de nettoyage, les lubrifiants, etc. doivent être stockés dans une zone identifiée et sécurisée, à distance des produits.\nIl doit exister des preuves (c'est-à-dire mention spécifique sur l'étiquette ou fiche technique) attestant l'homologation pour l'industrie agroalimentaire de tous les agents nettoyants, lubrifiants, etc. susceptibles d'entrer en contact avec les produits.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.02.01",
+            "principe": "Des systèmes sont en place pour éviter la contamination des produits par des corps étrangers.",
+            "criteres": "Des systèmes doivent être en place pour éviter la contamination des produits par des corps étrangers tels que des insectes, des cailloux, des débris, des morceaux de verre ou de plastique dur.\nLe verre, le plastique dur et matériaux similaires (ampoules, quincaillerie, etc.) suspendus au-dessus des produits ou utilisés pour le traitement et la manipulation du produit, doivent être de conception sûre ou dotés des protections nécessaires.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.02.02",
+            "principe": "Un système est en place pour le traitement des contaminations par corps étrangers.",
+            "criteres": "Il doit exister un système pour la gestion des contaminations par corps étrangers, notamment en cas de bris de verre et de plastiques durs (dans les serres, les espaces de traitement/manipulation, de préparation et de stockage des produits, etc.).",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.03.01",
+            "principe": "Les conditions de stockage sont contrôlées.",
+            "criteres": "Les zones de stockage à température, hygrométrie (le cas échéant) ou atmosphère contrôlée doivent être surveillées et entretenues. Les enregistrements de cette surveillance doivent être conservés.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 33.04.01",
+            "principe": "Un plan de gestion des nuisibles est en place et appliqué.",
+            "criteres": "Un plan de gestion des nuisibles doit être en place pour la surveillance et la lutte contre les nuisibles dans les zones d'emballage et de stockage.\nIl doit exister des preuves visuelles que le plan de surveillance et de maîtrise des nuisibles est efficace.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.04.02",
+            "principe": "Les enregistrements concernant les contrôles de lutte contre les nuisibles et les mesures correctives prises sont conservés.",
+            "criteres": "Une surveillance doit avoir lieu et les enregistrements des contrôles de lutte contre les nuisibles et des plans de suivi doivent être conservés.",
+            "niveau": "Exigence Majeure"
+          },
+          {
+            "reference": "FV-Smart 33.05.01",
+            "principe": "L'étiquetage final du produit est adapté.",
+            "criteres": "Lorsque l'emballage final du produit entre dans le champ de la certification, l'étiquetage du produit doit se faire conformément aux exigences en vigueur dans le pays de commercialisation et aux spécifications du client.\nL'emballage peut être fourni par le client, indiquant la conformité aux spécifications du client.",
+            "niveau": "Exigence Mineure"
+          },
+          {
+            "reference": "FV-Smart 33.06.01",
+            "principe": "Un programme de surveillance de l'environnement microbien basé sur les risques est en place pour les zones de traitement et de manipulation des produits.",
+            "criteres": "Lorsque l'exploitation comporte des activités post-récolte, un programme de surveillance de l'environnement microbien basé sur les risques doit être en place pour les zones de traitement et de manipulation des produits. Le programme doit permettre d'évaluer l'efficacité des procédures de nettoyage pour détecter les sources de contamination potentielle (dans l'eau, sur les surfaces, etc.).\nL'évaluation des risques doit déterminer les zones de contamination possibles (par ex., les zones à fort passage ou difficiles d'accès).\nLes exploitations relevant de l'agriculture en environnement contrôlé (AEC) avec des programmes de surveillance de l'environnement doivent présenter des justificatifs des activités de production concernées, sans se limiter au traitement et à la manipulation des produits.",
+            "niveau": "Exigence Mineure"
+}
+      ]
+    }
+  ]
+}
+}
