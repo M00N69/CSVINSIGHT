@@ -63,3 +63,30 @@
     "Type d'allégation": "Art.14(1)(a)",
     "Nutriment, substance, aliment ou catégorie d'aliment": "3-g de bêta-glucanes de l'orge",
     "Allégation": "Il a été démontré que les bêta-glucanes de l'orge abaissent/réduisent le cholestérol sanguin. Une cholestérolémie élevée constitue un facteur de risque de développement d'une maladie cardiaque coronarienne.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "Le consommateur doit être informé que l'effet bénéfique est obtenu par la consommation journalière de 3 g de bêta-glucanes de l'orge. L'allégation peut être utilisée pour les denrées alimentaires qui fournissent au moins 1 g de bêta-glucanes de l'orge par portion quantifiée.",
+    "Référence de l'avis de l' EFSA": "Q-2010-00119",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1777",
+    "Entry Id": "Règlement (EU) n° 665/2011 du 11/07/2011",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32011R0665"
+  },
+  {
+    "Type d'allégation": "Art.14(1)(a)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Chitosane",
+    "Allégation": "Le chitosane contribue au maintien d'une cholestérolémie normale.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui contient 3 g de chitosane par jour. Le consommateur doit être informé que l'effet bénéfique est obtenu par la consommation journalière de 3 g de chitosane.",
+    "Référence de l'avis de l' EFSA": "Q-2010-00302",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/2214",
+    "Entry Id": "Règlement (EU) n° 1050/2012 du 08/11/2012",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32012R1050"
+  },
+  {
+    "Type d'allégation": "Art.14(1)(a)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Glucomannane de konjac",
+    "Allégation": "Dans le cadre d'un régime hypocalorique, le glucomannane contribue à la perte de poids.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui contient 1 g de glucomannane par portion quantifiée. Le consommateur doit être informé que l'effet bénéfique est obtenu par la consommation journalière de 3 g de glucomannane en trois doses de 1 g chacune, avec 1 à 2 verres d'eau, avant les repas et dans le cadre d'un régime hypocalorique.",
+    "Référence de l'avis de l' EFSA": "Q-2010-00563",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/2604",
+    "Entry Id": "Règlement (EU) n° 432/2012 du 16/05/2012",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32012R0432"
+  }
+]
