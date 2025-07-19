@@ -1,0 +1,625 @@
+{
+  "ISO 22000:2018": {
+    "titre": "Systèmes de management de la sécurité des denrées alimentaires — Exigences pour tout organisme appartenant à la chaîne alimentaire",
+    "chapitres": [
+      {
+        "numero": "4",
+        "titre": "Contexte de l'organisme",
+        "sections": [
+          {
+            "numero": "4.1",
+            "titre": "Compréhension de l'organisme et de son contexte",
+            "exigence": "L'organisme doit déterminer les enjeux externes et internes pertinents par rapport à sa finalité, et qui influent sur sa capacité à atteindre le ou les résultats attendus de son SMSDA. L'organisme doit identifier, revoir et actualiser les informations relatives à ces enjeux externes et internes."
+          },
+          {
+            "numero": "4.2",
+            "titre": "Compréhension des besoins et attentes des parties intéressées",
+            "exigence": "Pour s'assurer de l'aptitude de l'organisme à fournir en permanence des produits et services conformes aux exigences légales et réglementaires et aux exigences du (des) client(s) applicables en matière de sécurité des denrées alimentaires, l'organisme doit déterminer: a) les parties intéressées qui sont pertinentes dans le cadre du SMSDA; et b) les exigences pertinentes des parties intéressées du SMSDA. L'organisme doit identifier, revoir et actualiser les informations relatives aux parties intéressées et à leurs exigences."
+          },
+          {
+            "numero": "4.3",
+            "titre": "Détermination du périmètre d'application du système de management de la sécurité des denrées alimentaires",
+            "exigence": "L'organisme doit déterminer les limites et l'applicabilité du SMSDA afin d'établir son périmètre d'application. Le périmètre d'application doit spécifier les produits et services, les processus et le ou les sites de production qui sont inclus dans le SMSDA. Le périmètre d'application doit inclure les activités, processus, produits ou services pouvant avoir une incidence sur la sécurité des denrées alimentaires dans les produits finis. Lorsque l'organisme établit ce périmètre, il doit prendre en compte: a) les enjeux externes et internes auxquels il est fait référence en 4.1; b) les exigences auxquelles il est fait référence en 4.2. Le périmètre d'application doit être disponible et maintenu sous la forme d'une information documentée."
+          },
+          {
+            "numero": "4.4",
+            "titre": "Système de management de la sécurité des denrées alimentaires",
+            "exigence": "L'organisme doit établir, mettre en œuvre, maintenir, actualiser et améliorer en continu un SMSDA, y compris les processus nécessaires et leurs interactions, en accord avec les exigences du présent document."
+          }
+        ]
+      },
+      {
+        "numero": "5",
+        "titre": "Leadership",
+        "sections": [
+          {
+            "numero": "5.1",
+            "titre": "Leadership et engagement",
+            "exigence": "La direction doit démontrer son leadership et engagement vis-à-vis du SMSDA en: a) s'assurant que la politique relative à la sécurité des denrées alimentaires et les objectifs du SMSDA sont établis et qu'ils sont compatibles avec l'orientation stratégique de l'organisme; b) s'assurant que les exigences liées au SMSDA sont intégrées aux processus métiers de l'organisme; c) s'assurant que les ressources exigées pour le SMSDA sont disponibles; d) communiquant sur l'importance de disposer d'un système de management de la sécurité des denrées alimentaires efficace et de se conformer aux exigences liées au SMSDA, aux exigences légales et réglementaires applicables, et aux exigences relatives à la sécurité des denrées alimentaires établies en accord avec le(s) client(s); e) veillant à ce que le SMSDA soit évalué et maintenu afin d'atteindre le ou les résultats attendus (voir 4.1); f) orientant et soutenant les personnes pour qu'elles contribuent à l'efficacité du SMSDA; g) promouvant l'amélioration continue; h) soutenant les autres rôles managériaux pertinents afin de démontrer leurs responsabilités dans leurs domaines respectifs."
+          },
+          {
+            "numero": "5.2",
+            "titre": "Politique",
+            "sous_sections": [
+              {
+                "numero": "5.2.1",
+                "titre": "Établissement de la politique relative à la sécurité des denrées alimentaires",
+                "exigence": "La direction doit établir, mettre en œuvre et maintenir une politique relative à la sécurité des denrées alimentaires qui: a) est appropriée à la finalité et au contexte de l'organisme; b) fournit un cadre pour l'établissement et la revue des objectifs du SMSDA; c) inclut l'engagement de satisfaire aux exigences applicables en matière de sécurité des denrées alimentaires, y compris les exigences légales et réglementaires et les exigences relatives à la sécurité des denrées alimentaires établies en accord avec le(s) client(s); d) traite de la communication interne et externe; e) inclut l'engagement pour l'amélioration continue du SMSDA; f) répond à la nécessité de garantir les compétences en matière de sécurité des denrées alimentaires."
+              },
+              {
+                "numero": "5.2.2",
+                "titre": "Communication de la politique relative à la sécurité des denrées alimentaires",
+                "exigence": "La politique relative à la sécurité des denrées alimentaires doit: a) exister/être présentée et être maintenue sous la forme d'une information documentée; b) être communiquée, comprise et appliquée à tous les niveaux au sein de l'organisme; c) être disponible vis-à-vis des parties intéressées pertinentes, le cas échéant."
+              }
+            ]
+          },
+          {
+            "numero": "5.3",
+            "titre": "Rôles, responsabilités et autorités au sein de l'organisme",
+            "exigence": "La direction doit s'assurer que les responsabilités et autorités des rôles pertinents sont attribuées, communiquées et comprises au sein de l'organisme. La direction doit attribuer la responsabilité et l'autorité pour: a) s'assurer que le SMSDA est conforme aux exigences du présent document; b) rendre compte de la performance du SMSDA à la direction; c) nommer l'équipe chargée de la sécurité des denrées alimentaires et le responsable de cette équipe; d) désigner les personnes ayant une responsabilité et une autorité définies pour lancer et documenter une ou des actions. Le responsable de l'équipe chargée de la sécurité des denrées alimentaires doit avoir la responsabilité de: a) garantir que le SMSDA est établi, mis en œuvre, maintenu et actualisé; b) gérer et organiser le travail de l'équipe chargée de la sécurité des denrées alimentaires; c) s'assurer de la pertinence de la formation et des compétences de l'équipe chargée de la sécurité des denrées alimentaires (voir 7.2); d) rendre compte à la direction de l'efficacité et de la pertinence du SMSDA. Tout le personnel doit avoir une responsabilité consistant à rendre compte à une ou des personnes identifiées des problèmes rencontrés avec le SMSDA."
+          }
+        ]
+      },
+      {
+        "numero": "6",
+        "titre": "Planification",
+        "sections": [
+          {
+            "numero": "6.1",
+            "titre": "Actions à mettre en œuvre face aux risques et opportunités",
+            "exigence": "Dans le cadre de la planification de son SMSDA, l'organisme doit tenir compte des enjeux mentionnés en 4.1 et des exigences mentionnées en 4.2 et 4.3, et déterminer les risques et opportunités qu'il est nécessaire de prendre en compte pour: a) assurer que le SMSDA peut atteindre le ou les résultats escomptés; b) augmenter les effets souhaitables; c) prévenir ou réduire les effets indésirables; d) s'inscrire dans une dynamique d'amélioration continue. L'organisme doit planifier: a) les actions à mettre en œuvre face aux risques et opportunités; b) la manière: 1) d'intégrer et de mettre en œuvre ces actions au sein des processus du SMSDA; 2) d'évaluer l'efficacité de ces actions. Les actions mises en œuvre par l'organisme face aux risques et opportunités doivent être proportionnées: a) à l'impact sur les exigences en matière de sécurité des denrées alimentaires; b) à la conformité des produits et services alimentaires vis-à-vis des clients; c) aux exigences des parties intéressées appartenant à la chaîne alimentaire."
+          },
+          {
+            "numero": "6.2",
+            "titre": "Objectifs du système de management de la sécurité des denrées alimentaires et planification des actions pour les atteindre",
+            "exigence": "L'organisme doit établir des objectifs pour le SMSDA, aux fonctions et niveaux concernés. Les objectifs du SMSDA doivent: a) être en cohérence avec la politique relative à la sécurité des denrées alimentaires; b) être mesurables (si réalisable); c) tenir compte des exigences applicables en matière de sécurité des denrées alimentaires, y compris les exigences légales et réglementaires et les exigences du (des) client(s); d) être surveillés et vérifiés; e) être communiqués; f) être maintenus et actualisés en tant que de besoin. L'organisme doit conserver des informations documentées sur les objectifs du SMSDA. Lorsque l'organisme planifie la façon dont les objectifs de son SMSDA seront atteints, il doit déterminer: a) ce qui sera fait; b) les ressources qui seront nécessaires; c) qui sera responsable; d) les échéances; e) la façon dont les résultats seront évalués."
+          },
+          {
+            "numero": "6.3",
+            "titre": "Planification des modifications",
+            "exigence": "Lorsque l'organisme détermine le besoin de modifier le SMSDA, y compris les changements de personnel, les modifications doivent être réalisées et communiquées de façon planifiée. L'organisme doit prendre en compte: a) l'objectif des modifications et leurs conséquences possibles; b) l'intégrité permanente du SMSDA; c) la disponibilité des ressources nécessaires à la mise en œuvre efficace des modifications; d) l'attribution ou la réattribution des responsabilités et autorités."
+          }
+        ]
+      },
+      {
+        "numero": "7",
+        "titre": "Support",
+        "sections": [
+          {
+            "numero": "7.1",
+            "titre": "Ressources",
+            "exigence": "L'organisme doit identifier et fournir les ressources nécessaires à l'établissement, la mise en œuvre, le maintien, l'actualisation et l'amélioration continue du SMSDA. L'organisme doit prendre en compte: a) les capacités et les éventuelles contraintes des ressources internes existantes; b) le besoin de ressources externes."
+          },
+          {
+            "numero": "7.2",
+            "titre": "Compétences",
+            "exigence": "L'organisme doit: a) déterminer les compétences nécessaires de la ou des personnes, y compris celles des prestataires externes, effectuant, sous son contrôle, un travail qui a une incidence sur les performances en matière de sécurité des denrées alimentaires et sur l'efficacité du SMSDA; b) s'assurer que ces personnes, y compris l'équipe chargée de la sécurité des denrées alimentaires et les responsables de la mise en œuvre du plan de maîtrise des dangers, sont compétentes sur la base d'une formation initiale ou professionnelle et/ou d'une expérience appropriées; c) s'assurer que l'équipe chargée de la sécurité des denrées alimentaires a des connaissances et une expérience pluridisciplinaires en matière de développement et de mise en œuvre de SMSDA; d) le cas échéant, mener des actions pour acquérir les compétences nécessaires et évaluer l'efficacité de ces actions; e) conserver des informations documentées appropriées comme preuves desdites compétences."
+          },
+          {
+            "numero": "7.3",
+            "titre": "Sensibilisation",
+            "exigence": "L'organisme doit s'assurer que toutes les personnes concernées effectuant un travail sous le contrôle de l'organisme sont sensibilisées: a) à la politique relative à la sécurité des denrées alimentaires; b) aux objectifs du SMSDA pertinents pour leur(s) tâche(s); c) à l'importance de leur contribution individuelle à l'efficacité du SMSDA, y compris aux effets bénéfiques d'une amélioration des performances en matière de sécurité des denrées alimentaires; d) aux répercussions d'un non-respect des exigences du SMSDA."
+          },
+          {
+            "numero": "7.4",
+            "titre": "Communication",
+            "exigence": "L'organisme doit déterminer les besoins de communication interne et externe pertinents pour le SMSDA, y compris: a) sur quels sujets communiquer; b) à quels moments communiquer; c) avec qui communiquer; d) comment communiquer; e) qui communique."
+          },
+          {
+            "numero": "7.5",
+            "titre": "Informations documentées",
+            "exigence": "Le SMSDA de l'organisme doit inclure: a) les informations documentées exigées par le présent document; b) les informations documentées que l'organisme juge nécessaires à l'efficacité du SMSDA; c) les informations documentées et les exigences en matière de sécurité des denrées alimentaires exigées par les autorités légales et réglementaires et par les clients."
+          }
+        ]
+      },
+      {
+        "numero": "8",
+        "titre": "Réalisation des activités opérationnelles",
+        "sections": [
+          {
+            "numero": "8.1",
+            "titre": "Planification et maîtrise opérationnelles",
+            "exigence": "L'organisme doit planifier, mettre en œuvre, maîtriser, maintenir et actualiser les processus nécessaires pour satisfaire aux exigences relatives à l'élaboration de produits sûrs et réaliser les actions déterminées en 6.1, en: a) établissant des critères pour ces processus; b) mettant en œuvre la maîtrise de ces processus conformément aux critères; c) conservant des informations documentées dans une mesure suffisante pour avoir l'assurance de démontrer que les processus ont été réalisés comme prévu. L'organisme doit maîtriser les modifications prévues, analyser les conséquences des changements imprévus et, si nécessaire, mener des actions pour limiter tout effet négatif. L'organisme doit s'assurer que les processus externalisés sont maîtrisés (voir 7.1.6)."
+          },
+          {
+            "numero": "8.2",
+            "titre": "Programmes prérequis (PRP)",
+            "exigence": "L'organisme doit établir, mettre en œuvre, maintenir et actualiser un ou des PRP pour faciliter la prévention et/ou réduction des contaminants dans les produits, la transformation des produits et l'environnement de travail. Le ou les PRP doivent être: a) adaptés à l'organisme et à son contexte en ce qui concerne la sécurité des denrées alimentaires; b) adaptés à la taille et au type d'opération, ainsi qu'à la nature des produits fabriqués et/ou manipulés; c) mis en œuvre à tous les niveaux du système de production; d) approuvés par l'équipe chargée de la sécurité des denrées alimentaires. Des informations documentées doivent spécifier le choix, l'élaboration, la surveillance applicable et la vérification du ou des PRP."
+          },
+          {
+            "numero": "8.3",
+            "titre": "Système de traçabilité",
+            "exigence": "Le système de traçabilité doit permettre d'identifier de manière unique les fournisseurs des matériaux entrants et la première étape du circuit de distribution du produit fini. Lors de l'établissement et de la mise en œuvre du système de traçabilité, les points suivants, au minimum, doivent être pris en compte: a) relation des lots de matériaux, d'ingrédients et de produits intermédiaires reçus avec les produits finis; b) retraitement/recyclage des matériaux/produits; c) distribution du produit fini. L'organisme doit veiller à ce que les exigences légales et réglementaires applicables ainsi que les exigences du (des) client(s) soient identifiées. Des informations documentées comme preuves du système de traçabilité doivent être conservées pendant une durée définie, au minimum la durée de vie du produit. L'organisme doit vérifier et soumettre à essai l'efficacité du système de traçabilité."
+          },
+          {
+            "numero": "8.4",
+            "titre": "Préparation et réponse aux situations d'urgence",
+            "exigence": "La direction doit s'assurer que des dispositions sont en place pour répondre aux éventuelles situations d'urgence ou incidents potentiels pouvant avoir une incidence sur la sécurité des denrées alimentaires. Des informations documentées doivent être établies et maintenues pour gérer ces situations et incidents. L'organisme doit: a) répondre aux situations d'urgence et aux incidents réels; b) entreprendre des actions appropriées; c) simuler périodiquement les dispositions; d) revoir et actualiser les informations documentées."
+          },
+          {
+            "numero": "8.5",
+            "titre": "Maîtrise des dangers",
+            "exigence": "Afin de procéder à l'analyse des dangers, les informations documentées initiales doivent être collectées, maintenues et actualisées par l'équipe chargée de la sécurité des denrées alimentaires. Cela doit notamment inclure: a) les exigences légales et réglementaires applicables et les exigences du (des) client(s); b) les produits fournis par l'organisme, ses processus et ses équipements; c) les dangers liés à la sécurité des denrées alimentaires pertinents dans le cadre du SMSDA."
+          },
+          {
+            "numero": "8.6",
+            "titre": "Actualisation des informations spécifiant les PRP et le plan de maîtrise des dangers",
+            "exigence": "Après avoir établi le plan de maîtrise des dangers, l'organisme doit, si nécessaire, actualiser les informations suivantes: a) les caractéristiques des matières premières, des ingrédients et des matériaux en contact avec le produit; b) les caractéristiques des produits finis; c) l'utilisation prévue; d) les diagrammes de flux et les descriptions des processus et de leurs environnements. L'organisme doit s'assurer que le plan de maîtrise des dangers et/ou le ou les PRP sont à jour."
+          },
+          {
+            "numero": "8.7",
+            "titre": "Maîtrise des activités de surveillance et de mesure",
+            "exigence": "L'organisme doit fournir les preuves du caractère approprié des méthodes spécifiées de surveillance et de mesure ainsi que des équipements utilisés pour les activités de surveillance et de mesure, en relation avec le ou les PRP et le plan de maîtrise des dangers. Les équipements de surveillance et de mesure utilisés doivent être: a) étalonnés ou vérifiés à intervalles spécifiés avant utilisation; b) réglés ou réglés de nouveau autant que nécessaire; c) identifiés afin de pouvoir déterminer la validité de l'étalonnage; d) protégés contre les réglages susceptibles d'invalider les résultats de mesure; e) protégés contre tout dommage et détérioration. Les résultats d'étalonnage et de vérification doivent être conservés sous forme d'informations documentées. L'organisme doit évaluer la validité des résultats de mesure antérieurs lorsque les équipements ou l'environnement du processus se révèlent non conformes aux exigences. L'organisme doit entreprendre une action appropriée."
+          },
+          {
+            "numero": "8.8",
+            "titre": "Vérification relative aux PRP et au plan de maîtrise des dangers",
+            "exigence": "L'organisme doit établir, mettre en œuvre et maintenir des activités de vérification. La planification de la vérification doit définir l'objectif, les méthodes, les fréquences et les responsabilités des activités de vérification. Les activités de vérification doivent confirmer les points suivants: a) le ou les PRP sont mis en œuvre et sont efficaces; b) le plan de maîtrise des dangers est mis en œuvre et est efficace; c) les niveaux de danger se situent à des niveaux acceptables identifiés; d) les éléments d'entrée de l'analyse des dangers sont actualisés; e) les autres actions déterminées par l'organisme sont mises en œuvre et sont efficaces."
+          },
+          {
+            "numero": "8.9",
+            "titre": "Maîtrise des non-conformités des produits et des processus",
+            "exigence": "L'organisme doit s'assurer que les données issues de la surveillance des PRPO et aux CCP sont évaluées par des personnes désignées qui sont compétentes et qui ont l'autorité pour engager des corrections et des actions correctives. Il doit garantir que lorsque les limites critiques au niveau des CCP et/ou les critères d'action pour les PRPO ne sont pas respectés, les produits concernés sont identifiés et maîtrisés. L'organisme doit établir, maintenir et actualiser des informations documentées comprenant une méthode d'identification, d'évaluation et de correction pour les produits concernés et les dispositions pour la revue des corrections effectuées."
+          }
+        ]
+      },
+      {
+        "numero": "9",
+        "titre": "Évaluation des performances",
+        "sections": [
+          {
+            "numero": "9.1",
+            "titre": "Surveillance, mesure, analyse et évaluation",
+            "exigence": "L'organisme doit déterminer: a) ce qu'il est nécessaire de surveiller et mesurer; b) les méthodes de surveillance, de mesure, d'analyse et d'évaluation; c) quand la surveillance et la mesure doivent être effectuées; d) quand les résultats doivent être analysés et évalués; e) qui doit analyser et évaluer les résultats. L'organisme doit conserver des informations documentées pertinentes comme preuves des résultats. L'organisme doit évaluer la performance ainsi que l'efficacité du SMSDA."
+          },
+          {
+            "numero": "9.2",
+            "titre": "Audit interne",
+            "exigence": "L'organisme doit réaliser des audits internes à des intervalles planifiés pour fournir des informations permettant de déterminer si le SMSDA: a) est conforme aux propres exigences de l'organisme et aux exigences du présent document; b) est efficacement mis en œuvre et maintenu. L'organisme doit: a) planifier, établir, mettre en œuvre et maintenir un ou des programmes d'audit; b) définir les critères d'audit et le périmètre de chaque audit; c) sélectionner des auditeurs compétents; d) veiller à ce que les résultats des audits soient rapportés; e) conserver des informations documentées; f) effectuer les corrections et actions correctives nécessaires; g) déterminer si le SMSDA répond aux intentions de la politique et aux objectifs."
+          },
+          {
+            "numero": "9.3",
+            "titre": "Revue de direction",
+            "exigence": "À des intervalles planifiés, la direction doit procéder à la revue du SMSDA mis en place par l'organisme, afin de s'assurer qu'il est toujours approprié, adéquat et efficace. La revue de direction doit prendre en compte une liste d'éléments d'entrée spécifiés. Les éléments de sortie de la revue de direction doivent inclure des décisions et actions relatives aux opportunités d'amélioration continue et aux éventuelles actualisations et changements à apporter au SMSDA."
+          }
+        ]
+      },
+      {
+        "numero": "10",
+        "titre": "Amélioration",
+        "sections": [
+          {
+            "numero": "10.1",
+            "titre": "Non-conformité et actions correctives",
+            "exigence": "Lorsqu'une non-conformité se produit, l'organisme doit: a) réagir à la non-conformité; b) évaluer s'il est nécessaire de mener une action pour éliminer la ou les causes; c) mettre en œuvre toutes les actions nécessaires; d) examiner l'efficacité de toute action corrective mise en œuvre; e) modifier, si nécessaire, le SMSDA. Les actions correctives doivent être appropriées aux conséquences des non-conformités rencontrées. L'organisme doit conserver des informations documentées comme preuves."
+          },
+          {
+            "numero": "10.2",
+            "titre": "Amélioration continue",
+            "exigence": "L'organisme doit améliorer en continu la pertinence, l'adéquation et l'efficacité du SMSDA. La direction doit garantir que l'organisme améliore en continu l'efficacité du SMSDA au moyen de la communication, de la revue de direction, de l'audit interne, de l'analyse des résultats des activités de vérification, de la validation des mesures de maîtrise, des actions correctives et de l'actualisation du SMSDA."
+          },
+          {
+            "numero": "10.3",
+            "titre": "Actualisation du système de management de la sécurité des denrées alimentaires",
+            "exigence": "La direction doit garantir que le SMSDA est actualisé en permanence. Pour ce faire, l'équipe chargée de la sécurité des denrées alimentaires doit évaluer le SMSDA à des intervalles planifiés. L'équipe doit examiner la nécessité de revoir l'analyse des dangers, le plan de maîtrise des dangers établi et les PRP établis. Les activités d'actualisation doivent être fondées sur les éléments issus de la communication, de toute autre information pertinente, des conclusions de l'analyse des résultats de vérification, et des conclusions de la revue de direction."
+          }
+        ]
+      }
+    ]
+  },
+  "ISO/TS 22002-1:2009": {
+    "titre": "Programmes prérequis pour la sécurité des denrées alimentaires — Partie 1: Fabrication des denrées alimentaires",
+    "chapitres": [
+      {
+        "numero": "4",
+        "titre": "Construction et disposition des locaux",
+        "sections": [
+          {
+            "numero": "4.1",
+            "titre": "Exigences générales",
+            "exigence": "Les bâtiments doivent être conçus, construits et entretenus de manière appropriée à la nature des opérations, aux dangers de sécurité des produits alimentaires associés aux opérations et aux sources potentielles de contamination des environs. Ces bâtiments doivent être construits de matériaux durables qui ne présentent pas de dangers pour le produit."
+          },
+          {
+            "numero": "4.2",
+            "titre": "Environnement",
+            "exigence": "Les sources potentielles de contamination par l’environnement ont été considérées. L’efficacité des mesures prises pour protéger contre une contamination éventuelle doit être périodiquement revue."
+          },
+          {
+            "numero": "4.3",
+            "titre": "Localisation des établissements",
+            "exigence": "Les limites du site concerné doivent être clairement établies et identifiées. L’accès au site doit être contrôlé. La végétation doit être coupée ou enlevée. Les routes, le terrain et les stationnements doivent être drainés pour prévenir l’eau stagnante et doivent être entretenus."
+          }
+        ]
+      },
+      {
+        "numero": "5",
+        "titre": "Dispositions des locaux et de l'espace de travail",
+        "sections": [
+          {
+            "numero": "5.1",
+            "titre": "Exigences générales",
+            "exigence": "Les locaux doivent être conçus, aménagés, construits et entretenus de façon à faciliter une bonne hygiène et les bonnes pratiques de fabrication. Les voies de circulation du matériel, des produits et du personnel, ainsi que la disposition des équipements, doivent permettre la maitrise des sources potentielles de contamination."
+          },
+          {
+            "numero": "5.2",
+            "titre": "Conception des locaux et cheminement",
+            "exigence": "Le bâtiment doit avoir suffisamment d’espace, permettre un cheminement logique des produits et du personnel ainsi que la séparation physique des matières crues ou premières des zones de transformation. Les ouvertures prévues pour le transfert de matériel doivent être conçues pour minimiser l’entrée des matières étrangères et de la vermine."
+          },
+          {
+            "numero": "5.3",
+            "titre": "Structures et dispositifs internes",
+            "exigence": "Les murs et planchers de la zone de transformation doivent être lavables ou nettoyables, et appropriés aux dangers du procédé et des produits concernés. Les matériaux de construction doivent être résistants au système de nettoyage en place. La jonction entre les murs et le plancher et les coins doivent être conçus pour faciliter le nettoyage. Dans les zones de transformation humides ou mouillées, les planchers doivent être scellés et drainés. Les plafonds et les structures suspendus doivent être conçus pour minimiser l’accumulation de poussière ou de condensation. Les fenêtres et ventilateurs donnant sur l’extérieur, s’ils peuvent être ouverts, doivent être munis de moustiquaires. Les portes donnant sur l’extérieur doivent être fermées ou munies de moustiquaires."
+          },
+          {
+            "numero": "5.4",
+            "titre": "Localisation des équipements",
+            "exigence": "Les équipements doivent être conçus et installés de façon à faciliter l’hygiène et la surveillance. Ils doivent être accessibles pour les opérations, le nettoyage et l’entretien préventif."
+          },
+          {
+            "numero": "5.5",
+            "titre": "Installations de laboratoire",
+            "exigence": "Les installations d’analyse ou de tests situées dans les zones de fabrication doivent être contrôlées afin de minimiser le risque de contamination du produit. Les laboratoires d’analyse microbiologique doivent être conçus, aménagés et opérés de façon à prévenir la contamination du personnel, de l’usine et des produits. Ils ne doivent pas donner directement sur la zone de fabrication."
+          },
+          {
+            "numero": "5.6",
+            "titre": "Locaux temporaires ou mobiles et machines distributrices",
+            "exigence": "Les structures temporaires doivent être conçues, aménagées et construites de façon à éviter la vermine et la contamination potentielle des produits."
+          },
+          {
+            "numero": "5.7",
+            "titre": "Entreposage des aliments, emballages, ingrédients et produits chimiques non alimentaires",
+            "exigence": "Les entrepôts d’ingrédients, d’emballages et de produits doivent protéger de la poussière, de la condensation, des drains, des déchets et autres sources de contamination. Ils doivent être secs et bien ventilés. La surveillance et le contrôle de la température et de l’humidité doivent être appliqués lorsque spécifiés. Les entrepôts doivent être conçus et aménagés de façon à permettre la ségrégation des matières premières, des zones de fabrication et des produits finis. Tout le matériel et les produits doivent être entreposés au-dessus du plancher et suffisamment espacés des murs. Un endroit d’entreposage séparé et sécurisé doit être présent pour les produits chimiques et autres substances dangereuses."
+          }
+        ]
+      },
+      {
+        "numero": "6",
+        "titre": "Services Généraux, eau-air-énergie",
+        "sections": [
+          {
+            "numero": "6.1",
+            "titre": "Exigences générales",
+            "exigence": "Les réseaux d’approvisionnement des services vers ou autour des salles de fabrication et entrepôts doivent être conçus pour minimiser les risques de contamination des produits. La qualité des services concernés doit également être surveillée."
+          },
+          {
+            "numero": "6.2",
+            "titre": "Approvisionnement en eau",
+            "exigence": "L’approvisionnement en eau potable doit être suffisant. L’eau utilisée comme ingrédient, incluant la glace et la vapeur, ou en contact avec les produits, doit répondre aux exigences de qualité. L’eau non potable doit avoir un réseau séparé et étiqueté."
+          },
+          {
+            "numero": "6.3",
+            "titre": "Produits de traitement de l'eau des chaudières",
+            "exigence": "Les produits de traitement de l’eau des chaudières, si utilisés, doivent être des additifs alimentaires approuvés ou approuvés par l'autorité réglementaire. Ils doivent être entreposés dans un endroit séparé et sécurisé."
+          },
+          {
+            "numero": "6.4",
+            "titre": "Qualité de l'air et ventilation",
+            "exigence": "L'organisme doit établir des exigences pour la filtration, l'humidité et la microbiologie de l'air. Une ventilation doit être présente pour enlever l’excès d’humidité, de poussière et les odeurs. La qualité de l’air doit être contrôlée pour minimiser le risque de contamination. Les systèmes de ventilation ne doivent pas faire circuler l'air des zones contaminées vers les zones propres."
+          },
+          {
+            "numero": "6.5",
+            "titre": "Air comprimé et autres gaz",
+            "exigence": "L’air comprimé et autres gaz utilisés doivent être construits et entretenus pour prévenir la contamination. Les gaz en contact avec le produit doivent être de source approuvée et filtrés. L'huile utilisée pour les compresseurs doit être de grade alimentaire si risque de contact."
+          },
+          {
+            "numero": "6.6",
+            "titre": "Éclairage",
+            "exigence": "L’éclairage doit permettre au personnel d’opérer de manière hygiénique. Les dispositifs d’éclairage doivent être protégés pour éviter la contamination en cas de bris."
+          }
+        ]
+      },
+      {
+        "numero": "7",
+        "titre": "Disposition des déchets et eaux usées",
+        "sections": [
+          {
+            "numero": "7.1",
+            "titre": "Exigences générales",
+            "exigence": "Des systèmes doivent être en place pour s’assurer que les déchets soient identifiés, accumulés, enlevés et disposés de manière à prévenir la contamination."
+          },
+          {
+            "numero": "7.2",
+            "titre": "Contenants à déchets, matériaux non comestibles ou substances dangereuses",
+            "exigence": "Les contenants doivent être clairement identifiés, placés aux endroits prévus, construits en matériel étanche et nettoyable, fermés quand non utilisés, et barrés si les déchets posent un risque."
+          },
+          {
+            "numero": "7.3",
+            "titre": "Gestion et enlèvement des déchets",
+            "exigence": "Les conditions de ségrégation, entreposage et enlèvement des déchets doivent être prévues. L’accumulation de déchets ne doit pas être permise dans les zones de manipulation des aliments. Les matériaux étiquetés doivent être altérés ou détruits pour éviter la réutilisation des marques."
+          },
+          {
+            "numero": "7.4",
+            "titre": "Drains et drainage",
+            "exigence": "Les drains doivent être conçus, construits et localisés pour éviter le risque de contamination. Ils doivent avoir une capacité suffisante et ne doivent pas passer au-dessus des lignes de fabrication. La direction de l’écoulement ne doit pas se faire d’un endroit contaminé à un endroit propre."
+          }
+        ]
+      },
+      {
+        "numero": "8",
+        "titre": "Équipements : caractère approprié, nettoyage et entretien",
+        "sections": [
+          {
+            "numero": "8.1",
+            "titre": "Exigences générales",
+            "exigence": "L’équipement en contact direct avec le produit doit être conçu pour faciliter le nettoyage, la désinfection et l’entretien, et construit avec des matériaux durables et résistants."
+          },
+          {
+            "numero": "8.2",
+            "titre": "Conception Hygiénique",
+            "exigence": "L’équipement doit rencontrer les principes de conception hygiénique : surfaces lisses, accessibles, nettoyables; matériaux compatibles; structure sans perforations. La tuyauterie doit être nettoyable et sans points morts. La conception doit minimiser le contact entre les mains de l’opérateur et les produits."
+          },
+          {
+            "numero": "8.3",
+            "titre": "Surfaces Alimentaires",
+            "exigence": "Les surfaces en contact avec le produit doivent être construites de matériaux conçus pour les aliments, imperméables, libres de rouille et de corrosion."
+          },
+          {
+            "numero": "8.4",
+            "titre": "Contrôle de la température et équipement de surveillance",
+            "exigence": "L’équipement utilisé pour les procédés thermiques doit être capable de respecter les conditions de temps et température requises. De l’équipement pour la surveillance et le contrôle de la température doit être en place."
+          },
+          {
+            "numero": "8.5",
+            "titre": "Équipement et ustensiles de nettoyage",
+            "exigence": "Les programmes de nettoyage doivent être documentés pour assurer que tous les ustensiles et équipements sont nettoyés à une fréquence établie, en spécifiant les responsabilités, méthodes, outils et vérifications."
+          },
+          {
+            "numero": "8.6",
+            "titre": "Entretien préventif et correctif",
+            "exigence": "Un programme d’entretien préventif doit être en place pour tous les dispositifs de contrôle. L'entretien correctif ne doit pas contaminer les produits. Les lubrifiants doivent être de grade alimentaire si risque de contact. Une procédure de retour à la production après entretien doit inclure le nettoyage et l'inspection."
+          }
+        ]
+      },
+      {
+        "numero": "9",
+        "titre": "Gestion de produits et services achetés",
+        "sections": [
+          {
+            "numero": "9.1",
+            "titre": "Exigences générales",
+            "exigence": "L’achat de matériel ou de services ayant un impact sur la sécurité des produits alimentaires doit être contrôlé pour s’assurer que les fournisseurs répondent aux exigences spécifiées. La conformité des matériaux reçus doit être vérifiée."
+          },
+          {
+            "numero": "9.2",
+            "titre": "Sélection et gestion des fournisseurs",
+            "exigence": "Il doit y avoir un processus défini pour la sélection, l’approbation et la surveillance des fournisseurs, justifié par une évaluation des dangers. Ce processus doit inclure l'évaluation de la capacité du fournisseur et la surveillance de sa performance."
+          },
+          {
+            "numero": "9.3",
+            "titre": "Réception de matières premières et emballages",
+            "exigence": "Les véhicules de livraison doivent être vérifiés. Les matériaux reçus doivent être inspectés, analysés ou couverts par un certificat d'analyse. Les matériaux non conformes doivent être manipulés selon une procédure pour prévenir leur usage non intentionnel."
+          }
+        ]
+      },
+      {
+        "numero": "10",
+        "titre": "Mesure de prévention de la contamination croisée",
+        "sections": [
+          {
+            "numero": "10.1",
+            "titre": "Exigences générales",
+            "exigence": "Des programmes doivent être en place pour prévenir, contrôler et détecter la contamination (physique, chimique, allergène, microbiologique)."
+          },
+          {
+            "numero": "10.2",
+            "titre": "Contamination croisée microbiologique",
+            "exigence": "Les zones à risque de contamination croisée microbiologique doivent être identifiées et un plan de ségrégation (zonage) doit être implanté, incluant la séparation du personnel, des matériaux et des équipements, et des contrôles de pression d'air."
+          },
+          {
+            "numero": "10.3",
+            "titre": "Gestion des allergènes",
+            "exigence": "Les allergènes présents doivent être déclarés. Les produits doivent être protégés de la contamination croisée par des allergènes. Les produits pour 'rework' contenant des allergènes ne doivent être utilisés que dans des produits contenant les mêmes allergènes ou via un procédé qui les élimine."
+          },
+          {
+            "numero": "10.4",
+            "titre": "Contamination physique",
+            "exigence": "Si du verre ou du matériel fragile est utilisé, des exigences d'inspection périodique et des procédures en cas de bris doivent être en place. Des mesures pour prévenir, contrôler ou détecter la contamination physique doivent être basées sur l'analyse des dangers."
+          }
+        ]
+      },
+      {
+        "numero": "11",
+        "titre": "Nettoyage et Assainissement",
+        "sections": [
+          {
+            "numero": "11.1",
+            "titre": "Exigences générales",
+            "exigence": "Des programmes de nettoyage et d’assainissement doivent être établis pour s’assurer que l’équipement de transformation des aliments et l’environnement sont maintenus en condition hygiénique et surveillés pour leur efficacité."
+          },
+          {
+            "numero": "11.2",
+            "titre": "Outils et produits de nettoyage et d'assainissement",
+            "exigence": "Les agents de nettoyage et d’assainissement doivent être clairement identifiés, de grade alimentaire, entreposés séparément et utilisés selon les instructions du fabricant. Les outils et l’équipement doivent être de conception hygiénique."
+          },
+          {
+            "numero": "11.3",
+            "titre": "Programmes de nettoyage et d'assainissement",
+            "exigence": "Les programmes de nettoyage et d’assainissement doivent être établis et validés. Ils doivent spécifier les zones, équipements, responsables, méthodes, fréquences, et les points de surveillance et vérifications."
+          },
+          {
+            "numero": "11.4",
+            "titre": "Système de nettoyage en place (NEP)",
+            "exigence": "Les systèmes NEP (CIP) doivent être séparés des lignes de produits en activité. Les paramètres d’opération des systèmes CIP (type, concentration, temps, température) doivent être définis et surveillés."
+          },
+          {
+            "numero": "11.5",
+            "titre": "Surveillance de l'efficacité de l'assainissement",
+            "exigence": "Les programmes de nettoyage et d’assainissement doivent être surveillés à des fréquences spécifiées pour assurer leur adéquation et leur efficacité continues."
+          }
+        ]
+      },
+      {
+        "numero": "12",
+        "titre": "Lutte contre la vermine",
+        "sections": [
+          {
+            "numero": "12.1",
+            "titre": "Exigences générales",
+            "exigence": "Des procédures d'hygiène, de nettoyage, d'inspection des matières premières et de surveillance doivent être implantées pour éviter de créer un environnement propice à la vermine."
+          },
+          {
+            "numero": "12.2",
+            "titre": "Programme de lutte contre la vermine",
+            "exigence": "L’établissement doit nommer une personne pour gérer les activités de contrôle de la vermine. Les programmes de lutte contre la vermine doivent être documentés et identifier la vermine ciblée, les plans, les méthodes, les cédules et les procédures de contrôle."
+          },
+          {
+            "numero": "12.3",
+            "titre": "Accès préventif",
+            "exigence": "Les bâtiments doivent être maintenus en bon état. Les ouvertures, les drains et autres points d’accès potentiels de la vermine doivent être scellés. Les portes et fenêtres extérieures doivent être conçues pour minimiser l'entrée de la vermine."
+          },
+          {
+            "numero": "12.4",
+            "titre": "Refuge et infestations",
+            "exigence": "Les pratiques d’entreposage doivent minimiser la disponibilité de nourriture et d’eau à la vermine. Le matériel infesté doit être manipulé pour prévenir la contamination. Les refuges potentiels pour la vermine doivent être éliminés."
+          },
+          {
+            "numero": "12.5",
+            "titre": "Surveillance et détection",
+            "exigence": "Les programmes de surveillance doivent inclure des détecteurs et pièges à des endroits stratégiques. Un plan des appâts doit être disponible. Les détecteurs et pièges doivent être conçus pour prévenir la contamination et inspectés fréquemment."
+          },
+          {
+            "numero": "12.6",
+            "titre": "Éradication",
+            "exigence": "Les mesures d’éradication doivent être mises en place immédiatement après la détection d'une infestation. L'utilisation de pesticides doit être réservée au personnel qualifié et contrôlée. Des enregistrements sur l'utilisation de pesticides doivent être maintenus."
+          }
+        ]
+      },
+      {
+        "numero": "13",
+        "titre": "Hygiènes des membres du personnel et installation destinées aux employés",
+        "sections": [
+          {
+            "numero": "13.1",
+            "titre": "Exigences Générales",
+            "exigence": "Les exigences concernant l’hygiène personnelle et les comportements doivent être établies, documentées et respectées par tout le personnel, les visiteurs et les sous-traitants."
+          },
+          {
+            "numero": "13.2",
+            "titre": "Vestiaires des employés et toilettes",
+            "exigence": "Des installations pour l’hygiène du personnel doivent être disponibles, clairement désignées et proches des points d'application des exigences d'hygiène. Elles doivent inclure des installations pour le lavage des mains, des toilettes en nombre suffisant et des vestiaires adéquats."
+          },
+          {
+            "numero": "13.3",
+            "titre": "Cantines et cafétéria des employés",
+            "exigence": "Les zones de repas doivent être situées de manière à minimiser le risque de contamination croisée. La nourriture apportée par les employés doit être entreposée et consommée uniquement dans les endroits désignés."
+          },
+          {
+            "numero": "13.4",
+            "titre": "Vêtements de travail et de protection",
+            "exigence": "Le personnel doit porter des vêtements de travail propres, en bonne condition et adaptés. Les vêtements de travail ne doivent pas avoir de boutons ni de poches extérieures au-dessus de la taille. Les cheveux, barbes et moustaches doivent être couverts. Les souliers doivent être fermés et non absorbants."
+          },
+          {
+            "numero": "13.5",
+            "titre": "État de santé",
+            "exigence": "Le personnel doit subir un examen médical avant son affectation à des opérations en contact avec les aliments, sauf indication contraire par une analyse de dangers ou une évaluation médicale. Des examens médicaux additionnels peuvent être requis périodiquement."
+          },
+          {
+            "numero": "13.6",
+            "titre": "Maladie et Blessures",
+            "exigence": "Les employés doivent rapporter les maladies (jaunisse, diarrhée, vomissement, fièvre, etc.). Le personnel malade ou porteur d'une maladie transmissible par les aliments ne doit pas manipuler de nourriture. Les coupures et brûlures doivent être couvertes par des pansements étanches et détectables."
+          },
+          {
+            "numero": "13.7",
+            "titre": "Propreté du personnel",
+            "exigence": "Le personnel doit se laver et assainir les mains avant de manipuler des aliments, après être allé aux toilettes et après avoir manipulé du matériel contaminé. Éternuer ou tousser au-dessus des produits est à éviter. Cracher est interdit. Les ongles doivent être propres et courts."
+          },
+          {
+            "numero": "13.8",
+            "titre": "Comportement du personnel",
+            "exigence": "Une politique documentée doit décrire les comportements requis: interdiction de fumer, manger, mâcher en dehors des zones désignées; contrôle des bijoux; interdiction du vernis à ongles, faux ongles et faux cils; entretien des vestiaires."
+          }
+        ]
+      },
+      {
+        "numero": "14",
+        "titre": "Retravail",
+        "sections": [
+          {
+            "numero": "14.1",
+            "titre": "Exigences générales",
+            "exigence": "Les produits retravaillés doivent être manipulés et utilisés de façon à ce que la sécurité, la qualité, la traçabilité et la conformité réglementaire soient maintenues."
+          },
+          {
+            "numero": "14.2",
+            "titre": "Entreposage, identification et traçabilité",
+            "exigence": "Les produits à retravailler doivent être protégés de la contamination, ségrégués (si nécessaire, ex: allergènes), clairement identifiés et leur traçabilité assurée. La raison du retravail doit être enregistrée."
+          },
+          {
+            "numero": "14.3",
+            "titre": "Utilisation de produits retravaillés",
+            "exigence": "Les conditions d'utilisation des produits à retravailler (quantité, type, etc.) doivent être spécifiées. L'étape et la méthode d'addition doivent être définies. Si l'emballage est enlevé, des contrôles doivent être en place pour éviter la contamination par des corps étrangers."
+          }
+        ]
+      },
+      {
+        "numero": "15",
+        "titre": "Procédures de rappel de produit",
+        "sections": [
+          {
+            "numero": "15.1",
+            "titre": "Exigences générales",
+            "exigence": "Des systèmes doivent être en place pour assurer que les produits non conformes aux spécifications de sécurité alimentaire puissent être identifiés, localisés et retirés de la chaîne d'approvisionnement."
+          },
+          {
+            "numero": "15.2",
+            "titre": "Exigences de rappel de produit",
+            "exigence": "Une liste des contacts-clés en cas de rappel doit être maintenue. Quand des produits sont retirés pour des raisons de santé immédiates, la sécurité des autres produits fabriqués dans les mêmes conditions doit être évaluée et la nécessité d'un avis public doit être considérée."
+          }
+        ]
+      },
+      {
+        "numero": "16",
+        "titre": "Entreposage",
+        "sections": [
+          {
+            "numero": "16.1",
+            "titre": "Exigences générales",
+            "exigence": "Le matériel et les produits doivent être entreposés dans des espaces propres, secs, bien ventilés et protégés de la contamination."
+          },
+          {
+            "numero": "16.2",
+            "titre": "Exigences d'entreposage",
+            "exigence": "Des contrôles de température, d'humidité et d'autres conditions environnementales doivent être en place si nécessaire. Les déchets et produits chimiques doivent être entreposés séparément. Un système de rotation des stocks (FIFO/FEFO) doit être observé. Les chariots élévateurs à essence ou diesel ne doivent pas être utilisés dans les zones de stockage d'ingrédients ou de produits."
+          },
+          {
+            "numero": "16.3",
+            "titre": "Véhicules, convoyeurs et conteneurs",
+            "exigence": "Les véhicules, convoyeurs et conteneurs doivent être maintenus en bon état et propres. Ils doivent protéger le produit du dommage et de la contamination. Un nettoyage doit être effectué entre les chargements de produits alimentaires et non alimentaires. Les conteneurs en vrac doivent être dédiés aux denrées alimentaires."
+          }
+        ]
+      },
+      {
+        "numero": "17",
+        "titre": "Information sur les produits et sensibilisation des consommateurs",
+        "sections": [
+          {
+            "numero": "17.1",
+            "titre": "Information sur le produit",
+            "exigence": "L’information doit être présentée aux consommateurs de façon à ce qu’ils en comprennent l’importance et puissent faire des choix éclairés."
+          },
+          {
+            "numero": "17.2",
+            "titre": "Étiquetage des produits préemballés",
+            "exigence": "Des procédures doivent être en place pour assurer l’application d’étiquettes correctes aux produits."
+          }
+        ]
+      },
+      {
+        "numero": "18",
+        "titre": "Défense des aliments, biovigilance et bioterrorisme",
+        "sections": [
+          {
+            "numero": "18.1",
+            "titre": "Exigences générales",
+            "exigence": "Chaque établissement doit évaluer le danger posé aux produits par des actes potentiels de sabotage, de vandalisme ou de terrorisme et doit mettre en place les mesures de protection qui s’imposent."
+          },
+          {
+            "numero": "18.2",
+            "titre": "Contrôle d'accès",
+            "exigence": "Les zones potentiellement sensibles à l’intérieur de l’établissement doivent être identifiées et sujettes au contrôle d’accès."
+          }
+        ]
+      }
+    ]
+  }
+}
