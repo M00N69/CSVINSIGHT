@@ -1,0 +1,884 @@
+[
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":"ID",
+    "Unnamed: 1":"Nom de la substance ou autre ingrédient",
+    "Unnamed: 2":"Autre nom ",
+    "Unnamed: 3":"Fonction",
+    "Unnamed: 4":"Libellés déposés et traduits",
+    "Unnamed: 5":"Fonction acceptée",
+    "Unnamed: 6":"Commentaire"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":646,
+    "Unnamed: 1":"Lactose (réduction\/absence)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Intolérance au lactose ",
+    "Unnamed: 4":"Facile à digérer",
+    "Unnamed: 5":"Digestion du lactose ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":693,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"Santé hormonale",
+    "Unnamed: 4":"Aide à maintenir l'équilibre hormonal. \/ Aide à maintenir la santé hormonale",
+    "Unnamed: 5":"Activité hormonale",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":694,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"Santé menstruelle",
+    "Unnamed: 4":"Garantit un apport d'acides gras poly-insaturés qui prennent en charge une attitude normale, en bonne santé au cours du cycle menstruel ",
+    "Unnamed: 5":"Humeur\/cycle menstruel",
+    "Unnamed: 6":"Fonction humeur à préciser\/justifier"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":695,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"Santé de la peau",
+    "Unnamed: 4":"Aide à maintenir une peau saine",
+    "Unnamed: 5":"Santé de la peau",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":702,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"Embellit la peau de l'intérieur et à l'extérieur",
+    "Unnamed: 4":"Contient un équilibre parfait entre Omega et 3,6 9. contient 18% d'Oméga 3, 60% Omega 6, 3% GLA et 11% Omega 9. Ce ratio correspond parfaitement aux exigences de votre corps. Protège et embellit la peau de l'intérieur et à l'extérieur. Huile de massage pour la peau sèche qui démange huile santé",
+    "Unnamed: 5":"beauté de la peau \/ santé de la peau",
+    "Unnamed: 6":"Allégation beauté"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":736,
+    "Unnamed: 1":"La caféine (du thé \/ café \/ chocolat ou ajoutée sous forme pure)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Performance cognitive et mentale",
+    "Unnamed: 4":"Contribue à la performance mentale  \/ aide à maintenir et à améliorer la vigilance \/aide à la concentration \/vous aide à vous sentir plus énergique \/ vous aide à vous raviver \/ vous aide à rester alerte \/ aide à améliorer la façon dont vous vous sentez",
+    "Unnamed: 5":"vigilance\/ cocentration \/ Energie \/ bien-êtrre mental ",
+    "Unnamed: 6":"Fonction bien-être mental à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":737,
+    "Unnamed: 1":"La caféine (du thé \/ café \/ chocolat ou ajoutée sous forme pure)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Performance physique (activités à court terme et endurance)",
+    "Unnamed: 4":"Améliore la performance physique.",
+    "Unnamed: 5":"Performance physique ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1101,
+    "Unnamed: 1":"Coffea arabica L. et autres espèces",
+    "Unnamed: 2":"café \/ caféine",
+    "Unnamed: 3":"Mentale et l'effet stimulant physique \/Tonus \/ vitalité \/ Performance physique",
+    "Unnamed: 4":"performance cognitive et physique\/ Amélioration de la vitalité \/ énergie. Aide en cas de fatigue. Reconnu comme tonique, le café agit contre la fatigue et le manque de vitalité. Aide à soutenir la vitalité du corps. Aide à vous  sentir plus énergique. \/ le café améliore les performances physiques.",
+    "Unnamed: 5":"Performance cognitive et physique \/ Energie \/ fatigue \/ vitalité ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1187,
+    "Unnamed: 1":"boisson au café \/ caféine",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"état mental et performance",
+    "Unnamed: 4":"Le café vous aide à rester alerte \/ le café tonifie \/ le café améliore votre humeur.",
+    "Unnamed: 5":"Humeur \/ Energie",
+    "Unnamed: 6":"fonction humeur à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1224,
+    "Unnamed: 1":"Laits à boire avec teneur réduite en lactose .lait conservé à teneur réduite en lactose. Boissons lactées avec au moins 80% de teneur en lait à teneur réduite en lactose. \/ lait avec une hydrolyse du lactose ",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Diminution des symptômes de malabsorption du lactose \/ digestion du lactose ",
+    "Unnamed: 4":"digeste , facile à digérer, facilement digestible, lait facile à digérer  ",
+    "Unnamed: 5":"Digestion du lactose ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1238,
+    "Unnamed: 1":"produits laitiers dont le lactose est hydrolysé",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"la digestion du lactose",
+    "Unnamed: 4":"produits contenant du lactose faciles à digérer ",
+    "Unnamed: 5":"Digestion du lactose ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1314,
+    "Unnamed: 1":"Mastic de Chios \/ Chios Mastiha (résine naturelle de l'arbre à mastic Pistacia Lentiscus) Appellation d'Origine produit. (AOP) (CE) 123\/1997 ",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Contribue au système gastro-intestinal",
+    "Unnamed: 4":"Mastiha Chiou contribue à un système gastro-intestinal sain",
+    "Unnamed: 5":"santé gastro-intestinale ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1339,
+    "Unnamed: 1":"Produits laitiers avec diminution \/ absence de lactose",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Intolérance au lactose",
+    "Unnamed: 4":"Facile à digérer",
+    "Unnamed: 5":"Digestion du lactose ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1410,
+    "Unnamed: 1":"Programme de régime très faible en calories (VLCD)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"1) perte de poids sure et efficace  2) maintien du poids à long terme",
+    "Unnamed: 4":"qui assure un moyen rapide mais contrôlé d'atteindre un poids plus sain\nLe programme permet à des milliers de clients de perdre leur excès de poids\n(Le VLCD est un ...) moyen d'atteindre un poids plus sain\n(Les emballages alimentaires permettent ...) une perte de poids efficace\nC'est une occasion unique pour vous de remodeler votre taille, votre poids\nUn moyen rapide, sûr et efficace pour maigrir jusqu'à votre poids cible\nPour une perte de poids rapide comme seule source de nutrition\nPour une perte de poids plus progressive avec de la nourriture supplémentaire pour un maintien du poids à long terme\nProduit une excellente perte de poids dans le délai souhaité\nVous aidera à perdre du poids d'une manière sûre et saine scientifiquement prouvée\nUne façon saine de réduire le poids et de le garder\nRétrécissez votre taille\nPerdez du poids à partir de votre taille\n«Soin du poids»\nLa recherche scientifique confirme la crédibilité et l'efficacité\nLes faibles niveaux de calories de l'alimentation signifient que tout le monde perdra du poids sur le programme \/ programme à source unique\nFormule VLCD complète sur le plan nutritionnel, qui permet une perte de poids rapide, sûre et efficace\nPerdez du poids en toute sécurité et confortablement \/ perdez du poids rapidement et en toute sécurité \/ Attendez-vous à être plus mince \/ Les faibles niveaux de calories de l'alimentation signifient que tout le monde perdra du poids \/ Vous remodelerez la taille \/ perdrez quelques centimètres de votre taille \/ Le programme est un approche réussie et éprouvée de la perte de poids à long terme. Le programme permet à des milliers de clients de perdre leur excès de poids et de ne pas le reprendre. Vous êtes beaucoup plus susceptible de rester équilibré et en bonne santé à long terme.\n\nUne façon saine de réduire le poids et de le garder.\n\nLe counseling s'est avéré plus efficace pour aider les clients à perdre et à maintenir leur nouveau poids que le régime seul\nGérez votre poids à long terme\n(Counseling) permet aux clients d'obtenir une perte de poids durable\nLe programme est une approche éprouvée et réussie de la perte de poids à long terme\nLe programme permet à des milliers de clients de perdre leur excès de poids et de le garder\nLe conseil permet aux clients de développer une nouvelle relation avec la nourriture et, tout aussi important, de nouvelles stratégies pour vivre une vie plus légère à long terme\nSoutien et encouragement précieux d'un conseiller pour des résultats à long terme\nLe programme consiste à) apporter des changements à long terme pour améliorer votre santé et votre style de vie pour toujours\nLe conseil, associé à des outils de motivation, permet aux gens d'apporter des changements durables à leur alimentation et, finalement, à leur vie\n… Vous développerez une nouvelle façon efficace de travailler avec vous-même pour comprendre ce qui a mal tourné dans le passé et ce que vous pouvez faire pour que ça aille mieux à l'avenir - afin que votre perte de poids reste perdue, pour de bon.\nle programme va au-delà des régimes pour s'attaquer non seulement aux symptômes mais aussi aux causes réelles de la prise de poids - ce qui se passe dans votre tête.\nDéveloppez les compétences pour gérer votre poids à l'avenir.",
+    "Unnamed: 5":"contrôle du poids ",
+    "Unnamed: 6":"L'allégation peut être employée sur des denrées alimentaires mais pas sur un programme de régime. "
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1442,
+    "Unnamed: 1":"Arabinogalactane (extrait de mélèze)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"santé intestinale",
+    "Unnamed: 4":"prébiotiques \/ soutient la régularité intestinale \/aide à maintenir la régularité de l'intestin \/ contribue à la régularité intestinale \/Augmente la production d'acides gras à chaîne courte (AGCC) dans le tractus intestinal \/ effets prebiotiques \/ bifidogène \/Stimule la croissance de l'intestin",
+    "Unnamed: 5":"santé intestinale",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1485,
+    "Unnamed: 1":"La caféine (du thé \/ café \/ chocolat ou ajoutée sous forme pure)",
+    "Unnamed: 2":"La caféine \/ Caféine (de T \/ Café \/ Chocolat ou dans ubne forme pure ajoutée)  \/ caféine (du thé \/ café \/ chocolat ou ajoutés sous forme pure) \/ Caféine (sous forme pure) \/ Nom du produit alimentaire: boisson énergisante contenant de la caféine et des glucides",
+    "Unnamed: 3":"Performance cognitive et mentale   \/ Éveil \/ Soutient l'énergie et la performance mentale \/ État mental et performance \/ Améliore les performances mentales \/ cognitives, augmente la vigilance, la concentration, la réaction \/ Performances cognitives et mentales \/ importance pour les fonctions mentales - importance dans le domaine de la combustion des graisses - métabolisme énergétique -    \/     État mental et performances \/ Avantages pour la santé des aliments: les boissons glucidiques contenant de la caféine améliorent les performances mentales, en particulier la vigilance, la concentration, le temps de réaction et la mémoire et améliorent également les sentiments de vigilance et réduisent les sensations de fatigue\n\nLes avantages sont-ils liés à un facteur de risque de maladie: Non\n\nGroupe cible: Adultes âgés de 18 ans et plus à quelques exceptions près\n\nSi des exceptions le décrivent: la directive 2002\/67 \/ CE de la Commission sur l'étiquetage des denrées alimentaires contenant de la quinine et des denrées alimentaires contenant de la caféine stipule que les produits contenant de la caféine en excès de 150 mg \/ L doivent porter un avertissement indiquant que le produit a une «teneur élevée en caféine». La préoccupation de la population adulte concerne la contribution de la caféine aux boissons énergisantes consommées par les femmes enceintes\n\nRaisons d'exclure ces groupes: Il est conseillé aux femmes de ne pas dépasser les apports en caféine> 300 mg \/ jour pendant la grossesse. La mise en garde concernant la caféine est considérée comme une garantie appropriée pour les produits contenant de la caféine au-delà d'une certaine limite (voir ci-dessus)",
+    "Unnamed: 4":"Contribue à la performance mentale\n-aide à maintenir et à améliorer la vigilance\n-aide à la concentration\n-aide à vous sentir plus énergique\n-aide à vous faire revivre\n-aide à vous garder alerte La caféine contribue à maintenir une veille adéquate .; \/ La caféine stimule l'énergie et la concentration mentale\nLa caféine améliore les performances mentales \/ La caféine revigore. La caféine naturelle stimule immédiatement après utilisation. La caféine naturelle accélère la circulation. Cela réduit la sensation de fatigue et augmente temporairement les performances. La caféine favorise la concentration  \/ stimulant, pouvoir stimulant de la caféine, tonifiant, tonifiant. Contient de la caféine \/ formulation exacte de l'allégation telle qu'elle apparaît sur le produit: améliore la performance mentale\nAide à la concentration\nRapidité de vigilance\n\nExemples de libellés alternatifs pouvant être utilisés en relation avec la revendication: réveille les esprits fatigués\nBoisson énergétique mentale\n\nEst-ce une image: Non \/ La caféine active le système nerveux central et tonifie.                       Augmente les performances mentales - améliore la capacité de réagir et de se concentrer - favorise la vigilance - augmente le sentiment d'activité",
+    "Unnamed: 5":"Performance cognitive \/ concentration\/ vigilance\/ Energie \/ fatigue \/ vitalité \/ tonifiant ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1486,
+    "Unnamed: 1":"La caféine (du thé \/ café \/ chocolat ou ajoutée sous forme pure)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Performance physique (activités à court terme et endurance)",
+    "Unnamed: 4":"Améliore la performance physique. « La caféine améliore les performances physiques  La caféine offre un avantage de performance. La caféine peut retarder l'apparition de la fatigue. La caféine peut augmenter l'intensité de l'exercice \/ le rythme de travail.",
+    "Unnamed: 5":"Performance physique \/ Energie \/ fatigue",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1488,
+    "Unnamed: 1":"Caféine",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Prise en charge des performances de l'exercice (réduction de l'effort perçu, d'améliorer le temps de l'épuisement et de la capacité d'exercice)",
+    "Unnamed: 4":"La caféine aide à prolonger le temps d'exercice\nLa caféine peut aider à augmenter le temps d'épuisement vous permettant de vous entraîner plus longtemps\n\nLa caféine soutient une augmentation de la capacité de performance\nLa caféine peut améliorer les performances d'endurance\nLa caféine peut diminuer l'effort perçu",
+    "Unnamed: 5":"Performance physique \/ Energie ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1490,
+    "Unnamed: 1":"La caféine (avec ou sans glucides)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Réduit la perception de l'effort.",
+    "Unnamed: 4":"Réduit la perception de l'effort.",
+    "Unnamed: 5":"Performance physique ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1491,
+    "Unnamed: 1":"La caféine (avec ou sans glucides)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Améliore la vigilance mentale au cours de l'activité musculaire intense.",
+    "Unnamed: 4":"Améliore la performance mentale. Renforce la concentration, la vigilance et la concentration. Améliore le temps de réaction. Restez plus net plus longtemps.",
+    "Unnamed: 5":"Performance cognitive\/ vigilance \/ concentration",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1550,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"Cutanée et du tissu conjonctif \/ santé de la peau",
+    "Unnamed: 4":"Aide à maintenir une peau saine \/ peut contribuer à maintenir la santé cutanée et du tissu conjonctif.",
+    "Unnamed: 5":"santé de la peau",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1551,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"la santé menstruelle",
+    "Unnamed: 4":"Assure un apport d'acides gras poly-insaturés qui prennent en charge une attitude normale, en bonne santé au cours du cycle menstruel",
+    "Unnamed: 5":"Humeur\/ cycle menstruel",
+    "Unnamed: 6":"Fonction humeur à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1650,
+    "Unnamed: 1":"Pollen d'ivraie (Lolium)",
+    "Unnamed: 2":"Pollen de ryegrass \/ ray grass",
+    "Unnamed: 3":"Le maintien de la fonction urinaire normale",
+    "Unnamed: 4":"Aide le maintien du débit urinaire normale \/contient des extraits de pollen standardisés d'ivraie; ces extraits de plantes ont été montré pour aider à soutenir un flux urinaire normale chez les hommes \/ Pour l'entretien, le support d'un flux urinaire normal \/ Pour l'entretien, le support de la fonction urinaire normale chez les hommes pour le maintien de la fonction urinaire normale pour les hommes de l'âge de 45 ans \/ maintien d'une bonne fonction de la vessie chez les hommes aide à maintenir un modèle urinaire normale chez les hommes",
+    "Unnamed: 5":"Système urinaire ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1679,
+    "Unnamed: 1":"Extrait de pépins de raisin 95% OPC (Vitis. vinifera)",
+    "Unnamed: 2":"graines de raisin proanthocyanidines (OPC) (extrait sec de la graine de raisin, normalisé sur OPC et les polyphénols, l'eau \/ alcool d'agents solvants) \/ OPC \/ Extrait de pépins de raisin 95% OPC \/ raisin graines proanthocyanidines (OPC) (extrait sec de la graine de raisin, normalisé sur OPC et les polyphénols, l'eau \/ alcool d'agents solvants) \/ OPC à partir de l'extrait de pépins de raisin \/ oligomère proanthocyanidine (OPC) ",
+    "Unnamed: 3":"Excellente source de proanthocyanidines oligoremic qui ont été associés à la réduction du stress oxydatif. \/ propriétés antioxydantes (cœur, les vaisseaux, de la peau) \/ antioxydant \/ santé des yeux\/ Effet antioxydant par rapport aux LDL oxydeés protégeant ainsi les vaisseaix sanguins",
+    "Unnamed: 4":" l'Extrait de graines de raisin est une excellente source de oligoremic proanthocyanidines (OPC), composés pour qui ont été associés à la réduction du stress oxydatif. \/ - Agir en tant que piégeurs de radicaux naturels dans des situations de stress physique et mental - Renforcer le cœur et les vaisseaux - pour la santé du cœur et le système circulatoire - pour sceller les vaisseaux et améliorer la microcirculation - a un effet de renforcement sur le tissu conjonctif \/ L'extrait de pépins de raisin est une source OPC pour l'antioxydant naturel. Les proanthocyanidines protègent l'œil oligomère des rayons ultraviolets. - Pour protéger les yeux - \/ Pour soutenir des vaisseaux sanguins sains",
+    "Unnamed: 5":"Antioxydant \/santé cardiovasculaire \/ santé occulaire ",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1690,
+    "Unnamed: 1":"Alpha-galactosidase",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Digestion",
+    "Unnamed: 4":"Il aide à l'absorption des glucides complexes dans les aliments, en réduisant les processus de fermentation et en évitant la production de gaz.",
+    "Unnamed: 5":"Digestion ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1829,
+    "Unnamed: 1":"Mycélium, activé biologiquement (contient ACHH, composé d'hémicellulose actif active hexose correlated compound)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Immunité",
+    "Unnamed: 4":"Pour une protection immunitaire. Rend plus efficace le système immunitaire du corps.",
+    "Unnamed: 5":"Défenses immunitaires ",
+    "Unnamed: 6":"Mycélium composant de tous les champignons à filament"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1836,
+    "Unnamed: 1":"Pollen",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"état mental et la performance",
+    "Unnamed: 4":"Le pollen contient beaucoup de substances de vitalité. Augmente la vigueur, la vitalité et la vigilance.",
+    "Unnamed: 5":"concentration \/ vigilance \/ vitalité",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1837,
+    "Unnamed: 1":"Pollen + gelée royale",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"organes sexuels et \/ ou activité hormonale",
+    "Unnamed: 4":"équilibre l'activité hormonale  \/  Pour les femmes ménopausées.",
+    "Unnamed: 5":"Ménopause \/ activité hormonale ",
+    "Unnamed: 6":"Cf. ID 1807 pour Ménopause"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1838,
+    "Unnamed: 1":"gelée royale + pollen",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Immunité",
+    "Unnamed: 4":"Soutient propre mécanisme de défense \/ l'immunité du corps. Tient à jour le mécanisme de défense naturelle \/ immunité. Aide à renforcer l'immunité naturelle",
+    "Unnamed: 5":"Défenses immunitaires ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1849,
+    "Unnamed: 1":"Resveratrol",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Système cardiovasculaire",
+    "Unnamed: 4":"Pour la santé cardiovasculaire.",
+    "Unnamed: 5":"Santé cardiovasculaire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1885,
+    "Unnamed: 1":"charbon végétal",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Système Digestif \/       adsorbant",
+    "Unnamed: 4":"Favorise le confort  Digestif \/  à UTILISER en cas de flatulences \/ Contribue au confort Digestif",
+    "Unnamed: 5":"confort digestif",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1955,
+    "Unnamed: 1":"Pollen",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Santé générale, Vitalité \/ Résistance \/ tonus",
+    "Unnamed: 4":"Aide en cas de fatigue . Aide à la vitalité du corps et supporte la résistance du corps. Aide à vous faire sentir plus énergique. Amélioration de la vitalité \/ énergie. \/ Il aide à Rester Dans un état de bonne santé général. Le pollen aide à fortifier le corps et favorise Une bonne vitalité. Le pollen aide les PERSONNES fatiguées ou convalescentes à reprendre des forces plus RAPIDEMENT. Il contribue a tonifier l'organisme.  Le pollen contribue à Une bonne vitalité générale.",
+    "Unnamed: 5":"Vitalité\/tonifiant \/ energie \/ performance physique ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1956,
+    "Unnamed: 1":"Pollen",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Ménopause",
+    "Unnamed: 4":"Contribue au confort pendant la ménopause. Contribue au bien-être pendant la ménopause. Aide à réduire l'inconfort pendant la ménopause. Aide à diminuer les bouffées de chaleur.",
+    "Unnamed: 5":"Ménopause ",
+    "Unnamed: 6":"Cf. ID 1807 pour Ménopause"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":1967,
+    "Unnamed: 1":"Chlorophylle",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"fonctions de l'organisme",
+    "Unnamed: 4":"Dans notre organisme, la Chlorophylle s'associe au fer et intervient dans la production de l'hémoglobine, jouant AINSI un roôle essentiel dans le fonctionement du cœur, des muscles et des nerfs \/ Réputée pour ses propriétés détoxifiantes sur l'organisme, la Chlorophylle possède des Vertus antiseptiques et antifatigues \/ La Chlorophylle favorise la  régénération du sang \/ La Chlorophylleaide  à Conserver une flore intestinale  saine et favorise la santé des bactéries Probiotiques",
+    "Unnamed: 5":"Santé intestinale \/ cardique\/ santé musculaire \/ santé des nerfs \/ Fatigue \/ détoxification de l'organisme\/du sang",
+    "Unnamed: 6":" Fonction détoxification du sang à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2030,
+    "Unnamed: 1":"curcumine (curcuma longa)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Gestion des réponses inflammatoires",
+    "Unnamed: 4":"La curcumine aide à contrôler les réponses inflammatoires dans le corps.",
+    "Unnamed: 5":"Fonction thérapeutique",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2039,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Nécessaire pour améliorer la thermogenèse, augmenter la dépense énergétique et augmenter la perte de calories.",
+    "Unnamed: 4":"Améliore la thermogenèse\nAugmente les dépenses énergétiques\nAméliore la perte de calories",
+    "Unnamed: 5":"dépense énergétique ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2040,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Nécessaire pour stimuler l'oxydation des glucides et brûler les glucides",
+    "Unnamed: 4":"\"Stimule l'oxydation des glucides\nBrûle les glucides \"",
+    "Unnamed: 5":"Métabolisme des glucides ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2041,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Nécessaire pour l'oxydation des graisses et brûle les graisses, entraînant une perte de poids corporel",
+    "Unnamed: 4":"Stimule l'oxydation des graisses_x000D_\nBrûle les graisses_x000D_\nAide à maintenir un profil lipidique sain ",
+    "Unnamed: 5":"métabolisme lipidique \/ contrôle du poids ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2042,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Nécessaire pour réduire l'apport calorique",
+    "Unnamed: 4":"Réduit l'apport calorique",
+    "Unnamed: 5":"Réduction de l'apport calorique ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2043,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Requis pour la réduction du stress oxydatif.",
+    "Unnamed: 4":"Comme antioxydant contribue à réduire les dommages aux tissus du corps.",
+    "Unnamed: 5":"Antioxydant ",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2044,
+    "Unnamed: 1":"Capsicum Extrait -Avec capsaïcine (capsicum spp.)",
+    "Unnamed: 2":"Extrait de Piment \/poivron ",
+    "Unnamed: 3":"Requis pour la promotion de la croissance des cheveux.",
+    "Unnamed: 4":"Aide à promouvoir la croissance des cheveux.",
+    "Unnamed: 5":"Croissance\/santé des cheveux",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2382,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera paradoxa)",
+    "Unnamed: 2":"Huile d'onagre ",
+    "Unnamed: 3":"Cutanée et du tissu conjonctif",
+    "Unnamed: 4":"Peut contribuer à maintenir la santé cutanée et du tissu conjonctif.",
+    "Unnamed: 5":"Santé de la peau",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2516,
+    "Unnamed: 1":"tabashir  (de Bambou)",
+    "Unnamed: 2":"manne de bambou",
+    "Unnamed: 3":"Source de silice \/ rôle structural dans les tissus\nconjonctifs",
+    "Unnamed: 4":"Bon pour les articulations Favorise le confort articulaire Pour la force et la santé de l'os",
+    "Unnamed: 5":"Santé articulaire et des os",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2557,
+    "Unnamed: 1":"Marc de raisin ",
+    "Unnamed: 2":"Marc de raisin ",
+    "Unnamed: 3":"Draineur, obésité\nSoigne la lipodystrophie localisée",
+    "Unnamed: 4":"Aide dans le cadre d'un régime amincissant\nDraineur naturel\nA utiliser contre la peau d'orange",
+    "Unnamed: 5":"Contrôle du poids \/ drainant",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2558,
+    "Unnamed: 1":"Marc de raisin ",
+    "Unnamed: 2":"Marc de raisin ",
+    "Unnamed: 3":"Système nerveux\nAdaptogène, nootrope",
+    "Unnamed: 4":"Contribue à un bon équilibre nerveux\nFavorise la détente et contribue à un bon équilibre nerveux\nFavorise un bon équilibre mental\nApaisant, relaxant\nAméliorer la fonction et les performances mentales",
+    "Unnamed: 5":"relaxation \/ système nerveux ",
+    "Unnamed: 6":"terme adaptogène à reformuler ou à préciser et à justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2619,
+    "Unnamed: 1":"Huile d'Onagre (Oenothera biennis \/ Oenothera paradoxa))",
+    "Unnamed: 2":"Huile d'Onagre \/ onagre bisanuelle\/  Belle de nuit, Herbe aux ânes , Primevère du Soir,  Jambon de Saint Antoine, Jambon du jardinier  (Evening Primrose Oil)",
+    "Unnamed: 3":"Système circulatoire \/ Antithrombotique, réduit le mauvais cholestérol et augmente le bon",
+    "Unnamed: 4":"Favorise le bon cholestérol\nSoutient la circulation\nAide à maîtriser le cholestérol",
+    "Unnamed: 5":"Cholestérol \/ santé vasculaire ",
+    "Unnamed: 6":"induit une correction des fonctions métaboliques. "
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2651,
+    "Unnamed: 1":"hydroxycitrique acide \/ Extrait de Garcinia cambogia (60% HCA) ",
+    "Unnamed: 2":"Garcinia Gummi-gutta \/ Garcinia cambogia , tamarinier Malabar ",
+    "Unnamed: 3":"Le HCA est un inhibiteur de l'ATP-citrate lyase, qui est impliqué dans la synthèse des acides gras. ",
+    "Unnamed: 4":"HCA supprime la lipogenèse et leur accumulation dans le corps, l'apport alimentaire et la perte de poids induite ",
+    "Unnamed: 5":"métabolisme lipidique \/ contrôle du poids ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2656,
+    "Unnamed: 1":"Oleuropéine",
+    "Unnamed: 2":"Extrait de feuilles d'olivier",
+    "Unnamed: 3":"aide à réguler la pression artérielle",
+    "Unnamed: 4":"maintient la pression artérielle normale",
+    "Unnamed: 5":"Pression artérielle ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2668,
+    "Unnamed: 1":"Oleuropéine",
+    "Unnamed: 2":"Extrait de feuilles d'olivier",
+    "Unnamed: 3":"antioxydant naturel protéger l'organisme des dommages oxydatifs puissants antioxydants bénéfiques pour la santé humaine",
+    "Unnamed: 4":"\nantioxydant naturel, protège l'organisme contre la dégradation oxydative, moyen naturel pour éviter les risques causés par le processus d'oxydation et de peroxydation",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2674,
+    "Unnamed: 1":"Eucalyptol",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"propriétés antiseptiques",
+    "Unnamed: 4":"Aide à calmer les maux de gorge",
+    "Unnamed: 5":"Santé respiratoire ",
+    "Unnamed: 6":"Les maux de gorge ne doivent pas être associable à un symptome de pathologie."
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2675,
+    "Unnamed: 1":"Menthol",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Influence du flux d'air nasal ",
+    "Unnamed: 4":"Aide à améliorer le flux d'air nasal. ",
+    "Unnamed: 5":"Santé respiratoire ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2748,
+    "Unnamed: 1":"Huile de carthame (Carthamus tinctorius)",
+    "Unnamed: 2":"Huile de carthame ",
+    "Unnamed: 3":"Soin de la peau",
+    "Unnamed: 4":"Favorise l'hydratation de la peau et à prévenir l'exfoliation par sa composition en acides gras essentiels. Aide à lutter contre le dessèchement de la peau",
+    "Unnamed: 5":"Santé de la peau",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2756,
+    "Unnamed: 1":"Huile de carthame (Carthamus tinctorius)",
+    "Unnamed: 2":"Huile de carthame ",
+    "Unnamed: 3":"la beauté et la santé des cheveux",
+    "Unnamed: 4":"Contribue à l'éclat des cheveux et à la brillance des cheveux grâce à sa composition en acides gras essentiels qui renforcent le film hydrolipidique de la tige du cheveu",
+    "Unnamed: 5":"Santé des cheveux ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":2852,
+    "Unnamed: 1":"Pollen de seigle (Secale cereale L)",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"maintien de la santé de la vessie et de la prostate",
+    "Unnamed: 4":"Aide à maintenir une vessie en bonne santé chez les adultes âgés de plus de 40 ans aide à maintenir une prostate saine chez les hommes âgés de plus de 40 ans ",
+    "Unnamed: 5":"Santé urinaire \/ prostate",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3082,
+    "Unnamed: 1":"Mastic de Chios \/ Chios Mastiha (résine naturelle de l'arbre à mastic Pistacia Lentiscus) Appellation d'Origine produit. (AOP) (CE) 123\/1997 ",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"Contribue à l'hygiène bucco-dentaire. ",
+    "Unnamed: 4":"Mastiha Chiou a un effet bénéfique sur l'hygiène bucco-dentaire",
+    "Unnamed: 5":"Santé bucco-dentaire ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3135,
+    "Unnamed: 1":"pollen d'abeille",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"améliore l'appétit",
+    "Unnamed: 4":"améliore l'appétit",
+    "Unnamed: 5":"Appétit",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3136,
+    "Unnamed: 1":"pollen d'abeille",
+    "Unnamed: 2":null,
+    "Unnamed: 3":"contribue à améliorer l'immunité",
+    "Unnamed: 4":"contribue à améliorer l'immunité",
+    "Unnamed: 5":"Défenses immunitaires",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3166,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés antioxydantes",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3167,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés antioxydantes",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3169,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés antioxydantes",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3170,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés de relaxation",
+    "Unnamed: 4":"Xanthohumol a un effet relaxant et induit le bien-être mental et physique et permet un sommeil sain",
+    "Unnamed: 5":"relaxation \/ sommeil",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3171,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés de relaxation",
+    "Unnamed: 4":"Xanthohumol a un effet relaxant et induit le bien-être mental et physique et permet un sommeil sain",
+    "Unnamed: 5":"relaxation \/ sommeil",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3172,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés de relaxation",
+    "Unnamed: 4":"Xanthohumol a un effet relaxant et induit le bien-être mental et physique et permet un sommeil sain",
+    "Unnamed: 5":"relaxation \/ sommeil",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3173,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"propriétés de relaxation",
+    "Unnamed: 4":"Xanthohumol a un effet relaxant et induit le bien-être mental et physique et permet un sommeil sain",
+    "Unnamed: 5":"relaxation \/ sommeil",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3174,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"piégeur de radicaux libres \/ combat les radicaux libres",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3175,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"piégeur de radicaux libres \/ combat les radicaux libres",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3177,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"piégeur de radicaux libres \/ combat les radicaux libres",
+    "Unnamed: 4":"Xanthohumol protège les cellules du corps contre les radicaux libres nocifs qui endommagent les cellules, les protège du stress cellulaire induit par l'oxydation et renforce la protection des cellules",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3178,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"anti - âge",
+    "Unnamed: 4":"Les propriétés antioxydantes des xanthohumol renforcent les cellules du corps et lutte contre le vieillissement dû à l'oxydation",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3179,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"anti - âge",
+    "Unnamed: 4":"Les propriétés antioxydantes des xanthohumol renforcent les cellules du corps et lutte contre le vieillissement dû à l'oxydation",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3181,
+    "Unnamed: 1":"xanthohumol",
+    "Unnamed: 2":"Extrait de houblon",
+    "Unnamed: 3":"anti - âge",
+    "Unnamed: 4":"Les propriétés antioxydantes des xanthohumol renforcent les cellules du corps et lutte contre le vieillissement dû à l'oxydation",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3281,
+    "Unnamed: 1":"Carbo ligni",
+    "Unnamed: 2":"Charbon activé ; charbon végétal",
+    "Unnamed: 3":"Contribue à maintenir un taux lipidique sanguin sain",
+    "Unnamed: 4":"Grâce à des régimes équilibrés, aide à contrôler le métabolisme lipidique (cholestérol et triglycérides). Source naturelle maintenant l'équilibre physiologique des graisses dans le sang.",
+    "Unnamed: 5":"Métabolisme des lipides ; Cholesterolémie",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3282,
+    "Unnamed: 1":"Carbo ligni",
+    "Unnamed: 2":"Charbon activé ; charbon végétal",
+    "Unnamed: 3":"Réduit les gaz intestinaux",
+    "Unnamed: 4":"Soulage les flatulences, la plénitude et les sensations de vent. Contribue aux fonctions du tractus intestinal.",
+    "Unnamed: 5":"Santé intestinale",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3422,
+    "Unnamed: 1":"Levomentholum",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Santé respiratoire",
+    "Unnamed: 4":"Apaisant pour la bouche et la gorge_x000D_\n\/ Soulagements en cas de chatouillement dans la gorge et le pharynx_x000D_\n\/ Effet apaisant et agréable sur la gorge, le pharynx et les cordes vocales ",
+    "Unnamed: 5":"Santé respiratoire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3595,
+    "Unnamed: 1":"SproutGarden® Sprout Blend",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Excellente source de sulforaphane connu pour aider dans la gestion de la santé cardiaque",
+    "Unnamed: 4":"SproutGarden® est une excellente source de sulforaphane, un composé qui a été associé au maintien de la santé cardiovasculaire.",
+    "Unnamed: 5":"Santé cardiaque  ",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3611,
+    "Unnamed: 1":"Thymol crystals",
+    "Unnamed: 2":"Crystal de thymol",
+    "Unnamed: 3":"réduit la toux,dissout le mucus et réduit l'inflammation",
+    "Unnamed: 4":"apaisant pour la gorge et le soulagement des voies respiratoires.",
+    "Unnamed: 5":"Santé respiratoire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3973,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"fonction urinaire",
+    "Unnamed: 4":"Aide à maintenir la santé du système urinaire. Aide à maintenir la santé de la glande de la prostate.",
+    "Unnamed: 5":"Santé urinaire ; Santé de la prostate",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3974,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"La digestion et le métabolisme des glucides et des lipides",
+    "Unnamed: 4":"Soutient le métabolisme des graisses. Soutient le métabolisme des sucres.",
+    "Unnamed: 5":"Digestion ; Métabolisme des lipides ; Métabolisme des glucides",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3975,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Poids",
+    "Unnamed: 4":"Aide à normaliser le poids corporel.",
+    "Unnamed: 5":"Contrôle du poids",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3976,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"la reproduction",
+    "Unnamed: 4":"Prise en charge la fonction sexuelle mâle et femelle",
+    "Unnamed: 5":"Activité sexuelle",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3977,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Règles",
+    "Unnamed: 4":"Aide à maintenir l'équilibre et le confort du cycle menstruel.",
+    "Unnamed: 5":"Cycle menstruel",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3978,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Os \/ articulations",
+    "Unnamed: 4":"Aide à maintenir la force des os aide à maintenir la santé des articulations",
+    "Unnamed: 5":"Santé des os ; Santé articulaire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3979,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Immunité",
+    "Unnamed: 4":"A des propriétés antioxydantes importantes. Prend en charge la fonction équilibrée du système immunitaire.",
+    "Unnamed: 5":"Défenses immunitaires ; antioxidant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3980,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Mental",
+    "Unnamed: 4":"Prise en charge de la fonction mentale et cognitive",
+    "Unnamed: 5":"Fonctions cognitives",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":3981,
+    "Unnamed: 1":"Asphaltum\/Shilajit - purified",
+    "Unnamed: 2":"\/",
+    "Unnamed: 3":"Rajeunissement",
+    "Unnamed: 4":"A un effet rajeunissant",
+    "Unnamed: 5":"A définir",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4007,
+    "Unnamed: 1":"Curcumin obtained from turmeric oleoresin",
+    "Unnamed: 2":"Curcumine",
+    "Unnamed: 3":"Requis pour ses propriétés de prestations de santé comme anti-oxydant",
+    "Unnamed: 4":"Aide à réduire l'inflammation et le stress oxydatif",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4070,
+    "Unnamed: 1":"Levomentholum\n\n(Common name: Menthol)",
+    "Unnamed: 2":"Menthol",
+    "Unnamed: 3":"Santé respiratoire",
+    "Unnamed: 4":"Apaisant pour la bouche et la gorge_x000D_\n\/ Soulagements en cas de chatouillement dans la gorge et le pharynx_x000D_\n\/ Effet apaisant et agréable sur la gorge, le pharynx et les cordes vocales ",
+    "Unnamed: 5":"Santé respiratoire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4323,
+    "Unnamed: 1":"Pollen (from multiflowers)",
+    "Unnamed: 2":"Pollen d'abeille",
+    "Unnamed: 3":"est efficace dans la gestion des troubles gastro-intestinaux",
+    "Unnamed: 4":"Contribue au bien-être gastro-intestinale",
+    "Unnamed: 5":"Santé gastrointestinale",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4493,
+    "Unnamed: 1":"Tolu Balsam",
+    "Unnamed: 2":"Baume de Tolu",
+    "Unnamed: 3":"Santé respiratoire supérieure",
+    "Unnamed: 4":"Aide à améliorer la toux",
+    "Unnamed: 5":"Santé respiratoire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4658,
+    "Unnamed: 1":"Bee pollen",
+    "Unnamed: 2":"Pollen d'abeille",
+    "Unnamed: 3":"Aide à la santé du cœur et de maintenir un niveau équilibré de cholestérol et de lipides dans le corps",
+    "Unnamed: 4":"La promotion d'un bon fonctionnement cardiaque et un niveau équilibré de lipides sanguins. \/ Prise en charge d'un bon cœur le fonctionnement et la santé des vaisseaux sanguins.",
+    "Unnamed: 5":"Santé cardiaque ; Métabolisme des lipides ; Cholestérolémie",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4659,
+    "Unnamed: 1":"Bee pollen",
+    "Unnamed: 2":"Pollen d'abeille",
+    "Unnamed: 3":"Protection du corps contre les dommages des radicaux libres \/ dommages oxydatifs",
+    "Unnamed: 4":"Contient des composés ayant une action anti-oxydante \/ source naturelle de composés ayant une action antioxidantive qui aide à maintenir le statut antioxydant optimal du corps",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4694,
+    "Unnamed: 1":"Pollen-Bee pollen",
+    "Unnamed: 2":"Pollen d'abeille",
+    "Unnamed: 3":"l'agent anti-oxydant en raison de vitamines et de teneur en sélénium",
+    "Unnamed: 4":"Activité antioxydante.",
+    "Unnamed: 5":"Antioxydant",
+    "Unnamed: 6":"Fonction antioxydant à préciser\/justifier par l'opérateur"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4673,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"Santé cardiovasculaire, cholestérol niveau abaissement",
+    "Unnamed: 4":"Le rapport optimal d'acides gras oméga-6 \/ oméga-3 acides gras essentiels dans l'huile de chanvre est bénéfique pour le système cardio-vasculaire et aide à contrôler le cholestérol et les triglycérides",
+    "Unnamed: 5":"Santé cardiovasculaire ; Cholestérolémie",
+    "Unnamed: 6":"\ninduit une correction des fonctions métaboliques. \n"
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4674,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"métabolisme du glucose",
+    "Unnamed: 4":"rapport optimal d'acides gras oméga-6 \/ oméga-3 acides gras essentiels dans l'huile de chanvre régule le métabolisme du glucose chez les patients diabétiques",
+    "Unnamed: 5":"Glycémie",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4675,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"Santé immunitaire",
+    "Unnamed: 4":"Le rapport optimal d'acides gras essentiels oméga-6 \/ oméga-3 dans l'huile de chanvre soutient le système immunitaire et optimise la réaction de notre corps",
+    "Unnamed: 5":"Défenses immunitaires",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4676,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"l'agent anti-inflammatoire",
+    "Unnamed: 4":"rapport optimal d'acides gras oméga-6 \/ oméga-3 acides gras essentiels dans l'huile de chanvre a des effets anti-inflammatoires",
+    "Unnamed: 5":"Fonction thérapeutique",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4677,
+    "Unnamed: 1":"Huile de graines de chanvre ( Cannabis sativia)",
+    "Unnamed: 2":"Huile de graines de chanvre",
+    "Unnamed: 3":"Santé musculaires et articulaires",
+    "Unnamed: 4":"rapport optimal d'acides gras oméga-6 \/ oméga-3 acides gras essentiels dans l'huile de chanvre a des effets anti-inflammatoires",
+    "Unnamed: 5":"Santé musculaire et articulaire",
+    "Unnamed: 6":null
+  },
+  {
+    "Liste des allégations de santé « en attente » portant sur des substances ou autres ingrédients \nLibellés traduits en français par traduction automatique\n":4695,
+    "Unnamed: 1":"Pollen-Bee pollen",
+    "Unnamed: 2":"Pollen d'abeille",
+    "Unnamed: 3":"immunomodulateur en raison de la teneur en enzymes et vitamines",
+    "Unnamed: 4":"Stimule une réponse immunitaire.",
+    "Unnamed: 5":"Défenses immunitaires  ",
+    "Unnamed: 6":null
+  }
+]
