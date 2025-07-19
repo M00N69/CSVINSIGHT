@@ -1,106 +1,122 @@
 [
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":" Type d'allégation",
-    "Unnamed: 1":"Nutriment, substance, aliment ou catégorie d'aliment",
-    "Unnamed: 2":"Allégation",
-    "Unnamed: 3":" Conditions d'utilisation\/  Restriction d'utilisation \/ raison du rejet",
-    "Unnamed: 4":"Référence de l' avis de l' EFSA ",
-    "Unnamed: 5":"Référence règlements"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Calcium et vitamine D",
+    "Allégation": "Le calcium et la vitamine D sont nécessaires à une croissance et à un développement osseux normaux des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium et de vitamine D au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-116",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/828",
+    "Entry Id": "Règlement (EC) n° 983/2009 du 21/10/2009, modifié par les Règlements (EC) n° 376/2010 et (EC) n° 686/2014",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0983-20140711"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Calcium et vitamine D",
-    "Unnamed: 2":"Le calcium et la vitamine D sont nécessaires à une croissance et à un développement osseux normaux des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium et de vitamine D au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie dans l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-116",
-    "Unnamed: 5":"Règlement (EC) n° 983\/2009 du 21\/10\/2009, modifié par les Règlements (EC) n° 376\/2010 et (EC) n° 686\/2014"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Calcium",
+    "Allégation": "Le calcium est nécessaire à une croissance et à un développement osseux normaux des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-322",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/826",
+    "Entry Id": "Règlement (EC) n° 983/2009 du 21/10/2009, modifié par les Règlements (EC) n° 376/2010 et (EC) n° 686/2014",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0983-20140711"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Calcium",
-    "Unnamed: 2":"Le calcium est nécessaire à une\ncroissance et à un développement\nosseux normaux des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de calcium au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie dans l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-322",
-    "Unnamed: 5":"Règlement (EC) n° 983\/2009 du 21\/10\/2009, modifié par les Règlements (EC) n° 376\/2010 et (EC) n° 686\/2014"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Acide docosahexaénoïque (DHA)",
+    "Allégation": "La consommation d'acide docosahexaénoïque (DHA) contribue au développement normal de la vue des nourrissons jusqu'à 12 mois.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "Le consommateur doit être informé que l'effet bénéfique est obtenu par la consommation journalière de 100 mg de DHA. Lorsque l'allégation porte sur des préparations de suite, la denrée alimentaire doit contenir au moins 0,3 % du total des acides gras sous forme de DHA.",
+    "Référence de l'avis de l' EFSA": "Q-2008-211 ; Q-2008-688 ; Q-2008-689",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1734",
+    "Entry Id": "Règlement (EU) N° 440/2011 du 06/05/2011",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32011R0440"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Acide docosahexaénoïque (DHA)",
-    "Unnamed: 2":"La consommation d’acide docosahexaénoïque (DHA) contribue au développement normal de la vue des nourrissons jusqu’à 12 mois.",
-    "Unnamed: 3":"Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 100 mg de DHA. Lorsque l’allégation est utilisée sur une préparation de suite, la denrée alimentaire doit contenir au minimum 0,3 % du total des acides gras sous forme de DHA.",
-    "Unnamed: 4":"Q-2008-211 ; Q-2008-688 ; Q-2008-689",
-    "Unnamed: 5":"Règlement (EU) N° 440\/2011 du 06\/05\/2011"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Acide docosahexaénoïque (DHA)",
+    "Allégation": "La consommation d'acide docosahexaénoïque (DHA) par la mère contribue au développement normal du cerveau du fœtus et de l'enfant allaité.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "Les femmes doivent être informées que l'effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d'acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d'acide eicosapentaénoïque (EPA). L'allégation peut être utilisée uniquement pour les denrées alimentaires qui fournissent au moins 200 mg de DHA par jour.",
+    "Référence de l'avis de l' EFSA": "Q-2008-773",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1007",
+    "Entry Id": "Règlement (EU) N° 440/2011 du 06/05/2011",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32011R0440"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Acide docosahexaénoïque (DHA)",
-    "Unnamed: 2":"La consommation d’acide docosahexaénoïque (DHA) par la mère contribue au développement normal du cerveau du foetus et de l’enfant allaité.",
-    "Unnamed: 3":"Les femmes enceintes et allaitantes doivent être informées que l'effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d’acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d’EPA. L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière d’au moins 200 mg de DHA.",
-    "Unnamed: 4":"Q-2008-773",
-    "Unnamed: 5":"Règlement (EU) N° 440\/2011 du 06\/05\/2011"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Acide docosahexaénoïque (DHA)",
+    "Allégation": "La consommation d'acide docosahexaénoïque (DHA) par la mère contribue au développement normal des yeux du fœtus et de l'enfant allaité.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "Les femmes doivent être informées que l'effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d'acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d'acide eicosapentaénoïque (EPA). L'allégation peut être utilisée uniquement pour les denrées alimentaires qui fournissent au moins 200 mg de DHA par jour.",
+    "Référence de l'avis de l' EFSA": "Q-2008-675",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1006",
+    "Entry Id": "Règlement (EU) N° 440/2011 du 06/05/2011",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32011R0440"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Acide docosahexaénoïque (DHA)",
-    "Unnamed: 2":"La consommation d’acide docosahexaénoïque (DHA) par la mère contribue au développement normal des yeux du foetus et de l’enfant allaité",
-    "Unnamed: 3":"Les femmes enceintes et allaitantes doivent être informées que l'effet bénéfique est obtenu par la consommation journalière de 200 mg de DHA, en plus de la consommation journalière d’acides gras oméga-3 recommandée pour les adultes, soit 250 mg de DHA et d’acide eicosapentaénoïque (EPA). L’allégation ne peut être utilisée que pour une denrée alimentaire qui garantit une consommation journalière d’au moins 200 mg de DHA.",
-    "Unnamed: 4":"Q-2008-675",
-    "Unnamed: 5":"Règlement (EU) N° 440\/2011 du 06\/05\/2011"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Phosphore",
+    "Allégation": "Le phosphore est nécessaire à une croissance et à un développement osseux normaux des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de phosphore au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-079",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/783",
+    "Entry Id": "Règlement (EC) n° 983/2009 du 21/10/2009, modifié par les Règlements (EC) n° 376/2010 et (EC) n° 686/2014",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0983-20140711"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Acide α-linolénique et\nacide linoléique",
-    "Unnamed: 2":"Les acides gras essentiels sont\nnécessaires à une croissance et à\nun développement normaux des\nenfants.",
-    "Unnamed: 3":"Le consommateur doit être informé que l’effet bénéfique est obtenu par la consommation journalière de 2 g d’acide α-linolénique (AAL) et de 10 g d’acide linoléique (AL).",
-    "Unnamed: 4":"Q-2008-079",
-    "Unnamed: 5":"Règlement (EC) n° 983\/2009 du 21\/10\/2009, modifié par les Règlements (EC) n° 376\/2010 et (EC) n° 686\/2014"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Protéines",
+    "Allégation": "Les protéines sont nécessaires à une croissance et à un développement normaux des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de protéines au sens de l'allégation SOURCE DE PROTÉINES définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-324",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1359",
+    "Entry Id": "Règlement (EU) N° 957/2010 du 22/10/2010",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32010R0957"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Iode",
-    "Unnamed: 2":"L’iode contribue à la croissance normale des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d’iode au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie à l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-324",
-    "Unnamed: 5":"Règlement (EU) N° 957\/2010 du 22\/10\/2010"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Fer",
+    "Allégation": "Le fer contribue au développement cognitif normal des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de fer au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-325",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/1360",
+    "Entry Id": "Règlement (EU) N° 957/2010 du 22/10/2010",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32010R0957"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Fer",
-    "Unnamed: 2":"Le fer contribue au développement cognitif normal des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de fer au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie à l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-325",
-    "Unnamed: 5":"Règlement (EU) N° 957\/2010 du 22\/10\/2010"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Iode",
+    "Allégation": "L'iode contribue à la croissance normale des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source d'iode au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-217",
+    "Lien EFSA": "https://www.efsa.europa.eu/en/efsajournal/pub/895",
+    "Entry Id": "Règlement (EC) N° 1024/2009 du 29/10/2009",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32009R1024"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Phosphore",
-    "Unnamed: 2":"Le phosphore est nécessaire à la\ncroissance et au développement\nosseux normaux des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins source de phosphore au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie dans l’annexe du règlement (CE) n° 1924\/2006.",
-    "Unnamed: 4":"Q-2008-217",
-    "Unnamed: 5":"Règlement (EC) N° 1024\/2009 du 29\/10\/2009"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Vitamine D",
+    "Allégation": "La vitamine D est nécessaire à une croissance et à un développement osseux normaux des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-326",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/858",
+    "Entry Id": "Règlement (EC) n° 983/2009 du 21/10/2009, modifié par les Règlements (EC) n° 376/2010 et (EC) n° 686/2014",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0983-20140711"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Protéines",
-    "Unnamed: 2":"Les protéines sont nécessaires à une croissance et à un développement osseux normaux des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de protéines au sens de l’allégation SOURCE DE PROTÉINES définie dans l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-326",
-    "Unnamed: 5":"Règlement (EC) n° 983\/2009 du 21\/10\/2009, modifié par les Règlements (EC) n° 376\/2010 et (EC) n° 686\/2014"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Vitamine D",
+    "Allégation": "La vitamine D contribue au fonctionnement normal du système immunitaire des enfants.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "L'allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D au sens de l'allégation SOURCE DE [NOM DES VITAMINES] ET/OU [NOM DES MINÉRAUX] définie dans l'annexe du règlement (CE) no 1924/2006.",
+    "Référence de l'avis de l' EFSA": "Q-2008-323",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/827",
+    "Entry Id": "Règlement (EC) n° 983/2009 du 21/10/2009, modifié par les Règlements (EC) n° 376/2010 et (EC) n° 686/2014",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009R0983-20140711"
   },
   {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Vitamine D",
-    "Unnamed: 2":"La vitamine D est nécessaire à une croissance et un développement osseux normaux des enfants.",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie dans l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2008-323",
-    "Unnamed: 5":"Règlement (EC) n° 983\/2009 du 21\/10\/2009, modifié par les Règlements (EC) n° 376\/2010 et (EC) n° 686\/2014"
-  },
-  {
-    "Liste des allégations de santé autorisées relatives au développement et à la santé des enfants de 0 à 18 ans (article 14.1 b) :\nCes allégations figurent sur le registre des allégations autorisées de la Commission européenne : https:\/\/ec.europa.eu\/food\/safety\/labelling_nutrition\/claims\/register\/public\/?event=search ":"Art.14(1)(b)",
-    "Unnamed: 1":"Vitamine D",
-    "Unnamed: 2":"La vitamine D contribue au fonctionnement normal du système immunitaire des enfants\n",
-    "Unnamed: 3":"L’allégation ne peut être utilisée que pour une denrée alimentaire qui est au moins une source de vitamine D au sens de l’allégation SOURCE DE [NOM DES VITAMINES] ET\/OU [NOM DES MINÉRAUX] définie dans l’annexe du règlement (CE) no 1924\/2006.",
-    "Unnamed: 4":"Q-2014-00826",
-    "Unnamed: 5":"Règlement (UE) n° 2016\/1389 du 17\/08\/2016"
+    "Type d'allégation": "Art.14(1)(b)",
+    "Nutriment, substance, aliment ou catégorie d'aliment": "Acides gras alpha-linolénique (ALA)",
+    "Allégation": "L'acide alpha-linolénique (ALA) contribue au développement normal du cerveau et des yeux des enfants jusqu'à 12 mois.",
+    "Conditions d'utilisation/ Restriction d'utilisation / raison du rejet": "Le consommateur doit être informé que l'effet bénéfique est obtenu par la consommation journalière de 100 mg d'ALA.",
+    "Référence de l'avis de l' EFSA": "Q-2014-00826",
+    "Lien EFSA": "https://www.efsa.europa.eu/fr/efsajournal/pub/4096",
+    "Entry Id": "Règlement (UE) n° 2016/1389 du 17/08/2016",
+    "Lien règlement": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R1389"
   }
 ]
