@@ -639,7 +639,7 @@
         "titre": "Spécifications et recettes des produits",
         "exigences": [
           {
-            "numero": "*4.2.1.1",
+            "numero": "4.2.1.1",
             "niveau": "Base",
             "texte": "Les spécifications de tous les produits finis doivent être documentées et mises en place. Elles doivent être mises à jour, non ambigües et conformes aux dispositions légales en vigueur et aux exigences des clients.",
             "onglets": {
@@ -688,7 +688,7 @@
             }
           },
           {
-            "numero": "*4.2.1.3",
+            "numero": "4.2.1.3",
             "niveau": "Base",
             "texte": "Des spécifications doivent être documentées et mises en place pour toutes les matières premières (ingrédients, additifs, matériaux d’emballage, produits de recyclage). Ces spécifications doivent être mises à jour, non ambigües et conformes aux dispositions légales en vigueur et, si définies, aux exigences des clients.",
             "onglets": {
@@ -799,7 +799,7 @@
         "titre": "Achats",
         "exigences": [
           {
-            "numero": "*4.4.1",
+            "numero": "4.4.1",
             "niveau": "Base",
             "texte": "La société doit établir des accords contractuels ou de service écrits et doit maîtriser les achats, les services et les procédés sous-traités. Il doit être garanti que tous les éléments suivants ayant un impact sur la sécurité des aliments et la qualité des produits sont conformes aux exigences et spécifications définies et convenues :\n• tous les matières premières, produits semi-finis et matériaux d'emballage achetés\n• les services \n• les procédés sous-traités.",
             "onglets": {
@@ -1333,7 +1333,7 @@
             }
           },
           {
-            "numero": "*4.9.9.1",
+            "numero": "4.9.9.1",
             "niveau": "Base",
             "texte": "L'eau utilisée pour le lavage des mains, le nettoyage et la désinfection, ou comme ingrédient dans le procédé de fabrication, doit être de qualité potable ou ne présenter aucun risque de contamination conformément aux exigences légales applicables, au point d'utilisation et doit être fournie en quantité suffisante ; ceci s'applique également à l'eau recyclée, à la vapeur et à la glace.",
             "onglets": {
@@ -1667,7 +1667,7 @@
         "titre": "Réduction des risques liés aux corps étrangers et des risques chimiques",
         "exigences": [
           {
-            "numero": "*4.12.1",
+            "numero": "4.12.1",
             "niveau": "Base",
             "texte": "Des mesures doivent être documentées, mises en place et tenues à jour afin d'empêcher toute contamination par des corps étrangers. Les produits contaminés doivent être traités comme des produits non conformes.",
             "onglets": {
@@ -1784,7 +1784,7 @@
             }
           },
           {
-            "numero": "*4.13.2",
+            "numero": "4.13.2",
             "niveau": "Base",
             "texte": "Des mesures de lutte contre les nuisibles doivent être documentées, mises en place et tenues à jour. Elles doivent être conformes aux exigences légales locales et tenir compte, au moins, des éléments suivants :\n• l'environnement de l'usine (nuisibles potentiels et ciblés)\n• le type de matières premières/produits finis\n• un plan du site avec les zones d’application (carte des pièges) \n• les constructions potentiellement sujettes à des activités de nuisibles, comme les plafonds, les caves, les tuyaux, les coins\n• l’identification des pièges sur le site\n• les responsabilités internes/ externes\n• les agents utilisés et leurs instructions en matière d’utilisation et de sécurité \n• la fréquence des inspections\n• les zones de stockage louées, si applicable.",
             "onglets": {
@@ -2159,13 +2159,15 @@
               "explications": "",
               "exemples_preuves": "protocole de démarrage/ d'installation ;"
             }
-          },
-          {
+          }
+        ]
+      },
+      {
             "sous_section": "4.18",
             "titre": "Traçabilité",
             "exigences": [
               {
-                "numero": "*4.18.1",
+                "numero": "4.18.1",
                 "niveau": "Base",
                 "texte": "Un système de traçabilité doit être mis en place et tenu à jour afin de permettre l'identification des lots de produits et leur relation avec les lots de matières premières, de matériaux d'emballage en contact avec les aliments et/ou de matériaux portant des informations légales et/ou pertinentes sur la sécurité des aliments. Le sytsème de traçabilité doit intégrer tous les enregistrements importants de :\n• réception\n• production à toutes les étapes\n• utilisation du recyclage\n• production en cours\n• distribution.\nLa traçabilité doit être garantie et documentée jusqu'à la livraison aux clients.",
                 "onglets": {
@@ -2221,7 +2223,7 @@
                 }
               },
               {
-                "numero": "*4.18.3",
+                "numero": "4.18.3",
                 "niveau": "Intermédiaire",
                 "texte": "Le système de traçabilité, incluant le bilan matière, doit être testé au moins une fois dans une période de 12 mois, ou en cas de changements importants. Les produits choisis pour les tests doivent refléter la complexité de la gamme de produits de la société. Les enregistrements des tests doivent démontrer les traçabilités ascendante et descendante (des produits finis livrés aux matières premières et vice-versa).",
                 "onglets": {
@@ -2289,7 +2291,7 @@
                 }
               },
               {
-                "numero": "*4.19.2",
+                "numero": "4.19.2",
                 "niveau": "Base",
                 "texte": "Des mesures doivent être documentées, mises en place et tenues à jour de la réception à l'expédition, afin de garantir que la contamination croisée potentielle des produits par les allergènes est minimisée. Les risques potentiels de contamination croisée doivent être pris en compte, au moins, dans les domaines suivants :\n• la production\n• l'environnement\n• le transport \n• le stockage\n• les matières premières \n• le personnel (incluant les prestataires et les visiteurs).\nLes mesures mises en place doivent être surveillées.",
                 "onglets": {
@@ -2801,7 +2803,7 @@
             "titre": "Gestion des incidents, retrait /rappel de produits",
             "exigences": [
               {
-                "numero": "*5.8.1",
+                "numero": "5.8.1",
                 "niveau": "Base",
                 "texte": "La société doit démontrer sa capacité à retirer et à rappeler les produits impactés, à contacter les parties concernées et à conserver les enregistrements de ces incidents.",
                 "onglets": {
