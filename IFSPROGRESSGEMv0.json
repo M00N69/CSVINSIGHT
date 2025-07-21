@@ -2160,861 +2160,863 @@
               "exemples_preuves": "protocole de démarrage/ d'installation ;"
             }
           },
-      {
-        "sous_section": "4.18",
-        "titre": "Traçabilité",
-        "exigences": [
           {
-            "numero": "*4.18.1",
-            "niveau": "Base",
-            "texte": "Un système de traçabilité doit être mis en place et tenu à jour afin de permettre l'identification des lots de produits et leur relation avec les lots de matières premières, de matériaux d'emballage en contact avec les aliments et/ou de matériaux portant des informations légales et/ou pertinentes sur la sécurité des aliments. Le sytsème de traçabilité doit intégrer tous les enregistrements importants de :\n• réception\n• production à toutes les étapes\n• utilisation du recyclage\n• production en cours\n• distribution.\nLa traçabilité doit être garantie et documentée jusqu'à la livraison aux clients.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment la traçabilité est-elle garantie ?",
-                "La société garantit-elle la traçabilité aux différents stades de la production jusqu'à la livraison au client ?",
-                "La traçabilité permet-elle l'identification continue des lots de produits et de leur relation avec les lots de matières premières et les matériaux d'emballage/ étiquettes en contact avec les aliments, ainsi que l'extraction des données pertinentes correspondantes ?",
-                "Quels produits proviennent de quels fournisseurs ?",
-                "Existe-t-il une liste de tous les fournisseurs actuels ?",
-                "Le fournisseur de chaque matière première et de chaque matériau d'emballage/ étiquette en contact avec les aliments utilisé pour fabriquer chacun des produits est-il connu et traçable (y compris ceux qui ont la même spécification et plusieurs fournisseurs, comme les céréales et le lait, par exemple) ?",
-                "Le client de chaque produit, y compris la quantité distribuée, est-il traçable ?",
-                "La traçabilité est-elle correctement enregistrée ou prouvée de manière compréhensible (par exemple, au moyen de bons de réception et de livraison) ?",
-                "Comment l'efficacité du système de traçabilité est-elle prouvée (par exemple, preuves et enregistrements compréhensibles par les procédés, contrôles traçables, identification du produit, bilan matière, etc.) ?",
-                "La fréquence de conservation des enregistrements de traçabilité est-elle appropriée ?",
-                "Les enregistrements permettant l'identification du produit sont-ils disponibles tout au long des différentes étapes de la production jusqu'à la livraison au client, en relation avec les procédés et enregistrements pertinents ?",
-                "Les exigences réglementaires et celles des clients sont-elles prises en compte ?",
-                "Les produits intermédiaires (tels que la production en cours) fabriqués sur le site de la société ont-ils été suffisamment étiquetés et gérés de manière à garantir une traçabilité complète ? Reçoivent-ils un étiquetage/ une identification spécifique comportant un minimum d'informations (par exemple, la date de production, le numéro de lot, la date de péremption, les allergènes, etc.) ?",
-                "Existe-t-il des preuves que la traçabilité est garantie à tous les stades ?",
-                "La traçabilité du recyclage/ retraitement est-elle complète ? Comment les combinaisons de produits sont-elles maîtrisées ? Comment le recyclage/ retraitement sont-ils documentés ?",
-                "Les procédés sous-traités sont-ils pris en compte ?",
-                "Les enregistrement d'expédition incluent-ils les codes des produits finis ?"
-              ],
-              "explications": "Remarque 1 : La traçabilité est en général définie comme la capacité de tracer par la mise en place de processus fiables basés sur des exigences règlementaires et des consommateurs, qui doivent être réalisables, afin de :\n• suivre la source des composants alimentaires (tels que les matières premières et les matériaux d'emballage en contact avec les aliments)\n• suivre le mouvement et permettre l'identification des aliments (y compris leurs composants) tout au long de la ou des étapes spécifiées de production, transformation et distribution\n• avoir la capacité de récupérer les données historiques relatives à la production, transformation et distribution dans des délais appropriés (quantités, statut, identification dans la chaîne d'approvisionnement, informations en aval et en amont, etc.). \nRemarque 2 : pendant l'évaluation IFS Progress Food v3, l'évaluateur est tenu de vérifier comment les processus de traçabilité sont mis en place, exploités et enregistrés, en tenant compte des exigences réglementaires et des exigences des clients, en vérifiant que la traçabilité en amont et en aval est effectivement mise en place, comment elle est reliée aux procédés et produits pertinents (alignée sur l'approche produits et procédés de l'évaluation IFS, l'échantillonnage des produits et le fil conducteur) et la capacité de la société à récupérer les données de traçabilité. Cet exercice doit toujours être basé sur des échantillons choisis par l'évaluateur.\nRemarque 3 : Les systèmes de traçabilité sont différents de la gestion/ l'inventaire des stocks. Ils sont généralement considérés comme un soutien supplémentaire à l'efficacité des sytèmes de traçabilité.",
-              "exemples_preuves": "système de traçabilité mis en place ; enregistrements ; liste des fournisseurs ; accords avec les clients ; réglementation ; évaluation des produits échantillonnés et fil conducteur ;"
-            }
+            "sous_section": "4.18",
+            "titre": "Traçabilité",
+            "exigences": [
+              {
+                "numero": "*4.18.1",
+                "niveau": "Base",
+                "texte": "Un système de traçabilité doit être mis en place et tenu à jour afin de permettre l'identification des lots de produits et leur relation avec les lots de matières premières, de matériaux d'emballage en contact avec les aliments et/ou de matériaux portant des informations légales et/ou pertinentes sur la sécurité des aliments. Le sytsème de traçabilité doit intégrer tous les enregistrements importants de :\n• réception\n• production à toutes les étapes\n• utilisation du recyclage\n• production en cours\n• distribution.\nLa traçabilité doit être garantie et documentée jusqu'à la livraison aux clients.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment la traçabilité est-elle garantie ?",
+                    "La société garantit-elle la traçabilité aux différents stades de la production jusqu'à la livraison au client ?",
+                    "La traçabilité permet-elle l'identification continue des lots de produits et de leur relation avec les lots de matières premières et les matériaux d'emballage/ étiquettes en contact avec les aliments, ainsi que l'extraction des données pertinentes correspondantes ?",
+                    "Quels produits proviennent de quels fournisseurs ?",
+                    "Existe-t-il une liste de tous les fournisseurs actuels ?",
+                    "Le fournisseur de chaque matière première et de chaque matériau d'emballage/ étiquette en contact avec les aliments utilisé pour fabriquer chacun des produits est-il connu et traçable (y compris ceux qui ont la même spécification et plusieurs fournisseurs, comme les céréales et le lait, par exemple) ?",
+                    "Le client de chaque produit, y compris la quantité distribuée, est-il traçable ?",
+                    "La traçabilité est-elle correctement enregistrée ou prouvée de manière compréhensible (par exemple, au moyen de bons de réception et de livraison) ?",
+                    "Comment l'efficacité du système de traçabilité est-elle prouvée (par exemple, preuves et enregistrements compréhensibles par les procédés, contrôles traçables, identification du produit, bilan matière, etc.) ?",
+                    "La fréquence de conservation des enregistrements de traçabilité est-elle appropriée ?",
+                    "Les enregistrements permettant l'identification du produit sont-ils disponibles tout au long des différentes étapes de la production jusqu'à la livraison au client, en relation avec les procédés et enregistrements pertinents ?",
+                    "Les exigences réglementaires et celles des clients sont-elles prises en compte ?",
+                    "Les produits intermédiaires (tels que la production en cours) fabriqués sur le site de la société ont-ils été suffisamment étiquetés et gérés de manière à garantir une traçabilité complète ? Reçoivent-ils un étiquetage/ une identification spécifique comportant un minimum d'informations (par exemple, la date de production, le numéro de lot, la date de péremption, les allergènes, etc.) ?",
+                    "Existe-t-il des preuves que la traçabilité est garantie à tous les stades ?",
+                    "La traçabilité du recyclage/ retraitement est-elle complète ? Comment les combinaisons de produits sont-elles maîtrisées ? Comment le recyclage/ retraitement sont-ils documentés ?",
+                    "Les procédés sous-traités sont-ils pris en compte ?",
+                    "Les enregistrement d'expédition incluent-ils les codes des produits finis ?"
+                  ],
+                  "explications": "Remarque 1 : La traçabilité est en général définie comme la capacité de tracer par la mise en place de processus fiables basés sur des exigences règlementaires et des consommateurs, qui doivent être réalisables, afin de :\n• suivre la source des composants alimentaires (tels que les matières premières et les matériaux d'emballage en contact avec les aliments)\n• suivre le mouvement et permettre l'identification des aliments (y compris leurs composants) tout au long de la ou des étapes spécifiées de production, transformation et distribution\n• avoir la capacité de récupérer les données historiques relatives à la production, transformation et distribution dans des délais appropriés (quantités, statut, identification dans la chaîne d'approvisionnement, informations en aval et en amont, etc.). \nRemarque 2 : pendant l'évaluation IFS Progress Food v3, l'évaluateur est tenu de vérifier comment les processus de traçabilité sont mis en place, exploités et enregistrés, en tenant compte des exigences réglementaires et des exigences des clients, en vérifiant que la traçabilité en amont et en aval est effectivement mise en place, comment elle est reliée aux procédés et produits pertinents (alignée sur l'approche produits et procédés de l'évaluation IFS, l'échantillonnage des produits et le fil conducteur) et la capacité de la société à récupérer les données de traçabilité. Cet exercice doit toujours être basé sur des échantillons choisis par l'évaluateur.\nRemarque 3 : Les systèmes de traçabilité sont différents de la gestion/ l'inventaire des stocks. Ils sont généralement considérés comme un soutien supplémentaire à l'efficacité des sytèmes de traçabilité.",
+                  "exemples_preuves": "système de traçabilité mis en place ; enregistrements ; liste des fournisseurs ; accords avec les clients ; réglementation ; évaluation des produits échantillonnés et fil conducteur ;"
+                }
+              },
+              {
+                "numero": "4.18.1",
+                "niveau": "Intermédiaire",
+                "texte": "Le système de traçabilité doit être documenté.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les procédures de traçabilité systématiques et interdépendantes sont-elles documentées (procédures documentées, descriptions de procédés, instructions de travail, diagramme, etc.) ?"
+                  ],
+                  "explications": "Remarque 1 : Un système de traçabilité peut être soutenu par des systèmes technologiques tels que des programmes informatiques, des systèmes et des outils spécifiques, mais ce n'est pas obligatoire car le système de traçabilité fait référence à des systèmes de traçabilité systématiques, interdépendants et documentés.",
+                  "exemples_preuves": "procédures documentées ; description des procédés ; diagrammes; enregistrements ; instructions de travail, etc. ;"
+                }
+              },
+              {
+                "numero": "4.18.2",
+                "niveau": "Base",
+                "texte": "L'étiquetage des lots de produits semi-finis ou finis doit être réalisé au moment du conditionnement, afin de permettre une traçabilité claire des produits. Si les produits sont étiquetés plus tardivement, les produits temporairement stockés doivent disposer d'un étiquetage de lot spécifique. La durée de vie (par exemple, date limite de consommation ou date de durabilité minimale) des produits étiquetés doit être définie en utilisant la date initiale de fabrication du lot.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quand les étiquettes sont-elles apposées sur les unités de produits ?",
+                    "Quand l'étiquetage des lots est-il effectué ?",
+                    "Quel est le code d'étiquetage du lot ?",
+                    "Comment la durée de vie doit-elle être indiquée sur l'étiquette du produit (par exemple, calcul de la date de péremption à partir du lot de production d'origine) ?",
+                    "Quel est le processus d'identification des biens qui sont étiquetés ultérieurement ?"
+                  ],
+                  "explications": "Remarque 1 : L'identification au cours du procédé pourrait être rendue possible par l'utilisation de l'étiquetage/ identification sur les produits ou sur des conteneurs spécifiques (par exemple, pour les produits semi-finis).",
+                  "exemples_preuves": "processus d'identification/ étiquetage mis en place ; exemple d'étiquetage de lot ; exemple de durée de vie ; liste des durées de vie des produits ; observation sur site ;"
+                }
+              },
+              {
+                "numero": "*4.18.3",
+                "niveau": "Intermédiaire",
+                "texte": "Le système de traçabilité, incluant le bilan matière, doit être testé au moins une fois dans une période de 12 mois, ou en cas de changements importants. Les produits choisis pour les tests doivent refléter la complexité de la gamme de produits de la société. Les enregistrements des tests doivent démontrer les traçabilités ascendante et descendante (des produits finis livrés aux matières premières et vice-versa).",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les tests de traçabilité réalisés par la société ?",
+                    "Quand le dernier test de traçabilité a-t-il été réalisé dans les deux sens ?",
+                    "Comment les produits échantillonnés sont-ils choisis pour le test ? Permettent-ils de vérifier la complexité du système par rapport à la gamme de produits de la société ?",
+                    "Des informations documentées sur le bilan matière sont-elles disponibles ?",
+                    "Quel a été le résultat de la revue du test de traçabilité ?",
+                    "Quel pourcentage de la quantité totale a été tracé ?",
+                    "Quelle est la taille d'un lot ? La taille des lots et la traçabilité permettent-elles de réagir rapidement en cas de mise en quarantaine d'un produit ou de rappel/ retrait ?",
+                    "Les résultats de ces tests sont-ils disponibles ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "enregistrements du test de traçabilité ; bilan matière ;"
+                }
+              },
+              {
+                "numero": "4.18.4",
+                "niveau": "Intermédiaire",
+                "texte": "Les résultats des tests, incluant le délai d'obtention des informations, doivent être enregistrés et, si nécessaire, des actions doivent être mises en place. L'objectif de délai doit être défini et être conforme aux exigences légales et des clients.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Des exigences légales et des exigences des clients ont-elles été définies pour les délais ? Si ce n'est pas le cas, les délais fixés sont-ils adaptés/ raisonnables par rapport à l'efficacité et au fonctionnement du système, compte tenu également de la capacité à répondre à la gestion des incidents, au rappel et au retrait des produits ?",
+                    "Les délais ont-ils été respectés lors des exercices de traçabilité ?",
+                    "Des améliorations et des actions ont-elles été prises en fonction des résultats des tests ? La société tient-elle compte des résultats et remet-elle en question les processus d'amélioration (y compris les objectifs temporels) ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Référence : La traçabilité des produits finis aux matières premières et aux clients doit être réalisée dans un délai maximum de quatre (4) heures.",
+                  "exemples_preuves": "enregistrements des exercices de traçabilité ; enregistrements des délais ; résultats et actions documentés ; accords avec les clients ; réglementation ;"
+                }
+              },
+              {
+                "numero": "4.18.5",
+                "niveau": "Intermédiaire",
+                "texte": "Si cela est demandé par les clients, des échantillons représentatifs du numéro de lot de production doivent être stockés de manière appropriée et conservés jusqu'à l'expiration des dates limites de consommation ou de durabilité minimale des produits finis et, si nécessaire, après une période déterminée au-delà de cette date.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les clients ont-ils des exigences en matière d'échantillons ?",
+                    "Des échantillons sont-ils prélevés ?",
+                    "Les échantillons sont-ils conservés conformément aux spécifications du produit ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "exigences du client ; échantillons représentatifs ; spécifications ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.18.1",
-            "niveau": "Intermédiaire",
-            "texte": "Le système de traçabilité doit être documenté.",
-            "onglets": {
-              "questionsExemple": [
-                "Les procédures de traçabilité systématiques et interdépendantes sont-elles documentées (procédures documentées, descriptions de procédés, instructions de travail, diagramme, etc.) ?"
-              ],
-              "explications": "Remarque 1 : Un système de traçabilité peut être soutenu par des systèmes technologiques tels que des programmes informatiques, des systèmes et des outils spécifiques, mais ce n'est pas obligatoire car le système de traçabilité fait référence à des systèmes de traçabilité systématiques, interdépendants et documentés.",
-              "exemples_preuves": "procédures documentées ; description des procédés ; diagrammes; enregistrements ; instructions de travail, etc. ;"
-            }
+            "sous_section": "4.19",
+            "titre": "Réduction des risques liés aux allergènes",
+            "exigences": [
+              {
+                "numero": "4.19.1",
+                "niveau": "Base",
+                "texte": "Pour toutes les matières premières, une évaluation des risques doit être réalisée afin d'identifier les allergènes soumis à déclaration, y compris les contaminations croisées accidentelles ou techniquement inévitables d'allergènes légalement déclarés et les traces. Ces informations doivent être disponibles et applicables à/aux pays de commercialisation des produits finis et doivent être documentées et conservées pour toutes les matières premières. Une liste continuellement mise à jour de toutes les matières premières contenant des allergènes utilisées dans les locaux doit être conservée. Elle doit également identifier tous les mélanges et formulations dans lesquels ces matières premières sont ajoutées.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les allergènes sont-ils identifiés ? Comment ? Cela prend-il en compte toutes les matières premières ?",
+                    "Existe-t-il une liste des allergènes utilisés ?",
+                    "Existe-t-il des informations disponibles et documentées sur les allergènes pour toutes les matières premières (par exemple, via des fiches techniques, des spécifications, des questionnaires, des déclarations complémentaires, des matrices d'allergènes, etc.) ? Cela prend-il également en compte les contaminations croisées d'allergènes non intentionnelles ou techniquement inévitables ?",
+                    "Cela comprend-il une liste d'allergènes (y compris leurs traces) pour toutes les matières premières (y compris les arômes, les additifs, les coadjuvants/ les auxiliaires technologiques, etc.) et les mélanges et formulations auxquels ces matières premières contenant des allergènes sont ajoutées ?"
+                  ],
+                  "explications": "Remarque 1 : La déclaration des allergènes et des traces tient compte des exigences légales, des exigences des clients, des allergènes des matières premières, des contaminations croisées non intentionnelles ou techniquement inévitables.",
+                  "exemples_preuves": "liste des allergènes ; spécifications ; informations documentées sur les allergènes ; mélanges et formulations ; réglementation ;"
+                }
+              },
+              {
+                "numero": "*4.19.2",
+                "niveau": "Base",
+                "texte": "Des mesures doivent être documentées, mises en place et tenues à jour de la réception à l'expédition, afin de garantir que la contamination croisée potentielle des produits par les allergènes est minimisée. Les risques potentiels de contamination croisée doivent être pris en compte, au moins, dans les domaines suivants :\n• la production\n• l'environnement\n• le transport \n• le stockage\n• les matières premières \n• le personnel (incluant les prestataires et les visiteurs).\nLes mesures mises en place doivent être surveillées.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les allergènes présents sur le site, qu'il s'agisse d'ingrédients ou de contamination croisée, sont-ils identifiés, réduits et maîtrisés ? Quelles sont les mesures mises en place et documentées ?",
+                    "Comment la contamination des produits sans allergènes est-elle évitée ? Les clients exigent-ils que certains allergènes ne soient pas inclus dans les produits ?",
+                    "Comment ces mesures sont-elles surveillées et enregistrées/ documentées ?",
+                    "Les réglementations et les exigences appropriées des clients sont-elles prises en compte dans l'élaboration des processus de réduction des risques liés aux allergènes ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Exemples de mesures (liste non exhaustive) :\n• la séparation physique ou temporelle pendant le déchargement, le stockage, le traitement, l'emballage et le chargement des matières/ produits contenant des allergènes (par exemple, l'ordonnancement de la production).\n• l'utilisation d'équipements et d'ustensiles identifiés et spécifiques pour le traitement, la manipulation, l'échantillonnage, le nettoyage, etc.\n• les règles d'hygiène du personnel, le flux de personnel.\n• une politique sur tous les aliments apportés sur le site par le personnel, les prestataires et les visiteurs.\n• l'identification/ l'étiquetage des matières premières, des ingrédients et des produits semi-finis dont on sait qu'ils contiennent ou sont susceptibles de contenir des allergènes.\n• un programme de nettoyage et de désinfection approprié et efficace pour éliminer tous les allergènes potentiels des surfaces en contact avec les produits.\n• l'environnement de l'installation, comme la maîtrise du flux d'air.\n• la gestion des fournisseurs.\n• la maîtrise des flux de procédés.\n• la maîtrise des opérations de retraitement/ recyclage et leur compatibilité avec les allergènes.",
+                  "exemples_preuves": "processus de réduction des risques liés aux allergènes ; mesures documentées ; observation sur site ; enregistrements ; enregistrements de surveillance ;"
+                }
+              },
+              {
+                "numero": "4.19.3",
+                "niveau": "Base",
+                "texte": "Les produits finis contenant des allergènes soumis à déclaration doivent être déclarés conformément aux dispositions légales en vigueur. Les contaminations croisées accidentelles ou techniquement inévitables d'allergènes légalement déclarés et les traces doivent être étiquetées. La contamination croisée potentielle avec des allergènes provenant de matières premières transformées dans la société doit également être prise en compte sur l'étiquette des produits.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment l'étiquetage des allergènes (y compris leurs traces) est-il défini ?",
+                    "Le statut des allergènes a-t-il été documenté (par exemple, dans les spécifications, les matrices d'allergènes, etc.) ?",
+                    "L'étiquetage tient-il compte des risques de contamination croisée ? Comment ?",
+                    "La déclaration d'étiquetage est-elle conforme aux exigences légales du pays de commercialisation ? Les exigences des clients sont-elles également prises en compte ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "spécifications des produits finis ; exigences légales et exigences des clients ; processus de réduction des risques liés aux allergènes ; mesures documentées ; matrice des allergènes ; observation sur site ; processus d'étiquetage ;"
+                }
+              },
+              {
+                "numero": "4.19.4",
+                "niveau": "Intermédiaire",
+                "texte": "L'identification des allergènes soumis à déclaration pour toutes les matières premières, les mesures visant à garantir que la contamination croisée potentielle des produits par des allergènes est minimisée ainsi que les décisions d'étiquetage des produits finis par rapport aux allergènes doivent être basées sur les risques.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Une évaluation des risques a-t-elle été réalisée pour identifier les allergènes/ traces dans toutes les matières premières ?",
+                    "Une évaluation des risques a-t-elle été réalisée afin de définir des mesures visant à réduire le risque de contamination croisée des produits par des allergènes ?",
+                    "Une évaluation des risques a-t-elle été réalisée pour décider de l'étiquetage des allergènes/ traces pour les produits finis ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : En cas de présence non intentionnelle ou techniquement inévitable, l'étiquetage des allergènes et des traces légalement déclarés doit être basé sur les risques. Dans l'évaluation des risques liés à l'introduction d'allergènes non intentionnels, il convient de tenir compte non seulement du risque lié aux allergènes déclarables transformés dans la société, mais aussi de l'introduction non intentionnelle d'allergènes à partir des matières premières, pour l'étiquetage du produit final.",
+                  "exemples_preuves": "évaluation des risques ; processus/ procédures de réduction des risques liés aux allergènes ; procédures d'étiquetage des allergènes ; mesures documentées ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.18.2",
-            "niveau": "Base",
-            "texte": "L'étiquetage des lots de produits semi-finis ou finis doit être réalisé au moment du conditionnement, afin de permettre une traçabilité claire des produits. Si les produits sont étiquetés plus tardivement, les produits temporairement stockés doivent disposer d'un étiquetage de lot spécifique. La durée de vie (par exemple, date limite de consommation ou date de durabilité minimale) des produits étiquetés doit être définie en utilisant la date initiale de fabrication du lot.",
-            "onglets": {
-              "questionsExemple": [
-                "Quand les étiquettes sont-elles apposées sur les unités de produits ?",
-                "Quand l'étiquetage des lots est-il effectué ?",
-                "Quel est le code d'étiquetage du lot ?",
-                "Comment la durée de vie doit-elle être indiquée sur l'étiquette du produit (par exemple, calcul de la date de péremption à partir du lot de production d'origine) ?",
-                "Quel est le processus d'identification des biens qui sont étiquetés ultérieurement ?"
-              ],
-              "explications": "Remarque 1 : L'identification au cours du procédé pourrait être rendue possible par l'utilisation de l'étiquetage/ identification sur les produits ou sur des conteneurs spécifiques (par exemple, pour les produits semi-finis).",
-              "exemples_preuves": "processus d'identification/ étiquetage mis en place ; exemple d'étiquetage de lot ; exemple de durée de vie ; liste des durées de vie des produits ; observation sur site ;"
-            }
+            "sous_section": "4.20",
+            "titre": "Fraude alimentaire",
+            "exigences": [
+              {
+                "numero": "4.20.1",
+                "niveau": "Intermédiaire",
+                "texte": "Une évaluation de la vulnérabilité à la fraude alimentaire, incluant des critères d'évaluation, doit être documentée, mise en place et tenue à jour. Le périmètre de l'évaluation doit couvrir toutes les matières premières, ingrédients, matériaux d'emballage et procédés sous-traités, afin de déterminer les risques d'activités frauduleuses.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quelle est la méthode d'évaluation de la vulnérabilité définie ?",
+                    "Prend-elle en compte les risques liés à la substitution, à l'étiquetage erroné, à l'adultération ou à la contrefaçon ?",
+                    "Quels sont les critères définis pour l'évaluation de la vulnérabilité ?",
+                    "Toutes les matières premières, ingrédients, emballages et procédés (y compris les procédés internes et partiellement sous-traités) font-ils l'objet d'une évaluation de la vulnérabilité ? Quels sont les facteurs de risque définis ?",
+                    "Quelle est la fréquence des évaluations de la vulnérabilité ? Une évaluation de la vulnérabilité a-t-elle été réalisée pour toutes les nouvelles matières premières, les nouveaux ingrédients et les nouveaux emballages, ainsi que pour les fournisseurs de ces produits ?",
+                    "Les points faibles où la fraude est plus susceptible de se produire sont-ils pris en considération ?",
+                    "Toutes les matières et les risques liés à la fraude sont-ils connus (histoire, facteurs économiques, origines géographiques, état physique, problèmes émergents) ?",
+                    "Les fournisseurs (fabricant, courtier, historique) et la chaîne d'approvisionnement concernée sont-ils connus (longueur, complexité, modalités de l'offre et de la demande, facilité d'accès) ?",
+                    "À quelle fréquence l'évaluation est-elle revue ? Quels sont les critères pris en compte par la société pour déterminer la fréquence de réalisation d'une évaluation, si celle-ci n'est pas réalisée une fois pendant une période de 12 mois (par exemple, en cas de changements importants, d'augmentation des risques, etc.) ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la fraude alimentaire",
+                  "exemples_preuves": "facteurs/ sources de risques de fraude ; mesures de maîtrise actuellement en place ; liste des matières premières, des ingrédients et des emballages et de leurs fournisseurs ; évaluation de la vulnérabilité, matrice ;"
+                }
+              },
+              {
+                "numero": "4.20.2",
+                "niveau": "Intermédiaire",
+                "texte": "Un plan de réduction de la fraude alimentaire doit être documenté, mis en place et tenu à jour en référence à l'évaluation de la vulnérabilité et doit inclure les méthodes d'analyses et de surveillance.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les contrôles (par exemple, les analyses et méthodes de surveillance) appliqués pour réduire les vulnérabilités des activités de fraude potentielle sur les produits ? Sont-ils liés à l'évaluation de la vulnérabilité ?",
+                    "Sont-ils appliqués de manière appropriée et cohérente en fonction des vulnérabilités identifiées ?",
+                    "Qui surveille (et, si nécessaire, prend des actions) les problèmes identifiés à la suite des contrôles appliqués ?",
+                    "Les contrôles font-ils l'objet d'une revue régulière pour vérifier leur adéquation et leur efficacité ?",
+                    "Les mesures sont-elles modifiées, si applicable, en cas de changements au sein de la chaîne d'approvisionnement ?",
+                    "Le plan de réduction est-il revu en fonction de la revue de l'évaluation de la vulnérabilité ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la fraude alimentaire",
+                  "exemples_preuves": "plan de réduction de la fraude alimentaire, matrice ; contrôles ; analyses ; enregistrements de surveillance ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "*4.18.3",
-            "niveau": "Intermédiaire",
-            "texte": "Le système de traçabilité, incluant le bilan matière, doit être testé au moins une fois dans une période de 12 mois, ou en cas de changements importants. Les produits choisis pour les tests doivent refléter la complexité de la gamme de produits de la société. Les enregistrements des tests doivent démontrer les traçabilités ascendante et descendante (des produits finis livrés aux matières premières et vice-versa).",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les tests de traçabilité réalisés par la société ?",
-                "Quand le dernier test de traçabilité a-t-il été réalisé dans les deux sens ?",
-                "Comment les produits échantillonnés sont-ils choisis pour le test ? Permettent-ils de vérifier la complexité du système par rapport à la gamme de produits de la société ?",
-                "Des informations documentées sur le bilan matière sont-elles disponibles ?",
-                "Quel a été le résultat de la revue du test de traçabilité ?",
-                "Quel pourcentage de la quantité totale a été tracé ?",
-                "Quelle est la taille d'un lot ? La taille des lots et la traçabilité permettent-elles de réagir rapidement en cas de mise en quarantaine d'un produit ou de rappel/ retrait ?",
-                "Les résultats de ces tests sont-ils disponibles ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "enregistrements du test de traçabilité ; bilan matière ;"
-            }
-          },
-          {
-            "numero": "4.18.4",
-            "niveau": "Intermédiaire",
-            "texte": "Les résultats des tests, incluant le délai d'obtention des informations, doivent être enregistrés et, si nécessaire, des actions doivent être mises en place. L'objectif de délai doit être défini et être conforme aux exigences légales et des clients.",
-            "onglets": {
-              "questionsExemple": [
-                "Des exigences légales et des exigences des clients ont-elles été définies pour les délais ? Si ce n'est pas le cas, les délais fixés sont-ils adaptés/ raisonnables par rapport à l'efficacité et au fonctionnement du système, compte tenu également de la capacité à répondre à la gestion des incidents, au rappel et au retrait des produits ?",
-                "Les délais ont-ils été respectés lors des exercices de traçabilité ?",
-                "Des améliorations et des actions ont-elles été prises en fonction des résultats des tests ? La société tient-elle compte des résultats et remet-elle en question les processus d'amélioration (y compris les objectifs temporels) ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Référence : La traçabilité des produits finis aux matières premières et aux clients doit être réalisée dans un délai maximum de quatre (4) heures.",
-              "exemples_preuves": "enregistrements des exercices de traçabilité ; enregistrements des délais ; résultats et actions documentés ; accords avec les clients ; réglementation ;"
-            }
-          },
-          {
-            "numero": "4.18.5",
-            "niveau": "Intermédiaire",
-            "texte": "Si cela est demandé par les clients, des échantillons représentatifs du numéro de lot de production doivent être stockés de manière appropriée et conservés jusqu'à l'expiration des dates limites de consommation ou de durabilité minimale des produits finis et, si nécessaire, après une période déterminée au-delà de cette date.",
-            "onglets": {
-              "questionsExemple": [
-                "Les clients ont-ils des exigences en matière d'échantillons ?",
-                "Des échantillons sont-ils prélevés ?",
-                "Les échantillons sont-ils conservés conformément aux spécifications du produit ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "exigences du client ; échantillons représentatifs ; spécifications ;"
-            }
+            "sous_section": "4.21",
+            "titre": "Food defence (protection de la chaîne alimentaire contre les actes malveillants)",
+            "exigences": [
+              {
+                "numero": "4.21.1",
+                "niveau": "Intermédiaire",
+                "texte": "Les responsabilités en matière de food defence doivent être définies. La ou les personnes responsable(s) doi(ven)t avoir des connaissances spécifiques appropriées.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Qui est responsable de la food defence ?",
+                    "Quelles sont les compétences et les qualifications démontrées pour la (les) personne(s) responsable(s) de la food defence ?",
+                    "Où sont définies les responsabilités ?",
+                    "Cela a-t-il été communiqué aux membres de la société ? Comment ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la food defence",
+                  "exemples_preuves": "description de poste ; enregistrements de formation ; entretiens sur site ;"
+                }
+              },
+              {
+                "numero": "4.21.2",
+                "niveau": "Intermédiaire",
+                "texte": "Une procédure et un plan de food defence doivent être développés pour identifier les menaces potentielles et définir les mesures de food defence. Cela doit inclure, au moins :\n• les exigences légales et des clients\n• l'identification des zones critiques et/ou les pratiques et politiques d'accès des employés \n• les visiteurs et prestataires\n• toute autre mesure de maîtrise appropriée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quelles sont les exigences légales et celles du client en matière de food defence applicables à la société ?",
+                    "Comment la société peut-elle démontrer qu'elle respecte ces exigences ?",
+                    "Quel est le processus/ la procédure utilisé(e) pour évaluer les menaces ? Est-ce conforme aux besoins et/ou aux attentes de la législation et/ou des clients ?",
+                    "Comment les systèmes aident-ils la société à identifier les zones critiques ou à haut risque ?",
+                    "Sur la base de l'évaluation des menaces, quelles zones ont été identifiées comme critiques ?",
+                    "Quelles sont les autres mesures de food defence mises en place pour faire face aux menaces évaluées (voir les considérations pertinentes ci-dessous) ?",
+                    "Comment la société maîtrise-t-elle l'accès aux locaux et aux zones critiques ?",
+                    "Quelles sont les mesures mises en place pour maîtriser l'accès à ces zones critiques ?",
+                    "Comment la société est-elle alertée en cas d'infraction sur la food defence ?",
+                    "Quels sont les critères pris en compte par la société pour déterminer la fréquence de l'évaluation des menaces, si ce n'est pas au moins une fois dans une période de 12 mois (par exemple, en cas de changements importants ou d'augmentation des risques) ?",
+                    "Les procédures et le plan de food defence sont-ils documentés ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires :\n• Des procédures et un plan de food defence sont mis en place pour garantir la protection des aliments, leur fabrication et leur approvisionnement contre les menaces malintentionnées et idéologiques.\n• Des menaces pour la food defence peuvent survenir à n'importe quel niveau de la chaîne d'approvisionnement alimentaire de la société, où la prévention est l'élément clé.\n• L'évaluation globale et la mise en place de mesures de food defence doivent être adaptées à la société, au site et au pays, et peuvent prendre en compte (sans s'y limiter) :\n· les menaces malveillantes et idéologiques, les actes délibérés de sabotage (par exemple, la contamination délibérée d'aliments par des agents bactériens, des toxines, des produits chimiques, des radiations ou un objet physique).\n· l'altération intentionnelle du produit, qui peut inclure des actes de sabotage, de vandalisme ou de terrorisme.\n· la sensibilisation du personnel (par exemple, par la formation).\n· la sécurité physique des installations (par exemple, les conditions d'accès, les barrières, l'éclairage, les systèmes de caméras, etc.).\n· les politiques et les pratiques d'enregistrement et de contrôle de l'accès des employés, des employés temporaires, des prestataires et des visiteurs aux zones de l'installation.\n· les procédures de stockage et de transport sécurisés des matières premières, des équipements, des matériaux d'emballage, des produits chimiques dangereux et des produits finis.\n· la conception des matériaux d'emballage, en particulier leur dispositif contre l'altération.\n· la restriction physique de l'accès, qui peut être assurée par l'utilisation de serrures, de cartes-clés électroniques ou d'autres systèmes appropriés.\n· les mesures de maîtrise doivent prendre en compte (sans s'y limiter) : les produits, les procédés, l'eau/ électricité, le personnel, les employés temporaires, les prestataires, les visiteurs, les employés, les chauffeurs de camions, la sécurité, les systèmes et, si applicable, le stockage et le transport.\n· la cessation d'emploi des employés/ prestataires/ salariés temporaires ont un impact sur la food defence.\n· la protection des systèmes/ données et les cyber-attaques.\n· les règles relatives aux effets personnels dans l'usine.\n· les procédures de repoting.\n· les mesures doivent porter sur l'identification de l'incident, l'identification et l'évaluation des matières potentiellement affectées, l'isolement et la mise en quarantaine des matières potentiellement affectées et l'élimination appropriée sur la base de la sécurité du produit.\nRéférences : Guide IFS sur la food defence",
+                  "exemples_preuves": "procédures et plan de food defence ; évaluation des menaces ; mesures ; comptes-rendus de réunions ; observation sur site ;"
+                }
+              },
+              {
+                "numero": "4.21.3",
+                "niveau": "Intermédiaire",
+                "texte": "L'efficacité du plan de food defence doit être testée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "L'efficacité du plan de food defence est-elle testée (par exemple, par des vérifications sur site, des inspections, des évaluations, la vérification des enregistrements, des tests d'intrustion, etc.) ?",
+                    "Comment la société évalue-t-elle l'efficacité du plan de food defence ?",
+                    "À quelle fréquence l'efficacité du plan de food defence est-elle testée ?",
+                    "Des actions sont-elles prises au cas où le plan de food defence ne serait pas efficace ?",
+                    "À quelle fréquence les procédures et le plan de food defence sont-ils revus, si ce n'est au moins une fois dans une période de 12 mois (par exemple, en cas de changements importants ou d'augmentation des risques) ? Les procédures et le plan de food defence sont-ils mis à jour en conséquence ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "rapport sur le contrôle de l'efficacité, tel que les inspections, les comptes rendus de réunions, les actions ;"
+                }
+              }
+            ]
           }
         ]
       },
       {
-        "sous_section": "4.19",
-        "titre": "Réduction des risques liés aux allergènes",
-        "exigences": [
+        "chapitre": "5",
+        "titre": "Mesures, analyses, améliorations",
+        "sous_sections": [
           {
-            "numero": "4.19.1",
-            "niveau": "Base",
-            "texte": "Pour toutes les matières premières, une évaluation des risques doit être réalisée afin d'identifier les allergènes soumis à déclaration, y compris les contaminations croisées accidentelles ou techniquement inévitables d'allergènes légalement déclarés et les traces. Ces informations doivent être disponibles et applicables à/aux pays de commercialisation des produits finis et doivent être documentées et conservées pour toutes les matières premières. Une liste continuellement mise à jour de toutes les matières premières contenant des allergènes utilisées dans les locaux doit être conservée. Elle doit également identifier tous les mélanges et formulations dans lesquels ces matières premières sont ajoutées.",
-            "onglets": {
-              "questionsExemple": [
-                "Les allergènes sont-ils identifiés ? Comment ? Cela prend-il en compte toutes les matières premières ?",
-                "Existe-t-il une liste des allergènes utilisés ?",
-                "Existe-t-il des informations disponibles et documentées sur les allergènes pour toutes les matières premières (par exemple, via des fiches techniques, des spécifications, des questionnaires, des déclarations complémentaires, des matrices d'allergènes, etc.) ? Cela prend-il également en compte les contaminations croisées d'allergènes non intentionnelles ou techniquement inévitables ?",
-                "Cela comprend-il une liste d'allergènes (y compris leurs traces) pour toutes les matières premières (y compris les arômes, les additifs, les coadjuvants/ les auxiliaires technologiques, etc.) et les mélanges et formulations auxquels ces matières premières contenant des allergènes sont ajoutées ?"
-              ],
-              "explications": "Remarque 1 : La déclaration des allergènes et des traces tient compte des exigences légales, des exigences des clients, des allergènes des matières premières, des contaminations croisées non intentionnelles ou techniquement inévitables.",
-              "exemples_preuves": "liste des allergènes ; spécifications ; informations documentées sur les allergènes ; mélanges et formulations ; réglementation ;"
-            }
+            "sous_section": "5.1",
+            "titre": "Inspections d'usine",
+            "exigences": [
+              {
+                "numero": "5.1.1",
+                "niveau": "Intermédiaire",
+                "texte": "Des inspections de l'usine et du site doivent être planifiées et réalisées pour certain(e)s zones/ thèmes, comme par exemple :\n• l'état des installations de production et de stockage\n• les zones extérieures\n• la maîtrise des produits lors de la production\n• la protection des produits\n• l'hygiène pendant la production et dans les locaux \n• les dangers liés aux corps étrangers\n• l'hygiène du personnel.\nLa fréquence des inspections doit être basée sur les risques et sur l'historique des résultats précédents.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quelle est la fréquence des inspections du site et qui les réalise ?",
+                    "Comment la fréquence est-elle définie (par exemple en fonction du risque, des antécédents, etc.) ?",
+                    "Qu'est-ce qui est revu lors des inspections du site ?",
+                    "Pour quels zones/ procédés existe-t-il des inspections sur site ?",
+                    "La protection du produit contre la contamination (physique, chimique et microbiologique) est-elle vérifiée ?",
+                    "Les actions prises en cas de déviations sont-elles documentées ?",
+                    "Toutes les zones requises sont-elles couvertes ?"
+                  ],
+                  "explications": "Explication supplémentaire : Cette exigence soutient l'introduction et la mise en place de la food safety culture sur les éléments tels que : la vérification que les procédés et procédures de sécurité des aliments (par exemple, les contrôles) sont réalisés dans les délais, en maintenant l'intégrité des procédés de sécurité des aliments.",
+                  "exemples_preuves": "protocole /périmètre des inspections sur sites ; évaluation/ historique des risques ; enregistrements/ rapports/ actions ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "*4.19.2",
-            "niveau": "Base",
-            "texte": "Des mesures doivent être documentées, mises en place et tenues à jour de la réception à l'expédition, afin de garantir que la contamination croisée potentielle des produits par les allergènes est minimisée. Les risques potentiels de contamination croisée doivent être pris en compte, au moins, dans les domaines suivants :\n• la production\n• l'environnement\n• le transport \n• le stockage\n• les matières premières \n• le personnel (incluant les prestataires et les visiteurs).\nLes mesures mises en place doivent être surveillées.",
-            "onglets": {
-              "questionsExemple": [
-                "Les allergènes présents sur le site, qu'il s'agisse d'ingrédients ou de contamination croisée, sont-ils identifiés, réduits et maîtrisés ? Quelles sont les mesures mises en place et documentées ?",
-                "Comment la contamination des produits sans allergènes est-elle évitée ? Les clients exigent-ils que certains allergènes ne soient pas inclus dans les produits ?",
-                "Comment ces mesures sont-elles surveillées et enregistrées/ documentées ?",
-                "Les réglementations et les exigences appropriées des clients sont-elles prises en compte dans l'élaboration des processus de réduction des risques liés aux allergènes ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Exemples de mesures (liste non exhaustive) :\n• la séparation physique ou temporelle pendant le déchargement, le stockage, le traitement, l'emballage et le chargement des matières/ produits contenant des allergènes (par exemple, l'ordonnancement de la production).\n• l'utilisation d'équipements et d'ustensiles identifiés et spécifiques pour le traitement, la manipulation, l'échantillonnage, le nettoyage, etc.\n• les règles d'hygiène du personnel, le flux de personnel.\n• une politique sur tous les aliments apportés sur le site par le personnel, les prestataires et les visiteurs.\n• l'identification/ l'étiquetage des matières premières, des ingrédients et des produits semi-finis dont on sait qu'ils contiennent ou sont susceptibles de contenir des allergènes.\n• un programme de nettoyage et de désinfection approprié et efficace pour éliminer tous les allergènes potentiels des surfaces en contact avec les produits.\n• l'environnement de l'installation, comme la maîtrise du flux d'air.\n• la gestion des fournisseurs.\n• la maîtrise des flux de procédés.\n• la maîtrise des opérations de retraitement/ recyclage et leur compatibilité avec les allergènes.",
-              "exemples_preuves": "processus de réduction des risques liés aux allergènes ; mesures documentées ; observation sur site ; enregistrements ; enregistrements de surveillance ;"
-            }
+            "sous_section": "5.2",
+            "titre": "Maîtrise des procédés",
+            "exigences": [
+              {
+                "numero": "5.2.1",
+                "niveau": "Intermédiaire",
+                "texte": "Les critères de maîtrise des procédés doivent être définis.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les paramètres de procédés définis (par exemple, pour la pasteurisation, la stérilisation, les paramètres de la chaîne du froid permettant de respecter les spécifications du produit, les conditions de reprise, etc.) ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "paramètres des procédés ;"
+                }
+              },
+              {
+                "numero": "5.2.2",
+                "niveau": "Intermédiaire",
+                "texte": "Les paramètres des procédés (température, temps, pression, propriétés chimiques, etc.) essentiels pour garantir la sécurité des aliments et la qualité des produits doivent être surveillés, enregistrés en continu et/ou à intervalles appropriés.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment sont-ils maîtrisés ?",
+                    "Comment les températures (par exemple, chauffage, cuisson, congélation, refroidissement, refroidissement intermédiaire), la pression, le temps, etc. sont-ils surveillés ?",
+                    "Où est-ce enregistré ?",
+                    "Comment s'assure-t-on que seules les personnes responsables sont autorisées à définir/ modifier les paramètres des procédés ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "données de mesure imprimées ; contrôles ; enregistrements de surveillance ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.19.3",
-            "niveau": "Base",
-            "texte": "Les produits finis contenant des allergènes soumis à déclaration doivent être déclarés conformément aux dispositions légales en vigueur. Les contaminations croisées accidentelles ou techniquement inévitables d'allergènes légalement déclarés et les traces doivent être étiquetées. La contamination croisée potentielle avec des allergènes provenant de matières premières transformées dans la société doit également être prise en compte sur l'étiquette des produits.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment l'étiquetage des allergènes (y compris leurs traces) est-il défini ?",
-                "Le statut des allergènes a-t-il été documenté (par exemple, dans les spécifications, les matrices d'allergènes, etc.) ?",
-                "L'étiquetage tient-il compte des risques de contamination croisée ? Comment ?",
-                "La déclaration d'étiquetage est-elle conforme aux exigences légales du pays de commercialisation ? Les exigences des clients sont-elles également prises en compte ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "spécifications des produits finis ; exigences légales et exigences des clients ; processus de réduction des risques liés aux allergènes ; mesures documentées ; matrice des allergènes ; observation sur site ; processus d'étiquetage ;"
-            }
+            "sous_section": "5.3",
+            "titre": "Étalonnage, ajustement et vérification des appareils de mesure et de surveillance",
+            "exigences": [
+              {
+                "numero": "5.3.1",
+                "niveau": "Base",
+                "texte": "Les appareils de mesure et de surveillance nécessaires pour garantir la conformité aux exigences de sécurité des aliments et de qualité des produits doivent être identifiés et enregistrés. Leur statut d'étalonnage doit être enregistré. Les appareils de mesure et de surveillance doivent être légalement approuvés, si requis par la législation applicable en vigueur.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les types d'appareils de mesure et de surveillance existants (par exemple, thermomètres, détecteurs de métaux, appareils à rayons X, trieuses pondérales, pH-mètres et appareils de mesure de l'activité de l'eau, balances, vitesses des fours et autres unités importantes de mesure et de contrôle des procédés) ?",
+                    "Quelles sont les exigences en matière d'appareils de mesure et de surveillance ?",
+                    "Quel appareil de surveillance est adapté à quel type de mesure ?",
+                    "Comment les appareils de mesure et de surveillance sont-ils identifiés (par exemple, autocollants d'identification sur les dispositifs de surveillance) et enregistrés ?",
+                    "Existe-t-il des appareils calibrés ?",
+                    "Comment l'état d'étalonnage d'un appareil de mesure/ surveillance est-il identifié ?",
+                    "Les appareils de mesure et de surveillance destinés à garantir la sécurité des aliments, la qualité et la conformité aux exigences réglementaires sont-ils fiables ?",
+                    "Les appareils de mesure et de surveillance utilisés sont-ils légalement approuvés, lorsque la loi l'exige ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "liste des appareils de surveillance ; autocollants d'identification sur les appareils de surveillance ; autocollants d'identification ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.3.2",
+                "niveau": "Intermédiaire",
+                "texte": "Tous les appareils de mesure doivent être vérifiés, surveillés, ajustés et étalonnés à intervalles définis, conformément à des normes/ méthodes reconnues et dans les limites applicables des valeurs des paramètres du procédé. Les résultats doivent être documentés.",
+                "onglets": {
+                  "questionsExemple": [
+                    "En ce qui concerne les appareils de mesure et de surveillance, existe-t-il un processus /une procédure d'étalonnage pour les vérifier, les surveiller et les ajuster ?",
+                    "Les appareils de mesure et de surveillance sont-ils identifiés, étalonnés et traçables selon des référentiels reconnus ?",
+                    "Comment les appareils de mesure et de surveillance sont-ils organisés ? Comment les intervalles sont-ils définis ?",
+                    "Qui est responsable de l'étalonnage ?",
+                    "Les appareils de mesure et de surveillance sont-ils régulièrement étalonnés ? Comment les intervalles sont-ils définis ?",
+                    "Comment se fait l'étalonnage ?",
+                    "Où est-ce documenté ?",
+                    "Quelles sont les mesures prises lorsqu'un écart de tolérance (résultats en dehors des limites définies) est constaté ?",
+                    "L'étalonnage est-il à jour ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "processus/ procédures d'étalonnage et de surveillance ; protocole d'étalonnage ; enregistrements d'étalonnage ; actions ; certificat d'étalonnage ; vérifications, ajustements et résultats d'étalonnage enregistrés ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.3.3",
+                "niveau": "Intermédiaire",
+                "texte": "Tous les appareils de mesure et de surveillance doivent être utilisés exclusivement pour leur usage défini. Lorsque les résultats des mesures ou le statut de l'appareil indiquent une anomalie, l'appareil en question doit être immédiatement réparé ou remplacé. Lorsqu'un dysfonctionnement a été identifié, l'impact sur les procédés et les produits doit être évalué afin d'identifier si des produits non conformes ont été fabriqués.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les appareils de mesure et de surveillance sont-ils utilisés exclusivement pour l'usage auquel ils sont destinés (par exemple, thermomètres spécifiés/ appareils de mesure de l'humidité utilisés pour des procédés et des produits définis conformément aux plages de mesure visées spécifiées/ détecteurs de métaux étalonnés en fonction des caractéristiques spécifiées du produit et des procédés, etc.) ?",
+                    "Quelles sont les actions prises lorsque les résultats des mesures sont incertains ou que l'état de l'appareil indique un dysfonctionnement ? (par exemple, dysfonctionnement d'un dispositif de surveillance des CCP, de dispositifs de traitement thermique, etc.)",
+                    "Les appareils sont-ils immédiatement réparés ou remplacés ?",
+                    "L'impact sur les produits et les procédés est-il évalué (par exemple, l'impact sur la sécurité des aliments tel que la défaillance du procédé thermique) ?",
+                    "Selon l'évaluation, les actions nécessaires sont-elles menées sur les procédés et les produits ?",
+                    "Comment les appareils de mesure et de surveillance interdits sont-ils identifiés ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : En cas de dysfonctionnements ayant une incidence sur la sécurité des aliments, les actions à prendre concernant les produits potentiellement non conformes (par exemple, l'élimination du produit concerné) couvrent généralement les produits fabriqués après le dernier contrôle conforme d'étalonnage.",
+                  "exemples_preuves": "autocollants d'identification ; vérifications, ajustements et résultats d'étalonnage ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.19.4",
-            "niveau": "Intermédiaire",
-            "texte": "L'identification des allergènes soumis à déclaration pour toutes les matières premières, les mesures visant à garantir que la contamination croisée potentielle des produits par des allergènes est minimisée ainsi que les décisions d'étiquetage des produits finis par rapport aux allergènes doivent être basées sur les risques.",
-            "onglets": {
-              "questionsExemple": [
-                "Une évaluation des risques a-t-elle été réalisée pour identifier les allergènes/ traces dans toutes les matières premières ?",
-                "Une évaluation des risques a-t-elle été réalisée afin de définir des mesures visant à réduire le risque de contamination croisée des produits par des allergènes ?",
-                "Une évaluation des risques a-t-elle été réalisée pour décider de l'étiquetage des allergènes/ traces pour les produits finis ?"
-              ],
-              "explications": "Explications/ informations complémentaires : En cas de présence non intentionnelle ou techniquement inévitable, l'étiquetage des allergènes et des traces légalement déclarés doit être basé sur les risques. Dans l'évaluation des risques liés à l'introduction d'allergènes non intentionnels, il convient de tenir compte non seulement du risque lié aux allergènes déclarables transformés dans la société, mais aussi de l'introduction non intentionnelle d'allergènes à partir des matières premières, pour l'étiquetage du produit final.",
-              "exemples_preuves": "évaluation des risques ; processus/ procédures de réduction des risques liés aux allergènes ; procédures d'étiquetage des allergènes ; mesures documentées ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "4.20",
-        "titre": "Fraude alimentaire",
-        "exigences": [
-          {
-            "numero": "4.20.1",
-            "niveau": "Intermédiaire",
-            "texte": "Une évaluation de la vulnérabilité à la fraude alimentaire, incluant des critères d'évaluation, doit être documentée, mise en place et tenue à jour. Le périmètre de l'évaluation doit couvrir toutes les matières premières, ingrédients, matériaux d'emballage et procédés sous-traités, afin de déterminer les risques d'activités frauduleuses.",
-            "onglets": {
-              "questionsExemple": [
-                "Quelle est la méthode d'évaluation de la vulnérabilité définie ?",
-                "Prend-elle en compte les risques liés à la substitution, à l'étiquetage erroné, à l'adultération ou à la contrefaçon ?",
-                "Quels sont les critères définis pour l'évaluation de la vulnérabilité ?",
-                "Toutes les matières premières, ingrédients, emballages et procédés (y compris les procédés internes et partiellement sous-traités) font-ils l'objet d'une évaluation de la vulnérabilité ? Quels sont les facteurs de risque définis ?",
-                "Quelle est la fréquence des évaluations de la vulnérabilité ? Une évaluation de la vulnérabilité a-t-elle été réalisée pour toutes les nouvelles matières premières, les nouveaux ingrédients et les nouveaux emballages, ainsi que pour les fournisseurs de ces produits ?",
-                "Les points faibles où la fraude est plus susceptible de se produire sont-ils pris en considération ?",
-                "Toutes les matières et les risques liés à la fraude sont-ils connus (histoire, facteurs économiques, origines géographiques, état physique, problèmes émergents) ?",
-                "Les fournisseurs (fabricant, courtier, historique) et la chaîne d'approvisionnement concernée sont-ils connus (longueur, complexité, modalités de l'offre et de la demande, facilité d'accès) ?",
-                "À quelle fréquence l'évaluation est-elle revue ? Quels sont les critères pris en compte par la société pour déterminer la fréquence de réalisation d'une évaluation, si celle-ci n'est pas réalisée une fois pendant une période de 12 mois (par exemple, en cas de changements importants, d'augmentation des risques, etc.) ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la fraude alimentaire",
-              "exemples_preuves": "facteurs/ sources de risques de fraude ; mesures de maîtrise actuellement en place ; liste des matières premières, des ingrédients et des emballages et de leurs fournisseurs ; évaluation de la vulnérabilité, matrice ;"
-            }
+            "sous_section": "5.4",
+            "titre": "Surveillance de la maîtrise de la quantité",
+            "exigences": [
+              {
+                "numero": "5.4.1",
+                "niveau": "Base",
+                "texte": "Des critères de conformité pour maîtriser la quantité de lots doivent être définis. Un système sur la fréquence et la méthodologie de maîtrise de la quantité doit être mis en place et tenu à jour pour se conformer aux dispositions légales du/ des pays de destination et des spécifications des clients.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment s'assure-t-on que les exigences légales et les spécifications du client en matière de poids/ quantité sont respectées ?",
+                    "Quelle est la procédure /méthodologie/ fréquence définie pour la maîtrise du poids/ de la quantité en vue de la conformité des produits ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "réglementation ; spécifications ; exigences des clients ; processus et méthodes de maîtrise du poids/ de la quantité ;"
+                }
+              },
+              {
+                "numero": "5.4.2",
+                "niveau": "Base",
+                "texte": "Une surveillance de la maîtrise de la quantité doit être mise en place et enregistrée selon un plan d'échantillonnage représentatif du lot de fabrication. Les résultats de cette surveillance doivent être conformes aux critères définis pour tous les produits prêts à être livrés.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Existe-t-il des enregistrements sur les contrôles de poids/ quantité réalisés sur la base du plan d'échantillonnage défini ?",
+                    "Est-ce applicable aux produits à marque de distributeurs et aux autres produits/ étiquettes ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "plan de surveillance du poids/ de la quantité ; plan d'échantillonnage ; enregistrements ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.20.2",
-            "niveau": "Intermédiaire",
-            "texte": "Un plan de réduction de la fraude alimentaire doit être documenté, mis en place et tenu à jour en référence à l'évaluation de la vulnérabilité et doit inclure les méthodes d'analyses et de surveillance.",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les contrôles (par exemple, les analyses et méthodes de surveillance) appliqués pour réduire les vulnérabilités des activités de fraude potentielle sur les produits ? Sont-ils liés à l'évaluation de la vulnérabilité ?",
-                "Sont-ils appliqués de manière appropriée et cohérente en fonction des vulnérabilités identifiées ?",
-                "Qui surveille (et, si nécessaire, prend des actions) les problèmes identifiés à la suite des contrôles appliqués ?",
-                "Les contrôles font-ils l'objet d'une revue régulière pour vérifier leur adéquation et leur efficacité ?",
-                "Les mesures sont-elles modifiées, si applicable, en cas de changements au sein de la chaîne d'approvisionnement ?",
-                "Le plan de réduction est-il revu en fonction de la revue de l'évaluation de la vulnérabilité ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la fraude alimentaire",
-              "exemples_preuves": "plan de réduction de la fraude alimentaire, matrice ; contrôles ; analyses ; enregistrements de surveillance ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "4.21",
-        "titre": "Food defence (protection de la chaîne alimentaire contre les actes malveillants)",
-        "exigences": [
-          {
-            "numero": "4.21.1",
-            "niveau": "Intermédiaire",
-            "texte": "Les responsabilités en matière de food defence doivent être définies. La ou les personnes responsable(s) doi(ven)t avoir des connaissances spécifiques appropriées.",
-            "onglets": {
-              "questionsExemple": [
-                "Qui est responsable de la food defence ?",
-                "Quelles sont les compétences et les qualifications démontrées pour la (les) personne(s) responsable(s) de la food defence ?",
-                "Où sont définies les responsabilités ?",
-                "Cela a-t-il été communiqué aux membres de la société ? Comment ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Références : Guide IFS sur la food defence",
-              "exemples_preuves": "description de poste ; enregistrements de formation ; entretiens sur site ;"
-            }
+            "sous_section": "5.5",
+            "titre": "Analyses des produits et surveillance environnementale",
+            "exigences": [
+              {
+                "numero": "5.5.1",
+                "niveau": "Base",
+                "texte": "Des plans de contrôle et de surveillance pour les analyses internes et externes doivent être mis en place pour garantir que les exigences de sécurité, de qualité, de légalité des produits et les exigences spécifiques des clients sont respectées. Les plans doivent couvrir, au moins :\n• les matières premières\n• les produits semi-finis (si applicable)\n• les produits finis\n• les matériaux d'emballage\n• surfaces en contact et tests environnementaux\nTous les résultats d'analyses doivent être enregistrés.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Existe-t-il un plan de contrôle/ surveillance ?",
+                    "Des analyses/ tests de laboratoire cohérents sont-ils mis en place pour garantir le respect des exigences en matière de sécurité, de qualité et de sûreté des produits, ainsi que des exigences légales et des exigences spécifiques des clients ?",
+                    "Qui organise les plans de contrôle/ surveillance ?",
+                    "Comment l'échantillonnage est-il défini ?",
+                    "Quels sont les produits couverts par le plan de contrôle (matières premières, produits semi-finis et finis, matériaux d'emballage, surfaces et analyses environnementales) ?",
+                    "Où les résultats des analyses sont-ils documentés ?",
+                    "Quelles sont les analyses physiques, chimiques ou microbiologiques réalisées ou sous-traitées ?",
+                    "Quelles sont les analyses réalisées par le laboratoire de la société et quelles sont celles effectuées par des laboratoires externes ? Et à quelle fréquence ?",
+                    "Les résultats d'analyses sont-ils obtenus par des méthodes reconnues et valides ?",
+                    "Les analyses sont-elles réalisées de manière à produire des résultats crédibles et précis ?",
+                    "Les analyses/ contrôles sont-ils réalisés de manière à éviter toute incidence sur la sécurité du produit (par exemple, contamination croisée à partir de l'échantillonnage, contamination du produit, etc.) ?",
+                    "À quelle fréquence le plan de contrôle/ surveillance est-il révisé ?"
+                  ],
+                  "explications": "Remarque 1 : Les analyses environnementales peuvent être déterminées en fonction des exigences légales, des caractéristiques du produit et des procédés et des risques potentiels pour la sécurité des aliments (par exemple, la surveillance des agents pathogènes pour les denrées alimentaires périssables prêtes à être consommées).",
+                  "exemples_preuves": "plan de contrôle ; analyses en laboratoire ; résultats d'analyses ;"
+                }
+              },
+              {
+                "numero": "5.5.1",
+                "niveau": "Intermédiaire",
+                "texte": "Les plans de contrôle et de surveillance pour les analyses internes et externes doivent être basés sur les risques.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Le plan de contrôle/ surveillance est-il défini sur la base d'une évaluation des risques ?",
+                    "Le plan de contrôle et de surveillance prend-il en compte les risques d'authenticité (par exemple, les tests de fraude alimentaire) ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "évaluation des risques ; plan de contrôle ; analyses en laboratoire ; résultats d'analyses ;"
+                }
+              },
+              {
+                "numero": "5.5.2",
+                "niveau": "Intermédiaire",
+                "texte": "Les analyses importantes pour la sécurité des aliments doivent être effectuées de préférence par des laboratoires accrédités pour les programmes/ méthodes appropriés (ISO/CEI 17025). Si les analyses sont réalisées par un laboratoire interne ou non accrédité pour ces programmes/ méthodes, les résultats doivent être régulièrement confrontés à ceux réalisés par des laboratoires accrédités pour ces programmes/ méthodes (ISO/CEI 17025).",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les laboratoires externes utilisés ? Sont-ils accrédités selon la norme ISO 17025 ?",
+                    "Existe-t-il un laboratoire d'analyses sur site ? Est-il accrédité selon la norme ISO 17025 ?",
+                    "Si ce n'est pas le cas, les résultats des laboratoires internes font-ils l'objet d'une vérification croisée régulière ou lorsque des changements importants interviennent par rapport aux résultats d'analyses d'un laboratoire accrédité ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "preuves d'accréditation ; résultats des tests de vérification croisée ;"
+                }
+              },
+              {
+                "numero": "5.5.3",
+                "niveau": "Intermédiaire",
+                "texte": "Des procédures doivent être documentées, mises en place et tenues à jour pour garantir la fiabilité des résultats des analyses internes, sur la base de méthodes d'analyses officiellement reconnues. Cela doit être démontré par des ring tests ou d'autres tests d'intercomparaison.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Y a-t-il un laboratoire sur site ?",
+                    "Comment s'assure-t-on que les méthodes d'analyses internes sont appropriées ? Sont-elles basées sur des méthodes d'analyses officiellement reconnues ?",
+                    "Des tests d'intercomparaison ou des ring tests sont-ils réalisés ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "procédures ; preuves de réalisation de tests d'intercomparaison/ ring tests ;"
+                }
+              },
+              {
+                "numero": "5.5.4",
+                "niveau": "Base",
+                "texte": "Les résultats d'analyses doivent être évalués dans un délai convenable par du personnel compétent. Des corrections immédiates doivent être mises en place pour tout résultat non conforme. Les résultats d'analyses doivent être régulièrement revus, de manière exhaustive. Lorsque des résultats insatisfaisants sont identifiés, l'impact sur les produits et les procédés ainsi que la nécessité d'actions doivent être évalués.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Qui revoit les résultats d'analyses (par exemple, la personne responsable de l'équipe qualité, le vétérinaire responsable du site, le technicien qualité, etc.) ?",
+                    "Comment les résultats d'analyses sont-ils vérifiés ?",
+                    "Des corrections immédiates sont-elles apportées lorsque les résultats ne sont pas satisfaisants ?",
+                    "La société procède-t-elle régulièrement à un revue complète des résultats d'analyses afin d'identifier les besoins d'amélioration, de revues et d'actions ?",
+                    "Lorsque des tendances insatisfaisantes sont identifiées, l'impact sur les produits et les procédés ainsi que la nécessité d'actions est-il évalué ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "résultats d'analyses, corrections, revue des résultats ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.21.2",
-            "niveau": "Intermédiaire",
-            "texte": "Une procédure et un plan de food defence doivent être développés pour identifier les menaces potentielles et définir les mesures de food defence. Cela doit inclure, au moins :\n• les exigences légales et des clients\n• l'identification des zones critiques et/ou les pratiques et politiques d'accès des employés \n• les visiteurs et prestataires\n• toute autre mesure de maîtrise appropriée.",
-            "onglets": {
-              "questionsExemple": [
-                "Quelles sont les exigences légales et celles du client en matière de food defence applicables à la société ?",
-                "Comment la société peut-elle démontrer qu'elle respecte ces exigences ?",
-                "Quel est le processus/ la procédure utilisé(e) pour évaluer les menaces ? Est-ce conforme aux besoins et/ou aux attentes de la législation et/ou des clients ?",
-                "Comment les systèmes aident-ils la société à identifier les zones critiques ou à haut risque ?",
-                "Sur la base de l'évaluation des menaces, quelles zones ont été identifiées comme critiques ?",
-                "Quelles sont les autres mesures de food defence mises en place pour faire face aux menaces évaluées (voir les considérations pertinentes ci-dessous) ?",
-                "Comment la société maîtrise-t-elle l'accès aux locaux et aux zones critiques ?",
-                "Quelles sont les mesures mises en place pour maîtriser l'accès à ces zones critiques ?",
-                "Comment la société est-elle alertée en cas d'infraction sur la food defence ?",
-                "Quels sont les critères pris en compte par la société pour déterminer la fréquence de l'évaluation des menaces, si ce n'est pas au moins une fois dans une période de 12 mois (par exemple, en cas de changements importants ou d'augmentation des risques) ?",
-                "Les procédures et le plan de food defence sont-ils documentés ?"
-              ],
-              "explications": "Explications/ informations complémentaires :\n• Des procédures et un plan de food defence sont mis en place pour garantir la protection des aliments, leur fabrication et leur approvisionnement contre les menaces malintentionnées et idéologiques.\n• Des menaces pour la food defence peuvent survenir à n'importe quel niveau de la chaîne d'approvisionnement alimentaire de la société, où la prévention est l'élément clé.\n• L'évaluation globale et la mise en place de mesures de food defence doivent être adaptées à la société, au site et au pays, et peuvent prendre en compte (sans s'y limiter) :\n· les menaces malveillantes et idéologiques, les actes délibérés de sabotage (par exemple, la contamination délibérée d'aliments par des agents bactériens, des toxines, des produits chimiques, des radiations ou un objet physique).\n· l'altération intentionnelle du produit, qui peut inclure des actes de sabotage, de vandalisme ou de terrorisme.\n· la sensibilisation du personnel (par exemple, par la formation).\n· la sécurité physique des installations (par exemple, les conditions d'accès, les barrières, l'éclairage, les systèmes de caméras, etc.).\n· les politiques et les pratiques d'enregistrement et de contrôle de l'accès des employés, des employés temporaires, des prestataires et des visiteurs aux zones de l'installation.\n· les procédures de stockage et de transport sécurisés des matières premières, des équipements, des matériaux d'emballage, des produits chimiques dangereux et des produits finis.\n· la conception des matériaux d'emballage, en particulier leur dispositif contre l'altération.\n· la restriction physique de l'accès, qui peut être assurée par l'utilisation de serrures, de cartes-clés électroniques ou d'autres systèmes appropriés.\n· les mesures de maîtrise doivent prendre en compte (sans s'y limiter) : les produits, les procédés, l'eau/ électricité, le personnel, les employés temporaires, les prestataires, les visiteurs, les employés, les chauffeurs de camions, la sécurité, les systèmes et, si applicable, le stockage et le transport.\n· la cessation d'emploi des employés/ prestataires/ salariés temporaires ont un impact sur la food defence.\n· la protection des systèmes/ données et les cyber-attaques.\n· les règles relatives aux effets personnels dans l'usine.\n· les procédures de repoting.\n· les mesures doivent porter sur l'identification de l'incident, l'identification et l'évaluation des matières potentiellement affectées, l'isolement et la mise en quarantaine des matières potentiellement affectées et l'élimination appropriée sur la base de la sécurité du produit.\nRéférences : Guide IFS sur la food defence",
-              "exemples_preuves": "procédures et plan de food defence ; évaluation des menaces ; mesures ; comptes-rendus de réunions ; observation sur site ;"
-            }
+            "sous_section": "5.6",
+            "titre": "Libération des produits",
+            "exigences": [
+              {
+                "numero": "5.6.1",
+                "niveau": "Base",
+                "texte": "Une procédure de quarantaine/ libération (blocage/ mise en attente) doit être mis en place et tenu à jour pour garantir que seules les matières premières, les produits semi-finis et finis, et les matériaux d'emballage, conformes aux exigences de sécurité des aliments, de qualité, de légalité des produits et des clients, sont fabriqués et distribués.",
+                "onglets": {
+                  "questionsExemple": [
+                    "La société dispose-t-elle d'une procédure de mise en quarantaine et de libération des produits ? Prend-t-elle en compte les matières premières, les produits semi-finis et finis et les matériaux d'emballage (y compris les étiquettes), par rapport à leur conformité aux spécifications et à la sécurité des aliments, à la qualité des produits, à la légalité et aux exigences des clients ?",
+                    "Qui place les produits en quarantaine ou les libère ?",
+                    "Quels sont les critères de libération/quarantaine des produits ?",
+                    "Comment les produits libérés et mis en quarantaine sont-ils identifiés ?",
+                    "Quelles sont les mesures mises en place pour bloquer ou retenir rapidement les produits ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "processus de libération/ quarantaine des produits mise en place; tickets de quarantaine ; enregistrements ; spécifications ; processus identifié ; zone de quarantaine ; description de poste ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.6.1",
+                "niveau": "Intermédiaire",
+                "texte": "Une procédure de quarantaine/ libération (blocage/ mise en attente) doit être documentée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les procédures de libération/ quarantaine des produits sont-elles documentées (par exemple, procédures documentées, descriptions de processus, instructions de travail, diagramme) ? Prennnent-elles en compte les exigences d'authenticité ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "processus de libération/ quarantaine des produits mis en œuvre ; procédures ; description du processus des procédures documentées ; diagrammes ; enregistrements des contrôles ; instructions de travail, etc. ; enregistrements, spécifications ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "4.21.3",
-            "niveau": "Intermédiaire",
-            "texte": "L'efficacité du plan de food defence doit être testée.",
-            "onglets": {
-              "questionsExemple": [
-                "L'efficacité du plan de food defence est-elle testée (par exemple, par des vérifications sur site, des inspections, des évaluations, la vérification des enregistrements, des tests d'intrustion, etc.) ?",
-                "Comment la société évalue-t-elle l'efficacité du plan de food defence ?",
-                "À quelle fréquence l'efficacité du plan de food defence est-elle testée ?",
-                "Des actions sont-elles prises au cas où le plan de food defence ne serait pas efficace ?",
-                "À quelle fréquence les procédures et le plan de food defence sont-ils revus, si ce n'est au moins une fois dans une période de 12 mois (par exemple, en cas de changements importants ou d'augmentation des risques) ? Les procédures et le plan de food defence sont-ils mis à jour en conséquence ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "rapport sur le contrôle de l'efficacité, tel que les inspections, les comptes rendus de réunions, les actions ;"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "chapitre": "5",
-    "titre": "Mesures, analyses, améliorations",
-    "sous_sections": [
-      {
-        "sous_section": "5.1",
-        "titre": "Inspections d'usine",
-        "exigences": [
-          {
-            "numero": "5.1.1",
-            "niveau": "Intermédiaire",
-            "texte": "Des inspections de l'usine et du site doivent être planifiées et réalisées pour certain(e)s zones/ thèmes, comme par exemple :\n• l'état des installations de production et de stockage\n• les zones extérieures\n• la maîtrise des produits lors de la production\n• la protection des produits\n• l'hygiène pendant la production et dans les locaux \n• les dangers liés aux corps étrangers\n• l'hygiène du personnel.\nLa fréquence des inspections doit être basée sur les risques et sur l'historique des résultats précédents.",
-            "onglets": {
-              "questionsExemple": [
-                "Quelle est la fréquence des inspections du site et qui les réalise ?",
-                "Comment la fréquence est-elle définie (par exemple en fonction du risque, des antécédents, etc.) ?",
-                "Qu'est-ce qui est revu lors des inspections du site ?",
-                "Pour quels zones/ procédés existe-t-il des inspections sur site ?",
-                "La protection du produit contre la contamination (physique, chimique et microbiologique) est-elle vérifiée ?",
-                "Les actions prises en cas de déviations sont-elles documentées ?",
-                "Toutes les zones requises sont-elles couvertes ?"
-              ],
-              "explications": "Explication supplémentaire : Cette exigence soutient l'introduction et la mise en place de la food safety culture sur les éléments tels que : la vérification que les procédés et procédures de sécurité des aliments (par exemple, les contrôles) sont réalisés dans les délais, en maintenant l'intégrité des procédés de sécurité des aliments.",
-              "exemples_preuves": "protocole /périmètre des inspections sur sites ; évaluation/ historique des risques ; enregistrements/ rapports/ actions ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.2",
-        "titre": "Maîtrise des procédés",
-        "exigences": [
-          {
-            "numero": "5.2.1",
-            "niveau": "Intermédiaire",
-            "texte": "Les critères de maîtrise des procédés doivent être définis.",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les paramètres de procédés définis (par exemple, pour la pasteurisation, la stérilisation, les paramètres de la chaîne du froid permettant de respecter les spécifications du produit, les conditions de reprise, etc.) ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "paramètres des procédés ;"
-            }
+            "sous_section": "5.7",
+            "titre": "Gestion des réclamations des autorités et des clients",
+            "exigences": [
+              {
+                "numero": "5.7.1",
+                "niveau": "Base",
+                "texte": "Une procédure doit être mise en place et tenue à jour pour la gestion des réclamations sur les produits, des notifications écrites des autorités compétentes - dans le cadre des contrôles officiels - et des actions requises ou mesures à prendre lorsqu'une non-conformité est identifiée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment les réclamations des clients et des consommateurs sont-elles traitées ?",
+                    "La procédure prévoit-elle au minimum la réception des réclamations, la communication, l'évaluation, l'enregistrement, l'enquête, la résolution (y compris les corrections/ actions correctives si nécessaire) et l'analyse des données afin d'éviter que la situation ne se reproduise ?",
+                    "Comment les notifications/ réclamations des autorités compétentes sont-elles traitées ?",
+                    "Quel est l'indicateur ou le taux (individuel) de réclamations des consommateurs, distributeurs et autorités ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "procédure mis en place de gestion des réclamations ; données ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.7.1",
+                "niveau": "Intermédiaire",
+                "texte": "Une procédure de gestion des réclamations relatives aux produits et de toute notification écrite émanant des autorités compétentes doit être documentée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "La gestion des réclamations relatives aux produits et aux notifications des autorités compétentes sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagramme) ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "procédures documentées ; description des processus ; diagrammes ; instructions de travail, enregistrements, etc ;"
+                }
+              },
+              {
+                "numero": "5.7.2",
+                "niveau": "Base",
+                "texte": "Toutes les réclamations doivent être enregistrées, facilement disponibles et évaluées par du personnel compétent. Lorsque cela est justifié, des actions doivent être mises en place immédiatement.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment les réclamations sont-elles reçues et par qui ?",
+                    "Qui évalue et réfléchit à l'importance des réclamations ?",
+                    "L'évaluation de la réclamation est-elle enregistrée/ documentée ?",
+                    "La société enquête-t-elle sur les causes des réclamations ?",
+                    "Qui définit et communique les actions à entreprendre ?",
+                    "Dans quel délai les actions doivent-elles être prises ?",
+                    "Qui est chargé de fournir une réponse aux consommateurs, aux clients et aux autorités, si applicable ?",
+                    "Le personnel compétent est-il conscient de ses responsabilités en matière de traitement des réclamations et d'investigations ?",
+                    "Comment les réclamations sont-elles enregistrées ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "échantillon d'enregistrements de réclamations, afin de les comparer au processus, de la réception à la résolution ;"
+                }
+              },
+              {
+                "numero": "5.7.3",
+                "niveau": "Base",
+                "texte": "Les réclamations doivent être évaluées dans l'optique de mettre en place des actions permettant d’éviter la récurrence des déviations et/ou des non-conformités.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les données sont-elles maîtrisées et gérées de manière à garantir que les actions et les améliorations sont prises en compte pour assurer la conformité légale et la qualité et que les problèmes de sécurité des aliments sont identifiés à partir des réclamations, afin d'éviter toute récurrence ?",
+                    "Comment les réclamations sont-elles analysées ?",
+                    "La société a-t-elle défini des méthodes appropriées pour l'analyse des données relatives aux réclamations en fonction des objectifs visés (par exemple, par sources, causes, criticité, graphiques, statistiques, tendances, etc.) ?",
+                    "Qui gère les données relatives aux réclamations ?",
+                    "À quelle fréquence les données relatives aux réclamations sont-elles compilées ?",
+                    "Quelles sont les actions prises pour éviter toute récidive ?"
+                  ],
+                  "explications": "Remarque 1 : Les réclamations sont analysées en tant qu'indicateurs de la mise en place d'actions appropriées pour les problèmes liés à la légalité, la qualité, la sécurité des aliments et, par ailleurs, pour identifier des opportunités d'amélioration. Par conséquent, la société doit définir une méthode appropriée d'analyse des données relatives aux réclamations en fonction des objectifs visés.\nL'analyse des données relatives aux réclamations peut porter, par exemple, sur les points suivants (liste non exhaustive) :\n• tableaux de classification (par sources, partenaires commerciaux - par exemple, distributeurs, causes, lots, nombre de réclamations, taux par volume produit/ par produit, criticité des réclamations, priorité d'action selon l'impact - par exemple, problèmes de sécurité des aliments, etc,),\n• tableaux et graphiques des réclamations (par exemple, camemberts),\n• taux de réclamation en ppm (par exemple, parties par million pour suivre la conformité de la qualité),\n• statistiques,\n• analyse des tendances,\n• seuils,\n• etc.",
+                  "exemples_preuves": "données relatives aux réclamations ;"
+                }
+              },
+              {
+                "numero": "5.7.4",
+                "niveau": "Base",
+                "texte": "Les résultats des bilans des réclamations doivent être tenus à la disposition du personnel responsable concerné.",
+                "onglets": {
+                  "questionsExemple": [
+                    "L'analyse des données relatives aux réclamations fait-elle l'objet d'une communication interne appropriée ?",
+                    "À qui les données relatives aux réclamations sont-elles présentées (par exemple, à la direction, aux opérations, à la maintenance, à l'amélioration continue, etc.) ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "communication de données sur les réclamations ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "5.2.2",
-            "niveau": "Intermédiaire",
-            "texte": "Les paramètres des procédés (température, temps, pression, propriétés chimiques, etc.) essentiels pour garantir la sécurité des aliments et la qualité des produits doivent être surveillés, enregistrés en continu et/ou à intervalles appropriés.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment sont-ils maîtrisés ?",
-                "Comment les températures (par exemple, chauffage, cuisson, congélation, refroidissement, refroidissement intermédiaire), la pression, le temps, etc. sont-ils surveillés ?",
-                "Où est-ce enregistré ?",
-                "Comment s'assure-t-on que seules les personnes responsables sont autorisées à définir/ modifier les paramètres des procédés ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "données de mesure imprimées ; contrôles ; enregistrements de surveillance ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.3",
-        "titre": "Étalonnage, ajustement et vérification des appareils de mesure et de surveillance",
-        "exigences": [
-          {
-            "numero": "5.3.1",
-            "niveau": "Base",
-            "texte": "Les appareils de mesure et de surveillance nécessaires pour garantir la conformité aux exigences de sécurité des aliments et de qualité des produits doivent être identifiés et enregistrés. Leur statut d'étalonnage doit être enregistré. Les appareils de mesure et de surveillance doivent être légalement approuvés, si requis par la législation applicable en vigueur.",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les types d'appareils de mesure et de surveillance existants (par exemple, thermomètres, détecteurs de métaux, appareils à rayons X, trieuses pondérales, pH-mètres et appareils de mesure de l'activité de l'eau, balances, vitesses des fours et autres unités importantes de mesure et de contrôle des procédés) ?",
-                "Quelles sont les exigences en matière d'appareils de mesure et de surveillance ?",
-                "Quel appareil de surveillance est adapté à quel type de mesure ?",
-                "Comment les appareils de mesure et de surveillance sont-ils identifiés (par exemple, autocollants d'identification sur les dispositifs de surveillance) et enregistrés ?",
-                "Existe-t-il des appareils calibrés ?",
-                "Comment l'état d'étalonnage d'un appareil de mesure/ surveillance est-il identifié ?",
-                "Les appareils de mesure et de surveillance destinés à garantir la sécurité des aliments, la qualité et la conformité aux exigences réglementaires sont-ils fiables ?",
-                "Les appareils de mesure et de surveillance utilisés sont-ils légalement approuvés, lorsque la loi l'exige ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "liste des appareils de surveillance ; autocollants d'identification sur les appareils de surveillance ; autocollants d'identification ; enregistrements ;"
-            }
+            "sous_section": "5.8",
+            "titre": "Gestion des incidents, retrait /rappel de produits",
+            "exigences": [
+              {
+                "numero": "*5.8.1",
+                "niveau": "Base",
+                "texte": "La société doit démontrer sa capacité à retirer et à rappeler les produits impactés, à contacter les parties concernées et à conserver les enregistrements de ces incidents.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quand les rappelset/ou retraits sont-ils nécessaires ?",
+                    "Existe-t-il une procédure définie, mise en place et maintenue pour le rappel et le retrait des produits ? Prend-elle en compte les aspects juridiques et les aspects liés aux clients ?",
+                    "La société peut-elle retirer et rappeler les produits concernés ? Les procédures garantissent-elles un retour rapide des produits distribués ?",
+                    "Dans quelle mesure la distribution est-elle impliquée dans le rappel/ retrait ?",
+                    "La société est-elle en mesure de communiquer et de contacter les parties concernées et pertinentes (par exemple, les contacts internes, les fournisseurs, les clients, les consommateurs, les autorités) ?",
+                    "Existe-t-il une liste actualisée des personnes à contacter en cas d'alerte ou d'urgence (avec des informations telles que les noms et les numéros de téléphone des contacts internes, des fournisseurs, des clients et des autorités compétentes, par exemple) ?",
+                    "Le personnel responsable du rappel et du retrait des produits est-il formé et préparé ?",
+                    "Existe-t-il une personne définie au sein de la société, habilitée à lancer la procédure de rappel et de retrait, qui soit disponible en permanence ?",
+                    "Les enregistrements des rappels et retraits de produits sont-ils conservés ?"
+                  ],
+                  "explications": "Remarque 1 : Un système de traçabilité mis en place et efficace est un élément clé pour le rappel et le retrait des produits.",
+                  "exemples_preuves": "procédure de rappel et de retrait mise en place ; liste des personnes à contacter en cas d'urgence ou d'alerte ; processus de communication ; système de traçabilité ; entretiens sur site ;"
+                }
+              },
+              {
+                "numero": "5.8.2",
+                "niveau": "Intermédiaire",
+                "texte": "Une procédure efficace doit être documentée, mise en place et tenue à jour pour la gestion des rappels, retraits, incidents et situations d'urgence ayant un impact sur la sécurité des aliments, la qualité, la légalité et l'authenticité des produits. Elle doit inclure, au moins :\n• l'attribution des responsabilités\n• la formation des personnes responsables\n• le processus de prise de décision\n• la nomination d'une personne, autorisée par la société et disponible en permanence, pour initier le processus en temps voulu\n• une liste à jour de contacts d'alerte, incluant l'information des clients, des sources de conseils juridiques (si nécessaire) et les moyens de joindre les contacts\n• un plan de communication incluant les clients, les autorités et, si applicable, les consommateurs.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Qu'est-ce qu'un incident ? Qu'est-ce qui caractérise un incident ? Par exemple : situations de pandémie, perturbation des ressources/ services critiques ayant une incidence sur la continuité des activités, la sécurité et la qualité des aliments (par exemple, coupure de courant), catastrophes naturelles, pertes, situations d'urgence, crises, produits dangereux ou non conformes, non conformités des produits et des procédés et situations ayant une incidence sur la sécurité, la qualité et la légalité des aliments, etc.",
+                    "Comment les incidents sont-ils évalués et gérés ? Quel est le processus de décision ? Quelles sont les mesures à prendre pour gérer une crise ?",
+                    "Dans quelle mesure la distribution est-elle impliquée dans la gestion des rappels/ retraits/ incidents ?",
+                    "La société a-t-elle mis en place une procédure de gestion des rappels/ retraits/ incidents ?",
+                    "Les procédures de gestion des rappels/ retraits/ incidents sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagramme) ?",
+                    "Comment la société définit-elle les besoins en matière de rappel/ retrait de produits ?",
+                    "Quelles sont les actions définies en cas de rappel/ retrait/ incident ?",
+                    "Les responsabilités sont-elles clairement définies dans le cadre des actions définies ?",
+                    "Qui informe le client et quand ?",
+                    "Existe-t-il une personne désignée au sein de la société qui soit disponible en permanence et qui ait le pouvoir de lancer les processus nécessaires ? Comment les absences potentielles sont-elles couvertes (vacances, congés de maladie, etc.) ?",
+                    "Les personnes concernées sont-elles formées conformément à la procédure ?",
+                    "Qui est informé en cas d'incident ? Comment la communication interne et externe est-elle gérée ?",
+                    "Comment la société peut-elle détecter les incidents et les situations d'urgence ?",
+                    "Quelles sont les sources d'information permettant d'être conscient /alerté des nouvelles urgences/ incidents potentiels ?",
+                    "Quel est le niveau de risque défini pour ces incidents et ces urgences en ce qui concerne la conformité des produits et des procédés et la continuité des opérations et des activités ?",
+                    "Qui est informé en cas de crise ?",
+                    "La société dispose-t-elle d'un plan de communication interne /externe ? Qui est responsable de la communication avec les clients, la presse/ les médias et les autorités, par exemple ?",
+                    "Existe-t-il une liste de numéros de téléphone importants en cas d'urgence ou d'alerte ? Prend-elle en compte les contacts pertinents tels que les contacts internes, la liste des fournisseurs avec leurs contacts, les informations sur les clients, les sources de conseils juridiques, la disponibilité des contacts, etc. ?",
+                    "Quand les médias sont-ils impliqués ?",
+                    "Quels sont les plans et les actions définis pour récupérer, reprendre et restaurer les activités en cas d'urgence ou d'incidents décrits par la société ?",
+                    "Les responsabilités sont-elles clairement définies dans le cadre des actions définies ?",
+                    "Les enregistrements de gestion des incidents sont-ils conservés ?"
+                  ],
+                  "explications": "Remarque 1 : Une procédure de gestion des retraits/ rappels ne suffit pas à elle seule à définir une procédure complète de gestion des incidents (c'est une conséquence/ action potentielle de la gestion des incidents).\nExplications/ informations complémentaires : En ce qui concerne la gestion des incidents, il est important que la société prenne en compte l'impact sur les produits, les consommateurs et les clients, ainsi que l'impact sur les relations avec les autres parties prenantes, comme la réputation, la confiance gagnée, l'image de la société et la continuité des activités.",
+                  "exemples_preuves": "preuves de formation des équipes/ matrice des responsabilités ; procédures de rappel et de retrait des produits ; procédures de gestion des incidents/ crises ; procédures documentées ; description des procédés ; diagrammes ; instructions de travail, etc. ; enregistrements ; plan d'urgence ; plan d'alerte ; liste des contacts en cas d'urgence/ d'alerte ; plan de communication ; système de traçabilité ; entretiens sur site ;"
+                }
+              },
+              {
+                "numero": "5.8.3",
+                "niveau": "Intermédiaire",
+                "texte": "La procédure doit faire l'objet de tests internes pour le retrait/ rappel, en couvrant le processus de bout en bout. Cette activité doit être planifiée dans une période de 12 mois et son délai de réalisation ne doit pas dépasser les 15 mois. Le résultat des tests doit être revu pour une amélioration continue.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment la société évalue-t-elle l'efficacité des procédures de retrait/rappel et des étapes correspondantes (processus de bout en bout) ?",
+                    "À quelle fréquence l'efficacité des procédures est-elle testée ?",
+                    "La mise à jour de la liste des personnes à contacter en cas d'urgence ou d'alerte est-elle vérifiée ?",
+                    "Le test est-il enregistré/ documenté ?",
+                    "Des actions sont-elles prises si les procédures ne sont pas efficaces ou si des besoins d'amélioration sont identifiés ? Les procédures sont-elles revues en conséquence ?"
+                  ],
+                  "explications": "Remarque 1 : Dans le cas où la société a été confrontée à un rappel/ retrait dans les délais impartis - il convient de vérifier pendant l'évaluation IFS Progress Food v3 si la procédure de rappel/ retrait de la société a été appliquée et documentée de manière complète et efficace (de bout en bout), revue avec les moyens d'identifier les améliorations nécessaires, et peut donc être considérée comme une preuve positive pour l'évaluation de l'exigence 5.8.3.\nExplications/ informations complémentaires : Pour les tests de retrait et de rappel documentés conformément à la procédure définie, la société testera sa capacité à retirer et à rappeler les produits concernés :\n• toute mesure visant à empêcher la distribution, la mise à disposition et l’offre d’un produit non conforme aux spécifications et/ou potentiellement dangereux pour le consommateur (retrait)\n• toute mesure visant à obtenir le retour d’un produit dangereux que le producteur ou le distributeur a déjà fourni ou mis à disposition du consommateur (rappel).\nLes analyses doivent porter, au moins, sur les éléments suivants (sans toutefois s'y limiter) :\n• l'évaluation du niveau de risque et de son impact (par exemple, dans quelle mesure affecte-t-il les produits, la société, etc.)\n• l'évaluation de l'étendue de la distribution des produits touchés (ainsi que de la traçabilité)\n• la définition des mesures et des actions en fonction du niveau de risque, des exigences légales et des exigences des consommateurs\n• la faisabilité, l'efficacité et la rapidité de la procédure (par exemple, la communication, l'identification de l'état du produit, la récupération des données, le temps nécessaire à l'achèvement de la procédure et le pourcentage de produits tracés conformément aux exigences internes, légales et des clients, etc.)\n• la documentation de la procédure de rappel et de retrait.",
+                  "exemples_preuves": "procédures de retrait/ rappel ; enregistrements/ résultats des tests ; liste des personnes à contacter en cas d'urgence ou d'alerte ; entretiens sur site ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "5.3.2",
-            "niveau": "Intermédiaire",
-            "texte": "Tous les appareils de mesure doivent être vérifiés, surveillés, ajustés et étalonnés à intervalles définis, conformément à des normes/ méthodes reconnues et dans les limites applicables des valeurs des paramètres du procédé. Les résultats doivent être documentés.",
-            "onglets": {
-              "questionsExemple": [
-                "En ce qui concerne les appareils de mesure et de surveillance, existe-t-il un processus /une procédure d'étalonnage pour les vérifier, les surveiller et les ajuster ?",
-                "Les appareils de mesure et de surveillance sont-ils identifiés, étalonnés et traçables selon des référentiels reconnus ?",
-                "Comment les appareils de mesure et de surveillance sont-ils organisés ? Comment les intervalles sont-ils définis ?",
-                "Qui est responsable de l'étalonnage ?",
-                "Les appareils de mesure et de surveillance sont-ils régulièrement étalonnés ? Comment les intervalles sont-ils définis ?",
-                "Comment se fait l'étalonnage ?",
-                "Où est-ce documenté ?",
-                "Quelles sont les mesures prises lorsqu'un écart de tolérance (résultats en dehors des limites définies) est constaté ?",
-                "L'étalonnage est-il à jour ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "processus/ procédures d'étalonnage et de surveillance ; protocole d'étalonnage ; enregistrements d'étalonnage ; actions ; certificat d'étalonnage ; vérifications, ajustements et résultats d'étalonnage enregistrés ; enregistrements ;"
-            }
+            "sous_section": "5.9",
+            "titre": "Gestion des produits non conformes",
+            "exigences": [
+              {
+                "numero": "5.9.1",
+                "niveau": "Base",
+                "texte": "Une procédure doit être mise en place et tenue à jour pour la gestion de toutes les matières premières, des produits semi-finis et finis, des équipements de production et des matériaux d'emballage non conformes. Cela doit inclure, au moins :\n• des responsabilités définies\n• les procédures d'isolement/ de quarantaine\n• l'identification incluant l'étiquetage\n• la décision sur l'usage ultérieur, comme la libération, le recyclage/ retraitement, le blocage, la quarantaine, le rejet/ destruction.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quels sont les procédures de gestion des produits non conformes ?",
+                    "Les responsabilités de la procédure sont-elles clairement définies ?",
+                    "Comment les produits non conformes sont-ils identifiés et maîtrisés ? La société veille-t-elle à ce que tout produit non conforme aux exigences soit clairement identifié et maîtrisé afin d'éviter toute utilisation ou livraison non intentionnelle ?",
+                    "Quelles sont les règles en vigueur pour l'isolement/ la quarantaine des produits ?",
+                    "Comment la (les) zone(s) d'isolement/ de quarantaine est-elle (sont) identifiée(s) sur le site ?",
+                    "Qui décide des produits non conformes ?",
+                    "Sur la base de quels critères la décision est-elle prise quant à la poursuite de l'utilisation des produits non conformes ?",
+                    "Quels types d'actions et de mesures sont mis en place pour éviter l'utilisation abusive de produits non conformes ?",
+                    "Quels types d'actions et de mesures la société a-t-elle mis en place pour prévenir la contamination croisée avec les zones d'isolement/ de quarantaine ? (par exemple, entre les produits contenant ou non des allergènes, entre les produits contaminés destinés à être éliminés et ceux destinés à être recyclés, etc.) ?"
+                  ],
+                  "explications": "Explications/ informations complémentaires : Exemples de situations liées à des produits non conformes : matières premières hors spécifications lors du contrôle des marchandises entrantes ; produit/ durée de vie contrôlé(e) hors spécifications ; analyse du produit avec des résultats insatisfaisants ; déviation du procédé ; CCP non maîtrisé ; infestation de nuisibles ; incidents liés à la sécurité des aliments ; produits sabotés ; rappel/ retrait ; produits retournés ; etc.)",
+                  "exemples_preuves": "procédure de gestion des produits non conformes ; mesures ; procédure d'isolement/ de quarantaine ; identification des produits non conformes ; matrice des responsabilités ; tickets de quarantaine ; preuves de prises de décision ; maîtrise des produits non conformes ; observation sur site ; entretiens sur site ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.9.1",
+                "niveau": "Intermédiaire",
+                "texte": "Une procédure doit être mise en place pour la gestion de toutes les matières premières, des produits semi-finis et finis, des équipements de production et des matériaux d'emballage non conformes (incluant, si applicable, une évaluation des risques).",
+                "onglets": {
+                  "questionsExemple": [
+                    "La gestion des matières premières, des produits semi-finis, des produits finis, des équipements de transformation et des matériaux d'emballage non conformes fait-elle l'objet de procédures documentées (procédures documentées, descriptions de procédés, instructions de travail, diagramme, etc.) ?",
+                    "Si applicable, les évaluations des risques sont-elles documentées ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "procédure de gestion des produits non conformes ; procédures documentées ; description de procédés ; diagrammes ; instructions de travail, etc. ;"
+                }
+              },
+              {
+                "numero": "5.9.2",
+                "niveau": "Base",
+                "texte": "La procédure de gestion des produits non conformes doit être compris et appliqué par tous les employés concernés.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les employés concernés sont-ils au courant de la procédure ou de la gestion des produits non conformes ?",
+                    "Qui est responsable de la mise en quarantaine des produits non conformes ?",
+                    "Qui peut libérer les produits mis en quarantaine ?",
+                    "Comment s'assure-t-on que seules les personnes autorisées libèrent les produits mis en quarantaine ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "tickets de quarantaine ; description de poste ; entretiens sur site ;"
+                }
+              },
+              {
+                "numero": "5.9.3",
+                "niveau": "Base",
+                "texte": "En cas d'identification de produits non-conformes, des actions immédiates doivent être mises en place, afin de garantir que les exigences de sécurité des aliments et de qualité des produits sont conformes.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quelles sont les actions prises lorsque des produits non conformes sont identifiés afin de garantir le respect des exigences en matière de sécurité des aliments et de qualité des produits ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "tickets de quarantaine ;"
+                }
+              }
+            ]
           },
           {
-            "numero": "5.3.3",
-            "niveau": "Intermédiaire",
-            "texte": "Tous les appareils de mesure et de surveillance doivent être utilisés exclusivement pour leur usage défini. Lorsque les résultats des mesures ou le statut de l'appareil indiquent une anomalie, l'appareil en question doit être immédiatement réparé ou remplacé. Lorsqu'un dysfonctionnement a été identifié, l'impact sur les procédés et les produits doit être évalué afin d'identifier si des produits non conformes ont été fabriqués.",
-            "onglets": {
-              "questionsExemple": [
-                "Les appareils de mesure et de surveillance sont-ils utilisés exclusivement pour l'usage auquel ils sont destinés (par exemple, thermomètres spécifiés/ appareils de mesure de l'humidité utilisés pour des procédés et des produits définis conformément aux plages de mesure visées spécifiées/ détecteurs de métaux étalonnés en fonction des caractéristiques spécifiées du produit et des procédés, etc.) ?",
-                "Quelles sont les actions prises lorsque les résultats des mesures sont incertains ou que l'état de l'appareil indique un dysfonctionnement ? (par exemple, dysfonctionnement d'un dispositif de surveillance des CCP, de dispositifs de traitement thermique, etc.)",
-                "Les appareils sont-ils immédiatement réparés ou remplacés ?",
-                "L'impact sur les produits et les procédés est-il évalué (par exemple, l'impact sur la sécurité des aliments tel que la défaillance du procédé thermique) ?",
-                "Selon l'évaluation, les actions nécessaires sont-elles menées sur les procédés et les produits ?",
-                "Comment les appareils de mesure et de surveillance interdits sont-ils identifiés ?"
-              ],
-              "explications": "Explications/ informations complémentaires : En cas de dysfonctionnements ayant une incidence sur la sécurité des aliments, les actions à prendre concernant les produits potentiellement non conformes (par exemple, l'élimination du produit concerné) couvrent généralement les produits fabriqués après le dernier contrôle conforme d'étalonnage.",
-              "exemples_preuves": "autocollants d'identification ; vérifications, ajustements et résultats d'étalonnage ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.4",
-        "titre": "Surveillance de la maîtrise de la quantité",
-        "exigences": [
-          {
-            "numero": "5.4.1",
-            "niveau": "Base",
-            "texte": "Des critères de conformité pour maîtriser la quantité de lots doivent être définis. Un système sur la fréquence et la méthodologie de maîtrise de la quantité doit être mis en place et tenu à jour pour se conformer aux dispositions légales du/ des pays de destination et des spécifications des clients.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment s'assure-t-on que les exigences légales et les spécifications du client en matière de poids/ quantité sont respectées ?",
-                "Quelle est la procédure /méthodologie/ fréquence définie pour la maîtrise du poids/ de la quantité en vue de la conformité des produits ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "réglementation ; spécifications ; exigences des clients ; processus et méthodes de maîtrise du poids/ de la quantité ;"
-            }
-          },
-          {
-            "numero": "5.4.2",
-            "niveau": "Base",
-            "texte": "Une surveillance de la maîtrise de la quantité doit être mise en place et enregistrée selon un plan d'échantillonnage représentatif du lot de fabrication. Les résultats de cette surveillance doivent être conformes aux critères définis pour tous les produits prêts à être livrés.",
-            "onglets": {
-              "questionsExemple": [
-                "Existe-t-il des enregistrements sur les contrôles de poids/ quantité réalisés sur la base du plan d'échantillonnage défini ?",
-                "Est-ce applicable aux produits à marque de distributeurs et aux autres produits/ étiquettes ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "plan de surveillance du poids/ de la quantité ; plan d'échantillonnage ; enregistrements ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.5",
-        "titre": "Analyses des produits et surveillance environnementale",
-        "exigences": [
-          {
-            "numero": "5.5.1",
-            "niveau": "Base",
-            "texte": "Des plans de contrôle et de surveillance pour les analyses internes et externes doivent être mis en place pour garantir que les exigences de sécurité, de qualité, de légalité des produits et les exigences spécifiques des clients sont respectées. Les plans doivent couvrir, au moins :\n• les matières premières\n• les produits semi-finis (si applicable)\n• les produits finis\n• les matériaux d'emballage\n• surfaces en contact et tests environnementaux\nTous les résultats d'analyses doivent être enregistrés.",
-            "onglets": {
-              "questionsExemple": [
-                "Existe-t-il un plan de contrôle/ surveillance ?",
-                "Des analyses/ tests de laboratoire cohérents sont-ils mis en place pour garantir le respect des exigences en matière de sécurité, de qualité et de sûreté des produits, ainsi que des exigences légales et des exigences spécifiques des clients ?",
-                "Qui organise les plans de contrôle/ surveillance ?",
-                "Comment l'échantillonnage est-il défini ?",
-                "Quels sont les produits couverts par le plan de contrôle (matières premières, produits semi-finis et finis, matériaux d'emballage, surfaces et analyses environnementales) ?",
-                "Où les résultats des analyses sont-ils documentés ?",
-                "Quelles sont les analyses physiques, chimiques ou microbiologiques réalisées ou sous-traitées ?",
-                "Quelles sont les analyses réalisées par le laboratoire de la société et quelles sont celles effectuées par des laboratoires externes ? Et à quelle fréquence ?",
-                "Les résultats d'analyses sont-ils obtenus par des méthodes reconnues et valides ?",
-                "Les analyses sont-elles réalisées de manière à produire des résultats crédibles et précis ?",
-                "Les analyses/ contrôles sont-ils réalisés de manière à éviter toute incidence sur la sécurité du produit (par exemple, contamination croisée à partir de l'échantillonnage, contamination du produit, etc.) ?",
-                "À quelle fréquence le plan de contrôle/ surveillance est-il révisé ?"
-              ],
-              "explications": "Remarque 1 : Les analyses environnementales peuvent être déterminées en fonction des exigences légales, des caractéristiques du produit et des procédés et des risques potentiels pour la sécurité des aliments (par exemple, la surveillance des agents pathogènes pour les denrées alimentaires périssables prêtes à être consommées).",
-              "exemples_preuves": "plan de contrôle ; analyses en laboratoire ; résultats d'analyses ;"
-            }
-          },
-          {
-            "numero": "5.5.1",
-            "niveau": "Intermédiaire",
-            "texte": "Les plans de contrôle et de surveillance pour les analyses internes et externes doivent être basés sur les risques.",
-            "onglets": {
-              "questionsExemple": [
-                "Le plan de contrôle/ surveillance est-il défini sur la base d'une évaluation des risques ?",
-                "Le plan de contrôle et de surveillance prend-il en compte les risques d'authenticité (par exemple, les tests de fraude alimentaire) ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "évaluation des risques ; plan de contrôle ; analyses en laboratoire ; résultats d'analyses ;"
-            }
-          },
-          {
-            "numero": "5.5.2",
-            "niveau": "Intermédiaire",
-            "texte": "Les analyses importantes pour la sécurité des aliments doivent être effectuées de préférence par des laboratoires accrédités pour les programmes/ méthodes appropriés (ISO/CEI 17025). Si les analyses sont réalisées par un laboratoire interne ou non accrédité pour ces programmes/ méthodes, les résultats doivent être régulièrement confrontés à ceux réalisés par des laboratoires accrédités pour ces programmes/ méthodes (ISO/CEI 17025).",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les laboratoires externes utilisés ? Sont-ils accrédités selon la norme ISO 17025 ?",
-                "Existe-t-il un laboratoire d'analyses sur site ? Est-il accrédité selon la norme ISO 17025 ?",
-                "Si ce n'est pas le cas, les résultats des laboratoires internes font-ils l'objet d'une vérification croisée régulière ou lorsque des changements importants interviennent par rapport aux résultats d'analyses d'un laboratoire accrédité ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "preuves d'accréditation ; résultats des tests de vérification croisée ;"
-            }
-          },
-          {
-            "numero": "5.5.3",
-            "niveau": "Intermédiaire",
-            "texte": "Des procédures doivent être documentées, mises en place et tenues à jour pour garantir la fiabilité des résultats des analyses internes, sur la base de méthodes d'analyses officiellement reconnues. Cela doit être démontré par des ring tests ou d'autres tests d'intercomparaison.",
-            "onglets": {
-              "questionsExemple": [
-                "Y a-t-il un laboratoire sur site ?",
-                "Comment s'assure-t-on que les méthodes d'analyses internes sont appropriées ? Sont-elles basées sur des méthodes d'analyses officiellement reconnues ?",
-                "Des tests d'intercomparaison ou des ring tests sont-ils réalisés ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "procédures ; preuves de réalisation de tests d'intercomparaison/ ring tests ;"
-            }
-          },
-          {
-            "numero": "5.5.4",
-            "niveau": "Base",
-            "texte": "Les résultats d'analyses doivent être évalués dans un délai convenable par du personnel compétent. Des corrections immédiates doivent être mises en place pour tout résultat non conforme. Les résultats d'analyses doivent être régulièrement revus, de manière exhaustive. Lorsque des résultats insatisfaisants sont identifiés, l'impact sur les produits et les procédés ainsi que la nécessité d'actions doivent être évalués.",
-            "onglets": {
-              "questionsExemple": [
-                "Qui revoit les résultats d'analyses (par exemple, la personne responsable de l'équipe qualité, le vétérinaire responsable du site, le technicien qualité, etc.) ?",
-                "Comment les résultats d'analyses sont-ils vérifiés ?",
-                "Des corrections immédiates sont-elles apportées lorsque les résultats ne sont pas satisfaisants ?",
-                "La société procède-t-elle régulièrement à un revue complète des résultats d'analyses afin d'identifier les besoins d'amélioration, de revues et d'actions ?",
-                "Lorsque des tendances insatisfaisantes sont identifiées, l'impact sur les produits et les procédés ainsi que la nécessité d'actions est-il évalué ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "résultats d'analyses, corrections, revue des résultats ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.6",
-        "titre": "Libération des produits",
-        "exigences": [
-          {
-            "numero": "5.6.1",
-            "niveau": "Base",
-            "texte": "Une procédure de quarantaine/ libération (blocage/ mise en attente) doit être mis en place et tenu à jour pour garantir que seules les matières premières, les produits semi-finis et finis, et les matériaux d'emballage, conformes aux exigences de sécurité des aliments, de qualité, de légalité des produits et des clients, sont fabriqués et distribués.",
-            "onglets": {
-              "questionsExemple": [
-                "La société dispose-t-elle d'une procédure de mise en quarantaine et de libération des produits ? Prend-t-elle en compte les matières premières, les produits semi-finis et finis et les matériaux d'emballage (y compris les étiquettes), par rapport à leur conformité aux spécifications et à la sécurité des aliments, à la qualité des produits, à la légalité et aux exigences des clients ?",
-                "Qui place les produits en quarantaine ou les libère ?",
-                "Quels sont les critères de libération/quarantaine des produits ?",
-                "Comment les produits libérés et mis en quarantaine sont-ils identifiés ?",
-                "Quelles sont les mesures mises en place pour bloquer ou retenir rapidement les produits ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "processus de libération/ quarantaine des produits mise en place; tickets de quarantaine ; enregistrements ; spécifications ; processus identifié ; zone de quarantaine ; description de poste ; enregistrements ;"
-            }
-          },
-          {
-            "numero": "5.6.1",
-            "niveau": "Intermédiaire",
-            "texte": "Une procédure de quarantaine/ libération (blocage/ mise en attente) doit être documentée.",
-            "onglets": {
-              "questionsExemple": [
-                "Les procédures de libération/ quarantaine des produits sont-elles documentées (par exemple, procédures documentées, descriptions de processus, instructions de travail, diagramme) ? Prennnent-elles en compte les exigences d'authenticité ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "processus de libération/ quarantaine des produits mis en œuvre ; procédures ; description du processus des procédures documentées ; diagrammes ; enregistrements des contrôles ; instructions de travail, etc. ; enregistrements, spécifications ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.7",
-        "titre": "Gestion des réclamations des autorités et des clients",
-        "exigences": [
-          {
-            "numero": "5.7.1",
-            "niveau": "Base",
-            "texte": "Une procédure doit être mise en place et tenue à jour pour la gestion des réclamations sur les produits, des notifications écrites des autorités compétentes - dans le cadre des contrôles officiels - et des actions requises ou mesures à prendre lorsqu'une non-conformité est identifiée.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment les réclamations des clients et des consommateurs sont-elles traitées ?",
-                "La procédure prévoit-elle au minimum la réception des réclamations, la communication, l'évaluation, l'enregistrement, l'enquête, la résolution (y compris les corrections/ actions correctives si nécessaire) et l'analyse des données afin d'éviter que la situation ne se reproduise ?",
-                "Comment les notifications/ réclamations des autorités compétentes sont-elles traitées ?",
-                "Quel est l'indicateur ou le taux (individuel) de réclamations des consommateurs, distributeurs et autorités ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "procédure mis en place de gestion des réclamations ; données ; enregistrements ;"
-            }
-          },
-          {
-            "numero": "5.7.1",
-            "niveau": "Intermédiaire",
-            "texte": "Une procédure de gestion des réclamations relatives aux produits et de toute notification écrite émanant des autorités compétentes doit être documentée.",
-            "onglets": {
-              "questionsExemple": [
-                "La gestion des réclamations relatives aux produits et aux notifications des autorités compétentes sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagramme) ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "procédures documentées ; description des processus ; diagrammes ; instructions de travail, enregistrements, etc ;"
-            }
-          },
-          {
-            "numero": "5.7.2",
-            "niveau": "Base",
-            "texte": "Toutes les réclamations doivent être enregistrées, facilement disponibles et évaluées par du personnel compétent. Lorsque cela est justifié, des actions doivent être mises en place immédiatement.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment les réclamations sont-elles reçues et par qui ?",
-                "Qui évalue et réfléchit à l'importance des réclamations ?",
-                "L'évaluation de la réclamation est-elle enregistrée/ documentée ?",
-                "La société enquête-t-elle sur les causes des réclamations ?",
-                "Qui définit et communique les actions à entreprendre ?",
-                "Dans quel délai les actions doivent-elles être prises ?",
-                "Qui est chargé de fournir une réponse aux consommateurs, aux clients et aux autorités, si applicable ?",
-                "Le personnel compétent est-il conscient de ses responsabilités en matière de traitement des réclamations et d'investigations ?",
-                "Comment les réclamations sont-elles enregistrées ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "échantillon d'enregistrements de réclamations, afin de les comparer au processus, de la réception à la résolution ;"
-            }
-          },
-          {
-            "numero": "5.7.3",
-            "niveau": "Base",
-            "texte": "Les réclamations doivent être évaluées dans l'optique de mettre en place des actions permettant d’éviter la récurrence des déviations et/ou des non-conformités.",
-            "onglets": {
-              "questionsExemple": [
-                "Les données sont-elles maîtrisées et gérées de manière à garantir que les actions et les améliorations sont prises en compte pour assurer la conformité légale et la qualité et que les problèmes de sécurité des aliments sont identifiés à partir des réclamations, afin d'éviter toute récurrence ?",
-                "Comment les réclamations sont-elles analysées ?",
-                "La société a-t-elle défini des méthodes appropriées pour l'analyse des données relatives aux réclamations en fonction des objectifs visés (par exemple, par sources, causes, criticité, graphiques, statistiques, tendances, etc.) ?",
-                "Qui gère les données relatives aux réclamations ?",
-                "À quelle fréquence les données relatives aux réclamations sont-elles compilées ?",
-                "Quelles sont les actions prises pour éviter toute récidive ?"
-              ],
-              "explications": "Remarque 1 : Les réclamations sont analysées en tant qu'indicateurs de la mise en place d'actions appropriées pour les problèmes liés à la légalité, la qualité, la sécurité des aliments et, par ailleurs, pour identifier des opportunités d'amélioration. Par conséquent, la société doit définir une méthode appropriée d'analyse des données relatives aux réclamations en fonction des objectifs visés.\nL'analyse des données relatives aux réclamations peut porter, par exemple, sur les points suivants (liste non exhaustive) :\n• tableaux de classification (par sources, partenaires commerciaux - par exemple, distributeurs, causes, lots, nombre de réclamations, taux par volume produit/ par produit, criticité des réclamations, priorité d'action selon l'impact - par exemple, problèmes de sécurité des aliments, etc,),\n• tableaux et graphiques des réclamations (par exemple, camemberts),\n• taux de réclamation en ppm (par exemple, parties par million pour suivre la conformité de la qualité),\n• statistiques,\n• analyse des tendances,\n• seuils,\n• etc.",
-              "exemples_preuves": "données relatives aux réclamations ;"
-            }
-          },
-          {
-            "numero": "5.7.4",
-            "niveau": "Base",
-            "texte": "Les résultats des bilans des réclamations doivent être tenus à la disposition du personnel responsable concerné.",
-            "onglets": {
-              "questionsExemple": [
-                "L'analyse des données relatives aux réclamations fait-elle l'objet d'une communication interne appropriée ?",
-                "À qui les données relatives aux réclamations sont-elles présentées (par exemple, à la direction, aux opérations, à la maintenance, à l'amélioration continue, etc.) ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "communication de données sur les réclamations ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.8",
-        "titre": "Gestion des incidents, retrait /rappel de produits",
-        "exigences": [
-          {
-            "numero": "*5.8.1",
-            "niveau": "Base",
-            "texte": "La société doit démontrer sa capacité à retirer et à rappeler les produits impactés, à contacter les parties concernées et à conserver les enregistrements de ces incidents.",
-            "onglets": {
-              "questionsExemple": [
-                "Quand les rappelset/ou retraits sont-ils nécessaires ?",
-                "Existe-t-il une procédure définie, mise en place et maintenue pour le rappel et le retrait des produits ? Prend-elle en compte les aspects juridiques et les aspects liés aux clients ?",
-                "La société peut-elle retirer et rappeler les produits concernés ? Les procédures garantissent-elles un retour rapide des produits distribués ?",
-                "Dans quelle mesure la distribution est-elle impliquée dans le rappel/ retrait ?",
-                "La société est-elle en mesure de communiquer et de contacter les parties concernées et pertinentes (par exemple, les contacts internes, les fournisseurs, les clients, les consommateurs, les autorités) ?",
-                "Existe-t-il une liste actualisée des personnes à contacter en cas d'alerte ou d'urgence (avec des informations telles que les noms et les numéros de téléphone des contacts internes, des fournisseurs, des clients et des autorités compétentes, par exemple) ?",
-                "Le personnel responsable du rappel et du retrait des produits est-il formé et préparé ?",
-                "Existe-t-il une personne définie au sein de la société, habilitée à lancer la procédure de rappel et de retrait, qui soit disponible en permanence ?",
-                "Les enregistrements des rappels et retraits de produits sont-ils conservés ?"
-              ],
-              "explications": "Remarque 1 : Un système de traçabilité mis en place et efficace est un élément clé pour le rappel et le retrait des produits.",
-              "exemples_preuves": "procédure de rappel et de retrait mise en place ; liste des personnes à contacter en cas d'urgence ou d'alerte ; processus de communication ; système de traçabilité ; entretiens sur site ;"
-            }
-          },
-          {
-            "numero": "5.8.2",
-            "niveau": "Intermédiaire",
-            "texte": "Une procédure efficace doit être documentée, mise en place et tenue à jour pour la gestion des rappels, retraits, incidents et situations d'urgence ayant un impact sur la sécurité des aliments, la qualité, la légalité et l'authenticité des produits. Elle doit inclure, au moins :\n• l'attribution des responsabilités\n• la formation des personnes responsables\n• le processus de prise de décision\n• la nomination d'une personne, autorisée par la société et disponible en permanence, pour initier le processus en temps voulu\n• une liste à jour de contacts d'alerte, incluant l'information des clients, des sources de conseils juridiques (si nécessaire) et les moyens de joindre les contacts\n• un plan de communication incluant les clients, les autorités et, si applicable, les consommateurs.",
-            "onglets": {
-              "questionsExemple": [
-                "Qu'est-ce qu'un incident ? Qu'est-ce qui caractérise un incident ? Par exemple : situations de pandémie, perturbation des ressources/ services critiques ayant une incidence sur la continuité des activités, la sécurité et la qualité des aliments (par exemple, coupure de courant), catastrophes naturelles, pertes, situations d'urgence, crises, produits dangereux ou non conformes, non conformités des produits et des procédés et situations ayant une incidence sur la sécurité, la qualité et la légalité des aliments, etc.",
-                "Comment les incidents sont-ils évalués et gérés ? Quel est le processus de décision ? Quelles sont les mesures à prendre pour gérer une crise ?",
-                "Dans quelle mesure la distribution est-elle impliquée dans la gestion des rappels/ retraits/ incidents ?",
-                "La société a-t-elle mis en place une procédure de gestion des rappels/ retraits/ incidents ?",
-                "Les procédures de gestion des rappels/ retraits/ incidents sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagramme) ?",
-                "Comment la société définit-elle les besoins en matière de rappel/ retrait de produits ?",
-                "Quelles sont les actions définies en cas de rappel/ retrait/ incident ?",
-                "Les responsabilités sont-elles clairement définies dans le cadre des actions définies ?",
-                "Qui informe le client et quand ?",
-                "Existe-t-il une personne désignée au sein de la société qui soit disponible en permanence et qui ait le pouvoir de lancer les processus nécessaires ? Comment les absences potentielles sont-elles couvertes (vacances, congés de maladie, etc.) ?",
-                "Les personnes concernées sont-elles formées conformément à la procédure ?",
-                "Qui est informé en cas d'incident ? Comment la communication interne et externe est-elle gérée ?",
-                "Comment la société peut-elle détecter les incidents et les situations d'urgence ?",
-                "Quelles sont les sources d'information permettant d'être conscient /alerté des nouvelles urgences/ incidents potentiels ?",
-                "Quel est le niveau de risque défini pour ces incidents et ces urgences en ce qui concerne la conformité des produits et des procédés et la continuité des opérations et des activités ?",
-                "Qui est informé en cas de crise ?",
-                "La société dispose-t-elle d'un plan de communication interne /externe ? Qui est responsable de la communication avec les clients, la presse/ les médias et les autorités, par exemple ?",
-                "Existe-t-il une liste de numéros de téléphone importants en cas d'urgence ou d'alerte ? Prend-elle en compte les contacts pertinents tels que les contacts internes, la liste des fournisseurs avec leurs contacts, les informations sur les clients, les sources de conseils juridiques, la disponibilité des contacts, etc. ?",
-                "Quand les médias sont-ils impliqués ?",
-                "Quels sont les plans et les actions définis pour récupérer, reprendre et restaurer les activités en cas d'urgence ou d'incidents décrits par la société ?",
-                "Les responsabilités sont-elles clairement définies dans le cadre des actions définies ?",
-                "Les enregistrements de gestion des incidents sont-ils conservés ?"
-              ],
-              "explications": "Remarque 1 : Une procédure de gestion des retraits/ rappels ne suffit pas à elle seule à définir une procédure complète de gestion des incidents (c'est une conséquence/ action potentielle de la gestion des incidents).\nExplications/ informations complémentaires : En ce qui concerne la gestion des incidents, il est important que la société prenne en compte l'impact sur les produits, les consommateurs et les clients, ainsi que l'impact sur les relations avec les autres parties prenantes, comme la réputation, la confiance gagnée, l'image de la société et la continuité des activités.",
-              "exemples_preuves": "preuves de formation des équipes/ matrice des responsabilités ; procédures de rappel et de retrait des produits ; procédures de gestion des incidents/ crises ; procédures documentées ; description des procédés ; diagrammes ; instructions de travail, etc. ; enregistrements ; plan d'urgence ; plan d'alerte ; liste des contacts en cas d'urgence/ d'alerte ; plan de communication ; système de traçabilité ; entretiens sur site ;"
-            }
-          },
-          {
-            "numero": "5.8.3",
-            "niveau": "Intermédiaire",
-            "texte": "La procédure doit faire l'objet de tests internes pour le retrait/ rappel, en couvrant le processus de bout en bout. Cette activité doit être planifiée dans une période de 12 mois et son délai de réalisation ne doit pas dépasser les 15 mois. Le résultat des tests doit être revu pour une amélioration continue.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment la société évalue-t-elle l'efficacité des procédures de retrait/rappel et des étapes correspondantes (processus de bout en bout) ?",
-                "À quelle fréquence l'efficacité des procédures est-elle testée ?",
-                "La mise à jour de la liste des personnes à contacter en cas d'urgence ou d'alerte est-elle vérifiée ?",
-                "Le test est-il enregistré/ documenté ?",
-                "Des actions sont-elles prises si les procédures ne sont pas efficaces ou si des besoins d'amélioration sont identifiés ? Les procédures sont-elles revues en conséquence ?"
-              ],
-              "explications": "Remarque 1 : Dans le cas où la société a été confrontée à un rappel/ retrait dans les délais impartis - il convient de vérifier pendant l'évaluation IFS Progress Food v3 si la procédure de rappel/ retrait de la société a été appliquée et documentée de manière complète et efficace (de bout en bout), revue avec les moyens d'identifier les améliorations nécessaires, et peut donc être considérée comme une preuve positive pour l'évaluation de l'exigence 5.8.3.\nExplications/ informations complémentaires : Pour les tests de retrait et de rappel documentés conformément à la procédure définie, la société testera sa capacité à retirer et à rappeler les produits concernés :\n• toute mesure visant à empêcher la distribution, la mise à disposition et l’offre d’un produit non conforme aux spécifications et/ou potentiellement dangereux pour le consommateur (retrait)\n• toute mesure visant à obtenir le retour d’un produit dangereux que le producteur ou le distributeur a déjà fourni ou mis à disposition du consommateur (rappel).\nLes analyses doivent porter, au moins, sur les éléments suivants (sans toutefois s'y limiter) :\n• l'évaluation du niveau de risque et de son impact (par exemple, dans quelle mesure affecte-t-il les produits, la société, etc.)\n• l'évaluation de l'étendue de la distribution des produits touchés (ainsi que de la traçabilité)\n• la définition des mesures et des actions en fonction du niveau de risque, des exigences légales et des exigences des consommateurs\n• la faisabilité, l'efficacité et la rapidité de la procédure (par exemple, la communication, l'identification de l'état du produit, la récupération des données, le temps nécessaire à l'achèvement de la procédure et le pourcentage de produits tracés conformément aux exigences internes, légales et des clients, etc.)\n• la documentation de la procédure de rappel et de retrait.",
-              "exemples_preuves": "procédures de retrait/ rappel ; enregistrements/ résultats des tests ; liste des personnes à contacter en cas d'urgence ou d'alerte ; entretiens sur site ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.9",
-        "titre": "Gestion des produits non conformes",
-        "exigences": [
-          {
-            "numero": "5.9.1",
-            "niveau": "Base",
-            "texte": "Une procédure doit être mise en place et tenue à jour pour la gestion de toutes les matières premières, des produits semi-finis et finis, des équipements de production et des matériaux d'emballage non conformes. Cela doit inclure, au moins :\n• des responsabilités définies\n• les procédures d'isolement/ de quarantaine\n• l'identification incluant l'étiquetage\n• la décision sur l'usage ultérieur, comme la libération, le recyclage/ retraitement, le blocage, la quarantaine, le rejet/ destruction.",
-            "onglets": {
-              "questionsExemple": [
-                "Quels sont les procédures de gestion des produits non conformes ?",
-                "Les responsabilités de la procédure sont-elles clairement définies ?",
-                "Comment les produits non conformes sont-ils identifiés et maîtrisés ? La société veille-t-elle à ce que tout produit non conforme aux exigences soit clairement identifié et maîtrisé afin d'éviter toute utilisation ou livraison non intentionnelle ?",
-                "Quelles sont les règles en vigueur pour l'isolement/ la quarantaine des produits ?",
-                "Comment la (les) zone(s) d'isolement/ de quarantaine est-elle (sont) identifiée(s) sur le site ?",
-                "Qui décide des produits non conformes ?",
-                "Sur la base de quels critères la décision est-elle prise quant à la poursuite de l'utilisation des produits non conformes ?",
-                "Quels types d'actions et de mesures sont mis en place pour éviter l'utilisation abusive de produits non conformes ?",
-                "Quels types d'actions et de mesures la société a-t-elle mis en place pour prévenir la contamination croisée avec les zones d'isolement/ de quarantaine ? (par exemple, entre les produits contenant ou non des allergènes, entre les produits contaminés destinés à être éliminés et ceux destinés à être recyclés, etc.) ?"
-              ],
-              "explications": "Explications/ informations complémentaires : Exemples de situations liées à des produits non conformes : matières premières hors spécifications lors du contrôle des marchandises entrantes ; produit/ durée de vie contrôlé(e) hors spécifications ; analyse du produit avec des résultats insatisfaisants ; déviation du procédé ; CCP non maîtrisé ; infestation de nuisibles ; incidents liés à la sécurité des aliments ; produits sabotés ; rappel/ retrait ; produits retournés ; etc.)",
-              "exemples_preuves": "procédure de gestion des produits non conformes ; mesures ; procédure d'isolement/ de quarantaine ; identification des produits non conformes ; matrice des responsabilités ; tickets de quarantaine ; preuves de prises de décision ; maîtrise des produits non conformes ; observation sur site ; entretiens sur site ; enregistrements ;"
-            }
-          },
-          {
-            "numero": "5.9.1",
-            "niveau": "Intermédiaire",
-            "texte": "Une procédure doit être mise en place pour la gestion de toutes les matières premières, des produits semi-finis et finis, des équipements de production et des matériaux d'emballage non conformes (incluant, si applicable, une évaluation des risques).",
-            "onglets": {
-              "questionsExemple": [
-                "La gestion des matières premières, des produits semi-finis, des produits finis, des équipements de transformation et des matériaux d'emballage non conformes fait-elle l'objet de procédures documentées (procédures documentées, descriptions de procédés, instructions de travail, diagramme, etc.) ?",
-                "Si applicable, les évaluations des risques sont-elles documentées ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "procédure de gestion des produits non conformes ; procédures documentées ; description de procédés ; diagrammes ; instructions de travail, etc. ;"
-            }
-          },
-          {
-            "numero": "5.9.2",
-            "niveau": "Base",
-            "texte": "La procédure de gestion des produits non conformes doit être compris et appliqué par tous les employés concernés.",
-            "onglets": {
-              "questionsExemple": [
-                "Les employés concernés sont-ils au courant de la procédure ou de la gestion des produits non conformes ?",
-                "Qui est responsable de la mise en quarantaine des produits non conformes ?",
-                "Qui peut libérer les produits mis en quarantaine ?",
-                "Comment s'assure-t-on que seules les personnes autorisées libèrent les produits mis en quarantaine ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "tickets de quarantaine ; description de poste ; entretiens sur site ;"
-            }
-          },
-          {
-            "numero": "5.9.3",
-            "niveau": "Base",
-            "texte": "En cas d'identification de produits non-conformes, des actions immédiates doivent être mises en place, afin de garantir que les exigences de sécurité des aliments et de qualité des produits sont conformes.",
-            "onglets": {
-              "questionsExemple": [
-                "Quelles sont les actions prises lorsque des produits non conformes sont identifiés afin de garantir le respect des exigences en matière de sécurité des aliments et de qualité des produits ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "tickets de quarantaine ;"
-            }
-          }
-        ]
-      },
-      {
-        "sous_section": "5.10",
-        "titre": "Gestion des déviations, non-conformités, corrections et actions correctives",
-        "exigences": [
-          {
-            "numero": "5.10.1",
-            "niveau": "Base",
-            "texte": "Un procédure de gestion des corrections et des actions correctives doit être mis en place et tenu à jour pour l'enregistrement, l'analyse et la communication aux personnes concernées des déviations, non-conformités et produits non conformes, avec pour objectif de clôturer les non-conformités et d'éviter les récurrences au moyen d'actions correctives. Cela comprend une analyse des causes racines pour au moins les déviations et les non-conformités liées à la sécurité et à la légalité.",
-            "onglets": {
-              "questionsExemple": [
-                "Comment sont gérés les déviations, les non-conformités et les produits non conformes (par exemple, produits hors spécifications, incidents liés à la sécurité des aliments, perte de maîtrise du procédé, déviations liées à l'inspection interne du site, problèmes de qualité des produits, etc.)",
-                "Quels sont les procédures de correction et/ou d'action corrective mis en place (pour les déviations, les non-conformités et les produits non conformes) ?",
-                "Qui est informé en cas de déviations, de non-conformités et de produits non conformes ?",
-                "Existe-t-il une personne responsable de l'analyse, de la revue, de la communication et de l'enregistrement des déviations, des non-conformités et des produits non conformes afin d'établir la procédure permettant de prendre des actions (correctives et/ou correctrices) pour éviter toute récurrence ?",
-                "Quelles sont les corrections et/ou actions correctives prises ?",
-                "Des analyses documentées des causes racines sont-elles disponibles pour au moins les déviations et les non-conformités liées à la sécurité et à la légalité ?",
-                "Existe-t-il des enregistrements relatifs à l'analyse et à la communication des déviations, des non-conformités, des produits non conformes et des actions correspondantes ?"
-              ],
-              "explications": "Explication supplémentaire : Cette exigence soutient l'introduction et la mise en place de la food safety culture sur les éléments tels que : l'engagement de la direction ; l'engagement et la disponibilité de ressources suffisantes ; la sensibilisation ; une communication ouverte et claire ; la garantie que les rôles et les responsabilités sont clairement communiqués ; le maintien de l'intégrité des procédés de sécurité des aliments ; la garantie de la conformité avec les exigences réglementaires pertinentes.",
-              "exemples_preuves": "procédure de gestion des déviations, des non-conformités et des produits non conformes ; corrections et/ou actions correctives ; entretiens sur site ; enregistrements ;"
-            }
-          },
-          {
-            "numero": "5.10.1",
-            "niveau": "Intermédiaire",
-            "texte": "La procédure de gestion des corrections et des actions correctives est doit être documentée.",
-            "onglets": {
-              "questionsExemple": [
-                "Les procédures de gestion des corrections et des actions correctives pour l'enregistrement, l'analyse et la communication aux personnes concernées des déviations, non-conformités et produits non conformes, avec pour objectif de clôturer les non-conformités et d'éviter les récurrences au moyen d'actions correctives sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagrammes) ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "procédure de gestion des corrections et des actions correctives ; procédures documentées ; description de procédés ; diagrammes ; instructions de travail, etc. ; enregistrements ; évaluations des risques ; analyse documentée des causes profondes ; évaluation des risques ; corrections et/ou actions correctives ;"
-            }
-          },
-          {
-            "numero": "5.10.2",
-            "niveau": "Base",
-            "texte": "Lorsque des déviations et des non-conformités sont identifiées, des corrections doivent être mises en place.",
-            "onglets": {
-              "questionsExemple": [
-                "Des corrections sont-elles apportées en cas de déviations et de non-conformités ? Quelles sont les preuves de mise en place ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "corrections ; preuves ; enregistrements ;"
-            }
-          },
-          {
-            "numero": "5.10.3",
-            "niveau": "Base",
-            "texte": "Les actions correctives doivent être formulées, documentées et mises en place, dès que possible, pour éviter la réapparition des déviations et des non-conformités. Les responsabilités et les délais de réalisation doivent être définis.",
-            "onglets": {
-              "questionsExemple": [
-                "Quelles actions correctives ont été mises en place ? Les responsabilités et les délais sont-ils clairement définis ?",
-                "Où les actions correctives sont-elles documentées/ enregistrées ?",
-                "Qui est responsable des actions correctives ?",
-                "Combien de temps faut-il pour mettre en place les actions correctives ? Les délais définis sont-ils appropriés/ durables ?",
-                "Les délais sont-ils suffisants pour résoudre les déviations et les non-conformités et éviter leur récurrence ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "trames d'enregistrements d'actions correctives ; entretiens sur site ;"
-            }
-          },
-          {
-            "numero": "5.10.4",
-            "niveau": "Base",
-            "texte": "L'efficacité des corrections et actions correctives mises en place doit être évaluée et le résultat de cette évaluation doit être documenté.",
-            "onglets": {
-              "questionsExemple": [
-                "Qui est responsable de la surveillance et de l'évaluation de l'efficacité des corrections et actions correctives mises en place ?",
-                "Comment les actions correctives sont-elles vérifiées ?",
-                "Les résultats de la vérification sont-ils documentés ?"
-              ],
-              "explications": "",
-              "exemples_preuves": "trames d'enregistrements de correction/ action corrective ; trame avec action corrective vérifiée ;"
-            }
+            "sous_section": "5.10",
+            "titre": "Gestion des déviations, non-conformités, corrections et actions correctives",
+            "exigences": [
+              {
+                "numero": "5.10.1",
+                "niveau": "Base",
+                "texte": "Un procédure de gestion des corrections et des actions correctives doit être mis en place et tenu à jour pour l'enregistrement, l'analyse et la communication aux personnes concernées des déviations, non-conformités et produits non conformes, avec pour objectif de clôturer les non-conformités et d'éviter les récurrences au moyen d'actions correctives. Cela comprend une analyse des causes racines pour au moins les déviations et les non-conformités liées à la sécurité et à la légalité.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Comment sont gérés les déviations, les non-conformités et les produits non conformes (par exemple, produits hors spécifications, incidents liés à la sécurité des aliments, perte de maîtrise du procédé, déviations liées à l'inspection interne du site, problèmes de qualité des produits, etc.)",
+                    "Quels sont les procédures de correction et/ou d'action corrective mis en place (pour les déviations, les non-conformités et les produits non conformes) ?",
+                    "Qui est informé en cas de déviations, de non-conformités et de produits non conformes ?",
+                    "Existe-t-il une personne responsable de l'analyse, de la revue, de la communication et de l'enregistrement des déviations, des non-conformités et des produits non conformes afin d'établir la procédure permettant de prendre des actions (correctives et/ou correctrices) pour éviter toute récurrence ?",
+                    "Quelles sont les corrections et/ou actions correctives prises ?",
+                    "Des analyses documentées des causes racines sont-elles disponibles pour au moins les déviations et les non-conformités liées à la sécurité et à la légalité ?",
+                    "Existe-t-il des enregistrements relatifs à l'analyse et à la communication des déviations, des non-conformités, des produits non conformes et des actions correspondantes ?"
+                  ],
+                  "explications": "Explication supplémentaire : Cette exigence soutient l'introduction et la mise en place de la food safety culture sur les éléments tels que : l'engagement de la direction ; l'engagement et la disponibilité de ressources suffisantes ; la sensibilisation ; une communication ouverte et claire ; la garantie que les rôles et les responsabilités sont clairement communiqués ; le maintien de l'intégrité des procédés de sécurité des aliments ; la garantie de la conformité avec les exigences réglementaires pertinentes.",
+                  "exemples_preuves": "procédure de gestion des déviations, des non-conformités et des produits non conformes ; corrections et/ou actions correctives ; entretiens sur site ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.10.1",
+                "niveau": "Intermédiaire",
+                "texte": "La procédure de gestion des corrections et des actions correctives est doit être documentée.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Les procédures de gestion des corrections et des actions correctives pour l'enregistrement, l'analyse et la communication aux personnes concernées des déviations, non-conformités et produits non conformes, avec pour objectif de clôturer les non-conformités et d'éviter les récurrences au moyen d'actions correctives sont-elles documentées (par exemple, procédures documentées, descriptions de procédés, instructions de travail, diagrammes) ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "procédure de gestion des corrections et des actions correctives ; procédures documentées ; description de procédés ; diagrammes ; instructions de travail, etc. ; enregistrements ; évaluations des risques ; analyse documentée des causes profondes ; évaluation des risques ; corrections et/ou actions correctives ;"
+                }
+              },
+              {
+                "numero": "5.10.2",
+                "niveau": "Base",
+                "texte": "Lorsque des déviations et des non-conformités sont identifiées, des corrections doivent être mises en place.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Des corrections sont-elles apportées en cas de déviations et de non-conformités ? Quelles sont les preuves de mise en place ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "corrections ; preuves ; enregistrements ;"
+                }
+              },
+              {
+                "numero": "5.10.3",
+                "niveau": "Base",
+                "texte": "Les actions correctives doivent être formulées, documentées et mises en place, dès que possible, pour éviter la réapparition des déviations et des non-conformités. Les responsabilités et les délais de réalisation doivent être définis.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Quelles actions correctives ont été mises en place ? Les responsabilités et les délais sont-ils clairement définis ?",
+                    "Où les actions correctives sont-elles documentées/ enregistrées ?",
+                    "Qui est responsable des actions correctives ?",
+                    "Combien de temps faut-il pour mettre en place les actions correctives ? Les délais définis sont-ils appropriés/ durables ?",
+                    "Les délais sont-ils suffisants pour résoudre les déviations et les non-conformités et éviter leur récurrence ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "trames d'enregistrements d'actions correctives ; entretiens sur site ;"
+                }
+              },
+              {
+                "numero": "5.10.4",
+                "niveau": "Base",
+                "texte": "L'efficacité des corrections et actions correctives mises en place doit être évaluée et le résultat de cette évaluation doit être documenté.",
+                "onglets": {
+                  "questionsExemple": [
+                    "Qui est responsable de la surveillance et de l'évaluation de l'efficacité des corrections et actions correctives mises en place ?",
+                    "Comment les actions correctives sont-elles vérifiées ?",
+                    "Les résultats de la vérification sont-ils documentés ?"
+                  ],
+                  "explications": "",
+                  "exemples_preuves": "trames d'enregistrements de correction/ action corrective ; trame avec action corrective vérifiée ;"
+                }
+              }
+            ]
           }
         ]
       }
     ]
   }
-]}]
+]
