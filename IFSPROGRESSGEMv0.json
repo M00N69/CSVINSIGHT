@@ -1186,18 +1186,7 @@
             }
           }
         ]
-      }
-    ]
-  },
-```
-
-### Partie 6/6
-
-```json
-  {
-    "chapitre": "5",
-    "titre": "Mesures, analyses, améliorations",
-    "sous_sections": [
+      },
       {
         "sous_section": "5.7",
         "titre": "Gestion des réclamations des autorités et des clients",
@@ -1350,7 +1339,7 @@
                 "Le test est-il enregistré/ documenté ?",
                 "Des actions sont-elles prises si les procédures ne sont pas efficaces ou si des besoins d'amélioration sont identifiés ? Les procédures sont-elles revues en conséquence ?"
               ],
-              "explications": "Remarque 1 : Dans le cas où la société a été confrontée à un rappel/ retrait dans les délais impartis - il convient de vérifier pendant l'évaluation IFS Progress Food v3 si la procédure de rappel/ retrait de la société a été appliquée et documentée de manière complète et efficace (de bout en bout), revue avec les moyens d'identifier les améliorations nécessaires, et peut donc être considérée comme une preuve positive pour l'évaluation de l'exigence 5.8.3.\nExplications/ informations complémentaires : Pour les tests de retrait et de rappel documentés conformément à la procédure définie, la société testera sa capacité à retirer et à rappeler les produits concernés :\n• toute mesure visant à empêcher la distribution, la mise à disposition et l'offre d'un produit non conforme aux spécifications et/ou potentiellement dangereux pour le consommateur (retrait)\n• toute mesure visant à obtenir le retour d'un produit dangereux que le producteur ou le distributeur a déjà fourni ou mis à disposition du consommateur (rappel).\nLes analyses doivent porter, au moins, sur les éléments suivants (sans toutefois s'y limiter) :\n• l'évaluation du niveau de risque et de son impact (par exemple, dans quelle mesure affecte-t-il les produits, la société, etc.)\n• l'évaluation de l'étendue de la distribution des produits touchés (ainsi que de la traçabilité)\n• la définition des mesures et des actions en fonction du niveau de risque, des exigences légales et des exigences des consommateurs\n• la faisabilité, l'efficacité et la rapidité de la procédure (par exemple, la communication, l'identification de l'état du produit, la récupération des données, le temps nécessaire à l'achèvement de la procédure et le pourcentage de produits tracés conformément aux exigences internes, légales et des clients, etc.)\n• la documentation de la procédure de rappel et de retrait.",
+              "explications": "Remarque 1 : Dans le cas où la société a été confrontée à un rappel/ retrait dans les délais impartis - il convient de vérifier pendant l'évaluation IFS Progress Food v3 si la procédure de rappel/ retrait de la société a été appliquée et documentée de manière complète et efficace (de bout en bout), revue avec les moyens d'identifier les améliorations nécessaires, et peut donc être considérée comme une preuve positive pour l'évaluation de l'exigence 5.8.3.\nExplications/ informations complémentaires : Pour les tests de retrait et de rappel documentés conformément à la procédure définie, la société testera sa capacité à retirer et à rappeler les produits concernés :\n• toute mesure visant à empêcher la distribution, la mise à disposition et l’offre d’un produit non conforme aux spécifications et/ou potentiellement dangereux pour le consommateur (retrait)\n• toute mesure visant à obtenir le retour d’un produit dangereux que le producteur ou le distributeur a déjà fourni ou mis à disposition du consommateur (rappel).\nLes analyses doivent porter, au moins, sur les éléments suivants (sans toutefois s'y limiter) :\n• l'évaluation du niveau de risque et de son impact (par exemple, dans quelle mesure affecte-t-il les produits, la société, etc.)\n• l'évaluation de l'étendue de la distribution des produits touchés (ainsi que de la traçabilité)\n• la définition des mesures et des actions en fonction du niveau de risque, des exigences légales et des exigences des consommateurs\n• la faisabilité, l'efficacité et la rapidité de la procédure (par exemple, la communication, l'identification de l'état du produit, la récupération des données, le temps nécessaire à l'achèvement de la procédure et le pourcentage de produits tracés conformément aux exigences internes, légales et des clients, etc.)\n• la documentation de la procédure de rappel et de retrait.",
               "exemples_preuves": "procédures de retrait/ rappel ; enregistrements/ résultats des tests ; liste des personnes à contacter en cas d'urgence ou d'alerte ; entretiens sur site ;"
             }
           }
